@@ -301,6 +301,69 @@
     .card-body h3 { font-size: 21px; letter-spacing: -1px; margin-bottom: 8px; }
     .card-body p { color: var(--muted); font-size: 15px; }
 
+    .blog-section {
+      margin-top: 28px;
+      border-radius: 36px;
+      padding: 42px;
+      border: 1px solid rgba(0,199,60,.28);
+      background:
+        radial-gradient(circle at 18% 50%, rgba(0,199,60,.18), transparent 28%),
+        linear-gradient(180deg, rgba(255,255,255,.085), rgba(255,255,255,.035));
+      box-shadow: var(--shadow);
+      display: grid;
+      grid-template-columns: 1.1fr .9fr;
+      gap: 28px;
+      align-items: center;
+    }
+    .blog-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 13px;
+      border-radius: 999px;
+      background: rgba(0,199,60,.14);
+      border: 1px solid rgba(0,199,60,.34);
+      color: #86f7a9;
+      font-size: 13px;
+      font-weight: 1000;
+      letter-spacing: 2px;
+      margin-bottom: 14px;
+    }
+    .blog-section h2 { margin-bottom: 12px; }
+    .blog-section p { color: #d8e0eb; }
+    .blog-list {
+      display: grid;
+      gap: 9px;
+      margin-top: 18px;
+      color: #dce5f0;
+    }
+    .blog-list div::before {
+      content: '✓';
+      color: var(--naver);
+      margin-right: 9px;
+      font-weight: 1000;
+    }
+    .blog-preview {
+      display: grid;
+      gap: 10px;
+    }
+    .blog-preview-card {
+      padding: 18px;
+      border-radius: 20px;
+      border: 1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.055);
+    }
+    .blog-preview-card span {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 800;
+    }
+    .blog-preview-card b {
+      display: block;
+      margin-top: 4px;
+      font-size: 17px;
+    }
+
     .reservation {
       border-radius: 36px;
       padding: 44px;
@@ -381,7 +444,7 @@
       .service-strip { grid-template-columns: repeat(2, 1fr); margin-top: -64px; }
       .strip-item:nth-child(2n) { border-right: 0; }
       .strip-item { border-bottom: 1px solid rgba(255,255,255,.1); }
-      .cards, .reservation, .info-grid { grid-template-columns: 1fr; }
+      .cards, .blog-section, .reservation, .info-grid { grid-template-columns: 1fr; }
       .reservation .hero-actions { justify-content: flex-start; }
     }
 
@@ -405,7 +468,7 @@
       .section-head { display: block; }
       .lead { margin-top: 12px; }
       .cards { grid-template-columns: 1fr; }
-      .reservation { padding: 28px; border-radius: 28px; }
+      .blog-section, .reservation { padding: 28px; border-radius: 28px; }
       .footer-grid { flex-direction: column; align-items: flex-start; }
       .floating { left: 10px; right: 10px; bottom: 10px; grid-template-columns: repeat(3, 1fr); }
       .floating a { min-width: 0; font-size: 14px; padding: 0 6px; }
@@ -484,34 +547,54 @@
           <p class="lead">대표 이미지를 누르면 네이버 블로그 상세 포스팅으로 이동합니다.</p>
         </div>
         <div class="cards">
-          <a class="card" href="https://blog.naver.com/uh2816/224289085867" target="_blank" rel="noopener">
+          <a class="card" href="https://blog.naver.com/12vstory/POST_ID_01" target="_blank" rel="noopener">
             <div class="thumb"></div>
             <div class="card-body">
               <h3>블랙박스 시공</h3>
               <p>대표사진 클릭 시 블로그 상세 작업기로 이동합니다.</p>
             </div>
           </a>
-          <a class="card" href="https://blog.naver.com/uh2816/224253144681" target="_blank" rel="noopener">
+          <a class="card" href="https://blog.naver.com/12vstory/POST_ID_02" target="_blank" rel="noopener">
             <div class="thumb"></div>
             <div class="card-body">
               <h3>카플레이</h3>
               <p>차량별 시공 과정과 작업 후기를 확인할 수 있습니다.</p>
             </div>
           </a>
-          <a class="card" href="https://blog.naver.com/uh2816/224287151947" target="_blank" rel="noopener">
+          <a class="card" href="https://blog.naver.com/12vstory/POST_ID_03" target="_blank" rel="noopener">
             <div class="thumb"></div>
             <div class="card-body">
               <h3>광각미러</h3>
               <p>옵틱글래스 광각미러 시공 사례로 이동합니다.</p>
             </div>
           </a>
-          <a class="card" href="https://blog.naver.com/uh2816/224209697428" target="_blank" rel="noopener">
+          <a class="card" href="https://blog.naver.com/12vstory/POST_ID_04" target="_blank" rel="noopener">
             <div class="thumb"></div>
             <div class="card-body">
               <h3>사이드미러 수리</h3>
               <p>폴딩모터, 기어 파손 등 부분수리 사례로 이동합니다.</p>
             </div>
           </a>
+        </div>
+
+        <div class="blog-section">
+          <div>
+            <div class="blog-badge">NAVER BLOG</div>
+            <h2>더 많은 시공사례는<br>네이버 블로그에서 확인하세요</h2>
+            <p>작업 전후 사진, 차종별 시공 과정, 실제 작업 후기를 블로그에서 더 자세히 볼 수 있습니다.</p>
+            <div class="blog-list">
+              <div>차종별 작업 후기 확인</div>
+              <div>시공 전후 사진과 작업 과정</div>
+              <div>블랙박스 · 광각미러 · 사이드미러 수리 사례</div>
+            </div>
+          </div>
+          <div class="blog-preview">
+            <a class="blog-preview-card" href="https://blog.naver.com/uh2816" target="_blank" rel="noopener">
+              <span>12V STORY WORKS</span>
+              <b>네이버 블로그 전체보기</b>
+            </a>
+            <a class="btn talk" href="https://blog.naver.com/uh2816" target="_blank" rel="noopener">네이버 블로그 바로가기</a>
+          </div>
         </div>
       </div>
     </section>
@@ -560,7 +643,7 @@
             <div>
               <b>네이버 지도 영역</b>
               실제 홈페이지 업로드 시 지도 링크 또는 지도 이미지로 교체하세요.<br><br>
-              <a class="btn dark" href="#">지도 보기</a>
+              <a class="btn dark" href="https://map.naver.com/p/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC%20%EC%86%A1%EC%82%B0%EB%A1%9C%20499-8" target="_blank" rel="noopener">지도 보기</a>
             </div>
           </div>
         </div>
@@ -578,15 +661,15 @@
         </div>
       </a>
       <div class="sns">
-        <a href="#">NAVER BLOG</a>
+        <a href="https://blog.naver.com/uh2816" target="_blank" rel="noopener">NAVER BLOG</a>
         <a href="#">INSTAGRAM</a>
-        <a href="#">NAVER TALK</a>
+        <a href="http://talk.naver.com/WC6P8L" target="_blank" rel="noopener">NAVER TALK</a>
       </div>
     </div>
   </footer>
 
   <div class="floating" aria-label="빠른 문의 버튼">
-    <a class="talk" href="#">톡톡</a>
+    <a class="talk" href="http://talk.naver.com/WC6P8L" target="_blank" rel="noopener">톡톡</a>
     <a class="reserve" href="https://booking.naver.com/booking/6/bizes/475955" target="_blank" rel="noopener">예약</a>
     <a class="phone" href="tel:031-912-8812">전화</a>
   </div>
