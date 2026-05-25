@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180">
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.36" stop-color="#dfe6ef"/>
+      <stop offset="0.58" stop-color="#7f8998"/>
+      <stop offset="0.78" stop-color="#f8fbff"/>
+      <stop offset="1" stop-color="#9aa4b2"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="760" height="180" fill="none"/>
+  <text x="380" y="91" text-anchor="middle" font-size="78" font-family="Arial Black, Montserrat, sans-serif" font-weight="900" letter-spacing="4" fill="url(#metal)" filter="url(#glow)">12V STORY</text>
+  <text x="380" y="132" text-anchor="middle" font-size="16" font-family="Arial, sans-serif" font-weight="700" letter-spacing="9" fill="#b7c0ce">PREMIUM AUTOMOTIVE ELECTRONICS</text>
+  <line x1="120" y1="150" x2="640" y2="150" stroke="url(#metal)" stroke-opacity=".65"/>
+</svg>
