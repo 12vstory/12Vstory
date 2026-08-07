@@ -1,0 +1,21 @@
+12V STORY - Naver Blog Auto Sync (Free)
+
+UPLOAD:
+1. Open this ZIP and extract it.
+2. Upload EVERYTHING inside the extracted folder to the ROOT of your GitHub repository.
+   You should see these at the repository root:
+   - index.html
+   - works.html
+   - work.html
+   - assets/
+   - scripts/
+   - services/
+   - .github/
+3. Commit changes.
+4. GitHub > Actions > Naver Blog Auto Sync > Run workflow.
+5. After the first successful run, scheduled sync runs automatically.
+
+IMPORTANT:
+- Upload the CONTENTS, not this ZIP file itself.
+- The .github folder is required for automatic sync.
+- This package contains the current Bolt EV Opticglass sample gallery as well.
