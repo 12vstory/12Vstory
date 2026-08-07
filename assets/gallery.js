@@ -116,8 +116,7 @@
 
   function imageUrl(work){
     if(!Array.isArray(work.images) || !work.images.length) return '';
-    // 네이버 첫 이미지는 제목용 썸네일인 경우가 많아 카드에는 두 번째 사진을 우선 사용
-    if(work.source === 'naver' && work.images.length > 1) return work.images[1];
+    // 네이버 포스팅의 첫 번째 이미지를 대표 썸네일로 그대로 사용
     return work.images[0];
   }
 
