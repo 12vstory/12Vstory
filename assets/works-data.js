@@ -1,6 +1,162 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-09 09:37", "count": 61, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-09 11:52", "count": 67, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224372828652",
+    "date": "2026-08-09",
+    "category": "블랙박스",
+    "car": "스토닉 - 순정네비게이션 차량 / 전방카메라",
+    "title": "[일산 파주 운정 김포 고양] 스토닉 - 순정네비게이션 차량 / 전방카메라 장착 및 블랙박스 보조배터리 아톰볼트 AI-660 장착",
+    "summary": "2018.8.9. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 기아 스토닉 작업내용 : 순정네비게이션 차량 전방카메라 블랙박스 보조배터리 작업시간 : 1시간 30분 작업을 위해 입고된 스토닉 차량입니다 신차수준의 차량이 들어왔네요^^ 오늘…",
+    "description": "2018.8.9. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 기아 스토닉 작업내용 : 순정네비게이션 차량 전방카메라 블랙박스 보조배터리 작업시간 : 1시간 30분 작업을 위해 입고된 스토닉 차량입니다 신차수준의 차량이 들어왔네요^^ 오늘 작업내용은 순정네비게이션 장착 차량에 전방카메라 장착 이구요 여기서 문제는 순정AV용 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MDlfMTAw/MDAxNTMzODA4MTIyMDEw.U6Fmhnl95XovyxBVT0D9WWTJpeJ67xCnldrhe8zCQNEg.IhSSyzJqKmR88p8zxAnof9uRy2NIUjc2vlA563Xk49cg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "스토닉 - 순정네비게이션 차량 / 전방카메라 · [일산 파주 운정 김포 고양] 스토닉 - 순정네비게이션 차량 / 전방카메라 장착 및 블랙박스 보조배터리 아톰볼트 AI-660 장착 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224372828652?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스토닉 - 순정네비게이션 차량 / 전방카메라",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224372828570",
+    "date": "2026-08-09",
+    "category": "기타작업",
+    "car": "쏘렌토R / 합법 인증",
+    "title": "쏘렌토R / 합법 인증 LED 전조등 / 필립스 울티논 에센셜 G2 장착으로 / 밝고 깨끗한 화이트 전조등 교체 / 차량의 이미지도 업그레이드 ~!![일산 파주",
+    "summary": "2021.8.9. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토R 작업내용 : 합버인증 LED 전조등 작업시간 : 40분 누런색 순정 할로겐 전조등이 어두워서 밝고 꺠긋한 합법인증 LED 전조등 장착을 위해 입고되었습니다…",
+    "description": "2021.8.9. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토R 작업내용 : 합버인증 LED 전조등 작업시간 : 40분 누런색 순정 할로겐 전조등이 어두워서 밝고 꺠긋한 합법인증 LED 전조등 장착을 위해 입고되었습니다 기존 입고시 차량의 전조등 모습입니다 흔한 누런색 할로겐 순정 전조등이 장착되어 있어요 `~ 차량 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MDlfODAg/MDAxNjI4NTE0MjQxMDYw.TVwNMpwNO-_8UqjLSQbrASeH6KDIznf-ua2AFTz_j6Yg.Tlm0jQ16234780xM9n5R-79aSooVJJh0cZkqq3T_PT0g.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "쏘렌토R / 합법 인증 · 쏘렌토R / 합법 인증 LED 전조등 / 필립스 울티논 에센셜 G2 장착으로 / 밝고 깨끗한 화이트 전조등 교체 / 차량의 이미지도 업그레이드 ~!![일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224372828570?fromRss=true&trackingCode=rss",
+    "tags": [
+      "쏘렌토R / 합법 인증",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224372828391",
+    "date": "2026-08-09",
+    "category": "후방카메라",
+    "car": "K5",
+    "title": "올뉴K5 / 뿌연 후방카메라 교체 / 선명하고 화질좋고 화각까지 좋은 CCD후방카메라 교체 작업 [일산 파주 운정 김포 고양]",
+    "summary": "2023.8.9. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K5 작업내용 : 후방카메라 교체 작업시간 : 40분 후방카메라가 선명하지 않고 뿌옇게 나와서 교체를 위해 방문해 주신 올뉴K5 차량입니다 우선 입고시 상태부터 확인해볼게요 이렇게…",
+    "description": "2023.8.9. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K5 작업내용 : 후방카메라 교체 작업시간 : 40분 후방카메라가 선명하지 않고 뿌옇게 나와서 교체를 위해 방문해 주신 올뉴K5 차량입니다 우선 입고시 상태부터 확인해볼게요 이렇게 후방카메라가 장착되어 있었구요 네비게이션은 사제품으로 매립되어 있는 상태입니다 이... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MDlfMTI1/MDAxNjkxNTU1MTE0MTcw.8lepV86p9bSmojnLkqMf5rtePdYaRpQp9WUdOmfeyc8g.UmKCUtTPqfqovxgXhFOLr6FEAJ3oVo5UpafjFnszqeMg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K5 · 올뉴K5 / 뿌연 후방카메라 교체 / 선명하고 화질좋고 화각까지 좋은 CCD후방카메라 교체 작업 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224372828391?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224372828284",
+    "date": "2026-08-09",
+    "category": "블랙박스",
+    "car": "쏘렌토MQ4 / 아이나비 Z9500 4채널",
+    "title": "쏘렌토MQ4 / 아이나비 Z9500 4채널 블랙박스 + 에코파워팩 S12 라이트슬림 액정타입 / 고객님이 원하시는 자리에 완벽하게 설치해드렸어요 [일산 파주 운",
+    "summary": "2024.8.9. 2년 전 오늘 정 김포 고양] Z안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토MQ4 작업내용 : 4채널 블랙박스 + 보조배터리 작업시간 : 1시간 30분 블랙박스와 보조배터리 장착을 위해 입고된 쏘렌토 MQ4 하이브리드 차량이 입고되었습…",
+    "description": "2024.8.9. 2년 전 오늘 정 김포 고양] Z안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토MQ4 작업내용 : 4채널 블랙박스 + 보조배터리 작업시간 : 1시간 30분 블랙박스와 보조배터리 장착을 위해 입고된 쏘렌토 MQ4 하이브리드 차량이 입고되었습니다 오늘 차량에 장착될 제품은 아이나비 Z9500 4채널 블랙박스와 아이나비 커넥티드 프리미엄 그리고 에... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDlfMTY1/MDAxNzIzMTc2NDk1Nzg1.J2tjXLlm9jH9u1oXEwqpSOWvlRvwZ_T9Inr2FRmSL-8g.q09QyE8Hlv43XkrRwYjcxF2yH12W-EYAskVvokxB5-Ug.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "쏘렌토MQ4 / 아이나비 Z9500 4채널 · 쏘렌토MQ4 / 아이나비 Z9500 4채널 블랙박스 + 에코파워팩 S12 라이트슬림 액정타입 / 고객님이 원하시는 자리에 완벽하게 설치해드렸어요 [일산 파주 운 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224372828284?fromRss=true&trackingCode=rss",
+    "tags": [
+      "쏘렌토MQ4 / 아이나비 Z9500 4채널",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224372828167",
+    "date": "2026-08-09",
+    "category": "순정옵션",
+    "car": "LF쏘나타 / 낮은 옵션으로 인해 빠",
+    "title": "LF쏘나타 / 낮은 옵션으로 인해 빠진 순정오토라이트 활성화 / 합법인증 LED전조등 / 브라비오 터미네이터 / 야간운전도 밝게 안전하게 하세요 ![일산 파주",
+    "summary": "2024.8.9. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 작업내용 : 순정 오토라이트 / 인증LED 전조등 작업시간 : 1시간 LF쏘나타 차량이 순정 오토라이트 작업과 합법인증LED 전조등 장착을 위해 예약해주시…",
+    "description": "2024.8.9. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 작업내용 : 순정 오토라이트 / 인증LED 전조등 작업시간 : 1시간 LF쏘나타 차량이 순정 오토라이트 작업과 합법인증LED 전조등 장착을 위해 예약해주시고 방문해 주셨습니다 우선 합법인증LED 전조등 브라비오 터미네이터 SP 제품 장착부터 진행할게요 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 연식과 옵션 사양 확인",
+      "순정 방식에 맞춰 부품·배선 작업",
+      "시공 후 기능 작동과 오류 여부 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDlfMjgg/MDAxNzIzMTc3NzQxMTg1.DXSfZj4hjQtEs8GjgevexoIvQ5_JUfADDUCLWKbxmvog.9W6JGjKjIuDO0p0YSASYNAsoScz7c483osUX0tUldXAg.JPEG/%C5%B8%C0%CC%C6%B2.jpg?type=ffn480_320"
+    ],
+    "captions": [
+      "LF쏘나타 / 낮은 옵션으로 인해 빠 · LF쏘나타 / 낮은 옵션으로 인해 빠진 순정오토라이트 활성화 / 합법인증 LED전조등 / 브라비오 터미네이터 / 야간운전도 밝게 안전하게 하세요 ![일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224372828167?fromRss=true&trackingCode=rss",
+    "tags": [
+      "LF쏘나타 / 낮은 옵션으로 인해 빠",
+      "순정옵션"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224372828079",
+    "date": "2026-08-09",
+    "category": "기타작업",
+    "car": "LF쏘나타 / 차량 편의를 위해 키돌",
+    "title": "LF쏘나타 / 차량 편의를 위해 키돌려 시동거는 차량에 스타트 버튼 장착 / 깔끔하게 배선정리 해서 장착했습니다 ! 피닉스 B-ONE2 [일산 파주 운정 김포 고",
+    "summary": "2025.8.9. 1년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나 작업내용 : 스타트버튼 시공 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.8.9. 1년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나 작업내용 : 스타트버튼 시공 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. LF쏘나타 차량이 스타트버튼 장착을 위해 입고되었습니다 물론 예약해 주시고 방문해 주셨구요 옵션이 낮다 보니 요즘 흔한 버튼시동 방식이 아닌 이렇게 키를 꼽고 돌려서... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MDlfMTEw/MDAxNzU0NzE0MjA0NTgz.ZfN8wqWJz4pp_9mgxvPZw6j-6Hckb-8IgrTOqvt0VQ0g.3x26w8UWnwZhpAH9yCM0l2OH-UjjORLV8RMdjDR7XG8g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "LF쏘나타 / 차량 편의를 위해 키돌 · LF쏘나타 / 차량 편의를 위해 키돌려 시동거는 차량에 스타트 버튼 장착 / 깔끔하게 배선정리 해서 장착했습니다 ! 피닉스 B-ONE2 [일산 파주 운정 김포 고 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224372828079?fromRss=true&trackingCode=rss",
+    "tags": [
+      "LF쏘나타 / 차량 편의를 위해 키돌",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224371903015",
     "date": "2026-08-08",
