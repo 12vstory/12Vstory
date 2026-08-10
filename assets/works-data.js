@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-10 08:48", "count": 74, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-10 11:36", "count": 75, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224373676593",
+    "date": "2026-08-10",
+    "category": "사이드미러",
+    "car": "에쿠스 VI",
+    "title": "에쿠스 VI 사이드미러 폴딩불량 수리, 조수석 파손 기어 부분교체｜일산 사이드미러 수리 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 작업은 현대 에쿠스 VS380 차량의 조수석 사이드미러 폴딩불량 수리입니다. 전동 사이드미러가 접히거나 펼쳐지지 않는 증상은 주차할 때 불편할 뿐만 아니라, 좁은 공간에서 사이드미러가 외부 충격에 노출될 가능성도 높아집니다.",
+    "description": "오늘 소개해 드릴 작업은 현대 에쿠스 VS380 차량의 조수석 사이드미러 폴딩불량 수리입니다. 전동 사이드미러가 접히거나 펼쳐지지 않는 증상은 주차할 때 불편할 뿐만 아니라, 좁은 공간에서 사이드미러가 외부 충격에 노출될 가능성도 높아집니다. 이번 차량은 사이드미러 전체를 교환하지 않고 고장 원인을 정확하게 확인한 뒤, 파손된 폴딩기어만 부분 교체하여 정상적으로 복원했습니다. 작업차량 : 에쿠스 VS380 작업내용 : 사이드미러 폴딩불량 수리 작업시간 : 40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 입고된 차량은 에쿠스 VI VS380 모델입니다. 에쿠스처럼 연식이 있는 차량은 사이드미러 폴딩불량이 발생했을 때 부품 수급이나 전체 어셈블리 교환 비용 때문에 수리를 미루는 경우가 많습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTBfMzYg/MDAxNzg2MzIzMjc4MjMw.TCg-fGbNSQIiHP9S8dPmaJlTUvK5v8Ary8SU766zB9Mg.D7psf-mG3PYD3CDFd9JZxrdO7ZDX8EZkkGpbS6rZoFgg.JPEG/KakaoTalk_20260810_094229061.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTBfMTY2/MDAxNzg2MzIzMzA1NTM5.0k6aYTBMdTUcupRNQ8V8aJqWPOUz-1I4eClOgdNI-gQg.SyL6nEW-EaD6spjJ2kurJ6xUA6hbF-4_tBKwQleGaQ0g.JPEG/KakaoTalk_20260810_094229061_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTBfMjEx/MDAxNzg2MzIzNzQxNzk3.u-FVv87Aax9lDsmdsVB-ipwkaaA1D3W2aYSYX68qZMwg.K57p6hVTbL4NHFQvRq-LqGabnhA2buvfm5s-9lQg9Jwg.JPEG/KakaoTalk_20260810_094229061_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTBfNTkg/MDAxNzg2MzIzNzU5MjA4.qXb8eLyZz_cUnUMGEpRbVVWeq9SUrtAdMskckhe7VdIg.XTS0X7F6Fi1vDMj_RnUo__H8n4BWyDazZ0Ost6lXjOYg.JPEG/KakaoTalk_20260810_094229061_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTBfMTIg/MDAxNzg2MzIzNzY3MTU0.8nyl9DRgXS-_Ypv-99Wq_1U0yJ0kPfCmWf1a9iUFPJ8g.STdKLCuuGvmQECcUWXyQpeflU11M_AYiJLo1txswfl8g.JPEG/KakaoTalk_20260810_094229061_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTBfMTM4/MDAxNzg2MzIzODA0NzI5.qi5Yrb5JOKoR5v90O8nttKW-3Qr_IRbKXkdRrbP10FAg.YjYkfDtYFEZl_oirmxIuAv6xcZmMd-IfCfnS2EmyCyEg.JPEG/KakaoTalk_20260810_094229061_07.jpg?type=w800"
+    ],
+    "captions": [
+      "에쿠스 VI · 에쿠스 VI 사이드미러 폴딩불량 수리, 조수석 파손 기어 부분교체｜일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "에쿠스 VI · 에쿠스 VI 사이드미러 폴딩불량 수리, 조수석 파손 기어 부분교체｜일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "에쿠스 VI · 에쿠스 VI 사이드미러 폴딩불량 수리, 조수석 파손 기어 부분교체｜일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "에쿠스 VI · 에쿠스 VI 사이드미러 폴딩불량 수리, 조수석 파손 기어 부분교체｜일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "에쿠스 VI · 에쿠스 VI 사이드미러 폴딩불량 수리, 조수석 파손 기어 부분교체｜일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "에쿠스 VI · 에쿠스 VI 사이드미러 폴딩불량 수리, 조수석 파손 기어 부분교체｜일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224373676593?fromRss=true&trackingCode=rss",
+    "tags": [
+      "에쿠스 VI",
+      "사이드미러",
+      "에쿠스사이드미러,에쿠스사이드미러수리,에쿠스폴딩불량,에쿠스VI,에쿠스VS380,에쿠스사이드미러기어,사이드미러폴딩불량,사이드미러기어교체,사이드미러부분수리,전동사이드미러수리,조수석사이드미러수리,일산사이드미러수리,고양사이드미러수리,파주사이드미러수리,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224373584444",
     "date": "2026-08-10",
