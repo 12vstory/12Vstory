@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-12 09:01", "count": 83, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-12 11:46", "count": 84, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224375967766",
+    "date": "2026-08-12",
+    "category": "사이드미러",
+    "car": "모하비",
+    "title": "모하비 안드로이드 올인원 장착, 모터스밸류 MV7870 + 3D 어라운드뷰 패키지 시공 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 차량은 기아 모하비 KV300 입니다. 기존 순정 내비게이션을 탈거하고 모터스밸류 MV7870 안드로이드 올인원 과 함께 차량 주변을 한눈에 확인할 수 있는 3D 어라운드뷰 패키지 를 시공했습니다.",
+    "description": "오늘 소개해 드릴 차량은 기아 모하비 KV300 입니다. 기존 순정 내비게이션을 탈거하고 모터스밸류 MV7870 안드로이드 올인원 과 함께 차량 주변을 한눈에 확인할 수 있는 3D 어라운드뷰 패키지 를 시공했습니다. 모하비처럼 차체가 크고 운전석 위치가 높은 SUV는 차량 바로 앞이나 범퍼 주변, 좌우 측면의 낮은 장애물을 확인하기 어려운 경우가 있습니다. 안드로이드 올인원과 어라운드뷰를 함께 장착하면 내비게이션과 멀티미디어 기능을 편리하게 사용할 수 있을 뿐 아니라 주차와 좁은 길 통과 시 주변 상황도 더욱 쉽게 확인할 수 있습니다. 작업차량 : 모하비 작업내용 : 안드로이드 올인원 + 어라운드뷰 작업시간 : 6시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTJfMjg5/MDAxNzg2NDk1ODUwMDY1.xJ-KOed3wCeMOTrugH_CWKlKiLSJdhRU0u4a1hT2NiYg.O1q1cKYPFA1mIQkN5eaOAZpzgLXqZ7nmm_xiJKTZ-2Ig.JPEG/KakaoTalk_20260810_154915984_01.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTJfNzAg/MDAxNzg2NDk1ODUwMDcw.Lqg2i_7cKyMmmmATXmVN_gxFnySRvfU1CRY35CgXClMg.HG3JmCnKnP_4AgksFthMRyuLnJ5KVu8Pqijuti8brT4g.JPEG/KakaoTalk_20260810_154915984.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTJfMTg4/MDAxNzg2NDk1ODY1NjMz.BNS-R8mpcvJHqgYb3zG7ErZldGiws-27djVb-ON9DjIg.v-fbx_-vlRI2AZy17kW9dUrHk9zfUciEN4oluPbxeT0g.JPEG/KakaoTalk_20260810_154915984_02.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTJfNDcg/MDAxNzg2NDk1ODY1Njkz.vnNkaFhE7kUTeufA1LqT4WVwnmJBjdCH5vtceyDKfOsg.tTGSm0Su2M-lJWSc4wrH4xF9vzYbkNvq4VksnEF11Qsg.JPEG/KakaoTalk_20260810_154915984_04.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTJfNzYg/MDAxNzg2NDk1ODY1NjQw.opNisOX48Btg9wlCyKjOXu6t86BTPBdSGjRC3Vb3argg.zt7_Lzt0l8o38Yl0pT2OZ_gfw7W7uWEAeCvHRqDhycwg.JPEG/KakaoTalk_20260810_154915984_03.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTJfMjgx/MDAxNzg2NDk1ODY1Njcx.Y-fOCQYEI3w_lxJBIdPiX1mFP872qqCypaDwcT8diicg.BKR2fT4Hm5jg_90clIzTiVApaqm45g-3RTguxVHX46Qg.JPEG/KakaoTalk_20260810_154915984_05.jpg?type=w400"
+    ],
+    "captions": [
+      "모하비 · 모하비 안드로이드 올인원 장착, 모터스밸류 MV7870 + 3D 어라운드뷰 패키지 시공 [일산 파주 운정 김포 고양] 작업사진 1",
+      "모하비 · 모하비 안드로이드 올인원 장착, 모터스밸류 MV7870 + 3D 어라운드뷰 패키지 시공 [일산 파주 운정 김포 고양] 작업사진 2",
+      "모하비 · 모하비 안드로이드 올인원 장착, 모터스밸류 MV7870 + 3D 어라운드뷰 패키지 시공 [일산 파주 운정 김포 고양] 작업사진 3",
+      "모하비 · 모하비 안드로이드 올인원 장착, 모터스밸류 MV7870 + 3D 어라운드뷰 패키지 시공 [일산 파주 운정 김포 고양] 작업사진 4",
+      "모하비 · 모하비 안드로이드 올인원 장착, 모터스밸류 MV7870 + 3D 어라운드뷰 패키지 시공 [일산 파주 운정 김포 고양] 작업사진 5",
+      "모하비 · 모하비 안드로이드 올인원 장착, 모터스밸류 MV7870 + 3D 어라운드뷰 패키지 시공 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224375967766?fromRss=true&trackingCode=rss",
+    "tags": [
+      "모하비",
+      "사이드미러",
+      "모하비안드로이드올인원,모하비올인원,모하비어라운드뷰,모하비360도카메라,모하비3D어라운드뷰,모터스밸류7870,MV7870,모터스밸류안드로이드올인원,안드로이드올인원장착,어라운드뷰장착,360도어라운드뷰,모하비KV300,일산안드로이드올인원,일산어라운드뷰,고양시안드로이드올인원,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224375400336",
     "date": "2026-08-11",
