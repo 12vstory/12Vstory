@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-13 15:47", "count": 92, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-13 17:08", "count": 94, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224377575716",
+    "date": "2026-08-13",
+    "category": "옵틱글래스",
+    "car": "아이오닉5",
+    "title": "아이오닉5 옵틱글래스 광각미러 장착｜사각지대를 줄여주는 안전 아이템 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개할 작업은 현대 아이오닉5 옵틱글래스 광각미러 장착 입니다. 사이드미러는 차선을 변경하거나 주차할 때 반드시 확인해야 하는 중요한 안전장치입니다.",
+    "description": "오늘 소개할 작업은 현대 아이오닉5 옵틱글래스 광각미러 장착 입니다. 사이드미러는 차선을 변경하거나 주차할 때 반드시 확인해야 하는 중요한 안전장치입니다. 하지만 순정 사이드미러만으로는 차량 옆과 뒤쪽을 모두 확인하기 어려워 고개를 돌려 직접 확인해야 하는 사각지대가 발생합니다. 이번 아이오닉5에는 순정 미러 글라스를 옵틱글래스 광각미러로 교체해 좌우 측후방의 확인 범위를 넓혀드렸습니다. 작업차량 : 아이오닉5 작업내용 : 옵틱글래스 광각미러 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 작업을 위해 입고된 아이오닉5입니다. 아이오닉5는 차체 폭이 넓은 편이라 좁은 도로나 지하주차장, 차선 변경 상황에서 측면 차량과 장애물 확인에 신경이 쓰일 수 있습니다.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMjcy/MDAxNzg2NjA3MDE3Mzc5.SV6WL0gWAfJM8uyg2POWtwQcTb11T7L0dqUmie4Zwwog.cw5Fov1wqw7rwrF-UynRykdptiXJHZSrop6MdC4cBZIg.JPEG/KakaoTalk_20260813_123659535.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMTA5/MDAxNzg2NjA3MDUzMzI4.DLLePNWZBvFeCGw156e0TU-tD18Z321zSv9oOcu7DEEg.ng2KDeuVuUQNhT-ONyRl3c5yizz64z-vDeXAjqZ-Hfcg.JPEG/KakaoTalk_20260813_123659535_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMzAg/MDAxNzg2NjA3MDYyOTYy.5wjmzT8NTITDUon8-0O6ro8fXPIWblB3LIXDme_JGQog.l0_10fYteN5-4eoV-_pNJISsNbtwEeXuGz8GSBjGBNsg.JPEG/KakaoTalk_20260813_123659535_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMzcg/MDAxNzg2NjA3MDY5OTU4.iOkYwHkOXQITU5HCvyizYT_L-t1lFnaKpOkrztvBek8g.2-GuswLKKgDET7VNJVK5QV7pNYtmXTyLTIJ88bAtVNQg.JPEG/KakaoTalk_20260813_123659535_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfOTcg/MDAxNzg2NjA3MDc1Njc1.nF6Dyf9fPW-mk_6kp4rn49iy2fCasNavpWI0anaPAUgg.I1o0A0Qd7DNajsHwJ932ulfDd5dE7adSaYSaKl23c4Qg.JPEG/KakaoTalk_20260813_123659535_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMTgw/MDAxNzg2NjA3MDgzMDMw.FAbRJe6pGR9nrtnb0FPUlf86k5ry0SS0IyFupqR9I_Ag.l928vJQdZJjsJLSfEg7yznwoSqBLWW1cZUwWEV11JWYg.JPEG/KakaoTalk_20260813_123659535_06.jpg?type=w800"
+    ],
+    "captions": [
+      "아이오닉5 · 아이오닉5 옵틱글래스 광각미러 장착｜사각지대를 줄여주는 안전 아이템 [일산 파주 운정 김포 고양] 작업사진 1",
+      "아이오닉5 · 아이오닉5 옵틱글래스 광각미러 장착｜사각지대를 줄여주는 안전 아이템 [일산 파주 운정 김포 고양] 작업사진 2",
+      "아이오닉5 · 아이오닉5 옵틱글래스 광각미러 장착｜사각지대를 줄여주는 안전 아이템 [일산 파주 운정 김포 고양] 작업사진 3",
+      "아이오닉5 · 아이오닉5 옵틱글래스 광각미러 장착｜사각지대를 줄여주는 안전 아이템 [일산 파주 운정 김포 고양] 작업사진 4",
+      "아이오닉5 · 아이오닉5 옵틱글래스 광각미러 장착｜사각지대를 줄여주는 안전 아이템 [일산 파주 운정 김포 고양] 작업사진 5",
+      "아이오닉5 · 아이오닉5 옵틱글래스 광각미러 장착｜사각지대를 줄여주는 안전 아이템 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224377575716?fromRss=true&trackingCode=rss",
+    "tags": [
+      "아이오닉5",
+      "옵틱글래스",
+      "아이오닉5,아이오닉5옵틱글래스,아이오닉5광각미러,아이오닉5사이드미러,아이오닉5사각지대,옵틱글래스,옵틱글래스광각미러,자동차광각미러,사이드미러사각지대,사각지대해소,차선변경안전용품,아이오닉5튜닝,아이오닉5용품,일산옵틱글래스,일산광각미러,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224377565094",
+    "date": "2026-08-13",
+    "category": "사이드미러",
+    "car": "기아 PV5",
+    "title": "기아 PV5 사이드미러 파손 부분수리｜사이드리피터·하우징·리어 스캘프 교체 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 차량은 기아의 전기 상용차 PV5 입니다. 운행 중 사이드미러에 충격이 발생하면서 사이드리피터와 미러 외장 하우징, 뒤쪽 리어 스캘프가 파손되어 입고되었습니다.",
+    "description": "오늘 소개해 드릴 차량은 기아의 전기 상용차 PV5 입니다. 운행 중 사이드미러에 충격이 발생하면서 사이드리피터와 미러 외장 하우징, 뒤쪽 리어 스캘프가 파손되어 입고되었습니다. 사이드미러 전체를 교환하면 정상적으로 사용할 수 있는 내부 부품까지 모두 바꿔야 하므로 수리비 부담이 커질 수 있습니다. 이번 PV5는 파손 범위를 확인한 뒤 정상 부품은 그대로 사용하고, 손상된 외장 부품만 교체하는 방식으로 부분수리를 진행했습니다. 작업차량 : PV5 작업내용 : 사이드미러 파손수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 업무용으로 운행 중인 PV5 차량입니다. 상용차는 운행 시간이 길고 좁은 골목이나 상·하차 공간을 자주 오가기 때문에 사이드미러가 벽이나 기둥 등에 부딪히는 사고가 발생하기 쉽습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMTMx/MDAxNzg2NjA2Mzg0NDIw.pKpsoTS7OFb-d_aqY89YFop3bWih9llGW07HxUQVwvEg.shhpf6uaKA9GpbC4ZZIBcGYov-1u8PjGFqFkQ88HSn8g.JPEG/KakaoTalk_20260813_123624990.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMjAg/MDAxNzg2NjA2Mzk5OTk3.Be0zhBQPayp7DpaO0aTcjAEgpy45y2hlsNZzxrNEZNAg.-SIsS6ezPk4Zqpsw3HBorandc3V-5C_KPfcfTfOAkiEg.JPEG/KakaoTalk_20260813_123624990_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMjY4/MDAxNzg2NjA2NDIxNjc4.3g8twhQajvJ2uWkLxDZEerYDSjxjxS768kc6f8IT6Yog.iZQWbztU7gqMbNy_tbD1WtCsxPAefRA6JD8AcNrcOnog.JPEG/KakaoTalk_20260813_123624990_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMTQ0/MDAxNzg2NjA2NDQyNjE1.3nLvYpwbkqGxs0sqZhfW1Az-FtibreHwDbPOhrK298Ig.1JMBO8eaWj8-1x_NjuzuaJfv0YSitPsqhZVdQKDnRy4g.JPEG/KakaoTalk_20260813_123624990_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMTM1/MDAxNzg2NjA2NDYxOTg4.Hok-OGxy40x6CcDVGbuTYUFy8Q7eoCsu6SwZiTjCCUwg.c-MJ29Sj1tLBPW0M5WBqrQCtaIIDBbi4_NjIbptoZuAg.JPEG/KakaoTalk_20260813_123624990_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTNfMjIx/MDAxNzg2NjA2NDkyMTMy.MaTMZdZ1l5Rvsv-fbF6NuNqoMkuApoNdmTsSevmFJOQg.Wcoga1KzKRG1IWtsMmR2JdtesseaUmlB9eHPTJPF2lcg.JPEG/KakaoTalk_20260813_123624990_10.jpg?type=w800"
+    ],
+    "captions": [
+      "기아 PV5 · 기아 PV5 사이드미러 파손 부분수리｜사이드리피터·하우징·리어 스캘프 교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "기아 PV5 · 기아 PV5 사이드미러 파손 부분수리｜사이드리피터·하우징·리어 스캘프 교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "기아 PV5 · 기아 PV5 사이드미러 파손 부분수리｜사이드리피터·하우징·리어 스캘프 교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "기아 PV5 · 기아 PV5 사이드미러 파손 부분수리｜사이드리피터·하우징·리어 스캘프 교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "기아 PV5 · 기아 PV5 사이드미러 파손 부분수리｜사이드리피터·하우징·리어 스캘프 교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "기아 PV5 · 기아 PV5 사이드미러 파손 부분수리｜사이드리피터·하우징·리어 스캘프 교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224377565094?fromRss=true&trackingCode=rss",
+    "tags": [
+      "기아 PV5",
+      "사이드미러",
+      "PV5,기아PV5,PV5사이드미러,PV5사이드미러수리,PV5사이드미러파손,PV5사이드리피터,PV5사이드리피터교체,PV5미러하우징,PV5리어스캘프,사이드미러부분수리,사이드미러하우징교체,사이드리피터수리,일산사이드미러수리,고양사이드미러수리,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224376248099",
     "date": "2026-08-12",
