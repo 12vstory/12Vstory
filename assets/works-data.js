@@ -1,6 +1,188 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-16 08:35", "count": 108, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-16 08:58", "count": 115, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224380046823",
+    "date": "2026-08-16",
+    "category": "후방카메라",
+    "car": "일산 파주 김포 운정 / 2017 올",
+    "title": "일산 파주 김포 운정 / 2017 올뉴모닝 / 8인치 아틀란3D 지도 JY-N3000 네비게이션 매립",
+    "summary": "2017.8.16. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 오늘포스팅은 #2017 #올뉴모닝 #네비게이션매립 포스팅입니다 사용제품은 #JY-N3000 8인치 네비게이션 및 후방카메라PAS (주차선 움직이는) 샤크안테나 입니다 네비게이션 매립 작업을 위해…",
+    "description": "2017.8.16. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 오늘포스팅은 #2017 #올뉴모닝 #네비게이션매립 포스팅입니다 사용제품은 #JY-N3000 8인치 네비게이션 및 후방카메라PAS (주차선 움직이는) 샤크안테나 입니다 네비게이션 매립 작업을 위해 입고된 모닝 차량입니다 검정에 빨강 포인트는 진리죠!!! 작업전 순정 오디오 입니다 음... ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTZfMTEg/MDAxNTAyODU2MDQ0MTAy.MPIovd-sEg3lpFPQAN7Q903CWnpGMtE_XQK7HhpCEg8g.dBI0u0YY53ooOwKOOY8yqlXrhoQVh8JduiI301pOc7Ug.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "일산 파주 김포 운정 / 2017 올 · 일산 파주 김포 운정 / 2017 올뉴모닝 / 8인치 아틀란3D 지도 JY-N3000 네비게이션 매립 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224380046823?fromRss=true&trackingCode=rss",
+    "tags": [
+      "일산 파주 김포 운정 / 2017 올",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224380046748",
+    "date": "2026-08-16",
+    "category": "기타작업",
+    "car": "YF쏘나타",
+    "title": "일산 파주 김포 운정 / 카비스 측후방감지기 시공전문점 BSA / BSD / BSW 측후방감지기/YF쏘나타 후측방감지기 시공",
+    "summary": "2017.8.16. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 12볼트스토리 에서 전문으로 시공하고 있는 #카비스 #측후방감지기 #BSA 시공 포스팅입니다 작업을 위해 예약해주시고 방문해주신 YF소나타 차량입니다 차량에 시공을 하기전에 이것저…",
+    "description": "2017.8.16. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 12볼트스토리 에서 전문으로 시공하고 있는 #카비스 #측후방감지기 #BSA 시공 포스팅입니다 작업을 위해 예약해주시고 방문해주신 YF소나타 차량입니다 차량에 시공을 하기전에 이것저것 꼼꼼하게 비교해주시고 12볼트스토리 에서 시공하기로 결정하셨다고 하네요 ^^ 감... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTZfNzAg/MDAxNTAyODg1NTU0MTQ0.KXGwZ0t6CkUIQlkeK5PHqQM7MlyvKtOoIY9Nb0Y44dIg.U-x50VE4kFQk0JCGNf2mlpt7JGRIWtvjbp0Y8445Uh0g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "YF쏘나타 · 일산 파주 김포 운정 / 카비스 측후방감지기 시공전문점 BSA / BSD / BSW 측후방감지기/YF쏘나타 후측방감지기 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224380046748?fromRss=true&trackingCode=rss",
+    "tags": [
+      "YF쏘나타",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224380046677",
+    "date": "2026-08-16",
+    "category": "기타작업",
+    "car": "[일산 파주 운정 김포 고양] 싼타페",
+    "title": "[일산 파주 운정 김포 고양] 싼타페CM /티맵네비게이션 JY T3000 상단매립 / 네비게이션교체",
+    "summary": "2018.8.16. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 싼타페CM 작업내용 : 파인드라이브 BF200 고장으로 인해 JY-T3000으로 네비게이션교체 작업시간 : 1시간 작업을 위해 입고된 싼타페CM 차량입니다 연식에 비해 상당히…",
+    "description": "2018.8.16. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 싼타페CM 작업내용 : 파인드라이브 BF200 고장으로 인해 JY-T3000으로 네비게이션교체 작업시간 : 1시간 작업을 위해 입고된 싼타페CM 차량입니다 연식에 비해 상당히 관리가 잘되어있네요 ^^ 입고시 파인드라이브 BF200 모델이 매립되어 있었는데요 요즘 BF200... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MTZfOTEg/MDAxNTM0MzgyMDU1MTM3.n3a30fngHwBfDLBeVYHa7bcQU32eZMoC6xgmnpTuG4sg.W0vlxp8ZvdD6CldK2c4fllQKeW9Ok0ByJ5Pk9HaYjhAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 싼타페 · [일산 파주 운정 김포 고양] 싼타페CM /티맵네비게이션 JY T3000 상단매립 / 네비게이션교체 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224380046677?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 싼타페",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224380046599",
+    "date": "2026-08-16",
+    "category": "사이드미러",
+    "car": "올뉴모닝 - 전동접이",
+    "title": "[일산 파주 운정 김포 고양] 올뉴모닝 - 전동접이 사이드미러 개조 / DIY작업해둔 안개등 배선 작업",
+    "summary": "2018.8.16. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴모닝 작업내용 : 순정전동접이사이드미러 개조 / 순정 안개등 시공 작업시간 : 3시간 작업을 위해 입고된 14년식 올뉴모닝 차량입니다 외관은 정말 깨긋하고 이쁘게 되어있는데…",
+    "description": "2018.8.16. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴모닝 작업내용 : 순정전동접이사이드미러 개조 / 순정 안개등 시공 작업시간 : 3시간 작업을 위해 입고된 14년식 올뉴모닝 차량입니다 외관은 정말 깨긋하고 이쁘게 되어있는데 .. 차량 옵션은 꽝이네요 ㅠㅠ 운전석 및 조수석 모두 전동접이는 물론이고 유리 조절까지 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MTZfMTUg/MDAxNTM0NDA4MDk5NTg1.Gc35wPJkrvI-u-1mJAs0SYLLiKxjlV7zJ4ZIxtUu3IAg.J41TN6SRMW5eISzRaqXopSWh9P4gVNQR_nHSyKEM-f8g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "올뉴모닝 - 전동접이 · [일산 파주 운정 김포 고양] 올뉴모닝 - 전동접이 사이드미러 개조 / DIY작업해둔 안개등 배선 작업 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224380046599?fromRss=true&trackingCode=rss",
+    "tags": [
+      "올뉴모닝 - 전동접이",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224380046477",
+    "date": "2026-08-16",
+    "category": "기타작업",
+    "car": "LF쏘나타 뉴라이즈 / 누런 할로겐",
+    "title": "LF쏘나타 뉴라이즈 / 누런 할로겐 전조등 / 합법인증 필립스 LED전조등 교체 / 밝은 전조등으로 편하게 야간운전 하세요 !![일산 파주 운정 김포 고양]",
+    "summary": "2021.8.16. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 뉴라이즈 작업내용 : LED전조등 작업시간 : 40분 LF쏘나타 뉴라이즈 차량이 누런 할로겐 전조등이 장착되어 입고되었습니다 .",
+    "description": "2021.8.16. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 뉴라이즈 작업내용 : LED전조등 작업시간 : 40분 LF쏘나타 뉴라이즈 차량이 누런 할로겐 전조등이 장착되어 입고되었습니다 . 아무래도 누런색이다 보니 차량의 외관도 그렇고 밝기도 그냥 그래서 합법인증LED 제품으로 전조등을 교체 할겁니다 차량에 장착... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MTZfMjAz/MDAxNjI5MDc4NzExOTc2.SZkoaeLKg8zeliX2tOTl323aCBMFtUk6B8A66K2yINIg._H5QX1bWH7AgOwMPUxIaW4X_gr4gcYx6Xd5TV2WxypMg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "LF쏘나타 뉴라이즈 / 누런 할로겐 · LF쏘나타 뉴라이즈 / 누런 할로겐 전조등 / 합법인증 필립스 LED전조등 교체 / 밝은 전조등으로 편하게 야간운전 하세요 !![일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224380046477?fromRss=true&trackingCode=rss",
+    "tags": [
+      "LF쏘나타 뉴라이즈 / 누런 할로겐",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224380046407",
+    "date": "2026-08-16",
+    "category": "사이드미러",
+    "car": "그랜저IG / 양쪽",
+    "title": "그랜저IG / 양쪽 사이드미러 폴딩불량 / 전체 교체가 아닌 부분수리로 저렴하게 고쳐드렸어요 ~~ / 사이드미러 수리 전문 [일산 파주 운정 김포 고양]",
+    "summary": "2023.8.16. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저IG 작업내용 : 사이드미러 폴딩수리 작업시간 : 1시간 양쪽 사이드미러가 모두 폴딩이 되지 않아 수리를 위해 방문해주신 그랜저IG 차량입니다 우선 입고시 차량의 상태부터 확인…",
+    "description": "2023.8.16. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저IG 작업내용 : 사이드미러 폴딩수리 작업시간 : 1시간 양쪽 사이드미러가 모두 폴딩이 되지 않아 수리를 위해 방문해주신 그랜저IG 차량입니다 우선 입고시 차량의 상태부터 확인해 볼게요 이렇게 소리만 나고 전혀 움직이지 않는 증상입니다 이제 증상은 확인했으니 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MTZfMjcw/MDAxNjkyMTU0Mjk5NTcw.uzSHPaCsrFTUQslCefvB1aTNst2BTXOdPvcgtiF4AlAg._HJIS25r9hSfw8ol6l3H9NcIuIzM9aXDq8k90blVMlwg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "그랜저IG / 양쪽 · 그랜저IG / 양쪽 사이드미러 폴딩불량 / 전체 교체가 아닌 부분수리로 저렴하게 고쳐드렸어요 ~~ / 사이드미러 수리 전문 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224380046407?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜저IG / 양쪽",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224380046340",
+    "date": "2026-08-16",
+    "category": "사이드미러",
+    "car": "기아 K3 주차중 충격으로",
+    "title": "기아 K3 주차중 충격으로 사이드미러 파손 / 사이드리피터 부분수리 및 벌어진 커버 재조립 해드렸어요 ! 부분수리로 저렴하게 수리하세요 ! [일산 파주 운정",
+    "summary": "2025.8.16. 1년 전 오늘 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : k3 작업내용 : 사이드미러 부분수리 작업시간 : 30분 이내 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.8.16. 1년 전 오늘 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : k3 작업내용 : 사이드미러 부분수리 작업시간 : 30분 이내 12볼트스토리 채널홈을 폰으로 접속해보세요. 주차중 기둥에 접촉되어 사이드미러 파손으로 부분수리를 요청해주셨습니다 . 우선 수리전에 입고시 상태를 한번 확인해 볼까요 ? 음... 테이프로 이렇게 막 !! 붙여 오셨... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MTZfMjM4/MDAxNzU1MzA5MDE2MTU0.B8WRcvBLT1v3_b7WU8g-eWYgIqG0vp1o4HVR-qPSU_Ag.Ki2NehSAOBraS0c3rPG0Mb22spXiitda5IvtFhcxm2sg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "기아 K3 주차중 충격으로 · 기아 K3 주차중 충격으로 사이드미러 파손 / 사이드리피터 부분수리 및 벌어진 커버 재조립 해드렸어요 ! 부분수리로 저렴하게 수리하세요 ! [일산 파주 운정 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224380046340?fromRss=true&trackingCode=rss",
+    "tags": [
+      "기아 K3 주차중 충격으로",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224379035697",
     "date": "2026-08-15",
