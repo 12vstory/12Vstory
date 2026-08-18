@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-18 12:59", "count": 136, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-18 13:54", "count": 137, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224382126562",
+    "date": "2026-08-18",
+    "category": "블랙박스",
+    "car": "벤츠 E220d 순정",
+    "title": "벤츠 E220d 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 2채널 장착 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 입고된 차량은 벤츠 E220d입니다. 차량에 장착되어 있던 벤츠 순정 블랙박스를 철거하고, 전후방 2채널 블랙박스인 파인뷰 LXQ800 POWER 로 교체했습니다. 작업차량 : 작업내용 : 작업시간 : 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "오늘 입고된 차량은 벤츠 E220d입니다. 차량에 장착되어 있던 벤츠 순정 블랙박스를 철거하고, 전후방 2채널 블랙박스인 파인뷰 LXQ800 POWER 로 교체했습니다. 작업차량 : 작업내용 : 작업시간 : 12볼트스토리 채널홈을 폰으로 접속해보세요. 벤츠 E220d 블랙박스 교체 파인뷰 LXQ800 POWER 벤츠 E220d 차량 입고 기존 순정 블랙박스도 오랜 시간 사용하면 녹화 화질이나 저장 상태, 전원 안정성 등을 점검할 필요가 있습니다. 사고나 예상하지 못한 상황이 발생했을 때 필요한 영상을 제대로 확보하려면 블랙박스가 정상적으로 녹화되고 있는지 정기적으로 확인하는 것이 중요합니다. 이번 차량은 기존 벤츠 순정 블랙박스를 최신 2채널 제품으로 교체하기 위해 방문해 주셨습니다.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MThfMjcw/MDAxNzg3MDI3ODk2NjY0.pBccpjf3Ct5tJBO5ttkRYSGNwMZV89jCqU5gJhTsjiEg.GKDTaFDuGpumYMRQWNVd3X2TzCIarZSXf7n7GX27pD0g.JPEG/KakaoTalk_20260818_092827704.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MThfMTIx/MDAxNzg3MDI3OTE4OTkw.IJoFGzApKeqE0voEHnPav2kI_wqC3hBCE4J5ZsMAWvcg.3n8WN8QcVzPB1bwlzpH7nYuRAwiIPP0xWE4ksaxOZd4g.JPEG/KakaoTalk_20260818_092827704_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MThfMjYx/MDAxNzg3MDI3OTM2OTM1.uBvTRvwTxg_jFPwbAhOehJoW8Qn4jjZ4Y4Hd_yvts78g.DF9wYpqbYjiKqnwlRTBNbmP-koCo6P0UW0c3MdOuBtAg.JPEG/KakaoTalk_20260818_092827704_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MThfMTIy/MDAxNzg3MDI3OTQ5MDQy.FCInRi1zrpTjqGNDBaiHG1coocFEcFvRQx6gqDympYcg.-6cu_2fpnk2a3Y7PUOgAodK0WWRTyBO8jFZozHFx0p0g.JPEG/KakaoTalk_20260818_092827704_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MThfMjkw/MDAxNzg3MDI3OTYwMjQz.FzjG8uIQ4Sz8y69JyV3ek1E671y5ZPHZMXw7zqXbb5wg.QGwPOPSf2nARA2qz-ic8ZeWTmSAuXWkZRQOQifoKVRkg.JPEG/KakaoTalk_20260818_092827704_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MThfMjc1/MDAxNzg3MDI3OTcwNTYx.qSzujnM2rMQW_5CxLqFVd0NAFMxeAhCPc2OnI6Ilto4g.Y4SKNk84MXkbq9tCS4saP__oRJngVNhdQnmWAH1Ra5gg.JPEG/KakaoTalk_20260818_092827704_05.jpg?type=w800"
+    ],
+    "captions": [
+      "벤츠 E220d 순정 · 벤츠 E220d 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 2채널 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "벤츠 E220d 순정 · 벤츠 E220d 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 2채널 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "벤츠 E220d 순정 · 벤츠 E220d 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 2채널 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "벤츠 E220d 순정 · 벤츠 E220d 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 2채널 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "벤츠 E220d 순정 · 벤츠 E220d 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 2채널 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "벤츠 E220d 순정 · 벤츠 E220d 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 2채널 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382126562?fromRss=true&trackingCode=rss",
+    "tags": [
+      "벤츠 E220d 순정",
+      "블랙박스",
+      "벤츠블랙박스,벤츠순정블랙박스,벤츠블랙박스교체,벤츠E220d,벤츠E클래스,W213블랙박스,파인뷰LXQ800,LXQ800POWER,파인뷰블랙박스,수입차블랙박스,일산블랙박스,고양블랙박스,일산블랙박스장착,블랙박스교체,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224382043205",
     "date": "2026-08-18",
