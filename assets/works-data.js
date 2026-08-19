@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-19 14:47", "count": 144, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-19 16:07", "count": 146, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224383364019",
+    "date": "2026-08-19",
+    "category": "순정옵션",
+    "car": "스타리아",
+    "title": "스타리아 시트 탈거 후 SBR 경고음·경고등 제거｜시트 벨트 시스템 점검 해결 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 작업은 스타리아 차량의 뒷좌석 시트 탈거 후 발생한 SBR 안전벨트 경고음과 경고등을 정상적으로 정리한 작업 입니다. 스타리아를 차박이나 캠핑, 화물 적재 등의 용도로 사용하기 위해 뒷좌석 시트를 탈거하는 경우가 있습니다.",
+    "description": "오늘 소개해 드릴 작업은 스타리아 차량의 뒷좌석 시트 탈거 후 발생한 SBR 안전벨트 경고음과 경고등을 정상적으로 정리한 작업 입니다. 스타리아를 차박이나 캠핑, 화물 적재 등의 용도로 사용하기 위해 뒷좌석 시트를 탈거하는 경우가 있습니다. 하지만 시트만 물리적으로 제거하면 차량은 기존 좌석의 안전벨트 신호를 계속 확인하기 때문에 계기판에 ‘시트 벨트 시스템 점검!’ 메시지가 표시되거나 뒷좌석 안전벨트 경고등과 경고음이 계속 발생할 수 있습니다. 이번 차량도 탈거된 뒷좌석에서 발생하는 불필요한 SBR 경고를 해결하기 위해 입고되었습니다. 작업차량 : 스타리아 작업내용 : SBR 경고등 & 경고음 제거 작업시간 : 40분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "차량 연식과 옵션 사양 확인",
+      "순정 방식에 맞춰 부품·배선 작업",
+      "시공 후 기능 작동과 오류 여부 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfNDIg/MDAxNzg3MTE5Nzk2NDQ5.nTSjRTyiXBpDmYvY91wDU5wK7kKr71ShF-KAl3699Q0g.t_NkEzs5mmQrmeLzsJqFFyPYePIBJuRVY0hYn-oardog.JPEG/KakaoTalk_20260819_135911090_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMTEx/MDAxNzg3MTE5ODA3NTQ1.7a4aDXtrIBO7J07Sk-S5q5Dq-Z98uRD1VO4H_29nlhcg.KGi80G69kiUEi8aGd_TkM1acrajNhs3gWaQFGMUd0Vgg.JPEG/KakaoTalk_20260819_135911090.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfNjUg/MDAxNzg3MTE5ODI4ODcy.wFhjHOMmenkRi2mA8FEWhGOnsz_5LlEjFNAN5J9e2kgg.C_VUt0u3cgUhwb2XbSOlkrSr87_dSJLia8LUBqc4Hasg.JPEG/KakaoTalk_20260819_135911090_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMjMw/MDAxNzg3MTE5ODYwOTM5.ZCBRgsQFZjefS0JVkML5YVA_VUjt3Eovsj8dtzICqAEg.BMlMYAVWsI6okVkwWjID37oNyEx_46DauVrZViCLHC4g.JPEG/KakaoTalk_20260819_135911090_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMjg3/MDAxNzg3MTE5OTExMTg3.JV-NuW9AbWKYhhv_1iqEIuy3aJlvqfBOMdLVvUGcDfgg.EJRp7O4BWlk3YRzjqEtdu7hNpS3GngvRNqMLZfh1E-Qg.JPEG/KakaoTalk_20260819_135911090_06.jpg?type=w800",
+      "https://storep-phinf.pstatic.net/choypoi_07/original_22.png?type=p100_100"
+    ],
+    "captions": [
+      "스타리아 · 스타리아 시트 탈거 후 SBR 경고음·경고등 제거｜시트 벨트 시스템 점검 해결 [일산 파주 운정 김포 고양] 작업사진 1",
+      "스타리아 · 스타리아 시트 탈거 후 SBR 경고음·경고등 제거｜시트 벨트 시스템 점검 해결 [일산 파주 운정 김포 고양] 작업사진 2",
+      "스타리아 · 스타리아 시트 탈거 후 SBR 경고음·경고등 제거｜시트 벨트 시스템 점검 해결 [일산 파주 운정 김포 고양] 작업사진 3",
+      "스타리아 · 스타리아 시트 탈거 후 SBR 경고음·경고등 제거｜시트 벨트 시스템 점검 해결 [일산 파주 운정 김포 고양] 작업사진 4",
+      "스타리아 · 스타리아 시트 탈거 후 SBR 경고음·경고등 제거｜시트 벨트 시스템 점검 해결 [일산 파주 운정 김포 고양] 작업사진 5",
+      "스타리아 · 스타리아 시트 탈거 후 SBR 경고음·경고등 제거｜시트 벨트 시스템 점검 해결 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224383364019?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스타리아",
+      "순정옵션",
+      "스타리아SBR,스타리아SBR경고음,스타리아SBR경고등,스타리아안전벨트경고음,스타리아안전벨트경고등,스타리아시트탈거,스타리아뒷좌석탈거,시트벨트시스템점검,SBR경고음제거,SBR경고등제거,스타리아차박,스타리아캠핑카,일산스타리아,일산자동차전장,고양자동차전장,일산자동차튜닝,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224383350048",
+    "date": "2026-08-19",
+    "category": "후방카메라",
+    "car": "올뉴쏘렌토",
+    "title": "일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 작업은 올뉴쏘렌토 차량의 순정 네비게이션을 제거하고, 모터스밸류 MV7870 안드로이드 올인원으로 교체한 작업입니다. 연식이 있는 순정 네비게이션은 지도 업데이트나 앱 사용에 제한이 있고 화면 크기와 반응속도에서도 아쉬움이 생길 수 있습니다.",
+    "description": "오늘 소개해 드릴 작업은 올뉴쏘렌토 차량의 순정 네비게이션을 제거하고, 모터스밸류 MV7870 안드로이드 올인원으로 교체한 작업입니다. 연식이 있는 순정 네비게이션은 지도 업데이트나 앱 사용에 제한이 있고 화면 크기와 반응속도에서도 아쉬움이 생길 수 있습니다. 안드로이드 올인원으로 교체하면 스마트폰처럼 다양한 내비게이션과 음악·동영상 앱을 사용할 수 있어 차량의 멀티미디어 환경이 완전히 달라집니다. 작업차량 : 올뉴쏘렌토 작업내용 : 안드로이드 올인원 작업시간 : 1시간30분 12볼트스토리 채널홈을 폰으로 접속해보세요. ━━━━━━━━━━━━━━━━━━ 🟦 차량 입고 ━━━━━━━━━━━━━━━━━━ 올뉴쏘렌토 전면 입고 사진 이번 작업을 위해 입고된 올뉴쏘렌토입니다.",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMTMg/MDAxNzg3MTE4OTQ3Mjg3.cpQniV_Olxh1f7yvZz0hljySRqvwvRcNUbWfinW-4Uwg.LA-2J8cUI-RBmYgBToTQyZavI2qH7sA2C_P4E6RhPxwg.JPEG/KakaoTalk_20260819_140000326.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfNDQg/MDAxNzg3MTE4OTYyMjk5.8NMxjYSZVnPNkJm5CeQA5Rs4eiKd-9bYOJeoKJi_yrMg.zIwIV19wqn1fH78M0i_UjAat4uFec2MNsOVvZiZ0Scog.JPEG/KakaoTalk_20260819_140000326_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMjEz/MDAxNzg3MTE4OTc4NDY0.cCF_xHIaM5yy1qQB3c0lxJKpQuWqtrvZekEDu9j11qMg.UmbyKR9Umwb_Cmva3G4GZ564oleuQhowE8D1refCEOYg.JPEG/KakaoTalk_20260819_140000326_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMjcw/MDAxNzg3MTE4OTk4NDQ4.zDymST5PwqYd7NvemKDrL23Yobw2r29Zg5-3ghL7LLgg.Rjpg9BCUU_5Xiz4R__TkxTmkfbCtNusjCFfpXczFTGUg.JPEG/KakaoTalk_20260819_140000326_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfNiAg/MDAxNzg3MTE5MDEyMzA3.6KWocMDmTrJ-eB2IYgHkBp4pXPNciFfT5MLr9zkw5mAg.0IuzHRca3BJwvDQg-JGoLqFRh65hq3AgfERRNebo5lYg.JPEG/KakaoTalk_20260819_140000326_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMTI2/MDAxNzg3MTE5MDI1MDI5.cCvsv8Rl7vMWKDboLeBumTtEod_YWr454WbVZRZBhY8g.hf2K_TbCN4k-fPFZx9JjxI1CkEcbg0wnk0QNvi9nr-kg.JPEG/KakaoTalk_20260819_140000326_06.jpg?type=w800"
+    ],
+    "captions": [
+      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224383350048?fromRss=true&trackingCode=rss",
+    "tags": [
+      "올뉴쏘렌토",
+      "후방카메라",
+      "올뉴쏘렌토안드로이드올인원,올뉴쏘렌토올인원,쏘렌토안드로이드올인원,쏘렌토네비게이션교체,순정네비게이션교체,모터스밸류MV7870,MV7870,안드로이드올인원장착,순정후방카메라연동,올뉴쏘렌토후방카메라,티맵올인원,카카오내비올인원,일산안드로이드올인원,고양안드로이드올인원,일산네비게이션,일산자동차튜닝,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224382995565",
     "date": "2026-08-19",
