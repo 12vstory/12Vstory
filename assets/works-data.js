@@ -1,6 +1,188 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-19 08:59", "count": 137, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-19 10:54", "count": 144, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224382995565",
+    "date": "2026-08-19",
+    "category": "기타작업",
+    "car": "니로",
+    "title": "일산 파주 고양 김포 / 유성 , 수성 신차 언더코팅 / 니로 수성 언더코팅 시공",
+    "summary": "2017.8.19. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 차량의 하부를 부식으로 부터 보호해주는 언더코팅 포스팅 입니다 썬팅이 완료된 니로의 모습이구요 이번포스팅은 언더코팅이기에 ..ㅎㅎ 썬팅은 생략합니다 #언더코팅 작업을 진행하기 위해…",
+    "description": "2017.8.19. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 차량의 하부를 부식으로 부터 보호해주는 언더코팅 포스팅 입니다 썬팅이 완료된 니로의 모습이구요 이번포스팅은 언더코팅이기에 ..ㅎㅎ 썬팅은 생략합니다 #언더코팅 작업을 진행하기 위해 리프트에 올라가서 하나씩 탈거가 되고 있는 사진입니다 언더커버 / #머플러 #휠하... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTlfMTAw/MDAxNTAzMTMwNTg3NDM3.GIb0gsxwGroebUc2iBlQL7lQuV04Gy96sdRHwpItlicg.DGLOvOAQj8Z_OdbZeuR1i869Gai2zK-1R-eu_XMPv3Qg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "니로 · 일산 파주 고양 김포 / 유성 , 수성 신차 언더코팅 / 니로 수성 언더코팅 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382995565?fromRss=true&trackingCode=rss",
+    "tags": [
+      "니로",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224382995448",
+    "date": "2026-08-19",
+    "category": "후방카메라",
+    "car": "고양 파주 일산 김포 / 아반떼AD",
+    "title": "고양 파주 일산 김포 / 아반떼AD 네비게이션 매립 전문점 / 파인드라이브 몬스터5 미러링 후방카메라 장착",
+    "summary": "2017.8.19. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 아반떼 차량에 #파인드라이브 #몬스터5 네비게이션 #후방카메라 작업 포스팅 입니다 작업을위해 입고된 #아반떼AD 차량입니다 작업전 차량의 순정 오디오 모습입니다 ^^ 실내디자인 나쁘…",
+    "description": "2017.8.19. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 아반떼 차량에 #파인드라이브 #몬스터5 네비게이션 #후방카메라 작업 포스팅 입니다 작업을위해 입고된 #아반떼AD 차량입니다 작업전 차량의 순정 오디오 모습입니다 ^^ 실내디자인 나쁘지 않아요^^ 그러나 ... 더 좋아보이도록 매립을 위해 순정오디오와 마감재 부분을 탈... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTlfMTQw/MDAxNTAzMTMxODIxNzEz.KQgzvhdD0IT5LtjDtOUfeBpXbuvk99leeqRLthCdXTcg.Jgp9bYbESQaiRrY3VbiQCOGeqy96-Dq8SPQydYInS5wg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "고양 파주 일산 김포 / 아반떼AD · 고양 파주 일산 김포 / 아반떼AD 네비게이션 매립 전문점 / 파인드라이브 몬스터5 미러링 후방카메라 장착 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382995448?fromRss=true&trackingCode=rss",
+    "tags": [
+      "고양 파주 일산 김포 / 아반떼AD",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224382995342",
+    "date": "2026-08-19",
+    "category": "후방카메라",
+    "car": "[일산 파주 운정 김포 고양] 코란도",
+    "title": "[일산 파주 운정 김포 고양] 코란도스포츠 / 폰터스헤드업디스플레이 / H1000 / 후방카메라 뿌옇게 보이는 증상으로 CCD 후방카메라 교체",
+    "summary": "2019.8.19. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 코란도스포츠 작업내용 : 헤드업디스플레이 / CCD후방카메라 작업시간 : 1시간 폰터스 HUD / H1000 제품 장착을 위해 입고된 코란도 스포츠 차량입니다 오늘 장착될 제품이구요…",
+    "description": "2019.8.19. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 코란도스포츠 작업내용 : 헤드업디스플레이 / CCD후방카메라 작업시간 : 1시간 폰터스 HUD / H1000 제품 장착을 위해 입고된 코란도 스포츠 차량입니다 오늘 장착될 제품이구요 차량 입고중에 .. 고객님께서 후방카메라도 교체가 가능한지 문의 주셨네요 ㅠㅠ 화면을 한... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxOTA4MTlfMjUz/MDAxNTY2MTc2NzA4MTIw.bVjG_7rGcJmKQFNuC832LUTDBNpev0HbLd1P5v-Oh2wg.zQHvGkuPWHWer8gJwLrSsP4ufms2UmJ6lARYmQNhOOwg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 코란도 · [일산 파주 운정 김포 고양] 코란도스포츠 / 폰터스헤드업디스플레이 / H1000 / 후방카메라 뿌옇게 보이는 증상으로 CCD 후방카메라 교체 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382995342?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 코란도",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224382995238",
+    "date": "2026-08-19",
+    "category": "기타작업",
+    "car": "제네시스 G90 / 주행중DMB락해제",
+    "title": "제네시스 G90 / 주행중DMB락해제 / DMB락프리 / 순정리모콘연동 / 잭바이잭 시공으로 차량손상 제로 ![일산 파주 운정 김포 고양]",
+    "summary": "2020.8.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스 G90 작업내용 : 주행중 DMB락프리 작업시간 : 1시간 DMB락프리 작업을 위해 입고된 G90 차량입니다 오늘 차량은 21년형으로 출고된지 1달도 되지 않은 차량입니다…",
+    "description": "2020.8.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스 G90 작업내용 : 주행중 DMB락프리 작업시간 : 1시간 DMB락프리 작업을 위해 입고된 G90 차량입니다 오늘 차량은 21년형으로 출고된지 1달도 되지 않은 차량입니다 12볼트스토리가 오늘도 해냅니다 ㅎㅎㅎ 정말 많은 문의주시는 G90 차량인데요 .. 작업경험이 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA4MTlfNDgg/MDAxNTk3ODI3MzIxOTUx.wp4saSkkv6MIA1kIQFRTYBdy_ZfMI4qHbDTrzBmPPOIg.7D4pCqO6Td5E1IvgXN94NQDZcQq4JXk8_tukXjrqieEg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "제네시스 G90 / 주행중DMB락해제 · 제네시스 G90 / 주행중DMB락해제 / DMB락프리 / 순정리모콘연동 / 잭바이잭 시공으로 차량손상 제로 ![일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382995238?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 G90 / 주행중DMB락해제",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224382995146",
+    "date": "2026-08-19",
+    "category": "블랙박스",
+    "car": "올뉴K7 / 아이나비 QXD1",
+    "title": "올뉴K7 / 아이나비 QXD1 블랙박스 교체 + 셀스타 ES90 블랙박스 보조배터리 장착 / 주차녹화 걱정없이 마음놓고 주차하세요 ^^ [일산 파주 운정 김포 고",
+    "summary": "2024.8.19. 2년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K7 작업내용 : 블랙박스 및 보조배터리 장착 작업시간 : 1시간 30분 블랙박스 교체와 보조배터리 장착을 위해 입고된 올뉴K7 차량입니다 차량이 반짝반짝 하네요 ~~ 관리…",
+    "description": "2024.8.19. 2년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K7 작업내용 : 블랙박스 및 보조배터리 장착 작업시간 : 1시간 30분 블랙박스 교체와 보조배터리 장착을 위해 입고된 올뉴K7 차량입니다 차량이 반짝반짝 하네요 ~~ 관리 정말 잘해주시나봐요 ^^:; 오늘 차량에 장착될 제품입니다 아이나비 프리미엄급 블랙박스 QXD1 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MTlfNDMg/MDAxNzI0MDI3NzU4NjE2.CBU2QRYCSEWQhDfYclcE8hOFn7-uTKUcxf6u3xtXpzgg.u0X8L5M9G_RvLy--slF60-HivT94RzC4apFAnpNZVkMg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "올뉴K7 / 아이나비 QXD1 · 올뉴K7 / 아이나비 QXD1 블랙박스 교체 + 셀스타 ES90 블랙박스 보조배터리 장착 / 주차녹화 걱정없이 마음놓고 주차하세요 ^^ [일산 파주 운정 김포 고 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382995146?fromRss=true&trackingCode=rss",
+    "tags": [
+      "올뉴K7 / 아이나비 QXD1",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224382995047",
+    "date": "2026-08-19",
+    "category": "블랙박스",
+    "car": "미니 컨트리맨",
+    "title": "미니 컨트리맨 / 블랙박스 교체 / 순정 블랙박스 탈거후 아이나비Z9500 2채널 블랙박스 장착 / 완벽설치 해드렷어요 [일산 파주 운정 김포 고양]",
+    "summary": "2024.8.19. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 미니 컨트리맨 작업내용 : 블랙박스 교체 작업시간 : 1시간 미니쿠퍼 컨트리맨 차량이 정품 블랙박스 탈거후 아이나비Z9500 재품으로 교체하시기 위해 방문해 주셨습니다 순정블랙박스가…",
+    "description": "2024.8.19. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 미니 컨트리맨 작업내용 : 블랙박스 교체 작업시간 : 1시간 미니쿠퍼 컨트리맨 차량이 정품 블랙박스 탈거후 아이나비Z9500 재품으로 교체하시기 위해 방문해 주셨습니다 순정블랙박스가 동작에는 이상이 없으나 휴대폰 연결해서 영상확인하고 하는 과정이 너무 불편하시답니다... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MTlfMjM1/MDAxNzI0MDMwOTE5NDk0.TVXeA0jDD9M3hUm5T9ej-KvY36sCwdQqXd8iUDUgdXUg.IHn9dZ_DRKKxNBZP6n1TdCMG8_xnUObEnjoD44iV1m4g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "미니 컨트리맨 · 미니 컨트리맨 / 블랙박스 교체 / 순정 블랙박스 탈거후 아이나비Z9500 2채널 블랙박스 장착 / 완벽설치 해드렷어요 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382995047?fromRss=true&trackingCode=rss",
+    "tags": [
+      "미니 컨트리맨",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224382994921",
+    "date": "2026-08-19",
+    "category": "블랙박스",
+    "car": "아우디A3",
+    "title": "아우디A3 / 블랙박스 교체 / 파인뷰LXQ600 2채널 가성비 좋은 블랙박스 / 착한 가격에 교체 해드렸어요 / 수입차 블랙박스 [일산 파주 운정 김포 고양]",
+    "summary": "2025.8.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아우디A3 작업내용 : 블랙박스 교체 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.8.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아우디A3 작업내용 : 블랙박스 교체 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 기존에 사용하시던 블랙박스가 터치가 되지 않아 교체를 위해 방문해 주셨습니다 입고된 차량에 장착된 제품부터 살펴볼게요 ! 차량에 장착되어 있던 블랙박스는 아이트로닉스... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MTlfODgg/MDAxNzU1NTc4ODQ5Nzk5.xodUII6P0_LR4Xp5GPledeASGxqrVIu5nc45GjlBTkkg.aXqOyVOJja1MmM54ctpo4XuySZrr1A2CfXYrZZPWogIg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "아우디A3 · 아우디A3 / 블랙박스 교체 / 파인뷰LXQ600 2채널 가성비 좋은 블랙박스 / 착한 가격에 교체 해드렸어요 / 수입차 블랙박스 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224382994921?fromRss=true&trackingCode=rss",
+    "tags": [
+      "아우디A3",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224382126562",
     "date": "2026-08-18",
