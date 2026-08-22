@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-22 13:51", "count": 161, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-22 14:44", "count": 162, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224386575447",
+    "date": "2026-08-22",
+    "category": "사이드미러",
+    "car": "싼타페DM",
+    "title": "싼타페DM 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩기어 교체 [일산 파주 운정 김포 고양]",
+    "summary": "싼타페DM 사이드미러 폴딩불량 부분수리 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 작업 차량은 현대 싼타페DM 입니다. 사이드미러를 접고 펼치는 과정에서 정상적으로 작동하지 않는 폴딩불량 증상 으로 입고되었습니다.",
+    "description": "싼타페DM 사이드미러 폴딩불량 부분수리 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 작업 차량은 현대 싼타페DM 입니다. 사이드미러를 접고 펼치는 과정에서 정상적으로 작동하지 않는 폴딩불량 증상 으로 입고되었습니다. 작업차량 : 싼타페DM 작업내용 : 사이드미러 폴딩불량 부분수리 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러 폴딩불량이 발생하면 모터 작동음은 들리는데 미러가 움직이지 않거나, 중간에서 멈추거나, 헛도는 듯한 증상이 나타나는 경우가 있습니다. 이런 경우 사이드미러 전체를 교체하기 전에 내부 폴딩모터와 기어 상태를 먼저 확인해보는 것이 좋습니다. 이번 싼타페DM 역시 점검 결과 사이드미러 내부 폴딩기어 쪽 문제 가 확인되어 부분수리로 진행합니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjJfMTgy/MDAxNzg3Mzc2MDk0MTgw.0c_C913kjHFH0lB578ae0L_CQ6fs9XQXTBQthgy3yH8g.XVYfDemF3VSzH8vvzU1cy4WwkRH3m_1Vs_-Fx4Tzafcg.JPEG/KakaoTalk_20260822_115311615_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjJfMTY0/MDAxNzg3Mzc2MTgwNjAx.oK-UF0HNJb2w_ZrsDLo6uAH6B5OjRrPxdwdFvN7W2lYg.k_9PrhK-aQu5DQummonMXvOGHzUPreRC3-BHi-GPGKog.JPEG/KakaoTalk_20260822_115311615_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjJfMjQ2/MDAxNzg3Mzc2MTkxODgw.PBNEBuXsomqNP5vetZKDVI-DHulKR27EoMFKgtQ7tcog.2vvDFnzG8zvr1Q4brmRZn0EJxUqSMR-3P7BOHf3guFYg.JPEG/KakaoTalk_20260822_115311615_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjJfMTg5/MDAxNzg3Mzc2MjAzMTcx.l8vDhhfV_EPA9irmWgIGBgHBO3J9F_1pKKA_kHpNWpcg.sIS-6J3eTjp5dSw9yFqnk57IaYKm0i3D9sO2-JWl4Qsg.JPEG/KakaoTalk_20260822_115311615_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjJfMjE1/MDAxNzg3Mzc2MjE3MjA5.Cy__9IjyMeqM9uFHgLNok9pAAhjfWfSsCGcWPZ10RDwg.XOlVo6Qacpcfw72yZKB7MGn-Yn4hmjeUsN1QzK14_zAg.JPEG/KakaoTalk_20260822_115311615_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjJfMjE1/MDAxNzg3Mzc2MzQyMTA4.PAVjoqK5sU61ouTxW1aVR9CPzgBVZIUfaSqVjTGobUUg.LQW8iwIJTbl9FjMHj43EuP3v2Rc3B5SKLNGcn2EwExQg.JPEG/KakaoTalk_20260822_115311615_07.jpg?type=w400"
+    ],
+    "captions": [
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩기어 교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩기어 교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩기어 교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩기어 교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩기어 교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩기어 교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224386575447?fromRss=true&trackingCode=rss",
+    "tags": [
+      "싼타페DM",
+      "사이드미러",
+      "싼타페DM,싼타페DM사이드미러,싼타페사이드미러수리,싼타페DM사이드미러수리,사이드미러폴딩불량,사이드미러폴딩기어,폴딩기어교체,사이드미러수리,사이드미러부분수리,사이드미러안접힘,일산사이드미러수리,고양사이드미러수리,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224386346160",
     "date": "2026-08-22",
