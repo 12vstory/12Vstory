@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-24 10:59", "count": 172, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-24 12:17", "count": 174, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224388301247",
+    "date": "2026-08-24",
+    "category": "옵틱글래스",
+    "car": "폴스타 4",
+    "title": "폴스타4 옵틱글래스 광각미러 장착답답한 시야와 불편한 순정 디밍까지 한 번에 해결 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 폴스타4 입니다. 폴스타4를 운행하시는 분들이 사이드미러와 관련해 많이 말씀하시는 부분이 있습니다. 바로 좁게 느껴지는 순정 사이드미러 시야각 과 상황에 따라 너무 어둡게 느껴지는 순정 디밍 기능 입니다.",
+    "description": "오늘 작업 차량은 폴스타4 입니다. 폴스타4를 운행하시는 분들이 사이드미러와 관련해 많이 말씀하시는 부분이 있습니다. 바로 좁게 느껴지는 순정 사이드미러 시야각 과 상황에 따라 너무 어둡게 느껴지는 순정 디밍 기능 입니다. 이번 차량 역시 이러한 불편함을 개선하기 위해 옵틱글래스 광각미러 장착과 순정 디밍 기능 제거 작업 을 함께 진행했습니다. 작업차량 : 폴스타4 작업내용 : 옵틱글래스 광각미러 + 디밍제거 작업시간 : 40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 🟥 폴스타4 순정 사이드미러, 왜 불편할까요? 순정 사이드미러 시야 폴스타4는 차량 디자인과 실내 완성도는 상당히 뛰어나지만 사이드미러는 실제 운전 환경에서 조금 답답하게 느껴질 수 있습니다.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTA4/MDAxNzg3NTM4OTIxMDcz.L5oS-GPG3hkVr0JzMIXE7PP4DYF2D5QmxIiCV5l-2ZUg.ZKBW9FGyBKXZrEylyxmJ9SQV43UD7LL9gZRCMJ3w-DIg.JPEG/KakaoTalk_20260824_095040948_02.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjcw/MDAxNzg3NTM4OTIzMTEz.3X-C28woMgKoNZgS-JpSCQjSG_KrWMQap7XvvgLow2Eg.B9RGG_E8lc66cd_SH3t1empFAcKHGNQbNU80E0dyI2gg.JPEG/KakaoTalk_20260824_095040948_05.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjI4/MDAxNzg3NTM4OTM3Nzk4.VZf8lgF_gJtmc7zQ6aZwgqy8HijyOFx_WnRNnjly8fcg.5WZNGSgkzYeY7umkLfAWH0wcQJNmwX5vcZoKJyVUaokg.JPEG/KakaoTalk_20260824_095040948.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTE0/MDAxNzg3NTM4OTM3ODA4.-7NdXGVNswcSigdxOdais8KmN8lIwg1_8rKpRS4lsWQg.bu66upPlL0v53TJ1abAX5ndG7A2U6rVtOqccsXEXUqsg.JPEG/KakaoTalk_20260824_095040948_01.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjUy/MDAxNzg3NTM4OTUwOTYy.hLMgYBr53L7WQPOunXb5zHnNrubJ3pXoIcmJfzboPXcg.gfuzCzJrISIh84WOn1jCNJgirw1bmzKtK-tKbh2GHcEg.JPEG/KakaoTalk_20260824_095040948_08.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTk5/MDAxNzg3NTM4OTc3NzYy.c6_4gLbkyadTALbauz3M32WQyUeq6dLsWtRcKWx1O7kg.0pV5_HqmQmT6k_-Ac8EHli9t8UZ5xqs3Tl3zHokzLDog.JPEG/KakaoTalk_20260824_095040948_03.jpg?type=w400"
+    ],
+    "captions": [
+      "폴스타 4 · 폴스타4 옵틱글래스 광각미러 장착답답한 시야와 불편한 순정 디밍까지 한 번에 해결 [일산 파주 운정 김포 고양] 작업사진 1",
+      "폴스타 4 · 폴스타4 옵틱글래스 광각미러 장착답답한 시야와 불편한 순정 디밍까지 한 번에 해결 [일산 파주 운정 김포 고양] 작업사진 2",
+      "폴스타 4 · 폴스타4 옵틱글래스 광각미러 장착답답한 시야와 불편한 순정 디밍까지 한 번에 해결 [일산 파주 운정 김포 고양] 작업사진 3",
+      "폴스타 4 · 폴스타4 옵틱글래스 광각미러 장착답답한 시야와 불편한 순정 디밍까지 한 번에 해결 [일산 파주 운정 김포 고양] 작업사진 4",
+      "폴스타 4 · 폴스타4 옵틱글래스 광각미러 장착답답한 시야와 불편한 순정 디밍까지 한 번에 해결 [일산 파주 운정 김포 고양] 작업사진 5",
+      "폴스타 4 · 폴스타4 옵틱글래스 광각미러 장착답답한 시야와 불편한 순정 디밍까지 한 번에 해결 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224388301247?fromRss=true&trackingCode=rss",
+    "tags": [
+      "폴스타 4",
+      "옵틱글래스",
+      "폴스타4,폴스타4옵틱글래스,폴스타4광각미러,폴스타4사이드미러,폴스타4디밍,폴스타4디밍제거,옵틱글래스,광각미러,사각지대해소,사이드미러광각,폴스타4튜닝,폴스타4전문점,일산폴스타4,일산자동차전장,일산광각미러,고양폴스타4,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224388282927",
+    "date": "2026-08-24",
+    "category": "사이드미러",
+    "car": "K3",
+    "title": "K3 사이드미러 폴딩불량 부분수리접히지 않는 사이드미러, 통교환 대신 내부 기어 수리 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 입고된 차량은 기아 K3 입니다. 운전석 사이드미러의 전동 폴딩 기능에 문제가 발생해 입고되었습니다. 사이드미러 스위치를 작동해도 정상적으로 접히지 않거나, 움직임이 불안정한 증상이 발생하면 사이드미러 전체를 교환해야 한다고 생각하기 쉽습니다.",
+    "description": "오늘 입고된 차량은 기아 K3 입니다. 운전석 사이드미러의 전동 폴딩 기능에 문제가 발생해 입고되었습니다. 사이드미러 스위치를 작동해도 정상적으로 접히지 않거나, 움직임이 불안정한 증상이 발생하면 사이드미러 전체를 교환해야 한다고 생각하기 쉽습니다. 하지만 내부 폴딩 구동부의 모터나 기어 문제라면 고장 부위만 분해하여 부분수리가 가능한 경우가 많습니다. 이번 K3 역시 사이드미러 전체 교환 없이 내부를 분해하여 고장 부위를 수리했습니다. 작업차량 : k3 작업내용 : 사이드미러 폴딩모터 부분수리 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요. K3 사이드미러 폴딩불량 증상 확인 입고된 K3 차량입니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjQz/MDAxNzg3NTM3OTExOTY5.jeNx2nj650l2cTaHVTokLyURSmU-Foh35zmaeQP67Uog.TkBJqOWO2ErbIuO9Rc_OyyTIzLZBGr7ijKxx06dHqkEg.JPEG/KakaoTalk_20260824_095027260_01.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTMw/MDAxNzg3NTM3OTExOTgx.MTpZmMuhCGcR3zmBeujZA1Qb2eGUTvK43-YC89vOnCMg.7tnkRsSa9Hukz-b7jUKLXI4IO2Ab5hCPMe6MeoBgJqog.JPEG/KakaoTalk_20260824_095027260.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjMw/MDAxNzg3NTM4MDI2NTc1.bJMbgcIgks-cL97BjV4JFCBV6K0hmckhVaOnYvUNbbAg.nZPPoK_s-OSJNdf0brMJZcJNBaTa9lUMQJc03y3cnhMg.JPEG/KakaoTalk_20260824_095027260_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTQy/MDAxNzg3NTM4MDM4MzEy.Ajbv_svtOzPtPstAyJloqizObTthRps7cJCCBdG1Tm4g.NpXqpIUjXj4InhfM4gAgv1JQILXC550_Xsb-iREy0Q0g.JPEG/KakaoTalk_20260824_095027260_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTE3/MDAxNzg3NTM4MDU1MzE1.C32YkHRoHvtu53W1QYU5nKbYCI9PaPRCcrmMumkh0K8g.K9GbBOp0vMCG0c0vxLX40V7xsp6t0H6Hrv6ydr9Acxkg.JPEG/KakaoTalk_20260824_095027260_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjY5/MDAxNzg3NTM4MDcyNDA3.r6eAZ3USKe2Q803mkOswtL6uVFC-HicBmu5UU74xBUwg.L0r4PWWowd-zInDFKO866LwWEz4eKQp5QYYnGqx4gH0g.JPEG/KakaoTalk_20260824_095027260_07.jpg?type=w400"
+    ],
+    "captions": [
+      "K3 · K3 사이드미러 폴딩불량 부분수리접히지 않는 사이드미러, 통교환 대신 내부 기어 수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "K3 · K3 사이드미러 폴딩불량 부분수리접히지 않는 사이드미러, 통교환 대신 내부 기어 수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "K3 · K3 사이드미러 폴딩불량 부분수리접히지 않는 사이드미러, 통교환 대신 내부 기어 수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "K3 · K3 사이드미러 폴딩불량 부분수리접히지 않는 사이드미러, 통교환 대신 내부 기어 수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "K3 · K3 사이드미러 폴딩불량 부분수리접히지 않는 사이드미러, 통교환 대신 내부 기어 수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "K3 · K3 사이드미러 폴딩불량 부분수리접히지 않는 사이드미러, 통교환 대신 내부 기어 수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224388282927?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K3",
+      "사이드미러",
+      "K3,K3사이드미러,K3사이드미러수리,K3사이드미러폴딩,K3폴딩불량,사이드미러폴딩불량,사이드미러수리,사이드미러기어,사이드미러기어교체,폴딩기어,폴딩모터,사이드미러부분수리,일산사이드미러수리,고양사이드미러수리,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224388239226",
     "date": "2026-08-24",
