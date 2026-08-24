@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-24 08:58", "count": 171, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-24 10:59", "count": 172, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224388239226",
+    "date": "2026-08-24",
+    "category": "사이드미러",
+    "car": "싼타페 TM",
+    "title": "싼타페 TM 블랙박스 교체 기존 아이나비 QXD1500 탈거 후 파인뷰 LXQ800 POWER 장착 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 현대 싼타페 TM 입니다. 기존에 사용하던 블랙박스가 오래되어 이번에 파인뷰 LXQ800 POWER 제품으로 교체 작업을 진행했습니다.",
+    "description": "오늘 작업 차량은 현대 싼타페 TM 입니다. 기존에 사용하던 블랙박스가 오래되어 이번에 파인뷰 LXQ800 POWER 제품으로 교체 작업을 진행했습니다. 블랙박스는 사고 순간뿐 아니라 주행 중 발생하는 여러 상황을 기록하는 장비인 만큼 오래 사용한 제품이라면 녹화 상태와 카메라 화질, 메모리 상태 등을 한 번씩 확인해보시는 것이 좋습니다. 작업차량 : 싼타페TM 작업내용 : 블랙박스 교체 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요. 이번에 장착할 제품은 파인뷰 LXQ800 POWER 전후방 블랙박스 입니다. 차량에 설치되어 있던 기존 제품은 아이나비 QXD1500 모델이었습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjcw/MDAxNzg3NTM1NzY4MDgw.NAcSTUx8YxmrrpL7FerRPGlmey-dGXr-2ODSSAxqiJ0g.LsuLP1yG7Q3aLpXZh8_yuecnkRvqgV0HMmv0Rc4waJgg.JPEG/KakaoTalk_20260824_095011452_01.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMjk4/MDAxNzg3NTM1NzY4MDkx.VEutVSgZUPXRs61433KumDBgflI-0uEn6hHiMRO5K-Eg.J75qc0xOzzRCWSgiIO6HPSzjzNsqVaLXMrrPUaEf2MQg.JPEG/KakaoTalk_20260824_095011452.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfNDcg/MDAxNzg3NTM1Nzg4NzI2.6P68N3YJ93ltF0O9moBPGMr-i5sTHg7XIehnUyLTTRgg.SKYqcncL3OYON7EbYvzeX2t8VUx9zIwcEkejy-OBG_8g.JPEG/KakaoTalk_20260824_095011452_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTU1/MDAxNzg3NTM1ODA0MDQw.qW161fYRdpf3Hn0TgzMmwrZMsHjzlUx47NI2cnruK7wg.Ea8qZyRGo-TbTV351o7V8sa_X_6wB1-UtmIGf6o6axIg.JPEG/KakaoTalk_20260824_095011452_08.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfOSAg/MDAxNzg3NTM1ODI5Nzkx.7uNT_Y_EUxrG_URbNDf1ddNWYzR9fSPxyi5QHOaFv30g.nmB8aV4arIXRsUcQdx6qedCwgcy56Fkv4yUIontMZMsg.JPEG/KakaoTalk_20260824_095011452_10.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjRfMTU5/MDAxNzg3NTM1ODQwOTE3.-xI9bHuNKkfcXfclO_ojd39ZnQp2i4ffIh2LOs49tYUg.xxLPMoXu6rPpKxNqs_ifv63cUkPFyFcn5eEYwlN5dl8g.JPEG/KakaoTalk_20260824_095011452_11.jpg?type=w800"
+    ],
+    "captions": [
+      "싼타페 TM · 싼타페 TM 블랙박스 교체 기존 아이나비 QXD1500 탈거 후 파인뷰 LXQ800 POWER 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "싼타페 TM · 싼타페 TM 블랙박스 교체 기존 아이나비 QXD1500 탈거 후 파인뷰 LXQ800 POWER 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "싼타페 TM · 싼타페 TM 블랙박스 교체 기존 아이나비 QXD1500 탈거 후 파인뷰 LXQ800 POWER 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "싼타페 TM · 싼타페 TM 블랙박스 교체 기존 아이나비 QXD1500 탈거 후 파인뷰 LXQ800 POWER 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "싼타페 TM · 싼타페 TM 블랙박스 교체 기존 아이나비 QXD1500 탈거 후 파인뷰 LXQ800 POWER 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "싼타페 TM · 싼타페 TM 블랙박스 교체 기존 아이나비 QXD1500 탈거 후 파인뷰 LXQ800 POWER 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224388239226?fromRss=true&trackingCode=rss",
+    "tags": [
+      "싼타페 TM",
+      "사이드미러",
+      "싼타페TM,싼타페블랙박스,싼타페TM블랙박스,싼타페블랙박스교체,파인뷰,파인뷰LXQ800,LXQ800POWER,파인뷰블랙박스,블랙박스교체,블랙박스장착,일산블랙박스,일산블랙박스장착,고양시블랙박스,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224387226929",
     "date": "2026-08-23",
