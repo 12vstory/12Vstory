@@ -1,6 +1,238 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-28 00:16", "count": 196, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-28 09:27", "count": 205, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224392778492",
+    "date": "2026-08-28",
+    "category": "블랙박스",
+    "car": "고양 일산 파주 운정 / 8인치 네비",
+    "title": "고양 일산 파주 운정 / 8인치 네비게이션 -시리우스A /2채널 풀HD 블랙박스 -GI700 / 하이패스단말기 - 뉴오피러스 3.3 네비게이션매립",
+    "summary": "2017.8.28. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 뉴오피러스 3.3 차량의 #네비게이션매립 #블랙박스장착 #하이패스 장착 포스팅입니다 작업을 위해 입고된 오피러스 차량입니다 오래된 차량이어도 고급스런 느낌은 가득하네요 ^^ 차량에…",
+    "description": "2017.8.28. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 뉴오피러스 3.3 차량의 #네비게이션매립 #블랙박스장착 #하이패스 장착 포스팅입니다 작업을 위해 입고된 오피러스 차량입니다 오래된 차량이어도 고급스런 느낌은 가득하네요 ^^ 차량에 장착될 블랙박스 입니다 제품명은 : #지넷시스템 #GI-700 입니다 2채널 모두 FHD ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MjhfMjc3/MDAxNTAzOTE0NDg4Mzc3.gzu_5SQpkOC3biUB0IysSnjKJ1D4AQmKBFd9M3lASx0g.6hE0XH2G2IV6K6qX9W34eTMhxAGWeySihT4wha6s4Dcg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "고양 일산 파주 운정 / 8인치 네비 · 고양 일산 파주 운정 / 8인치 네비게이션 -시리우스A /2채널 풀HD 블랙박스 -GI700 / 하이패스단말기 - 뉴오피러스 3.3 네비게이션매립 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392778492?fromRss=true&trackingCode=rss",
+    "tags": [
+      "고양 일산 파주 운정 / 8인치 네비",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392778418",
+    "date": "2026-08-28",
+    "category": "후방카메라",
+    "car": "그랜저TG",
+    "title": "[일산 파주 운정 김포 고양] 그랜저TG - 후방카메라 안나옴 / 후방카메라고장 / 후방카메라교체",
+    "summary": "2018.8.28. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 그랜저TG 작업내용 : 후방카메라 고장수리 작업시간 : 40분후방카메라가 나오지 않아 입고된 그랜저 차량입니다 후방카메라 사용하시다가 안나오면 주차부터 정말 어려우셨을텐데...",
+    "description": "2018.8.28. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 그랜저TG 작업내용 : 후방카메라 고장수리 작업시간 : 40분후방카메라가 나오지 않아 입고된 그랜저 차량입니다 후방카메라 사용하시다가 안나오면 주차부터 정말 어려우셨을텐데... 얼른 확인해서 다시 잘나오게 해드릴게요 ^^ 우선 증상부터 확인하기 위해 후진기어를 넣... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MjhfMTQy/MDAxNTM1NDE3Njg4MDQw.ZSIN1mnYHxJPgM11ZnGgt7pXP9gL4BrTOnBufoXVUL0g.hTLn-9toTh84EdTdQKACN66O-ulSmyyBHqcrMXmJrIMg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "그랜저TG · [일산 파주 운정 김포 고양] 그랜저TG - 후방카메라 안나옴 / 후방카메라고장 / 후방카메라교체 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392778418?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜저TG",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392778351",
+    "date": "2026-08-28",
+    "category": "기타작업",
+    "car": "[일산 파주 운정 김포 고양] 원격시",
+    "title": "[일산 파주 운정 김포 고양] 원격시동경보기 전문점 / 아반테MD / 순정스타트버튼차량 / 순정형경보기 매직카M8 시공",
+    "summary": "2018.8.28. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테MD 작업내용 : 순정형 원격시동경보기 매직카 M8 작업시간 : 1시간30분아반테MD 디젤 차량이 원격시동 경보기 작업을 위해 예약해주시고 방문해 주셨습니다 오늘 장착될…",
+    "description": "2018.8.28. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테MD 작업내용 : 순정형 원격시동경보기 매직카 M8 작업시간 : 1시간30분아반테MD 디젤 차량이 원격시동 경보기 작업을 위해 예약해주시고 방문해 주셨습니다 오늘 장착될 제품은 매직카경보기 M8 제품이구요 주요 기능은 원격시동 / 충격감지 / 터보 (후열) / 스... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MjhfNzgg/MDAxNTM1NDE4ODIyOTg5.eryPFFi33wQQJqL1B6DDW8FbE8fTb5pYcACoA5RPrvsg.Ee_KpjcqYRcnvf5liaPLqj4hjvBKZq_DtbH_b0Ua4rYg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 원격시 · [일산 파주 운정 김포 고양] 원격시동경보기 전문점 / 아반테MD / 순정스타트버튼차량 / 순정형경보기 매직카M8 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392778351?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 원격시",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392778296",
+    "date": "2026-08-28",
+    "category": "블랙박스",
+    "car": "[일산 파주 운정 김포 고양]싼타페",
+    "title": "[일산 파주 운정 김포 고양]싼타페 TM / 꼼꼼한 신차검수 / 썬팅 / 2채널 블랙박스 / 코일매트 시공",
+    "summary": "2019.8.28. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 신차검수 / 썬팅 / 블랙박스 / 코일매트 작업시간 : 4시간 신차검수를 위해 매장에 입고된 싼타페 차량입니다 신차검수는 ...",
+    "description": "2019.8.28. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 신차검수 / 썬팅 / 블랙박스 / 코일매트 작업시간 : 4시간 신차검수를 위해 매장에 입고된 싼타페 차량입니다 신차검수는 ... 외관 내장 조립 등의 상태를 확인하는데요 .. 물론 위에 말씀드린 부분도 중요합니다 .. 그러나 차량의 전장상태를 모두 확인... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxOTA4MjhfMTgy/MDAxNTY2OTY3NDg5MjU2.FzGLZTKfiNbu3bTPfqqTP2WMX_ED1RtggAfQvkzujkcg.6SFnVhtgjycNk5qHrPG_ZLHfcODMmU0AhQZS6NQWW70g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양]싼타페 · [일산 파주 운정 김포 고양]싼타페 TM / 꼼꼼한 신차검수 / 썬팅 / 2채널 블랙박스 / 코일매트 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392778296?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양]싼타페",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392778226",
+    "date": "2026-08-28",
+    "category": "기타작업",
+    "car": "더뉴쏘렌토",
+    "title": "더뉴 쏘렌토 / 순정네비게이션 차량 / 주행중 DMB락해제 / USB미디어 락프리 / 잭바이잭 차량손상 제로 ! [일산 파주 운정 김포 고양]",
+    "summary": "2020.8.28. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 더뉴쏘렌토 작업내용 : 주행중DMB락프리 작업시간 : 40분 순정 네비게이션과이 장착된 더뉴쏘렌토 차량이 입고되었습니다 주행중 DMB락프리 작업이 진행될 예정이구요 차량에 손상이 전…",
+    "description": "2020.8.28. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 더뉴쏘렌토 작업내용 : 주행중DMB락프리 작업시간 : 40분 순정 네비게이션과이 장착된 더뉴쏘렌토 차량이 입고되었습니다 주행중 DMB락프리 작업이 진행될 예정이구요 차량에 손상이 전혀없는 고급형 모듈을 사용하여 시공합니다 ! 작업전 차량 동작 상태를 먼저 보여드릴... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA4MjhfMjQw/MDAxNTk4NTk2Mjc2Mzg4.Uqy4xfwynBRPOKeVx6WwB491IXjxedtm9vq-imvkerAg.S2vjJiiI-WbyjmoP8hIIssMDiAEyNt-_b5XPpYcxKRQg.PNG.uh2816/1.png?type=ffn480_320"
+    ],
+    "captions": [
+      "더뉴쏘렌토 · 더뉴 쏘렌토 / 순정네비게이션 차량 / 주행중 DMB락해제 / USB미디어 락프리 / 잭바이잭 차량손상 제로 ! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392778226?fromRss=true&trackingCode=rss",
+    "tags": [
+      "더뉴쏘렌토",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392778155",
+    "date": "2026-08-28",
+    "category": "사이드미러",
+    "car": "사이드미러",
+    "title": "사이드미러수리 / 에쿠스 VS380 / 사이드미러 접힘 펴짐 불량 / 불필요한 사이드미러 교체 말고 수리해서 저렴하게 정상적으로 사용하실수 있습니다 [일산 파주",
+    "summary": "2021.8.28. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 에쿠스 VS380 작업내용 : 사이드미러 수리 작업시간 : 1시간 이내 사이드미러가 펴지고 접히는 기능이 정상적으로 되지않아 수리를 위해 입고된 에쿠스 차량입니다…",
+    "description": "2021.8.28. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 에쿠스 VS380 작업내용 : 사이드미러 수리 작업시간 : 1시간 이내 사이드미러가 펴지고 접히는 기능이 정상적으로 되지않아 수리를 위해 입고된 에쿠스 차량입니다 카센터에 방문하셔서 물어보니 40만원이 넘는 금액이 나온다고 하셨다네요 .. 그래서 찾아보다 12볼트스토리로... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MjhfOCAg/MDAxNjMwMTE1ODU3MDE2.58QbohBGAUD7itR6T2faS3amazEhQDzVqhxRyohhntQg.OStUf_Bs144Scn_5CJlxwnbdgGnTONGq_N0ZNvalX2Ug.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "사이드미러 · 사이드미러수리 / 에쿠스 VS380 / 사이드미러 접힘 펴짐 불량 / 불필요한 사이드미러 교체 말고 수리해서 저렴하게 정상적으로 사용하실수 있습니다 [일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392778155?fromRss=true&trackingCode=rss",
+    "tags": [
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392778078",
+    "date": "2026-08-28",
+    "category": "사이드미러",
+    "car": "올뉴쏘렌토",
+    "title": "올뉴쏘렌토 / 사이드미러 폴딩불량 / 부분수리 / 사이드미러 전체 교체 보다 훨신 저렴해요 ~~ 부분수리 해서 사용하세요 [일산 파주 운정 김포 고양]",
+    "summary": "2023.8.28. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴쏘렌토 작업내용 : 사이드미러 폴딩불량 수리 작업시간 : 40분 이내 사이드미러 폴딩불량으로 입고된 올뉴쏘렌토 차량입니다 요즘 아주 많이 입고되는 차량이에요 ..",
+    "description": "2023.8.28. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴쏘렌토 작업내용 : 사이드미러 폴딩불량 수리 작업시간 : 40분 이내 사이드미러 폴딩불량으로 입고된 올뉴쏘렌토 차량입니다 요즘 아주 많이 입고되는 차량이에요 .. 아무래도 시기가 그런가 봅니다 다행히 쏘렌토 모터는 재고가 충분해요 ~^^ 입고시 차량의 모습입니다 이... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MjhfMjYz/MDAxNjkzMTgzNTQ1NTkx.YuoO-fPTJLBpSXQu-sEg56tf0F2rkguX7AN0VN8hSE8g.tBzGCerjhckhbOdq_sAyU4DQOJr9f6pDd9yClUwyRdUg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "올뉴쏘렌토 · 올뉴쏘렌토 / 사이드미러 폴딩불량 / 부분수리 / 사이드미러 전체 교체 보다 훨신 저렴해요 ~~ 부분수리 해서 사용하세요 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392778078?fromRss=true&trackingCode=rss",
+    "tags": [
+      "올뉴쏘렌토",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392777979",
+    "date": "2026-08-28",
+    "category": "기타작업",
+    "car": "벤츠 GLC / 순정트위터 활성화 /",
+    "title": "벤츠 GLC / 순정트위터 활성화 / 비어있는 자리에 순정트위터 장착 / 구매해 오신 스피커 배선까지 완벽하게 순정처럼 장착해드렸습니다 ![일산 파주 운정 김포",
+    "summary": "2025.8.28. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 GLC 작업내용 : 순정 트위터 생성 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.8.28. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 GLC 작업내용 : 순정 트위터 생성 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요. 벤츠GLC 차량이 순정 트위터를 장착하기위해 방문해 주셨습니다 고객님께서 스피커를 구매해서 방문해 주셨구요 이게... 왜 필요하냐면요 보여드릴게요 ~~! 이렇... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MjhfMTgg/MDAxNzU2MzU3Mzk4NTIx.Q_8oeet68NJVhYscu0x5XFq0SIOhjHpKxVHHHZ4a6fEg.kiRgfbeaqaVW5VaBBH-SmcRVuzXwILoCnpuQiinXAEUg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "벤츠 GLC / 순정트위터 활성화 / · 벤츠 GLC / 순정트위터 활성화 / 비어있는 자리에 순정트위터 장착 / 구매해 오신 스피커 배선까지 완벽하게 순정처럼 장착해드렸습니다 ![일산 파주 운정 김포 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392777979?fromRss=true&trackingCode=rss",
+    "tags": [
+      "벤츠 GLC / 순정트위터 활성화 /",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224392777832",
+    "date": "2026-08-28",
+    "category": "사이드미러",
+    "car": "사이드미러",
+    "title": "사이드미러수리 / 에쿠스 VS380 / 사이드미러 접힘 펴짐 불량 / 불필요한 사이드미러 교체 말고 수리해서 저렴하게 정상적으로 사용하실수 있습니다 [일산 파주",
+    "summary": "2025.8.28. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 에쿠스 VS380 작업내용 : 사이드미러 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.8.28. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 에쿠스 VS380 작업내용 : 사이드미러 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러가 펴지고 접히는 기능이 정상적으로 되지않아 수리를 위해 입고된 에쿠스 차량입니다 카센터에 방문하셔서 물어보니 40만원이 넘는 금액이 나온다고 하셨다... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MjhfMTgz/MDAxNzU2MzY3NjYzMzI0.nJrHJnY7RW3hl40zTGQV5_-Ax67-oLWmepLDXjReHpgg.RHbPhry_vao8ZDZB35q4dEERaafefh5Leg2wnh_12Asg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "사이드미러 · 사이드미러수리 / 에쿠스 VS380 / 사이드미러 접힘 펴짐 불량 / 불필요한 사이드미러 교체 말고 수리해서 저렴하게 정상적으로 사용하실수 있습니다 [일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224392777832?fromRss=true&trackingCode=rss",
+    "tags": [
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224392331194",
     "date": "2026-08-27",
