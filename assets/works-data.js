@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-28 09:27", "count": 205, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-28 21:15", "count": 206, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224393010320",
+    "date": "2026-08-28",
+    "category": "사이드미러",
+    "car": "봉고3 신차 카존 3D 어라운드뷰 시즌5",
+    "title": "봉고3 신차 카존 3D 어라운드뷰 시즌5 장착｜12.3인치 고화질 모니터로 사각지대 해결 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해드릴 차량은 기아 봉고3 신차 입니다. 일반 승용차와 달리 봉고3 화물차는 차체가 크고 적재함 길이까지 있기 때문에 운전석에서 확인하기 어려운 사각지대가 상당히 많습니다.",
+    "description": "오늘 소개해드릴 차량은 기아 봉고3 신차 입니다. 일반 승용차와 달리 봉고3 화물차는 차체가 크고 적재함 길이까지 있기 때문에 운전석에서 확인하기 어려운 사각지대가 상당히 많습니다. 특히 좁은 골목이나 주차장, 상·하차 장소에서 차량 주변을 한눈에 확인하기 어려워 운전자분들이 가장 불편해하는 부분 중 하나인데요. 이번 차량에는 이런 불편함을 줄이기 위해 카존 KAZON 360 3D 어라운드뷰 시즌5 와 12.3인치 전용 고화질 모니터 를 함께 장착했습니다. 작업차량 : 봉고3 탑차 작업내용 : 카존 3D 어라운드뷰 시즌5 작업시간 : 6시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 봉고3에 어라운드뷰가 필요한 이유 봉고3 같은 화물차는 승용차보다 차체가 높고 길며, 뒤쪽 적재함 때문에 후방 시야 확보도 쉽지 않습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjhfMjA3/MDAxNzg3ODg0MDgxNTQ5.hMBtwB3BB-Rj4PZmiUk0vNzTrysH5Yo6krwNz3ziDHYg.btNhWZ5HParOjAMTuyzDoiM_p80cG_k6Nk0IILunIV4g.JPEG/KakaoTalk_20260828_075901441_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjhfODYg/MDAxNzg3ODg0MDk0Njg3.j0bm89Ql_ViGGrUNbYDLbrHPrPgynHeuOIt_tQGui-cg.-6U7BFYSGAjhxDpqZSOPZNJBSjQtAuHMOOMLcFg_6FUg.JPEG/KakaoTalk_20260828_075901441_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjhfMjM1/MDAxNzg3ODg0MTA2Njgw.vQyp7gF6vm281XEz0KxYNHr5_3qC61xgp6Kt7-XzpMIg.yUwQ5ZER_Lq05U3Ohy3yC-8YLa8iAmV2mrsEA9XlBZ8g.JPEG/KakaoTalk_20260828_075901441_10.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjhfMzAw/MDAxNzg3ODg0MTIzNjIx.cqq8hAGbhtDI9kklE74E0M612rS_5QNeIbQOEWV3LQ8g.LPK9rwZ0KpVxPfV6gDvq_RICgZ1E1nJIT4WaZGQkWW4g.JPEG/KakaoTalk_20260828_075901441_23.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjhfMjU3/MDAxNzg3ODg0MTIzNjYw.VVIZnmw4ThIDkLtKllyG64cg0lY-fAEPqXeCYr7fW1kg.pOYa7C-wPV1Y8kNQKCl2cvYyAkkLP553OWSCuCclfb0g.JPEG/KakaoTalk_20260828_075901441_24.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjhfMzMg/MDAxNzg3ODg0MTQ1MTY1.x3maIADa2dGQYstr3MMdwRKSIsuZCb9ZvlUA8toFHyMg.26KJdeeouxEYBokyGrm3DqBD9rCX3p1xbVLmqaEN5E8g.JPEG/KakaoTalk_20260828_075901441.jpg?type=w800"
+    ],
+    "captions": [
+      "봉고3 신차 카존 3D 어라운드뷰 시즌5 · 봉고3 신차 카존 3D 어라운드뷰 시즌5 장착｜12.3인치 고화질 모니터로 사각지대 해결 [일산 파주 운정 김포 고양] 작업사진 1",
+      "봉고3 신차 카존 3D 어라운드뷰 시즌5 · 봉고3 신차 카존 3D 어라운드뷰 시즌5 장착｜12.3인치 고화질 모니터로 사각지대 해결 [일산 파주 운정 김포 고양] 작업사진 2",
+      "봉고3 신차 카존 3D 어라운드뷰 시즌5 · 봉고3 신차 카존 3D 어라운드뷰 시즌5 장착｜12.3인치 고화질 모니터로 사각지대 해결 [일산 파주 운정 김포 고양] 작업사진 3",
+      "봉고3 신차 카존 3D 어라운드뷰 시즌5 · 봉고3 신차 카존 3D 어라운드뷰 시즌5 장착｜12.3인치 고화질 모니터로 사각지대 해결 [일산 파주 운정 김포 고양] 작업사진 4",
+      "봉고3 신차 카존 3D 어라운드뷰 시즌5 · 봉고3 신차 카존 3D 어라운드뷰 시즌5 장착｜12.3인치 고화질 모니터로 사각지대 해결 [일산 파주 운정 김포 고양] 작업사진 5",
+      "봉고3 신차 카존 3D 어라운드뷰 시즌5 · 봉고3 신차 카존 3D 어라운드뷰 시즌5 장착｜12.3인치 고화질 모니터로 사각지대 해결 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393010320?fromRss=true&trackingCode=rss",
+    "tags": [
+      "봉고3 신차 카존 3D 어라운드뷰 시즌5",
+      "사이드미러",
+      "봉고3,봉고3어라운드뷰,봉고3신차,봉고3카존,카존어라운드뷰,카존360,카존시즌5,3D어라운드뷰,화물차어라운드뷰,트럭어라운드뷰,봉고3후방카메라,봉고3전방카메라,12인치모니터,12점3인치모니터,일산어라운드뷰,고양어라운드뷰,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224392778492",
     "date": "2026-08-28",
