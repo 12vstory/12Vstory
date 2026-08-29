@@ -1,6 +1,225 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-29 07:27", "count": 206, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-29 12:54", "count": 214, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224393980246",
+    "date": "2026-08-29",
+    "category": "블랙박스",
+    "car": "포터2 순정 열선핸들",
+    "title": "포터2 순정 열선핸들 장착 + 모터스밸류 7870 안드로이드 올인원 + 파인뷰 SF500 블랙박스 교체 [일산 파주 운정 김포 고양]",
+    "summary": "이번 작업 차량은 현대 포터2 입니다. 포터2는 업무용으로 사용하는 경우가 많다 보니 하루 동안 차량에서 보내는 시간이 상당히 긴 편입니다. 그래서 화려한 튜닝보다는 매일 직접 사용하는 편의장비를 업그레이드했을 때 만족도가 훨씬 높은 차량이기도 합니다.",
+    "description": "이번 작업 차량은 현대 포터2 입니다. 포터2는 업무용으로 사용하는 경우가 많다 보니 하루 동안 차량에서 보내는 시간이 상당히 긴 편입니다. 그래서 화려한 튜닝보다는 매일 직접 사용하는 편의장비를 업그레이드했을 때 만족도가 훨씬 높은 차량이기도 합니다. 이번 차량에는 세 가지 작업을 한 번에 진행했습니다. ✔ 모터스밸류 7870 안드로이드 올인원 장착 ✔ 포터2 순정 열선핸들 풀세트 시공 ✔ 파인뷰 SF500 블랙박스 교체 특히 열선핸들은 단순히 스위치만 추가하는 작업이 아니라 열선이 내장된 순정 핸들과 관련 부품까지 제대로 교체하는 순정옵션 작업 으로 진행했습니다. 작업차량 : 포터2 작업내용 : 안드로이드 올인원 / 블랙박스 교체 / 순정 열선핸들 작업시간 : 5시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMTM3/MDAxNzg3OTY0OTE2NzU0.KzM4GMrZ1aEH9k9WH1XlSABHnbw744sKlUbWlUXHca8g.gGz5MLAsH-9ScRL9Xku3Xq1MvP-R1jIShaP5H2s02zgg.JPEG/KakaoTalk_20260828_075936240_01.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfNTUg/MDAxNzg3OTY0OTE2NzU4.SAYXcma3GdFgUJvdOYFCohizcBsqIFq0qD8-BpGgMb8g._HuYLiTsPiJnN0LV3e_c5hX-IWsOptCoz4MCbgIoAMwg.JPEG/KakaoTalk_20260828_075936240.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMTUg/MDAxNzg3OTY0OTI2MjUx.lhN2L974efRoAw1R1TKxaGBAy_DsEZIzcMt_5RD4ke0g.6WbYr8i_HulY6dOovScnSy4Uvx69JyzYE-jCUmz0Cd0g.JPEG/KakaoTalk_20260828_075936240_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjE5/MDAxNzg3OTY0OTQxNzM2.TefuI0n-GPtFJoEId-x24VQwihVwzYodGG_uQp2VS8Ig.E4PWoVlclKBHogDlBegvoRWcBpiTSozieIHV5OnSXQog.JPEG/KakaoTalk_20260828_075936240_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfNzAg/MDAxNzg3OTY0OTY3OTY5.NI4RVmyxr9f5rla-fBQwPb5WzqCk1Xpll56-zkioECcg.G86SB4DrEidM4FTrmdgXEQ_hUkAF1fOJlu04c6eQ4n0g.JPEG/KakaoTalk_20260828_075943898.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMTAg/MDAxNzg3OTY0OTk4MDA2.cHuAbdjgwQjyEURSTKsbOm2Gih6UgXJGwEYh8Cao2Y4g.Ovs-GqWqZPETSu0rxZcg_3cI6t4IdYzydAJ0HH_jWLEg.JPEG/KakaoTalk_20260828_075936240_19.jpg?type=w800"
+    ],
+    "captions": [
+      "포터2 순정 열선핸들 · 포터2 순정 열선핸들 장착 + 모터스밸류 7870 안드로이드 올인원 + 파인뷰 SF500 블랙박스 교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "포터2 순정 열선핸들 · 포터2 순정 열선핸들 장착 + 모터스밸류 7870 안드로이드 올인원 + 파인뷰 SF500 블랙박스 교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "포터2 순정 열선핸들 · 포터2 순정 열선핸들 장착 + 모터스밸류 7870 안드로이드 올인원 + 파인뷰 SF500 블랙박스 교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "포터2 순정 열선핸들 · 포터2 순정 열선핸들 장착 + 모터스밸류 7870 안드로이드 올인원 + 파인뷰 SF500 블랙박스 교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "포터2 순정 열선핸들 · 포터2 순정 열선핸들 장착 + 모터스밸류 7870 안드로이드 올인원 + 파인뷰 SF500 블랙박스 교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "포터2 순정 열선핸들 · 포터2 순정 열선핸들 장착 + 모터스밸류 7870 안드로이드 올인원 + 파인뷰 SF500 블랙박스 교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393980246?fromRss=true&trackingCode=rss",
+    "tags": [
+      "포터2 순정 열선핸들",
+      "블랙박스",
+      "포터2,포터2튜닝,포터열선핸들,포터2열선핸들,포터순정열선핸들,포터클럭스프링,순정옵션,포터순정옵션,포터안드로이드올인원,포터2안드로이드올인원,모터스밸류7870,7870안드로이드올인원,포터블랙박스,파인뷰SF500,포터후방카메라,일산안드로이드올인원,일산순정옵션,일산블랙박스,고양자동차튜닝,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224393915951",
+    "date": "2026-08-29",
+    "category": "블랙박스",
+    "car": "제네시스 G80",
+    "title": "고양 일산 파주 / 신차검수잘하는곳 /제네시스G80 신차패키지 #1 신차검수 , 썬팅 , 블랙박스",
+    "summary": "2017.8.29. 9년 전 오늘 안녕하세요 12볼트스토리입니다 이번 포스팅은 #제네시스 #G80 차량의 #신차패키지 작업입니다 차량 인수전 꼼꼼하게 신차검수를 진행중입니다 단차 , 도장불량 , 구성품 , 실내 까지 모두 확인하고 인수증에 사인을 해줍니다 ^^…",
+    "description": "2017.8.29. 9년 전 오늘 안녕하세요 12볼트스토리입니다 이번 포스팅은 #제네시스 #G80 차량의 #신차패키지 작업입니다 차량 인수전 꼼꼼하게 신차검수를 진행중입니다 단차 , 도장불량 , 구성품 , 실내 까지 모두 확인하고 인수증에 사인을 해줍니다 ^^ 이제 썬팅부터 진행을 해볼게요 ^^ 썬팅 작업이 완료되었습니다 처음 입고시와 비교하면 어... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MjlfMjY0/MDAxNTAzOTcwMTYzNDU4.KCkgQg7cRx1GAbtae_Tx25Atg8CJzJCApP1HHunqelAg.r_V5I93jkEa0ZwN_C5jgFPUePsgdALmFpR0qmfsY_SUg.PNG.uh2816/111.png?type=ffn480_320"
+    ],
+    "captions": [
+      "제네시스 G80 · 고양 일산 파주 / 신차검수잘하는곳 /제네시스G80 신차패키지 #1 신차검수 , 썬팅 , 블랙박스 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393915951?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 G80",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224393915882",
+    "date": "2026-08-29",
+    "category": "기타작업",
+    "car": "고양 일산 파주 운정 김포 / 올뉴쏘",
+    "title": "고양 일산 파주 운정 김포 / 올뉴쏘렌토 / 닥쏘오토 LED컵홀더 / 무선충전플레이트",
+    "summary": "2017.8.29. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 올뉴쏘렌토 차량의 #LED컵홀더 #플레이트 작업입니다 시공에 사용된 제품은 #닥쏘오토 제품입니다 작업을 위해 입고된 쏘렌토 차량입니다 작업전 순정상태의 모습입니다 작업을 위해 탈거…",
+    "description": "2017.8.29. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 올뉴쏘렌토 차량의 #LED컵홀더 #플레이트 작업입니다 시공에 사용된 제품은 #닥쏘오토 제품입니다 작업을 위해 입고된 쏘렌토 차량입니다 작업전 순정상태의 모습입니다 작업을 위해 탈거 하였습니다 ^^ 쨘 ~~~ 작업이 완료되었구요 미등시 점등 되도록 연결되어있습니다 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MjlfMjIw/MDAxNTA0MDEyMzE2NjU0.7RkisucN4QifxdzCLw0MF1csJ4hnEAPkRe132P9pdUcg.jEHvyZUuZDo2rUbk91IX2a-oSdS-LjfTPGteCrrj2JUg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "고양 일산 파주 운정 김포 / 올뉴쏘 · 고양 일산 파주 운정 김포 / 올뉴쏘렌토 / 닥쏘오토 LED컵홀더 / 무선충전플레이트 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393915882?fromRss=true&trackingCode=rss",
+    "tags": [
+      "고양 일산 파주 운정 김포 / 올뉴쏘",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224393915789",
+    "date": "2026-08-29",
+    "category": "사이드미러",
+    "car": "K5",
+    "title": "[일산 파주 운정 김포 고양] 올뉴K5 - 순정사이드미러 리피터(깜빡이) / 오토라이트 / 크루즈컨트롤 시공",
+    "summary": "2018.8.29. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴K5 작업내용 : 순정 사이드리피터 / 오토라이트 / 크루즈컨트롤 작업시간 : 2시간 작업을 위해 입고된 올뉴K5 차량입니다 검정색인데 깔끔하게 관리가 잘되어있네요 ^^ 첫…",
+    "description": "2018.8.29. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴K5 작업내용 : 순정 사이드리피터 / 오토라이트 / 크루즈컨트롤 작업시간 : 2시간 작업을 위해 입고된 올뉴K5 차량입니다 검정색인데 깔끔하게 관리가 잘되어있네요 ^^ 첫 작업으로는 사이드리피터 (사이드미러 깜빡이) 부터 진행하겠습니다 ^^ 작업전 차량의 모습이구... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MjlfMTY4/MDAxNTM1NTQ3MDI2Mjc2.91ddw9eN5cnlmsMBiaXB7pq0HvAB76cVdukPM0eU-FYg.ZeiZqoqOp6emW9wpm8Kg3zPvDjW73MQGxJNyUvv_WvQg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K5 · [일산 파주 운정 김포 고양] 올뉴K5 - 순정사이드미러 리피터(깜빡이) / 오토라이트 / 크루즈컨트롤 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393915789?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224393915712",
+    "date": "2026-08-29",
+    "category": "사이드미러",
+    "car": "YF쏘나타",
+    "title": "YF쏘나타 / 전동접이미러수리 / 사이드미러 접힘불량 / 사이드미러 폴딩모터 및 기어 수리 / 교체보다 저렴하게 수리하세요 !! [일산 파주 운정 김포 고양]",
+    "summary": "2021.8.29. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : YF쏘나타 작업내용 : 전동접이 사이드미러 수리 작업시간 : 1시간 이내 사이드미러가 접히지 않아 알아보시던중 교체보다 저렴하고 다른차량 미러가 아닌 원래 차량의 사이드미러를 수리해…",
+    "description": "2021.8.29. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : YF쏘나타 작업내용 : 전동접이 사이드미러 수리 작업시간 : 1시간 이내 사이드미러가 접히지 않아 알아보시던중 교체보다 저렴하고 다른차량 미러가 아닌 원래 차량의 사이드미러를 수리해서 사용이 가능하다는걸 보시고 12볼트스토리를 찾아주셨습니다 ^^ 요즘 사이드미러 수... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MjhfMjUx/MDAxNjMwMTE2NTAwODAz.JFlM10dc5trj3VyJ1srUkLXuYFG_boTf38XYY2hMSikg.Bn-AbcPgO6GLUQ4qBJ6V9bsCmePFCkc6kODAAyLuUnwg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "YF쏘나타 · YF쏘나타 / 전동접이미러수리 / 사이드미러 접힘불량 / 사이드미러 폴딩모터 및 기어 수리 / 교체보다 저렴하게 수리하세요 !! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393915712?fromRss=true&trackingCode=rss",
+    "tags": [
+      "YF쏘나타",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224393915638",
+    "date": "2026-08-29",
+    "category": "사이드미러",
+    "car": "LF쏘나타 뉴라이즈",
+    "title": "LF쏘나타 뉴라이즈 / 사이드미러 폴딩불량 / 사이드미러 모터 교체 / 비싼 돈 주고 교체하지 마시고 저렴하게 수리해서 사용하세요 ![일산 파주 운정 김포 고양]",
+    "summary": "2023.8.29. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘나타 뉴라이즈 작업내용 : 사이드미러 수리 작업시간 : 40분 사이드미러 폴딩 불량으로 입고된 쏘나타 뉴라이즈 입니다 ~ 우선 입고된 차량의 증상을 보여드릴게요 !",
+    "description": "2023.8.29. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘나타 뉴라이즈 작업내용 : 사이드미러 수리 작업시간 : 40분 사이드미러 폴딩 불량으로 입고된 쏘나타 뉴라이즈 입니다 ~ 우선 입고된 차량의 증상을 보여드릴게요 ! 증상은 이러했습니다 .. 그럼이제 수리를 시작해볼까요 ? 수리를 위해 사이드미러를 탈거한 모습입니다 이제... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MjlfMjQg/MDAxNjkzMjc5MTY5ODc2.tQN6RiPx4CdwrRnS9ke7N1VLiV8MliMv-fpw8RCU45cg.IDaGUutTz03gGki_jXDyB6wWc18RKQ1t1vn5RFJtugEg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "LF쏘나타 뉴라이즈 · LF쏘나타 뉴라이즈 / 사이드미러 폴딩불량 / 사이드미러 모터 교체 / 비싼 돈 주고 교체하지 마시고 저렴하게 수리해서 사용하세요 ![일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393915638?fromRss=true&trackingCode=rss",
+    "tags": [
+      "LF쏘나타 뉴라이즈",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224393915561",
+    "date": "2026-08-29",
+    "category": "블랙박스",
+    "car": "포터2 신차에 안전을 위해 4채널",
+    "title": "포터2 신차에 안전을 위해 4채널 블랙박스 장착 / 트럭맨 T10N 깨끗한 화질과 넓은 화각 / 보기좋은 카메라 외형까지 / 완벽하게 설치해 볼게요 [일산 파주",
+    "summary": "2025.8.29. 1년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 탑차 작업내용 : 4채널 블랙박스 작업시간 : 4 ~ 5 시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.8.29. 1년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 탑차 작업내용 : 4채널 블랙박스 작업시간 : 4 ~ 5 시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 이제 막 출고되어 썬팅 작업만 마친 포터2 EV 차량입니다 그동안 승용차량만 운행하시다가 택배업무로 사용하실거라 .. 안전을 위해 4채널 블랙박스를 선택해 주셨습... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MjlfMjIy/MDAxNzU2NDQ5NTY3MjUw.QU4trZNK3xSG8xPS2ZADcLzScIKa1c0T3ewPW8lgRqYg.RrQE77LHIshgl0rEMyOp_tzcdxdoVXexWoeNiKHoXNkg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "포터2 신차에 안전을 위해 4채널 · 포터2 신차에 안전을 위해 4채널 블랙박스 장착 / 트럭맨 T10N 깨끗한 화질과 넓은 화각 / 보기좋은 카메라 외형까지 / 완벽하게 설치해 볼게요 [일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393915561?fromRss=true&trackingCode=rss",
+    "tags": [
+      "포터2 신차에 안전을 위해 4채널",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224393915488",
+    "date": "2026-08-29",
+    "category": "후방카메라",
+    "car": "모닝 어반",
+    "title": "모닝 어반 / 후방카메라 없는 차량에 후방카메라 + 5인치 거치형 모니터 / 저렴하게 완벽하게 네비게이션 없이 후방카메라 장착 완료 [일산 파주 운정 김포 고양]",
+    "summary": "2025.8.29. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모닝어반 작업내용 : 후방카메라 장착 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.8.29. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모닝어반 작업내용 : 후방카메라 장착 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 모닝어반 차량이 후방카메라 장착을 위해 예약 해 주시고 방문해 주셨습니다 중고차 가지고 오셨는데 후방카메라가 없어서 너무 불편하다고 하시네요 이제 작업을 시작해 볼... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MjlfMTk4/MDAxNzU2NDUxNTk4MDgz.BHqjCHUHTmWC9E1C1pNzqOcpjwXFc3nvg5bVMzaT2U8g.NXhvgcUGZ7t-V0Wll6e8O-c750WhcSDNPmmIPG3_20sg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "모닝 어반 · 모닝 어반 / 후방카메라 없는 차량에 후방카메라 + 5인치 거치형 모니터 / 저렴하게 완벽하게 네비게이션 없이 후방카메라 장착 완료 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224393915488?fromRss=true&trackingCode=rss",
+    "tags": [
+      "모닝 어반",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224393010320",
     "date": "2026-08-28",
