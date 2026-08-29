@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-29 12:54", "count": 214, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-29 20:07", "count": 215, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224394111021",
+    "date": "2026-08-29",
+    "category": "후방카메라",
+    "car": "그랜저TG 순정",
+    "title": "그랜저TG 순정 후방카메라 고장｜순정 모니터 그대로 사제 후방카메라 교체 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 그랜저TG Q 270 입니다. 이번 차량은 순정 후방카메라 고장으로 입고되었습니다. 후진기어를 넣으면 순정 모니터가 후방카메라 화면으로 정상 전환되고 주차 가이드라인까지 표시되지만 실제 후방 영상은 나오지 않는 증상 입니다.",
+    "description": "오늘 작업 차량은 그랜저TG Q 270 입니다. 이번 차량은 순정 후방카메라 고장으로 입고되었습니다. 후진기어를 넣으면 순정 모니터가 후방카메라 화면으로 정상 전환되고 주차 가이드라인까지 표시되지만 실제 후방 영상은 나오지 않는 증상 입니다. 순정 모니터와 오디오 시스템은 정상적으로 작동하고 있었기 때문에 비싼 순정 시스템 전체를 교체하지 않고, 고장 난 순정 후방카메라만 사제 후방카메라로 교체 하여 기존 순정 모니터를 그대로 사용할 수 있도록 작업했습니다. 작업차량 : 그랜저TG 작업내용 : 순정 후방카메라 교체 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요. 그랜저TG 순정 후방카메라 고장 → 사제 후방카메라 교체 오늘 작업 내용을 한눈에 볼 수 있도록 만든 대표 이미지입니다.",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjQ2/MDAxNzg3OTc2MTYwODU4.Qbdcer05LoLE7-OUmCqaacBjPXs3RupaM-g2Iz_95gcg.pGvzgf7FL7CnLf3qEv7RHVsltEUZRGEbIoNKS6X-U48g.JPEG/KakaoTalk_20260829_124659839_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjUg/MDAxNzg3OTc2MTgwODMz.kpQy2d9PpL1uBtg_uQxF8-VNSI5Fhb_vuVk48awIbNUg.iS7B1YRhKkjJCcrbw6yRefYEnIZKU5mkh9Gv3EVpG10g.JPEG/KakaoTalk_20260829_124659839.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfOTYg/MDAxNzg3OTc2MjAzMTYw.DsuBm7d6tBL2DFQtlWui_jR9YZnPtoWUn_ELphFn0dog.-Q8ytoC0KNnQBBGREAWRDke6dp5pA6admvGETsq6Mskg.JPEG/KakaoTalk_20260829_124659839_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjc5/MDAxNzg3OTc2MjIyNDIw.SzLhwXOePXo7lf7StsbipvqzH8H765qDO3vhnDzTWQEg.YdACNnYaRykf8TTVMqpDZpTgAO0e9VIbnsOlUWI9u80g.JPEG/KakaoTalk_20260829_124659839_05.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfNjQg/MDAxNzg3OTc2MjIyNDU3.OwW3Y1to_QAg05JlmvDX2PGa1ab0b8D2Pn__WkT7YYIg.7WC_WtlqvRgk37UgYHoQux542R4DNc9vz0OEDGqjXpQg.JPEG/KakaoTalk_20260829_124659839_06.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjE2/MDAxNzg3OTc2MjM1NDY5.5IGVQ3Xv12w2D1GNCdwT0klUzH0ImQM76plcWcXEYRgg.nFVZj4MxoQxT3lkZAIoz3_c66RjYq7fmTY1GvA1qaF4g.JPEG/KakaoTalk_20260829_124659839_04.jpg?type=w800"
+    ],
+    "captions": [
+      "그랜저TG 순정 · 그랜저TG 순정 후방카메라 고장｜순정 모니터 그대로 사제 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "그랜저TG 순정 · 그랜저TG 순정 후방카메라 고장｜순정 모니터 그대로 사제 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "그랜저TG 순정 · 그랜저TG 순정 후방카메라 고장｜순정 모니터 그대로 사제 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "그랜저TG 순정 · 그랜저TG 순정 후방카메라 고장｜순정 모니터 그대로 사제 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "그랜저TG 순정 · 그랜저TG 순정 후방카메라 고장｜순정 모니터 그대로 사제 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "그랜저TG 순정 · 그랜저TG 순정 후방카메라 고장｜순정 모니터 그대로 사제 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224394111021?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜저TG 순정",
+      "후방카메라",
+      "그랜저TG,그랜저TG후방카메라,그랜저TG후방카메라교체,그랜저후방카메라,순정후방카메라,순정후방카메라고장,후방카메라고장,후방카메라교체,사제후방카메라,순정모니터후방카메라,일산후방카메라,고양시후방카메라,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224393980246",
     "date": "2026-08-29",
