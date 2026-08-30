@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-30 10:42", "count": 216, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-30 16:28", "count": 217, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224394249099",
+    "date": "2026-08-30",
+    "category": "후방카메라",
+    "car": "현대 엑센트",
+    "title": "현대 엑센트 안드로이드 올인원 장착｜모터스밸류 7870 + 후방카메라까지 한번에 업그레이드 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 현대 엑센트 VGT 입니다. 이번 작업은 기존 순정 오디오를 탈거하고 모터스밸류 7870 안드로이드 올인원 을 장착하면서, 후진 시 보다 편하게 사용할 수 있도록 후방카메라까지 함께 시공 했습니다.",
+    "description": "오늘 작업 차량은 현대 엑센트 VGT 입니다. 이번 작업은 기존 순정 오디오를 탈거하고 모터스밸류 7870 안드로이드 올인원 을 장착하면서, 후진 시 보다 편하게 사용할 수 있도록 후방카메라까지 함께 시공 했습니다. 연식이 있는 차량의 경우 순정 오디오가 정상적으로 작동하더라도 기능적인 부분에서는 요즘 차량과 차이가 클 수밖에 없습니다. 블루투스 음악 정도는 사용할 수 있어도 내비게이션, 유튜브, 티맵, 각종 음악 앱, 스마트폰 연동 같은 기능을 사용하려면 별도의 거치대나 스마트폰에 의존해야 하는 경우가 많죠. 안드로이드 올인원을 장착하면 이런 부분을 한 번에 해결할 수 있습니다. 작업차량 : 엑센트 작업내용 : 안드로이드 올인원 + 후방카메라 작업시간 : 1시간 ~ 1시간 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMTUz/MDAxNzg3OTg3NjMxNjYz.AuE-O6Og1BwmPpwwHwAt6cQREpedT8_OCEzePmALNmog.oq3g7DE2TUxANFaHsKSYBXhGGmevPbjBtQiocghT4O8g.JPEG/KakaoTalk_20260829_124557049_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjcx/MDAxNzg3OTg3NjQ4NTk2.oK3ZlPrNywzpKTEDwczxHpz8QbucwYM_ehgHad3CnHkg.8w3jI6AK8m8nTezxKOjxalnFr3IwVxGt72WReUSUIqUg.JPEG/KakaoTalk_20260829_124557049_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMTU3/MDAxNzg3OTg3NjYwNDEy.i1GJEk-kIAu11mEfOSizENRxiyz4Z4HS4aEArU60mmgg.9w00gehiuZztWBiz0YudxoFWn-tGVR1VKtpHi9z1io0g.JPEG/KakaoTalk_20260829_124557049_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjUz/MDAxNzg3OTg3NjczMzQ3.lFP70k67wlDvFO3s20_9n9WZU7NsB4eGnC8_GaQaboMg.ihszb5R_qdjP_Vu8cPq-ePP2ZLg30-L32Lq-0CvkWXIg.JPEG/KakaoTalk_20260829_124557049_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjQx/MDAxNzg3OTg3Njg2Mjkw.KpaudGOwRAqmoOomjqz_kq6mgfaQyTYX2mWpK-6NXr4g.JYlJB7AsQ8xaQFJsjeLiH6IIQELHZvSEX5q3bFF4_vgg.JPEG/KakaoTalk_20260829_124557049_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjg3/MDAxNzg3OTg3NzEzNjUz.5-_TTK9xwdSRT_okiS1Wa0b1MxIyDlK8MFZ9rsFFT_Ug.sWd-UWsQog7JNkt4l-zLlzRn4GjZmQ1yprLXYGP8Ye4g.JPEG/KakaoTalk_20260829_124557049_06.jpg?type=w400"
+    ],
+    "captions": [
+      "현대 엑센트 · 현대 엑센트 안드로이드 올인원 장착｜모터스밸류 7870 + 후방카메라까지 한번에 업그레이드 [일산 파주 운정 김포 고양] 작업사진 1",
+      "현대 엑센트 · 현대 엑센트 안드로이드 올인원 장착｜모터스밸류 7870 + 후방카메라까지 한번에 업그레이드 [일산 파주 운정 김포 고양] 작업사진 2",
+      "현대 엑센트 · 현대 엑센트 안드로이드 올인원 장착｜모터스밸류 7870 + 후방카메라까지 한번에 업그레이드 [일산 파주 운정 김포 고양] 작업사진 3",
+      "현대 엑센트 · 현대 엑센트 안드로이드 올인원 장착｜모터스밸류 7870 + 후방카메라까지 한번에 업그레이드 [일산 파주 운정 김포 고양] 작업사진 4",
+      "현대 엑센트 · 현대 엑센트 안드로이드 올인원 장착｜모터스밸류 7870 + 후방카메라까지 한번에 업그레이드 [일산 파주 운정 김포 고양] 작업사진 5",
+      "현대 엑센트 · 현대 엑센트 안드로이드 올인원 장착｜모터스밸류 7870 + 후방카메라까지 한번에 업그레이드 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224394249099?fromRss=true&trackingCode=rss",
+    "tags": [
+      "현대 엑센트",
+      "후방카메라",
+      "엑센트,현대엑센트,엑센트안드로이드올인원,엑센트올인원,모터스밸류,모터스밸류7870,7870올인원,안드로이드올인원,엑센트후방카메라,후방카메라장착,티맵,유튜브,일산안드로이드올인원,일산올인원,고양시올인원,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224394237282",
     "date": "2026-08-30",
