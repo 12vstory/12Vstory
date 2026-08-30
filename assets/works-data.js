@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-08-30 08:38", "count": 215, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-08-30 10:42", "count": 216, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224394237282",
+    "date": "2026-08-30",
+    "category": "블랙박스",
+    "car": "BMW 118",
+    "title": "BMW 118D 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 전후방 블랙박스 장착 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 BMW 118D 입니다. 기존에 장착되어 있던 BMW 순정 블랙박스를 탈거하고 파인뷰 LXQ800 POWER 전후방 블랙박스로 교체 하는 작업을 진행했습니다.",
+    "description": "오늘 작업 차량은 BMW 118D 입니다. 기존에 장착되어 있던 BMW 순정 블랙박스를 탈거하고 파인뷰 LXQ800 POWER 전후방 블랙박스로 교체 하는 작업을 진행했습니다. 블랙박스는 한번 장착하면 오랜 시간 사용하는 제품인 만큼 단순히 본체만 붙이는 것이 아니라, 기존 배선 정리부터 전·후방 카메라 위치와 배선 마감까지 깔끔하게 작업하는 것이 중요합니다. 작업차량 : BMW 118d 작업내용 : 순정 블랙박스 교체 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 오늘 작업 차량은 BMW 118D입니다. 기존 BMW 순정 블랙박스를 제거하고 파인뷰 LXQ800 POWER 제품으로 새롭게 교체합니다. 파인뷰 LXQ800 POWER 이번에 장착할 제품은 파인뷰 LXQ800 POWER 입니다.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMTI3/MDAxNzg3OTg2NzExMTk5.frYPp1ilXixvl1vxDJ33fenidfO7jAN8QUQpJ5uTFjIg.Qptd5f3LhY5nYMTnkP73PRgTkQguCUlwjqMuOqulxaog.JPEG/KakaoTalk_20260829_124402716_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMTU2/MDAxNzg3OTg2Nzg4NzEz.bp71IfzxENR6atYjvRokT62bjFGtoTMWRMT9YDuXEB0g.prPHhYde6bnGP87msADRmSrFoaskwl5CQesFHWYsEwcg.JPEG/KakaoTalk_20260829_124402716_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjkz/MDAxNzg3OTg2ODExNDUz.z0kiVctUDVA4K086WhoEuNnvtsPEd4WaW9F2GRefF_Mg.OvptIZi9bXNdmAZG7A8LOA6edmaNBq47UX1o5egDGtgg.JPEG/KakaoTalk_20260829_124402716_03.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjA1/MDAxNzg3OTg2ODE4ODMx.1LzyhupLOcX81i02Q6LG1rLwA47jHo_vOv3EB9AqpI8g.DpfEqCvux14tPQ0pT8wZKpZtoiq2riCuxjPeuFNczH8g.JPEG/KakaoTalk_20260829_124402716_04.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjE1/MDAxNzg3OTg2ODU2MzI4.2fAOKo0i0wFdLVkF6cK_yjSMG7hoIJ7tOWx0fkwiaRcg.wsnQDVE_UJ_uxEt5DrW1weaQE5AzQtStzJp_hQpAF-sg.JPEG/KakaoTalk_20260829_124402716_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MjlfMjYw/MDAxNzg3OTg2ODc2NzMx.zJNt0YZzLHr2qMb9ecu3C_Uv33omBht7cH1TUhWYyA4g.2dknjEA5tX8BBQeHz9OKYM8oaM-2Vculp9KLcRbxV-0g.JPEG/KakaoTalk_20260829_124402716_06.jpg?type=w800"
+    ],
+    "captions": [
+      "BMW 118 · BMW 118D 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 전후방 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "BMW 118 · BMW 118D 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 전후방 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "BMW 118 · BMW 118D 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 전후방 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "BMW 118 · BMW 118D 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 전후방 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "BMW 118 · BMW 118D 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 전후방 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "BMW 118 · BMW 118D 순정 블랙박스 교체｜파인뷰 LXQ800 POWER 전후방 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224394237282?fromRss=true&trackingCode=rss",
+    "tags": [
+      "BMW 118",
+      "블랙박스",
+      "BMW118D,118D블랙박스,BMW블랙박스,BMW순정블랙박스,순정블랙박스교체,파인뷰,파인뷰LXQ800,LXQ800POWER,BMW블랙박스교체,수입차블랙박스,일산블랙박스,고양시블랙박스,일산수입차블랙박스,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224394111021",
     "date": "2026-08-29",
