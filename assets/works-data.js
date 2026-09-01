@@ -1,6 +1,117 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-01 09:38", "count": 233, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-01 14:42", "count": 236, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224397012480",
+    "date": "2026-09-01",
+    "category": "사이드미러",
+    "car": "니로 하이브리드",
+    "title": "니로 하이브리드 사이드미러 폴딩불량 부분수리｜통교환 없이 폴딩모터 수리 일산 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개할 차량은 기아 니로 하이브리드 입니다. 이번 차량의 증상은 운전자가 차량을 잠그거나 사이드미러 폴딩 버튼을 작동했을 때 사이드미러가 정상적으로 접히고 펴지지 않는 폴딩불량 증상 입니다.",
+    "description": "오늘 소개할 차량은 기아 니로 하이브리드 입니다. 이번 차량의 증상은 운전자가 차량을 잠그거나 사이드미러 폴딩 버튼을 작동했을 때 사이드미러가 정상적으로 접히고 펴지지 않는 폴딩불량 증상 입니다. 사이드미러 폴딩 기능은 매일 반복해서 사용하는 기능이다 보니 차량을 오래 사용하면서 내부 폴딩 구동부에 문제가 발생하는 경우가 있습니다. 이런 경우 사이드미러 전체를 무조건 교환하기보다는 먼저 내부 상태를 확인한 뒤 고장 난 부분만 부분수리 할 수 있는지 점검하는 것이 좋습니다. 작업차량 : 니로 하이브리드 작업내용 : 사이드미러 부분수리 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 니로 하이브리드 사이드미러 폴딩불량 증상 사이드미러 폴딩불량은 차량마다 증상이 조금씩 다르게 나타납니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjky/MDAxNzg4MjI1MTgwNTcx._gyck1Y-bKo7oNcIPoZc9K7lgcJG50Aau9h8W-dXFCcg.qSuJpr7cQnFkbA-eXNtZfhPziLhL1NYaVE8inwGI-kog.JPEG/KakaoTalk_20260831_091130676_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTk0/MDAxNzg4MjI1MjEyMjE1.oj9CTDXPItzOnM8MSnvwHE6Af-nRxcD2lEcD6Kewyd4g.2jvym-3WfbTq-c83PZuM3y17R-upr6jL5LRfcWDlbDAg.JPEG/KakaoTalk_20260831_091130676.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTAx/MDAxNzg4MjI1Mjc4NjM0.hzBgdai-9dgpDUPiecVzgCWOV03zPSdC9TtKibgpkaAg.i-QSkgX620PiLTEoIBfVSg_fLFuV4kJKmTyXNd_fG6Eg.JPEG/KakaoTalk_20260831_091130676_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTIy/MDAxNzg4MjI1Mjg4ODk2.Gs-rV3T6hdPAYM-9rbvPu2t4ZhpJWf0V4qAKNxwEfIYg.jI3kMFxvn6PVg5BNteboH6o6Gs8Tn3fNK5MIpm1Knd8g.JPEG/KakaoTalk_20260831_091130676_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTA2/MDAxNzg4MjI1MzEwMDI5.8fZuTowyAvmMG14Xmdl3iPlOJT3V8UJGjsThLkEBPlEg.RY9zxOt7F32mdtuBSc7dhh_M7RvlGiK1Au_kV6ip_1gg.JPEG/KakaoTalk_20260831_091130676_09.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfNjEg/MDAxNzg4MjI1MzMzMjg3.KDv10aSIp0vF4QjGp6sEBGaaX45hwkMgzqMbNTaebMog.p7ME-WTb1BhfpVTxIFL-HEyCQtnzctAVObs1JGvuToUg.JPEG/KakaoTalk_20260831_091130676_06.jpg?type=w800"
+    ],
+    "captions": [
+      "니로 하이브리드 · 니로 하이브리드 사이드미러 폴딩불량 부분수리｜통교환 없이 폴딩모터 수리 일산 [일산 파주 운정 김포 고양] 작업사진 1",
+      "니로 하이브리드 · 니로 하이브리드 사이드미러 폴딩불량 부분수리｜통교환 없이 폴딩모터 수리 일산 [일산 파주 운정 김포 고양] 작업사진 2",
+      "니로 하이브리드 · 니로 하이브리드 사이드미러 폴딩불량 부분수리｜통교환 없이 폴딩모터 수리 일산 [일산 파주 운정 김포 고양] 작업사진 3",
+      "니로 하이브리드 · 니로 하이브리드 사이드미러 폴딩불량 부분수리｜통교환 없이 폴딩모터 수리 일산 [일산 파주 운정 김포 고양] 작업사진 4",
+      "니로 하이브리드 · 니로 하이브리드 사이드미러 폴딩불량 부분수리｜통교환 없이 폴딩모터 수리 일산 [일산 파주 운정 김포 고양] 작업사진 5",
+      "니로 하이브리드 · 니로 하이브리드 사이드미러 폴딩불량 부분수리｜통교환 없이 폴딩모터 수리 일산 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224397012480?fromRss=true&trackingCode=rss",
+    "tags": [
+      "니로 하이브리드",
+      "사이드미러",
+      "니로사이드미러,니로사이드미러수리,니로하이브리드,니로폴딩불량,사이드미러폴딩불량,사이드미러안접힘,사이드미러수리,폴딩모터수리,사이드미러부분수리,니로폴딩모터,일산사이드미러수리,고양시사이드미러수리,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224396999502",
+    "date": "2026-09-01",
+    "category": "블랙박스",
+    "car": "벤츠 C220d C클래스 순정",
+    "title": "벤츠 C220d C클래스 순정 블랙박스 제거 후 파인뷰 SF500 교체｜일산 블랙박스 장착 [일산 파주 운정 김포 고양]",
+    "summary": "안녕하세요. 경기도 고양시 일산에서 자동차 전장 작업을 하고 있는 12볼트스토리 입니다. 오늘 소개해드릴 차량은 벤츠 C클래스 C220d 입니다.",
+    "description": "안녕하세요. 경기도 고양시 일산에서 자동차 전장 작업을 하고 있는 12볼트스토리 입니다. 오늘 소개해드릴 차량은 벤츠 C클래스 C220d 입니다. 이번 작업은 기존 차량에 장착되어 있던 벤츠 순정 블랙박스를 제거 하고, 새로운 파인뷰 SF500 블랙박스 로 교체하는 작업입니다. 벤츠 차량을 타다 보면 처음 출고 당시나 이전에 장착되어 있던 순정 블랙박스를 계속 사용하는 경우가 많은데요. 사용 기간이 오래되면서 작동이 불안정하거나, 영상 확인이 불편하거나, 최근 제품으로 교체하고 싶어서 방문하시는 경우가 꽤 있습니다. 이번 C220d 역시 기존 순정 블랙박스를 탈거하고 전·후방 블랙박스를 새롭게 구성해드렸습니다. 작업차량 : 벤츠C220d 작업내용 : 블랙박스교체 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjQx/MDAxNzg4MjI0NjY2NTkw._-s0d_I-BXcYPVzYUgiFZRSASc-ZN1L3K5CMZtYjr7Yg.EzsUPP_kmleeJZsAExvL7LJPSI_IdTpfo_3Dq1xfBIAg.JPEG/KakaoTalk_20260901_092314946_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfNjAg/MDAxNzg4MjI0NjgwNzUw.dixDVDKGnPBOwFbazKcD-i2tgvhxX_VZ1s0VQcBm-zYg.2qKVMHdhnm2haOtSqj2Cd3dpCWG5YZr_BtfCeSX2wiEg.JPEG/KakaoTalk_20260901_092314946.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjIw/MDAxNzg4MjI0NjkwMDEw.eFKCfaIy1amV-czW54pLJYs7BhcoE4kVCDZtF-wpEHwg._XDrnh37xjyRbyWKKpdxwvMg1oE01uTBVVNK97EUPIMg.JPEG/KakaoTalk_20260901_092314946_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjMz/MDAxNzg4MjI0NzAwMzg2.VUC2aeLmusLf1tLHpMjmbFW-fsP2SurF1KGNmmrX0Kkg.L_9O2ujE5-mgFCFiFTMoZ8BVEJg-Gl9Hagxow7kJ3kkg.JPEG/KakaoTalk_20260901_092314946_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTU4/MDAxNzg4MjI0NzExOTUw.2fAfy6Oii-iyQj4Sg2UsblLPrMpYKUq9kg8-lK11dQcg.tDLndgTNYpmRvE6em5cRu-6CsZpWRypcVnUi12bS1Bkg.JPEG/KakaoTalk_20260901_092314946_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTI5/MDAxNzg4MjI0NzI4MTcy.6lNwdI08myvlRaojRS2Mq3TDbYobq66nQCNCCPWJKa8g.SE0yn8tIloOgm1-2ZsjUgCQr_npqUJWEZTsPq53c3Mgg.JPEG/KakaoTalk_20260901_092314946_08.jpg?type=w800"
+    ],
+    "captions": [
+      "벤츠 C220d C클래스 순정 · 벤츠 C220d C클래스 순정 블랙박스 제거 후 파인뷰 SF500 교체｜일산 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "벤츠 C220d C클래스 순정 · 벤츠 C220d C클래스 순정 블랙박스 제거 후 파인뷰 SF500 교체｜일산 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "벤츠 C220d C클래스 순정 · 벤츠 C220d C클래스 순정 블랙박스 제거 후 파인뷰 SF500 교체｜일산 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "벤츠 C220d C클래스 순정 · 벤츠 C220d C클래스 순정 블랙박스 제거 후 파인뷰 SF500 교체｜일산 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "벤츠 C220d C클래스 순정 · 벤츠 C220d C클래스 순정 블랙박스 제거 후 파인뷰 SF500 교체｜일산 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "벤츠 C220d C클래스 순정 · 벤츠 C220d C클래스 순정 블랙박스 제거 후 파인뷰 SF500 교체｜일산 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224396999502?fromRss=true&trackingCode=rss",
+    "tags": [
+      "벤츠 C220d C클래스 순정",
+      "블랙박스",
+      "벤츠C220d,벤츠C클래스,벤츠블랙박스,벤츠순정블랙박스,벤츠순정블랙박스교체,순정블랙박스제거,파인뷰SF500,SF500,파인뷰블랙박스,벤츠블랙박스교체,일산블랙박스,일산수입차블랙박스,일산벤츠블랙박스,고양시블랙박스,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224396982857",
+    "date": "2026-09-01",
+    "category": "블랙박스",
+    "car": "BMW 520i G30 순정",
+    "title": "일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양]",
+    "summary": "BMW 520i G30 아이나비 QXD2 + 셀스타 보조배터리 장착 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 소개해드릴 차량은 BMW 520i G30 차량입니다.",
+    "description": "BMW 520i G30 아이나비 QXD2 + 셀스타 보조배터리 장착 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 소개해드릴 차량은 BMW 520i G30 차량입니다. 이번 작업은 블랙박스 교체 및 장착 작업으로 아이나비의 고급형 블랙박스인 QXD2 와 함께 주차 녹화 시 차량 배터리 부담을 줄여줄 수 있도록 셀스타 블랙박스 보조배터리 까지 함께 장착했습니다. BMW 5시리즈처럼 차량 전원 관리가 민감한 차량은 블랙박스를 단순히 장착하는 것보다 전원 연결과 배선 정리를 어떻게 하느냐가 상당히 중요합니다. 차량에는 순정 블랙박스가 장착이 되어있었습니다. 작업차량 : BMW 520i (G30) 작업내용 : 블랙박스 교체 / 보조배터리 장착 작업시간 : 1시간 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTIy/MDAxNzg4MjI0MjU5OTY3.t4lsLfrYVhbe0Pt66xHzs2UwW55alsp0CDmcD7Yo1Ugg.6x3FCBLFyH_MiwHa5j9wtWpAssVqb4RbHm6X1k-80okg.JPEG/KakaoTalk_20260901_092350294_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTI0/MDAxNzg4MjIzNjQ4Nzc2.-w8Q9FRU6xiOhmwNJe6vp7cnZvdP5lFB6PTxNl-t3MMg.4VTVKXphNdScdErIaP6mab8AcwIxbNHWsKj3PByTu_sg.JPEG/KakaoTalk_20260901_092350294_01.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfNCAg/MDAxNzg4MjIzNjQ4Nzc2.I2nuSZyGwofdQEWDh_5VYoP-a4rnDh8ozYUNVqXbWPsg.9OGy5JJmFDI9vgpXIK9LmINNiD7P74aZBORnNmaEw-8g.JPEG/KakaoTalk_20260901_092350294.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjI4/MDAxNzg4MjIzNjYxMDUw.LI7aVBBsUZLATtldRnkoyW1X1d7N9Vstsus4uofyoCsg.o0zKO1TKffyMqfc7s-D2GmK4Nk953WWrb93S7h4BHcIg.JPEG/KakaoTalk_20260901_092350294_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTc5/MDAxNzg4MjIzNjc4MTA0.ihoOaauqwaq8WxE3R9HtAljfmpbOQL7Ojc5DegxGsZUg.T-SD6HEFjmPKRp_1LzKYxbC7SYX1XoqalT_d5HZhGMQg.JPEG/KakaoTalk_20260901_092350294_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjU2/MDAxNzg4MjIzNjk0OTI0.YcfZwhiIDVgntTijejo6vmrWvnKO05YapeQlYYiW-NUg.AhDf4DegJtcZpXxFa_gun5RN-G7qtcInv_o5iMaHT_wg.JPEG/KakaoTalk_20260901_092350294_05.jpg?type=w800"
+    ],
+    "captions": [
+      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224396982857?fromRss=true&trackingCode=rss",
+    "tags": [
+      "BMW 520i G30 순정",
+      "블랙박스",
+      "BMW520i,BMWG30,BMW블랙박스,BMW520i블랙박스,G30블랙박스,아이나비QXD2,QXD2,셀스타보조배터리,블랙박스보조배터리,BMW보조배터리,일산블랙박스,일산BMW블랙박스,고양시블랙박스,일산블랙박스장착,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224396882828",
     "date": "2026-09-01",
