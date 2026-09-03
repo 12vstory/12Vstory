@@ -1,6 +1,214 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-03 18:52", "count": 245, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-03 23:36", "count": 253, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224400027546",
+    "date": "2026-09-03",
+    "category": "사이드미러",
+    "car": "2017 올뉴모닝",
+    "title": "[일산 파주 운정 김포 고양] 2017 올뉴모닝 - 사이드미러 자동접이 / 도원텍락폴딩 릴레이 시공",
+    "summary": "2018.9.3. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 2017 올뉴모닝 작업내용 : 사이드미러 락폴딩릴레이 작업시간 : 30분 사이드미러 락폴딩릴레이 시공을 위해 방문해주신 올뉴모닝 차량입니다 ^^ 검정에 레드포인트 너무 이쁘죠??",
+    "description": "2018.9.3. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 2017 올뉴모닝 작업내용 : 사이드미러 락폴딩릴레이 작업시간 : 30분 사이드미러 락폴딩릴레이 시공을 위해 방문해주신 올뉴모닝 차량입니다 ^^ 검정에 레드포인트 너무 이쁘죠?? 본론으로 돌아가서 오늘 작업될 제품입니다 릴레이 종류의 절대강자죠 ? 도원텍 제품이구요 사... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MDNfMjk4/MDAxNTM1OTg1ODc3NTQ4.oxH7NmOe9P1vyjjgf6SNoj3Derogk0qGihbxIGmbiKcg.BrOcPb5gdO4ECf1MwOHU7XfJ-TgEN-8SslKKeR_li4Yg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "2017 올뉴모닝 · [일산 파주 운정 김포 고양] 2017 올뉴모닝 - 사이드미러 자동접이 / 도원텍락폴딩 릴레이 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400027546?fromRss=true&trackingCode=rss",
+    "tags": [
+      "2017 올뉴모닝",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224400027429",
+    "date": "2026-09-03",
+    "category": "기타작업",
+    "car": "[일산 파주 운정 김포 고양]그랜드카",
+    "title": "[일산 파주 운정 김포 고양]그랜드카니발 / 매직카경보기 / 다이아몬드 스포츠 / 중고제품 장착",
+    "summary": "2019.9.3. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜드카니발 작업내용 : 중고 원격시동경보기 장착 작업시간 : 1시간30분 중고 원격시동경보기 장착을 위해 제품을 구매해서 방문해주신 고객님 입니다 오늘 장착될 제품은 매직카 양방향…",
+    "description": "2019.9.3. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜드카니발 작업내용 : 중고 원격시동경보기 장착 작업시간 : 1시간30분 중고 원격시동경보기 장착을 위해 제품을 구매해서 방문해주신 고객님 입니다 오늘 장착될 제품은 매직카 양방향 원격시동 경보기 이구요 제품명은 다이아몬드 스포츠 스페셜 제품입니다 중고 치고 상태... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MDNfMjkg/MDAxNTY3NDg1NDc2Mzk1.7LSrEE3YjfH-31lwvHpx9e64jbkPwvHNmZrDRaUuFQEg.qfoN58VbZG9Qh8Emo9KEPhF4tw5Ko-ADM4M-G2D9-Nsg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양]그랜드카 · [일산 파주 운정 김포 고양]그랜드카니발 / 매직카경보기 / 다이아몬드 스포츠 / 중고제품 장착 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400027429?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양]그랜드카",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224400027342",
+    "date": "2026-09-03",
+    "category": "기타작업",
+    "car": "k7 / M2C 8100A",
+    "title": "k7 / M2C 8100A / 안드로이드 카블릿 네비게이션 매립 / 아틀란 지도 기본탑재 / 어플리케이션 설치가능 [일산 파주 운정 김포 고양]",
+    "summary": "2020.9.3. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : K7 작업내용 : M2C 네비게이션매립 작업시간 : 2시간 오래된 네비게이션이 매립되어 있는 K7 차량이 입고되었습니다 우선 작업을 하기전 차량의 모습먼저 살펴보고 지나갈게요 ~~~…",
+    "description": "2020.9.3. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : K7 작업내용 : M2C 네비게이션매립 작업시간 : 2시간 오래된 네비게이션이 매립되어 있는 K7 차량이 입고되었습니다 우선 작업을 하기전 차량의 모습먼저 살펴보고 지나갈게요 ~~~ 기존 장착되어 있던 네비게이션의 부팅모습과 지도 입니다 .. 네비게이션에 탑재된 지도는 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MDNfMTcx/MDAxNTk5MDk3NjM1NzM4.ZQIm_3Jo0t76HtPycNGkhfcFdmXJwx0rG9zj6a0fl5cg.QQQPK_HE10Jng8UcnH0w5DzsofD_2WvT5Vcgw_qzKf0g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "k7 / M2C 8100A · k7 / M2C 8100A / 안드로이드 카블릿 네비게이션 매립 / 아틀란 지도 기본탑재 / 어플리케이션 설치가능 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400027342?fromRss=true&trackingCode=rss",
+    "tags": [
+      "k7 / M2C 8100A",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224400027252",
+    "date": "2026-09-03",
+    "category": "블랙박스",
+    "car": "벤츠 GLC250d / 구매해 오신",
+    "title": "벤츠 GLC250d / 구매해 오신 안드로이드 올인원 교체 / 순정블랙박스 탈거하고 2채널 블랙박스 아이나비Z9000 장착 [일산 파주 운정 김포 고양]",
+    "summary": "2023.9.3. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 GLC250D 작업내용 : 안드로이드 올인원 교체 블랙박스 교체 작업시간 : 4시간 3년전 안드로이드 올인원을 장착하여 사용하시던중 기존 올인원의 화면의 색상이 이상해져서 교체를…",
+    "description": "2023.9.3. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 GLC250D 작업내용 : 안드로이드 올인원 교체 블랙박스 교체 작업시간 : 4시간 3년전 안드로이드 올인원을 장착하여 사용하시던중 기존 올인원의 화면의 색상이 이상해져서 교체를 위해 해외직구로 올인원을 구매해서 오셨습니다 기존 장착되어 있던 올인원의 모습인데... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MDJfNDcg/MDAxNjkzNjE2ODY5Njc1.PfBDljtk-B9dhBCBen9_nlDqVXwiQXl36uQDB4T7g6cg.V0peBHa5v1HwuEdKh-BJ6lYqwmqGVN_2U7WOmd9d5BQg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "벤츠 GLC250d / 구매해 오신 · 벤츠 GLC250d / 구매해 오신 안드로이드 올인원 교체 / 순정블랙박스 탈거하고 2채널 블랙박스 아이나비Z9000 장착 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400027252?fromRss=true&trackingCode=rss",
+    "tags": [
+      "벤츠 GLC250d / 구매해 오신",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224400027164",
+    "date": "2026-09-03",
+    "category": "블랙박스",
+    "car": "모하비",
+    "title": "모하비 LX7 룸미러 블랙박스 + 오래된 보조배터리 교체 / 셀스타NX50 / 보조배터리 장착으로 안정적인 주차녹화가 가능합니다 [일산 파주 운정 김포 고양]",
+    "summary": "2024.9.3. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 블랙박스 + 보조배터리 작업시간 1시간 블랙박스 장착을 위해 입고된 모하비 차량입니다 이미 기존에 12볼트스토리를 방문하신적이 있으신 고객님이세요 오늘 차량에 장착…",
+    "description": "2024.9.3. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 블랙박스 + 보조배터리 작업시간 1시간 블랙박스 장착을 위해 입고된 모하비 차량입니다 이미 기존에 12볼트스토리를 방문하신적이 있으신 고객님이세요 오늘 차량에 장착될 제품은 파인뷰LX7 룸미러타입 블랙박스이구요 실내형으로 장착 예정입니다 그리고... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MDNfMjUw/MDAxNzI1MzMwMDMxODc1.cGVBFqrCvIu64YRLKObuyZQBmYB0OZRgerNnni0fjYYg.T9xsQ_IpZys75XSsynSHscb8s58-VpbN0gYkzEfimR0g.PNG/%C5%B8%C0%CC%C6%B21.png?type=ffn480_320"
+    ],
+    "captions": [
+      "모하비 · 모하비 LX7 룸미러 블랙박스 + 오래된 보조배터리 교체 / 셀스타NX50 / 보조배터리 장착으로 안정적인 주차녹화가 가능합니다 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400027164?fromRss=true&trackingCode=rss",
+    "tags": [
+      "모하비",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224400027071",
+    "date": "2026-09-03",
+    "category": "블랙박스",
+    "car": "포터2 탑차 / 파인뷰LX7 룸미러형",
+    "title": "포터2 탑차 / 파인뷰LX7 룸미러형 블랙박스 / 파인뷰 신제품 / 탑차에 맞게 외부형 후방카메라로 후방녹화도 걱정없이 가능합니다 / [일산 파주 운정 김포 고양",
+    "summary": "2024.9.3. 2년 전 오늘 ] 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 작업내용 : 파인뷰LX7 외부형 작업시간 : 1시간 포터2 차량이 블랙박스 장착을 위해 예약해주시고 방문해 주셨습니다 오늘 차량은 탑차 이다보니 사실 2채널 사용이 쉽지 않…",
+    "description": "2024.9.3. 2년 전 오늘 ] 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 작업내용 : 파인뷰LX7 외부형 작업시간 : 1시간 포터2 차량이 블랙박스 장착을 위해 예약해주시고 방문해 주셨습니다 오늘 차량은 탑차 이다보니 사실 2채널 사용이 쉽지 않은 차량이죠 .. 그래서 고객님께서 선택하신 제품은 파인뷰에서 기존 LX5 이후 업그레이드 되... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MDNfMTU0/MDAxNzI1MzMwMTU3MzQ0.AtSrS1FgVC_P0U--75_Ib94sKFjswy8jpXJfGQ6L9XEg.SASVpihLOItS54bJeA28SNZaS_SItmY269mm7AZaRW4g.PNG/%C5%B8%C0%CC%C6%B2_%281%29.png?type=ffn480_320"
+    ],
+    "captions": [
+      "포터2 탑차 / 파인뷰LX7 룸미러형 · 포터2 탑차 / 파인뷰LX7 룸미러형 블랙박스 / 파인뷰 신제품 / 탑차에 맞게 외부형 후방카메라로 후방녹화도 걱정없이 가능합니다 / [일산 파주 운정 김포 고양 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400027071?fromRss=true&trackingCode=rss",
+    "tags": [
+      "포터2 탑차 / 파인뷰LX7 룸미러형",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224400026979",
+    "date": "2026-09-03",
+    "category": "순정옵션",
+    "car": "스타리아",
+    "title": "스타리아 SBR시스템 경고음 및 경고등 소거 / 시트 벨트 시스템 점검 / 스타리아 시트탈거 안전벨트 경고음 삭제 / 계기판 경고등 소거 [일산 파주 운정 김포",
+    "summary": "2025.9.3. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 스타리아 작업내용 : 시트벨트 경고등 및 경고음 소거 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.9.3. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 스타리아 작업내용 : 시트벨트 경고등 및 경고음 소거 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 업무용으로 사용하시는 스타리아 차량이 입고되었습니다 오늘도 역시나 시트 관련 작업이구요 차량의 입고시 모습부터 확인하고 작업 결과물 보여드릴게요 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 연식과 옵션 사양 확인",
+      "순정 방식에 맞춰 부품·배선 작업",
+      "시공 후 기능 작동과 오류 여부 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MDNfNjMg/MDAxNzU2ODY1MjM0NTM0.Qv7YmxtIFcfgdLVfnukxIv8i4bsq7hzq3tGnOln61Oog.e-TqWgK1k8DxhYT4OfnEyzgPnUZesVYRS9N9_lwnHAIg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "스타리아 · 스타리아 SBR시스템 경고음 및 경고등 소거 / 시트 벨트 시스템 점검 / 스타리아 시트탈거 안전벨트 경고음 삭제 / 계기판 경고등 소거 [일산 파주 운정 김포 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400026979?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스타리아",
+      "순정옵션"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224400026859",
+    "date": "2026-09-03",
+    "category": "사이드미러",
+    "car": "싼타페 DM",
+    "title": "싼타페 DM 사이드미러 폴딩은 되지 않고 모터 소리만 나는 증상. 사이드미러 폴딩모터 부분수리로 완벽하게 수리가능합니다. [일산 파주 운정 김포 고양]",
+    "summary": "2025.9.3. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페 DM 작업내용 : 사이드미러 부분수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.9.3. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페 DM 작업내용 : 사이드미러 부분수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 싼타페DM 차량이 사이드미러가 접히고 펴지는 동작이 정상적으로 되지 않고 모터 돌아가는 소리만 나는 증상으로 입고되었습니다 12볼트스토리 에서는 사이드미러 전... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MDNfMTIy/MDAxNzU2ODY5MTM1ODkw.Sh7-IfIvhVTMYGBrzVLROctmnTK9_VmWmLAjC1Hdsrwg.gVp2ELaCKbWu87SqzE9StvRXAR_0cvSioAUi6ys2Lekg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "싼타페 DM · 싼타페 DM 사이드미러 폴딩은 되지 않고 모터 소리만 나는 증상. 사이드미러 폴딩모터 부분수리로 완벽하게 수리가능합니다. [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224400026859?fromRss=true&trackingCode=rss",
+    "tags": [
+      "싼타페 DM",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224399508617",
     "date": "2026-09-03",
