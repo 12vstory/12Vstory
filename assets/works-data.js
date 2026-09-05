@@ -1,5 +1,5 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-06 05:43", "count": 270, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-06 07:21", "count": 270, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
   {
     "id": "naver-224401816124",
