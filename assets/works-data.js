@@ -1,6 +1,136 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-07 10:03", "count": 277, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-07 15:08", "count": 282, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224403375422",
+    "date": "2026-09-07",
+    "category": "블랙박스",
+    "car": "일산 파주 고양 운정 / 토요타 프리",
+    "title": "일산 파주 고양 운정 / 토요타 프리우스 4세대 상시전원 블랙박스 장착",
+    "summary": "2017.9.7. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #도요타 #프리우스 #4세대 블랙박스 장착 포스팅입니다 작업을 위해 입고된 프리우스 차량입니다 고객님께서 전 차량에 사용하시던 제품을 가지고 오셔서 장착해드릴겁니다 4세대는 테일램프…",
+    "description": "2017.9.7. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #도요타 #프리우스 #4세대 블랙박스 장착 포스팅입니다 작업을 위해 입고된 프리우스 차량입니다 고객님께서 전 차량에 사용하시던 제품을 가지고 오셔서 장착해드릴겁니다 4세대는 테일램프가 정말 마음에 듭니다 ^^ 블랙박스 장착과정중 배선정리 사진입니다 ^^ 순정라인과... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA5MDdfNzAg/MDAxNTA0Nzg3MDQ5MTY3.57awVKrz9C2pPDxVcyVhmS4rKG3hFrUlRoX4hR9RGswg.SA_HBQuGn8xmpw88FWhfC53M7E9dB6XrRoY2z8U0_o0g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "일산 파주 고양 운정 / 토요타 프리 · 일산 파주 고양 운정 / 토요타 프리우스 4세대 상시전원 블랙박스 장착 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224403375422?fromRss=true&trackingCode=rss",
+    "tags": [
+      "일산 파주 고양 운정 / 토요타 프리",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224403375240",
+    "date": "2026-09-07",
+    "category": "후방카메라",
+    "car": "[일산 파주 운정 김포 고양] 아반테",
+    "title": "[일산 파주 운정 김포 고양] 아반테AD 벨류플러스 / 티맵기반 네비게이션 / T3000 + 조향연동 CCD후방카메라 시공",
+    "summary": "2018.9.7. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테AD 벨류플러스 M/T 작업내용 : T3000 네비게이션 매립 + 조향연동 후방카메라 작업시간 : 2시간 작업을 위해 입고된 아반테 차량이구요 빨간색 이쁘네요 ~~ 더군다나…",
+    "description": "2018.9.7. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테AD 벨류플러스 M/T 작업내용 : T3000 네비게이션 매립 + 조향연동 후방카메라 작업시간 : 2시간 작업을 위해 입고된 아반테 차량이구요 빨간색 이쁘네요 ~~ 더군다나 오토미션이 80%의 비율을 차지하는데 수동기어 차량이네요 ^^ 저도 스틱 좋아합니다 ㅎㅎ 우선 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MDdfMjkw/MDAxNTM2MzExNTIyMDE1.YDoHSwChvopPYFUxcEaczqexWufiS-qWtYMebChYfqUg.Br6vJGQwByM_Uyn-HdXhJq2QHd1mGks1F5c63ihXUKog.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 아반테 · [일산 파주 운정 김포 고양] 아반테AD 벨류플러스 / 티맵기반 네비게이션 / T3000 + 조향연동 CCD후방카메라 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224403375240?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 아반테",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224403375113",
+    "date": "2026-09-07",
+    "category": "후방카메라",
+    "car": "미니쿠퍼 / 거치형 네비게이션에 / CCD",
+    "title": "미니쿠퍼 / 거치형 네비게이션에 / CCD후방카메라 장착하기 ! [일산 파주 운정 김포 고양]",
+    "summary": "2020.9.7. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 미니쿠퍼 작업내용 : 후방카메라 장착 작업시간 : 1시간 후방카메라 장착을 위해 입고된 미니쿠퍼 차량입니다 차량에는 거치형 네비게이션이 장착되어 있구요 요기에 후방카메라를 연동해드릴거…",
+    "description": "2020.9.7. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 미니쿠퍼 작업내용 : 후방카메라 장착 작업시간 : 1시간 후방카메라 장착을 위해 입고된 미니쿠퍼 차량입니다 차량에는 거치형 네비게이션이 장착되어 있구요 요기에 후방카메라를 연동해드릴거에요 ~ 차량이 크진 않아도 후진시 상당히 보기가 힘들답니다 .. 미러도 워낙에 작... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MDdfNTkg/MDAxNTk5NDM5NzU1MjE1.cwv3EOIL1Isi7i3PRSHBR-EaZ0ikMex5YTJbKxgqgfwg.Sa7cmCRS--4DkKoUiH68_m8y4m8icNkQjoHtSthONSgg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "미니쿠퍼 / 거치형 네비게이션에 / CCD · 미니쿠퍼 / 거치형 네비게이션에 / CCD후방카메라 장착하기 ! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224403375113?fromRss=true&trackingCode=rss",
+    "tags": [
+      "미니쿠퍼 / 거치형 네비게이션에 / CCD",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224403374978",
+    "date": "2026-09-07",
+    "category": "기타작업",
+    "car": "카니발KA4 / 신차풀패키지 / 블락",
+    "title": "카니발KA4 / 신차풀패키지 / 블락포디 디토 열차단 프리미엄썬팅 / 언더코팅 / 유리막코팅 / XM784 천정모니터 / 무본드바닥장판 / 코일매트 [일산 파주",
+    "summary": "2021.9.7. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 카니발KA4 작업내용 : 신차 풀패키지 작업시간 : 2일 신차패키지 작업을 위해 입고된 카니발 신형 차량입니다 꼼꼼하게 차량 외관을 살피고 있는 모습이구요 차량의 조…",
+    "description": "2021.9.7. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 카니발KA4 작업내용 : 신차 풀패키지 작업시간 : 2일 신차패키지 작업을 위해 입고된 카니발 신형 차량입니다 꼼꼼하게 차량 외관을 살피고 있는 모습이구요 차량의 조립단차는 약간 있긴하나 크게 눈에 보이는 정도가 아니라 패스~~ 도장면은 검정차량인데도 깨끗합니다 !! ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MDdfMjc1/MDAxNjMwOTc3MTYyNDYw.LOXVWgqx9ockh0eum_gy3rubpqwegG_Wy70Oj4INaPcg.Wsg6dQuK42pjxFoaBWqvYyW7hJ2GpWrtHL1llASOUVsg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "카니발KA4 / 신차풀패키지 / 블락 · 카니발KA4 / 신차풀패키지 / 블락포디 디토 열차단 프리미엄썬팅 / 언더코팅 / 유리막코팅 / XM784 천정모니터 / 무본드바닥장판 / 코일매트 [일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224403374978?fromRss=true&trackingCode=rss",
+    "tags": [
+      "카니발KA4 / 신차풀패키지 / 블락",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224403374755",
+    "date": "2026-09-07",
+    "category": "옵틱글래스",
+    "car": "GLE 400D / 안전한 운행을 위",
+    "title": "GLE 400D / 안전한 운행을 위한 사각지대 줄이기 ! / 옵틱글라스 광각미러 / 680R 곡면미러 / 보이는 만큼 안전합니다 [일산 파주 운정 김포 고양]",
+    "summary": "2023.9.7. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 GLE400d 작업내용 : 옵틱글라스 작업시간 : 30분 생각보다 사각지대가 많은 GLE차량이 입고되었습니다 디자인은 정말 너무 이뻐요~~~ 차량 입고시 순정 사이드미러의 모습입…",
+    "description": "2023.9.7. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 GLE400d 작업내용 : 옵틱글라스 작업시간 : 30분 생각보다 사각지대가 많은 GLE차량이 입고되었습니다 디자인은 정말 너무 이뻐요~~~ 차량 입고시 순정 사이드미러의 모습입니다 음... 아직은 아쉬운지 모르는 상황이죠 ??ㅎㅎ 오늘 차량에 장착될 제품은 옵틱 글래... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MDdfMTg2/MDAxNjk0MDUwNTIwOTI2.OI-L5yYCS3sWN1HzsHd6Kb0ErV0ISFUH1TZl7TlXL8Ag.7dORtwKSNE5x-zrB7rwaU4qLqLbR8iDTuvzjQ181nJUg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "GLE 400D / 안전한 운행을 위 · GLE 400D / 안전한 운행을 위한 사각지대 줄이기 ! / 옵틱글라스 광각미러 / 680R 곡면미러 / 보이는 만큼 안전합니다 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224403374755?fromRss=true&trackingCode=rss",
+    "tags": [
+      "GLE 400D / 안전한 운행을 위",
+      "옵틱글래스"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224402433533",
     "date": "2026-09-06",
