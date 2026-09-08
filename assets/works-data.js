@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-08 15:33", "count": 291, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-08 20:46", "count": 292, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224405082359",
+    "date": "2026-09-08",
+    "category": "사이드미러",
+    "car": "K5",
+    "title": "K5 1세대 사이드미러 폴딩불량, 통째로 교체하지 않고 내부 기어 부분수리 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 입고된 차량은 K5 1세대 모델입니다. 사이드미러가 정상적으로 접히거나 펼쳐지지 않는 폴딩불량 증상으로 방문해 주셨습니다. 사이드미러 전체를 교체하면 비용 부담이 커질 수 있지만, 내부 폴딩 구동부의 문제라면 고장 난 부분만 수리할 수 있습니다.",
+    "description": "오늘 입고된 차량은 K5 1세대 모델입니다. 사이드미러가 정상적으로 접히거나 펼쳐지지 않는 폴딩불량 증상으로 방문해 주셨습니다. 사이드미러 전체를 교체하면 비용 부담이 커질 수 있지만, 내부 폴딩 구동부의 문제라면 고장 난 부분만 수리할 수 있습니다. 12볼트스토리 채널홈을 폰으로 접속해보세요. ━━━━━━━━━━━━━━ 작업 차량 : K5 1세대 작업 내용 : 사이드미러 폴딩 구동부 부분수리 주요 증상 : 사이드미러 접힘·펼침 불량 작업 시간 : 차량 상태에 따라 약 1~2시간 ━━━━━━━━━━━━━━ K5 사이드미러 폴딩불량 증상 확인 사이드미러 수리를 진행하기 전 고객님께서 말씀해 주신 증상과 실제 작동 상태를 먼저 확인합니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDhfMTAy/MDAxNzg4ODU4OTc3MDEz.8HANq_GdbOLI7xdYIvSvBitJwb0zZ3pG22wefnutqG8g.rkVpLvBCyntLELEXoF3Qrzc900FCWH1aCY75kKzLZU4g.JPEG/KakaoTalk_20260908_175002430_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDhfMTMz/MDAxNzg4ODU5MDE1MDc3.3D-OtUKAvFme_iIeJq08yQuaeKP1uL77qjleSETWdYgg.mKqwpWFPepNRW5KethqUUgUqdoyS3vg5bw8QQEjgoisg.JPEG/KakaoTalk_20260908_175002430.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDhfMjEg/MDAxNzg4ODU5MDgyNTQ4.NdT37IJvztrhqG9aCuBgd7rdQWDmc-xWYNWlAIZXW9Mg.JN8fu25PpOaU_Y8NxNHg7WK32e2O0UOKQe5clDEF34cg.JPEG/KakaoTalk_20260908_175002430_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDhfMTY4/MDAxNzg4ODU5MDk1OTAy.Kmm4HTanVWDrLDsbTf7MjlHWCZiK0tYr2KGZYJGE_Lkg.knwCXURn4eSjGO6qTW0zDsQRMgKP7pGcESmgVzHbjJ0g.JPEG/KakaoTalk_20260908_175002430_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDhfNTYg/MDAxNzg4ODU5MTI0OTI1.tSMbQJ8fgZgJjmyfMU2M37vvn31z9LB4nNyf18MzBRsg.t4LVIOjBaU5x1NPq75AnABwbjBJQQU3k9ttqW6UH4owg.JPEG/KakaoTalk_20260908_175002430_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDhfMTc4/MDAxNzg4ODU5MTM3OTEw.lmtV8JJFUZRNKi0JTBEeSuwp8Dl286tnIy0wHpX4Y74g.IePodi_DsnQQ8LiNzotVOmDVQE9T395QDWgISa3rzTsg.JPEG/KakaoTalk_20260908_175002430_05.jpg?type=w800"
+    ],
+    "captions": [
+      "K5 · K5 1세대 사이드미러 폴딩불량, 통째로 교체하지 않고 내부 기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "K5 · K5 1세대 사이드미러 폴딩불량, 통째로 교체하지 않고 내부 기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "K5 · K5 1세대 사이드미러 폴딩불량, 통째로 교체하지 않고 내부 기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "K5 · K5 1세대 사이드미러 폴딩불량, 통째로 교체하지 않고 내부 기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "K5 · K5 1세대 사이드미러 폴딩불량, 통째로 교체하지 않고 내부 기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "K5 · K5 1세대 사이드미러 폴딩불량, 통째로 교체하지 않고 내부 기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224405082359?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "사이드미러",
+      "K5사이드미러수리,K5사이드미러폴딩불량,K5폴딩불량,K5사이드미러,K5사이드미러부분수리,사이드미러폴딩수리,사이드미러기어교체,사이드미러모터수리,자동차사이드미러수리,일산사이드미러수리,고양사이드미러수리,파주사이드미러수리,김포사이드미러수리,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224404456425",
     "date": "2026-09-08",
