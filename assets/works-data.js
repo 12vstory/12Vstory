@@ -1,6 +1,240 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-08 08:47", "count": 282, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-08 10:29", "count": 291, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224404456425",
+    "date": "2026-09-08",
+    "category": "블랙박스",
+    "car": "파주 운정 고양 / 레조 2채널",
+    "title": "일산 파주 운정 고양 / 레조 2채널 블랙박스 장착 /",
+    "summary": "2017.9.8. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 오늘은 LPG차량의 대표적인 차량이엇던 대우 레조 차량입니다 작업을 위해 레조차량이 입고되었습니다 블랙박스 전면 모습입니다 ^^ 깔끔하고 고급스럽네요 이건 후방 블랙박스 장착된 사진입니다 ^^ 전…",
+    "description": "2017.9.8. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 오늘은 LPG차량의 대표적인 차량이엇던 대우 레조 차량입니다 작업을 위해 레조차량이 입고되었습니다 블랙박스 전면 모습입니다 ^^ 깔끔하고 고급스럽네요 이건 후방 블랙박스 장착된 사진입니다 ^^ 전 후방 녹화되는 모습입니다 !! 화질이 너무 좋아요 ^^ 휴즈박스는 언제나처럼 깔끔... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA5MDhfMTEg/MDAxNTA0ODc2MjM0OTkw.ct7VY_UiPaqxO8gnDvEOWlQ5s0EowLBtBb35VpVN42og.CZkf9IgBE4oU1aoVgLETPNRMl8w_UHxKbDvF2bmbY44g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "파주 운정 고양 / 레조 2채널 · 일산 파주 운정 고양 / 레조 2채널 블랙박스 장착 / 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404456425?fromRss=true&trackingCode=rss",
+    "tags": [
+      "파주 운정 고양 / 레조 2채널",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404456304",
+    "date": "2026-09-08",
+    "category": "후방카메라",
+    "car": "마이티 2.5T 화물차 / 화물차용 적외선",
+    "title": "마이티 2.5T 화물차 / 화물차용 적외선 후방카메라 / 후방카메라 모니터 / 7인치 룸미러 모니터 시공 [일산 파주 운정 김포 고양]",
+    "summary": "2020.9.8. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 마이티 작업내용 : 후방카메라 + 룸미러모니터 작업시간 : 1시간30분 후방카메라가 장착되어 있지 않은 2.5T 마이티 차량이 입고되었습니다 !",
+    "description": "2020.9.8. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 마이티 작업내용 : 후방카메라 + 룸미러모니터 작업시간 : 1시간30분 후방카메라가 장착되어 있지 않은 2.5T 마이티 차량이 입고되었습니다 ! 12볼트 스토리는 입구가 높다보니 2.5t 차량과 쏠라티 정도는 들어오고도 남는답니다 ㅎㅎ 입고된 차량을 보니 적재함이 좀 특이하게... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MDhfOCAg/MDAxNTk5NTM1MzU4Njg0.TJ2wPMOKmNrgbsQAu3h8nXn_CwEP2eZ18WmkBDo0STEg.o0u98OICcXqSuievf8l2YlPBt1u2lBtKxtWr6kudP4Ig.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "마이티 2.5T 화물차 / 화물차용 적외선 · 마이티 2.5T 화물차 / 화물차용 적외선 후방카메라 / 후방카메라 모니터 / 7인치 룸미러 모니터 시공 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404456304?fromRss=true&trackingCode=rss",
+    "tags": [
+      "마이티 2.5T 화물차 / 화물차용 적외선",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404456189",
+    "date": "2026-09-08",
+    "category": "기타작업",
+    "car": "올뉴투싼TL / 2열송풍구",
+    "title": "올뉴투싼TL / 2열송풍구 시공 / 뒷자리를 위한 냉난방 / 순정 USB소켓 대신 시거잭 타입으로 시공 [일산 파주 운정 김포 고양]",
+    "summary": "2021.9.8. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴투싼TL 작업내용 : 뒷자리 송풍구 / 2열 에어벤트 작업시간 : 1시간 ~ 1시간 30분 2열 송풍구가 없는 올뉴투싼 TL차량이 입고되었습니다 차량의 등급이 낮은 관계로 콘솔 뒷…",
+    "description": "2021.9.8. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴투싼TL 작업내용 : 뒷자리 송풍구 / 2열 에어벤트 작업시간 : 1시간 ~ 1시간 30분 2열 송풍구가 없는 올뉴투싼 TL차량이 입고되었습니다 차량의 등급이 낮은 관계로 콘솔 뒷편으로 에어컨 및 히터 바람이 나오는 구멍이 없이 막혀있습니다 .. 그러나 .. 아이가 덥고 춥... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MDhfOTcg/MDAxNjMxMDY4NzAwMzc5.F54VlKkK4S3WIGM0-fjNFnmkg-m_J-QqMfIVJASsaS8g.DzibTcRtKOyVIp7R6IcDAD9qC7KitYB93G58DBq-MZcg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "올뉴투싼TL / 2열송풍구 · 올뉴투싼TL / 2열송풍구 시공 / 뒷자리를 위한 냉난방 / 순정 USB소켓 대신 시거잭 타입으로 시공 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404456189?fromRss=true&trackingCode=rss",
+    "tags": [
+      "올뉴투싼TL / 2열송풍구",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404456076",
+    "date": "2026-09-08",
+    "category": "후방카메라",
+    "car": "쏘렌토R / 순정",
+    "title": "쏘렌토R / 순정후방카메라 고장으로 추가한 사제 후방카메라 순정모니터에 연동작업 / 기존 장착하고 오신 카메라로 연결만 해드렸어요 ~~ [일산 파주 운정 김포 고",
+    "summary": "2021.9.8. 5년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토 R 작업내용 : 후방카메라 순정모니터 연동 작업시간 : 1시간 이내 쏘렌토 R 차량이 입고되었습니다 오늘 차량은 순정 모니터와 순정후방카메라가 장착된 차량이나 ..",
+    "description": "2021.9.8. 5년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토 R 작업내용 : 후방카메라 순정모니터 연동 작업시간 : 1시간 이내 쏘렌토 R 차량이 입고되었습니다 오늘 차량은 순정 모니터와 순정후방카메라가 장착된 차량이나 .. 순정 모니터 백화현상으로 인해 사제 후방카메라와 거치형 5인치 모니터를 별도로 장착하셨답니다 그... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MDhfMTI3/MDAxNjMxMDcyMzcxNzIw.hKI3luv4FT3eozWcnUrbCqjZcK_x0wUuG7xhEI-Im-wg.oduVrupiBjcdcT307SUarpTTh7ZKWQ6BJ2esUHu1Qbgg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "쏘렌토R / 순정 · 쏘렌토R / 순정후방카메라 고장으로 추가한 사제 후방카메라 순정모니터에 연동작업 / 기존 장착하고 오신 카메라로 연결만 해드렸어요 ~~ [일산 파주 운정 김포 고 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404456076?fromRss=true&trackingCode=rss",
+    "tags": [
+      "쏘렌토R / 순정",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404455941",
+    "date": "2026-09-08",
+    "category": "후방카메라",
+    "car": "K5",
+    "title": "올뉴K5 / 후방카메라 뿌옇게 나와서 화질좋고 화각좋은 CCD 후방카메라 교체 / 선명한 후방카메라 화질로 안전하게 후진하세요 [일산 파주 운정 김포 고양]",
+    "summary": "2023.9.8. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K5 작업내용 : 후방카메라 교체 작업시간 : 1시간 이내 후방카메라 교체를 위해 예약 해주시고 방문해 주신 올뉴K5 차량입니다 우선 후방카메라의 상태가 어떤지 부터 확인해 볼게요…",
+    "description": "2023.9.8. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K5 작업내용 : 후방카메라 교체 작업시간 : 1시간 이내 후방카메라 교체를 위해 예약 해주시고 방문해 주신 올뉴K5 차량입니다 우선 후방카메라의 상태가 어떤지 부터 확인해 볼게요 기존 후방카메라는 이렇게 장착되어 있었구요 이제 화면을 볼게요 ~~ 이렇게 보입니다 .... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MDhfMTMg/MDAxNjk0MTQ3MzQyMjg0.4wHiMzbZVWCCkwAdcoZWi6LKgF11JGr5JSmNz3qJqeIg.UQIa55W-gX7vykpqjnnrqUZbZ7PHBV383u3qAgsqA28g.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K5 · 올뉴K5 / 후방카메라 뿌옇게 나와서 화질좋고 화각좋은 CCD 후방카메라 교체 / 선명한 후방카메라 화질로 안전하게 후진하세요 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404455941?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404455754",
+    "date": "2026-09-08",
+    "category": "사이드미러",
+    "car": "스포티지QL",
+    "title": "스포티지QL / 사이드미러 폴딩불량 / 전체교체가 아닌 부분수리로 저렴하게 원상복구 가능합니다 / 사이드미러수리전문 12볼트스토리 [일산 파주 운정 김포 고양]",
+    "summary": "2023.9.8. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 스포티지QL 작업내용 : 사이드미러폴딩불량수리 작업시간 : 40분 사이드미러가 접히고 펴지지 않아 부분수리를 위해 방문해주신 스포티지QL차량입니다 사실 스포티지 차량의 사이드미러 폴딩…",
+    "description": "2023.9.8. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 스포티지QL 작업내용 : 사이드미러폴딩불량수리 작업시간 : 40분 사이드미러가 접히고 펴지지 않아 부분수리를 위해 방문해주신 스포티지QL차량입니다 사실 스포티지 차량의 사이드미러 폴딩불량은 확률적으로 좀 낮은편이긴 한데 .. 어찌됫건... !! 수리는 가능하십니다 !!... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MDhfMTcg/MDAxNjk0MTQ3NjQ3MTY5.YoS5_zraHocFcch7r5luCygfVBt-YoLwd4zO3YAiSzIg.kMdUAd3Y1c7m7Oa__PwHQmrh7Zr9nZNJIsNe6V0y6vwg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "스포티지QL · 스포티지QL / 사이드미러 폴딩불량 / 전체교체가 아닌 부분수리로 저렴하게 원상복구 가능합니다 / 사이드미러수리전문 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404455754?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스포티지QL",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404455627",
+    "date": "2026-09-08",
+    "category": "사이드미러",
+    "car": "K5",
+    "title": "K5 안접히는 사이드미러 말끔하게 수리하기 / 전체교체 말고 폴딩모터 부분수리로 저렴하게 수리 해드립니다 ! [일산 파주 운정 김포 고양]",
+    "summary": "2025.9.8. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : k5 작업내용 : 사이드미러수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.9.8. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : k5 작업내용 : 사이드미러수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. k5 1세대 차량이 사이드미러 동작 문제로 부분수리를 위해 입고되었습니다 12볼트스토리 에서는 사이드미러 전체교체가 아닌 부분수리로 문제가 있는 부분만 쏙 ~~~ 수리가 가능하기... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MDhfNTMg/MDAxNzU3MzA0NjA4OTM2.4d8Feru7yGZbkeIuDPFpXM7QLGu2i-pVzhto3Rz-64Ag.Fzw_36a8imE4PRTj84a42bzJZ6Q76tE5lPURFnqaF0sg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K5 · K5 안접히는 사이드미러 말끔하게 수리하기 / 전체교체 말고 폴딩모터 부분수리로 저렴하게 수리 해드립니다 ! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404455627?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404455502",
+    "date": "2026-09-08",
+    "category": "사이드미러",
+    "car": "싼타페TM",
+    "title": "싼타페TM / 사이드미러폴딩불량 / 부분수리로 저렴하게 원상복구 가능합니다 / 전체교체 하시면 너무비싸요 ! 일산 사이드미러수리전문 12볼트스토리 [일산 파주 운",
+    "summary": "2025.9.8. 1년 전 오늘 정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 사이드미러수리 작업시간 : 30~40 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.9.8. 1년 전 오늘 정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 사이드미러수리 작업시간 : 30~40 12볼트스토리 채널홈을 폰으로 접속해보세요. 싼타페TM 차량이 사이드미러가 정상적으로 동작하지 않아 수리를 위해 예약해주시고 방문해 주셨습니다 우선 증상을 살펴볼까요 ? 입고시 증상은 이러합니다 운전석 부분... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MDhfMjE1/MDAxNzU3MzA1MDEzNjY5.rgQ5pdcMtJFZKV-N21GkIvgSoNv77s1dAQYNA0d8tL8g.1pYFJQQ7PFvtkCfS2WOxpL12gdh0SsA1SNncukIiEcgg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "싼타페TM · 싼타페TM / 사이드미러폴딩불량 / 부분수리로 저렴하게 원상복구 가능합니다 / 전체교체 하시면 너무비싸요 ! 일산 사이드미러수리전문 12볼트스토리 [일산 파주 운 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404455502?fromRss=true&trackingCode=rss",
+    "tags": [
+      "싼타페TM",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224404455381",
+    "date": "2026-09-08",
+    "category": "올인원·카플레이",
+    "car": "BMW 528i / 해외직구로 구매해 오신",
+    "title": "BMW 528i / 해외직구로 구매해 오신 안드로이드 올인원 / 차량에 장착만 해드렸어요 ^^ 일산안드로이드 올인원 장착잘하는 곳 ! [일산 파주 운정 김포 고양",
+    "summary": "2025.9.8. 1년 전 오늘 ] 안녕하세요 12볼트스토리 입니다 작업차량 : BMW 5시리즈 작업내용 : 안드로이드 올인원 작업시간 : 1시간 30분 ~ 2시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.9.8. 1년 전 오늘 ] 안녕하세요 12볼트스토리 입니다 작업차량 : BMW 5시리즈 작업내용 : 안드로이드 올인원 작업시간 : 1시간 30분 ~ 2시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 불편한 순정네비게이션을 스마트한 안드로이드 올인원으로 바꾸기 위해 직구로 구매하신 안드로이드 올인원 제품을 가지고 방문해주셨습니다 .. 입고시... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종별 순정 오디오·모니터 구성 확인",
+      "마감재와 인터페이스를 맞춰 기능 연동",
+      "카플레이·안드로이드오토 및 순정 기능 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MDhfMTkw/MDAxNzU3MzA1NzI1ODA5.pP7_GsZCJ9hlDtv8fy-zRXmvIajBb05O4njiYPuacHIg.sbVkxtwNHJqCUxError_MMZFTcMjo6Vi5XpH0WLBqAIg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "BMW 528i / 해외직구로 구매해 오신 · BMW 528i / 해외직구로 구매해 오신 안드로이드 올인원 / 차량에 장착만 해드렸어요 ^^ 일산안드로이드 올인원 장착잘하는 곳 ! [일산 파주 운정 김포 고양 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224404455381?fromRss=true&trackingCode=rss",
+    "tags": [
+      "BMW 528i / 해외직구로 구매해 오신",
+      "올인원·카플레이"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224403375422",
     "date": "2026-09-07",
