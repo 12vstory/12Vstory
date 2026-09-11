@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-11 10:08", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-11 15:02", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224408033326",
+    "date": "2026-09-11",
+    "category": "블랙박스",
+    "car": "현대 ST1 룸미러",
+    "title": "현대 ST1 룸미러 블랙박스 장착｜룸미러 없는 차량에 파인뷰 LX9 POWER 2채널 시공 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 현대 ST1 입니다. 이번 ST1은 일반 승용차와 달리 실내 룸미러가 기본적으로 없는 차량 이라 후방을 직접 확인하기가 쉽지 않은 구조입니다.",
+    "description": "오늘 작업 차량은 현대 ST1 입니다. 이번 ST1은 일반 승용차와 달리 실내 룸미러가 기본적으로 없는 차량 이라 후방을 직접 확인하기가 쉽지 않은 구조입니다. 기존에는 별도의 블랙박스가 장착되어 있었지만, 이번에는 단순 블랙박스 교체가 아니라 ST1에 룸미러를 새롭게 장착하고, 그 위에 파인뷰 LX9 POWER 룸미러형 2채널 블랙박스를 설치해 후방 영상을 실시간으로 볼 수 있도록 작업 했습니다. 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTFfMTUg/MDAxNzg5MDg5NDcyNTA4.Yl_RJ9mTvTOsAnlEnwmcM1qjpV12UGzdEZpDs8nCtMgg.-nLyI_GCmXilFHxQ2CKDqv1OUDrD4wEH_l-I8qOlESwg.JPEG/KakaoTalk_20260911_095420954_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTFfMjYy/MDAxNzg5MDg5NTMyOTU2.kuVNN1dE5P5iOtkZlEGDFKRy-P9NPzZdQEU3AF1cMPcg.fNBLuGidYQzuTZJyBtM7_xh5OCAngbCTcNL8Pa56yjEg.JPEG/KakaoTalk_20260911_095420954.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTFfMTI5/MDAxNzg5MDg5NTQ4ODcx.9YAPUryIYm3vsIoJZpwNsNlneDxq7gnvpwTqcA73TCcg.U5CnH1n7jrhPY9q326HDhkM_ckoWezp_oJQM5YCbnqog.JPEG/KakaoTalk_20260911_095420954_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTFfMjk5/MDAxNzg5MDg5NTY1NTk2.42n2FvRffl_VuVtDxtLnE0PoX6WhWlnpMro0juFpizwg.EdDGFmp1SMzmgR20Hu8GPn6UvAW1FYiLgaW210b-0MQg.JPEG/KakaoTalk_20260911_095420954_09.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTFfMzMg/MDAxNzg5MDg5NTc3NjAy.RaK_j1jVJi4NFvlJYlsn9CnAFTLgXLwoYYIDXtTmzKUg.qmL9fVUVqY24U-AURhUCagbRQ9HT4FK8iS8CNqgX9mwg.JPEG/KakaoTalk_20260911_095420954_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTFfMTgx/MDAxNzg5MDg5NTg2Njg5.ao9yWQ9NfWEYlsIgxxX-BjMeFv1SCRLaO33V5jC8JXMg.4_2kyVYqDwHwN_7aR7p5GRDhz8NqYazJgtWkzPFSIAkg.JPEG/KakaoTalk_20260911_095420954_10.jpg?type=w800"
+    ],
+    "captions": [
+      "현대 ST1 룸미러 · 현대 ST1 룸미러 블랙박스 장착｜룸미러 없는 차량에 파인뷰 LX9 POWER 2채널 시공 [일산 파주 운정 김포 고양] 작업사진 1",
+      "현대 ST1 룸미러 · 현대 ST1 룸미러 블랙박스 장착｜룸미러 없는 차량에 파인뷰 LX9 POWER 2채널 시공 [일산 파주 운정 김포 고양] 작업사진 2",
+      "현대 ST1 룸미러 · 현대 ST1 룸미러 블랙박스 장착｜룸미러 없는 차량에 파인뷰 LX9 POWER 2채널 시공 [일산 파주 운정 김포 고양] 작업사진 3",
+      "현대 ST1 룸미러 · 현대 ST1 룸미러 블랙박스 장착｜룸미러 없는 차량에 파인뷰 LX9 POWER 2채널 시공 [일산 파주 운정 김포 고양] 작업사진 4",
+      "현대 ST1 룸미러 · 현대 ST1 룸미러 블랙박스 장착｜룸미러 없는 차량에 파인뷰 LX9 POWER 2채널 시공 [일산 파주 운정 김포 고양] 작업사진 5",
+      "현대 ST1 룸미러 · 현대 ST1 룸미러 블랙박스 장착｜룸미러 없는 차량에 파인뷰 LX9 POWER 2채널 시공 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224408033326?fromRss=true&trackingCode=rss",
+    "tags": [
+      "현대 ST1 룸미러",
+      "블랙박스",
+      "ST1,현대ST1,ST1블랙박스,ST1룸미러,ST1룸미러블랙박스,ST1후방카메라,파인뷰LX9,파인뷰LX9POWER,룸미러블랙박스,디지털룸미러,2채널블랙박스,ST1후방시야,일산블랙박스,일산블랙박스장착,고양블랙박스,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224407730558",
     "date": "2026-09-11",
@@ -8147,43 +8184,6 @@ window.WORKS_DATA = [
     "tags": [
       "아반떼HD",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224364686751",
-    "date": "2026-08-01",
-    "category": "전장수리",
-    "car": "스팅어",
-    "title": "기아 스팅어 비상등 스위치 안 눌림 고장, 순정 버튼 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양]",
-    "summary": "스팅어 비상등 스위치 부분수리 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 이번 작업 차량은 기아 스팅어 입니다. 비상등 버튼을 눌러도 제대로 작동하지 않는 증상으로 입고되었습니다.",
-    "description": "스팅어 비상등 스위치 부분수리 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 이번 작업 차량은 기아 스팅어 입니다. 비상등 버튼을 눌러도 제대로 작동하지 않는 증상으로 입고되었습니다. 비상등은 운전 중 긴급상황이나 정차 시 자주 사용하는 안전장치이기 때문에 버튼 반응이 없거나 간헐적으로 작동한다면 빠르게 점검하는 것이 좋습니다. 이번 스팅어는 오디오나 내비게이션 본체 전체를 교체하지 않고, 고장 난 비상등 스위치 부분을 점검해 부분수리 로 정상 작동하도록 복원했습니다. 작업차량 : 스팅어 작업내용 :비상등 스위치 부분수리 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 스팅어 차량 입고 오늘 작업할 차량은 기아의 스포츠 세단 스팅어입니다. 증상 확인 후 실내 버튼과 관련된 컨트롤 패널을 점검합니다.",
-    "points": [
-      "불량 증상 재현 후 원인 구간 확인",
-      "필요 부품 또는 회로를 부분수리",
-      "조립 후 기능을 반복 테스트해 마무리"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MDFfMTE5/MDAxNzg1NTQ5NDg3MTMw.9jmeVBhu6Y1UHFSf3qRJSlXHlWweexKMNJhcg1W9zHcg.pZUh97yjyp0seJo5rDud0-_AEU1ynfjnJh4I6UQB5wIg.JPEG/KakaoTalk_20260728_101001734_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MDFfMjA5/MDAxNzg1NTQ5NTA0NDY5.wZ9hcT-X4d_H-GXcwbNbNer52pzvfVoNU3WbTx4pklog.-NIjvVeKK7csqa_deKfJh0Ab8Zy_Jf5tLXVNK8kXNBog.JPEG/KakaoTalk_20260728_101001734_01.jpg?type=w400",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MDFfMTEw/MDAxNzg1NTQ5NTA0NDk5.w8KTTzz2NkxKo_-NqN6ECy51zdQfBA_5mvBDBzHF1Kcg.sOJKDWGlTUBLKLR3_NgTiRjOvI3HBjBV4nLMzed5OHsg.JPEG/KakaoTalk_20260728_101001734.jpg?type=w400",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MDFfNjgg/MDAxNzg1NTQ5NTYxMDEz.zKq223JHdCnqXyUapiCrsGTDf81-XaU6WihMrVdSExsg.Ip09eoBTmRgP1Am1kmKgdcmfAYzE6sEO1c0pgnCFlRgg.JPEG/KakaoTalk_20260728_101001734_03.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MDFfMTc5/MDAxNzg1NTQ5NTY5NDAz.L5JUNy8MsPfhw2DIFFudDB5GN_75lJavCP3_VVSScNMg.KStsxP9fAszTCKfrJrt23AJOLD6CF3A5LI4uXPQ6q9sg.JPEG/KakaoTalk_20260728_101001734_04.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MDFfMjcz/MDAxNzg1NTQ5NTc1Njgy.ah4ISnedvjCWHgshY4qob9eg8aOHhexxDl1l1buRWtAg.8S0pDzfy46tyBmovn7b6PU-Kd-o_yHOnf04VwFhpjNkg.JPEG/KakaoTalk_20260728_101001734_05.jpg?type=w800"
-    ],
-    "captions": [
-      "스팅어 · 기아 스팅어 비상등 스위치 안 눌림 고장, 순정 버튼 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 1",
-      "스팅어 · 기아 스팅어 비상등 스위치 안 눌림 고장, 순정 버튼 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 2",
-      "스팅어 · 기아 스팅어 비상등 스위치 안 눌림 고장, 순정 버튼 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 3",
-      "스팅어 · 기아 스팅어 비상등 스위치 안 눌림 고장, 순정 버튼 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 4",
-      "스팅어 · 기아 스팅어 비상등 스위치 안 눌림 고장, 순정 버튼 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 5",
-      "스팅어 · 기아 스팅어 비상등 스위치 안 눌림 고장, 순정 버튼 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224364686751?fromRss=true&trackingCode=rss",
-    "tags": [
-      "스팅어",
-      "전장수리",
-      "스팅어비상등,스팅어비상등스위치,스팅어비상등수리,비상등스위치수리,비상등버튼고장,스팅어버튼수리,스팅어센터패시아,스팅어오디오수리,자동차스위치수리,자동차버튼수리,기판수리,부분수리,일산자동차수리,일산자동차전장,고양시자동차전장,일산12볼트스토리,12볼트스토리"
     ],
     "source": "naver"
   }
