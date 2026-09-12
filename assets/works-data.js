@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-12 08:32", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-12 10:35", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224409112073",
+    "date": "2026-09-12",
+    "category": "전장수리",
+    "car": "니로",
+    "title": "기아 니로 비상등 스위치 불량 수리｜버튼 눌러도 작동 안 될 때 부분수리 [일산 파주 운정 김포 고양]",
+    "summary": "니로 / 비상등 스위치 불량 수리 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 입고된 차량은 기아 니로 입니다. 이번 차량의 증상은 간단하지만 운전하면서 상당히 불편하고, 안전과도 관련된 부분입니다.",
+    "description": "니로 / 비상등 스위치 불량 수리 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 입고된 차량은 기아 니로 입니다. 이번 차량의 증상은 간단하지만 운전하면서 상당히 불편하고, 안전과도 관련된 부분입니다. 바로 비상등 스위치를 눌러도 비상등이 작동하지 않는 증상 입니다. 비상등은 긴급 정차나 갑작스러운 교통 상황에서 자주 사용하는 기능이기 때문에 버튼 작동이 불안정하거나 아예 작동하지 않는다면 미루지 않고 점검하는 것이 좋습니다. 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "불량 증상 재현 후 원인 구간 확인",
+      "필요 부품 또는 회로를 부분수리",
+      "조립 후 기능을 반복 테스트해 마무리"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTJfMTMw/MDAxNzg5MTczMzE4Mzg1.Xs8x1RSKcuqD9sQBc8q9BwBL0XPah_ZIHwH-NRtqdGEg.Kc0GDYzDjcMW06_4glkNkw4TI88Zpkr281VtgTlEOKwg.JPEG/KakaoTalk_20260911_095349804_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTJfNTkg/MDAxNzg5MTczNDQ0ODA5.R3OMsCvrgM3RKgMU9emhYg4KpN3kKugOFD2CDf2KzU8g.s5h4I835WogQu9H-4csBwmK1zB4F4rdaZLhyF8-TH0cg.JPEG/KakaoTalk_20260911_095349804_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTJfMTYw/MDAxNzg5MTczNDU1MTMy.ewFaNs50ZrkbOvbTGH-krgZ1hOt10_FtTch34ZHD8ZMg.ko6utWbCgRNtxdb6GFVWL6kGYTLkoRYMOQyi0qzrFX0g.JPEG/KakaoTalk_20260911_095349804_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTJfMjM1/MDAxNzg5MTczNDczNzEx.cOJpchtAGQB2SR5Z4yGGU0hJXWhSGFAxfChd9zYlXcog.e2dpeqPDSaMw7_JiOLuAaeL2b5BqfL8gX7uyQoBmMzEg.JPEG/KakaoTalk_20260911_095349804_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTJfMTg5/MDAxNzg5MTczNDgyNDU4.XWZ2Vm3Qiv8vXu-YvRIqncMKdUlYK5CRTuo8P_a0obUg.LxMLbAeoP0dzMlVQ8op-ZRASTPsOkej6A7zYNs2cEbwg.JPEG/KakaoTalk_20260911_095349804_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTJfMiAg/MDAxNzg5MTczNDkzNDQz.Au_BgG0bt5lCRio4ieEJ8J68q0ru0AgA7mD9cZ-u2ocg.sORGASuaIxiQbrPzcQjSZSjTCwKoZJn---fqu8kvkyYg.JPEG/KakaoTalk_20260911_095349804_06.jpg?type=w800"
+    ],
+    "captions": [
+      "니로 · 기아 니로 비상등 스위치 불량 수리｜버튼 눌러도 작동 안 될 때 부분수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "니로 · 기아 니로 비상등 스위치 불량 수리｜버튼 눌러도 작동 안 될 때 부분수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "니로 · 기아 니로 비상등 스위치 불량 수리｜버튼 눌러도 작동 안 될 때 부분수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "니로 · 기아 니로 비상등 스위치 불량 수리｜버튼 눌러도 작동 안 될 때 부분수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "니로 · 기아 니로 비상등 스위치 불량 수리｜버튼 눌러도 작동 안 될 때 부분수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "니로 · 기아 니로 비상등 스위치 불량 수리｜버튼 눌러도 작동 안 될 때 부분수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224409112073?fromRss=true&trackingCode=rss",
+    "tags": [
+      "니로",
+      "전장수리",
+      "니로,기아니로,니로비상등,니로비상등스위치,니로비상등고장,비상등스위치불량,비상등스위치수리,비상등고장,니로수리,자동차전장수리,부분수리,일산자동차전장,일산비상등수리,고양자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224408033326",
     "date": "2026-09-11",
@@ -8158,32 +8195,6 @@ window.WORKS_DATA = [
     "tags": [
       "스타리아",
       "순정옵션"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224364756842",
-    "date": "2026-08-01",
-    "category": "사이드미러",
-    "car": "아반떼HD",
-    "title": "아반떼HD 사이드미러 폴딩모터 고장으로 접히지도 펴지지도 않는 사이드미러 부분수리 / 폴딩모터 부분수리로 저렴하게 원상복구 가능합니다 ! [일산 파주 운정 김포",
-    "summary": "2025.8.1. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 아반떼HD 작업내용 : 사이드미러수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.8.1. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 아반떼HD 작업내용 : 사이드미러수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러 접힘 펴짐 불량으로 인해 입고된 아반떼HD 차량입니다 우선 입고된 차량의 상태부터 보여드릴게요 이러한 상태로 모터가 계속 돌아가다보니 고객님께서 커넥터... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA3MzFfMTQw/MDAxNzUzOTQxNDYxNTgy._3Mu6kFUfVUvtHeXaz6sOSEkX4DSPt3sKfj3WlZ5yygg.HaFLbzHpdFtmMWmJ36khYMZ1_sf1FMw2j4fa1xTd5Mog.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "아반떼HD · 아반떼HD 사이드미러 폴딩모터 고장으로 접히지도 펴지지도 않는 사이드미러 부분수리 / 폴딩모터 부분수리로 저렴하게 원상복구 가능합니다 ! [일산 파주 운정 김포 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224364756842?fromRss=true&trackingCode=rss",
-    "tags": [
-      "아반떼HD",
-      "사이드미러"
     ],
     "source": "naver"
   }
