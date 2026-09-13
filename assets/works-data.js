@@ -1,6 +1,136 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-14 06:27", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-14 08:35", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224410796692",
+    "date": "2026-09-14",
+    "category": "기타작업",
+    "car": "K5",
+    "title": "일산 파주 고양 운정 / 카비스 BSA / 후측방 감지기 / 올뉴K5 실내형 측후방감지기 시공",
+    "summary": "2017.9.14. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 오늘 포스팅은 #올뉴K5 차량의 #카비스측후방감지기 #BSA #BSD #BSW 작업 포스팅입니다 작업을 위해 입고된 올뉴k5 차량입니다 작업전 차량의 모습이구요 요기에 센서를 장착할겁니다 !!",
+    "description": "2017.9.14. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 오늘 포스팅은 #올뉴K5 차량의 #카비스측후방감지기 #BSA #BSD #BSW 작업 포스팅입니다 작업을 위해 입고된 올뉴k5 차량입니다 작업전 차량의 모습이구요 요기에 센서를 장착할겁니다 !! 작동에 가장 중요한 부분이므로 신중하게 위치잡고 타공을 진행합니다 위치가 아주 마음에 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA5MTRfMjIz/MDAxNTA1MzU2MTM4ODQ2.PJl1qs_cUE-e2kAL63qzb-Euum5q0IOfLAEYMTFvISIg.2efA2451x1lrMolcmgYdoQN8dMAZOPH9UL0fMd5dfMAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K5 · 일산 파주 고양 운정 / 카비스 BSA / 후측방 감지기 / 올뉴K5 실내형 측후방감지기 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224410796692?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224410796603",
+    "date": "2026-09-14",
+    "category": "기타작업",
+    "car": "고양 일산 파주 운정 / 카비스BSA",
+    "title": "고양 일산 파주 운정 / 카비스BSA BSD BSW / 후측방감지기 / 코란도 스포츠 - 순정형 전방센서 카비스측후방감지기 시공",
+    "summary": "2017.9.14. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 12볼트스토리의 주종목입니다 !! 바로 #카비스 #BSA #BSD #BSW #측후방감지기 #전방센서 작업 입니다 헉 ㅠㅠ 너무바쁜 토요일 입고된 차량이라 ...",
+    "description": "2017.9.14. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 12볼트스토리의 주종목입니다 !! 바로 #카비스 #BSA #BSD #BSW #측후방감지기 #전방센서 작업 입니다 헉 ㅠㅠ 너무바쁜 토요일 입고된 차량이라 ... 작업량도 많다보니 입고사진이 ... 이것밖에 없네요 우선 작업전 차량의 옆부분 입니다 이부분에 #후측방감지기 센... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA5MTRfMjY2/MDAxNTA1Mzc1NDUwMjI5.k4PAAwMPdeN_t5DdqJTvJuoXmLRcPOATHGfmSl5RwBMg.zYM2DyWPaOYR7V2iqXY4vU0hzdvpki5Tgj9r09eiFDAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "고양 일산 파주 운정 / 카비스BSA · 고양 일산 파주 운정 / 카비스BSA BSD BSW / 후측방감지기 / 코란도 스포츠 - 순정형 전방센서 카비스측후방감지기 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224410796603?fromRss=true&trackingCode=rss",
+    "tags": [
+      "고양 일산 파주 운정 / 카비스BSA",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224410796510",
+    "date": "2026-09-14",
+    "category": "기타작업",
+    "car": "G70",
+    "title": "[일산 파주 운정 김포 고양] 제네시스 G70 / 꼼꼼한 신차검수 / 전체썬팅 /",
+    "summary": "2018.9.14. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ ☆ 무료 신차검수 요청방법 ☆ 차량 출고전 전화 또는 카카오톡플러스친구 / 네이버 톡톡 을 통하여 예약해주시고 차량탁송지를 12볼트스토리 : 경기도 고양시 일산서구 송산로 499-8 번지로…",
+    "description": "2018.9.14. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ ☆ 무료 신차검수 요청방법 ☆ 차량 출고전 전화 또는 카카오톡플러스친구 / 네이버 톡톡 을 통하여 예약해주시고 차량탁송지를 12볼트스토리 : 경기도 고양시 일산서구 송산로 499-8 번지로 지정해주시면 됩니다 ^^ 또한 추가적인 신차패키지 작업이 필요하시면 원하시는 작업 문의 해... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MTRfMjg1/MDAxNTM2ODkxNDUyMDA3.wwnihcSlp5SspBUWi8T_47oy3HLD-VuR76tFPyue-ykg.sGPWofuQVP_wKKPNwAXWpnux3a1JOJ2199OAeYgq7e4g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "G70 · [일산 파주 운정 김포 고양] 제네시스 G70 / 꼼꼼한 신차검수 / 전체썬팅 / 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224410796510?fromRss=true&trackingCode=rss",
+    "tags": [
+      "G70",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224410796415",
+    "date": "2026-09-14",
+    "category": "블랙박스",
+    "car": "벤츠 E200 / W212 / 순정네",
+    "title": "벤츠 E200 / W212 / 순정네비게이션 모니터 블랙아웃 수리 / 파인뷰Lx3000 2채널 블랙박스 장착 [일산 파주 운정 김포 고양]",
+    "summary": "2020.9.14. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 E200 w212 작업내용 : 순정모니터 블랙아웃 수리 파인뷰 LX3000 블랙박스 장착 작업시간 : 1시간 엠블럼만 E300 이 붙어있는 벤츠 E200 W212차량이 입고되었…",
+    "description": "2020.9.14. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 E200 w212 작업내용 : 순정모니터 블랙아웃 수리 파인뷰 LX3000 블랙박스 장착 작업시간 : 1시간 엠블럼만 E300 이 붙어있는 벤츠 E200 W212차량이 입고되었습니다 입고사유는 순정네비게이션 모니터가 화면이 들어오지 않아서 입니다 일명 블랙아웃 이라고 표현하는... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MTRfNjYg/MDAxNjAwMDg0MzU2NTE4.Y9Zz_l_SWNKjVImTiC1Te1CTyJEZoLwBdhFyywAuoNQg.sVNURcpfF0gaC_GFz5wVuTFZgAvAzVqza2BkMTlCXfkg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "벤츠 E200 / W212 / 순정네 · 벤츠 E200 / W212 / 순정네비게이션 모니터 블랙아웃 수리 / 파인뷰Lx3000 2채널 블랙박스 장착 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224410796415?fromRss=true&trackingCode=rss",
+    "tags": [
+      "벤츠 E200 / W212 / 순정네",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224410796302",
+    "date": "2026-09-14",
+    "category": "사이드미러",
+    "car": "K5",
+    "title": "올뉴K5 MX / 안드로이드 올인원 + 후방카메라 / 오토라이트 / 크루즈컨트롤 / 사이드미러 교체 / 중고차 구매후 신차만들기 ! [일산 파주 운정 김포",
+    "summary": "2025.9.14. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K5 MX 작업내용 : 안드로이드 올인원 / 후방카메라 / 크루즈컨트롤 / 오토라이트 / 사이드미러 교체 작업시간 : 3시간 ~ 4시간 12볼트스토리 채널홈을 폰으로 접속…",
+    "description": "2025.9.14. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K5 MX 작업내용 : 안드로이드 올인원 / 후방카메라 / 크루즈컨트롤 / 오토라이트 / 사이드미러 교체 작업시간 : 3시간 ~ 4시간 12볼트스토리 채널홈을 폰으로 접속해보세요. 중고로 구매하신 올뉴K5 차량에 이것저것 편의사양 업그레이드를 위해 입고되었습니다 오늘 작... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MTNfMTI5/MDAxNzU3NzQ3MTgxMDE3.SmxT4fVA7QHeOoQINJR50AtavcHdXVpdroayApdpINYg.oCv34LOuQphgK1xe5KIBGXoB5s5RpXff11v7LNOpulEg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K5 · 올뉴K5 MX / 안드로이드 올인원 + 후방카메라 / 오토라이트 / 크루즈컨트롤 / 사이드미러 교체 / 중고차 구매후 신차만들기 ! [일산 파주 운정 김포 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224410796302?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224409733622",
     "date": "2026-09-13",
@@ -8064,136 +8194,6 @@ window.WORKS_DATA = [
     "blog": "https://blog.naver.com/uh2816/224367448776?fromRss=true&trackingCode=rss",
     "tags": [
       "올뉴프라이드 / 누런 할로겐",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224367448626",
-    "date": "2026-08-04",
-    "category": "사이드미러",
-    "car": "제네시스 BH",
-    "title": "제네시스BH / 사이드미러 접힘 펴짐 불량 수리 / 합법인증 LED전조등 장착으로 밝고 깨끗하게 야간운전이 편해집니다 ^^ [일산 파주 운정 김포 고양]",
-    "summary": "2021.8.4. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스BH 작업내용 : 사이드미러 수리 / 합법LED전조등 장착 작업시간 : 1시간 2가지 작업을 위해 입고된 제네시스 BH 차량입니다 오늘 작업은 사이드미러 수리와 LED전조등 장…",
-    "description": "2021.8.4. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스BH 작업내용 : 사이드미러 수리 / 합법LED전조등 장착 작업시간 : 1시간 2가지 작업을 위해 입고된 제네시스 BH 차량입니다 오늘 작업은 사이드미러 수리와 LED전조등 장착입니다 우선 차량의 사이드미러 모습입니다 운전석은 접힌상태 보조석은 펴진 상태죠 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MDRfOTAg/MDAxNjI4MDM5NTI4NTIz.H5PpNKCakoXKW4_trxFlrlaA279APWfZ0Itzu0WQYKAg.roe7VssKre_GmPA3GAJZ_QsZK2Kk8FSRUN5t5MP-zuAg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "제네시스 BH · 제네시스BH / 사이드미러 접힘 펴짐 불량 수리 / 합법인증 LED전조등 장착으로 밝고 깨끗하게 야간운전이 편해집니다 ^^ [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224367448626?fromRss=true&trackingCode=rss",
-    "tags": [
-      "제네시스 BH",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224367448532",
-    "date": "2026-08-04",
-    "category": "사이드미러",
-    "car": "니로",
-    "title": "니로 사이드미러 폴딩불량 / 부분수리 / 전체교체가 아닌 부분수리이다보니 훨신 저렴하게 원상복구 가능합니다 / 무조건 교체는 NONO !! [일산 파주 운정 김포",
-    "summary": "2023.8.4. 3년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 니로 작업내용 : 사이드미러 부분수리 작업시간 : 40분 사이드미러 폴딩불량으로 인해 수리하시고자 방문해주신 니로 차량입니다 입고시 증상은 이러합니다 .. 움찔...",
-    "description": "2023.8.4. 3년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 니로 작업내용 : 사이드미러 부분수리 작업시간 : 40분 사이드미러 폴딩불량으로 인해 수리하시고자 방문해주신 니로 차량입니다 입고시 증상은 이러합니다 .. 움찔... 하다 마는... 증상은 확인했으니 수리를 위해 사이드미러를 탈거하는 모습입니다 ! 이제 작업대로 가볼게요 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MDRfMTk4/MDAxNjkxMTE5OTkzNjM4.FX-awn5nPdafQsMTM2_kgD2eu-Q5gLWcXmQvGQ8GzeUg.WNqNx6jlV_CATVyN_LvtsTvq2BNjMa9BHYdi9bgE51Ig.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "니로 · 니로 사이드미러 폴딩불량 / 부분수리 / 전체교체가 아닌 부분수리이다보니 훨신 저렴하게 원상복구 가능합니다 / 무조건 교체는 NONO !! [일산 파주 운정 김포 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224367448532?fromRss=true&trackingCode=rss",
-    "tags": [
-      "니로",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224367448422",
-    "date": "2026-08-04",
-    "category": "블랙박스",
-    "car": "BMW640 / 순정",
-    "title": "BMW640 / 순정블랙박스 제거후 / 아이나비Z9000 2채널 블랙박스 장착과 / 셀스타NX50 보조배터리 장착 / 순정과는 비교불가 !! [일산 파주 운정 김",
-    "summary": "2023.8.4. 3년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : BMW640 작업내용 : 블랙박스 및 보조배터리 장착 작업시간 : 1시간 순정블랙박스 탈거후 블랙박스와 보조배터리 시공을 위해 찾아주셨습니다 고객님께 들어보니 얼마전 물피도…",
-    "description": "2023.8.4. 3년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : BMW640 작업내용 : 블랙박스 및 보조배터리 장착 작업시간 : 1시간 순정블랙박스 탈거후 블랙박스와 보조배터리 시공을 위해 찾아주셨습니다 고객님께 들어보니 얼마전 물피도주 사고가 있었는데 블랙박스가 상시녹화가 되지 않아 잡지 못하셨다고 합니다 ㅜㅜ 그래서 이제라... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MDRfNTkg/MDAxNjkxMTIxMzQ0Njc3.O9GYxBd0A5pYE8B1VaZMTSR4-L2kzPYpm8YFrqgsk64g.P7ocVwDFjBOf1w4dMZsJYh6VD0jtQK33UdEmUo4U18kg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "BMW640 / 순정 · BMW640 / 순정블랙박스 제거후 / 아이나비Z9000 2채널 블랙박스 장착과 / 셀스타NX50 보조배터리 장착 / 순정과는 비교불가 !! [일산 파주 운정 김 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224367448422?fromRss=true&trackingCode=rss",
-    "tags": [
-      "BMW640 / 순정",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224367217490",
-    "date": "2026-08-03",
-    "category": "기타작업",
-    "car": "K5",
-    "title": "[일산 파주 운정 김포 고양] 올뉴K5 SX - 순정 크루즈컨트롤 시공 및 계기판 연동 작업",
-    "summary": "2018.8.3. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴K5 SX 작업내용 : 크루즈 컨트롤 작업시간 : 40분 작업을 위해 입고된 K5 차량입니다 오늘 진행될 작업은 크루즈컨트롤 인데요 ..",
-    "description": "2018.8.3. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴K5 SX 작업내용 : 크루즈 컨트롤 작업시간 : 40분 작업을 위해 입고된 K5 차량입니다 오늘 진행될 작업은 크루즈컨트롤 인데요 .. 요즘 어지간 하면 들어가 있는 옵션인데 리스 차량이다보니 LPG 차량이라서 등급이 낮아 빠져버렸네요 ;; 그래서 12볼트스토리로 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MDNfMTQ5/MDAxNTMzMjcyMjg5NzQy.C_-m3pmdz-nL3FWsrd8XxKdG1AWokQESaveJvEr6O4Qg.Q04oKLl8Y6_BIxPS8paNOBpLxM3a1BWpKsE0NNMHzQIg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "K5 · [일산 파주 운정 김포 고양] 올뉴K5 SX - 순정 크루즈컨트롤 시공 및 계기판 연동 작업 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224367217490?fromRss=true&trackingCode=rss",
-    "tags": [
-      "K5",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224367217411",
-    "date": "2026-08-03",
-    "category": "기타작업",
-    "car": "뉴 SM3 사고",
-    "title": "뉴 SM3 사고수리 / 후방센서 파손으로 인해 재시공 / 보험처리건 [일산 파주 운정 김포 고양]",
-    "summary": "2020.8.3. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : SM3 작업내용 : 후방센서 재시공 작업시간 : 1시간 기존에 후방센서가 장착되어 있던 차량이구요 사고가 나셔서 뒷범퍼 및 후방센서 파손으로 보험수리 하신 차량입니다 범퍼는 공업사에서…",
-    "description": "2020.8.3. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : SM3 작업내용 : 후방센서 재시공 작업시간 : 1시간 기존에 후방센서가 장착되어 있던 차량이구요 사고가 나셔서 뒷범퍼 및 후방센서 파손으로 보험수리 하신 차량입니다 범퍼는 공업사에서 수리후 후방감지센서 시공을 위해 12볼트스토리로 방문해 주셨어요 ~ 깨끗하게 도장되... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDA4MDFfMjk3/MDAxNTk2MjU0NjE1OTg1.HJW1dkFGtaSoANo57pDAY48gNWxYppYs7Oicp0RLDUUg.7uhyemXN3Zpi6IksMDScIYol0VLBoi7O_4wcePJOlIgg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "뉴 SM3 사고 · 뉴 SM3 사고수리 / 후방센서 파손으로 인해 재시공 / 보험처리건 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224367217411?fromRss=true&trackingCode=rss",
-    "tags": [
-      "뉴 SM3 사고",
       "기타작업"
     ],
     "source": "naver"
