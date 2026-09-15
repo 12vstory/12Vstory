@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-15 09:59", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-15 15:11", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224412399507",
+    "date": "2026-09-15",
+    "category": "사이드미러",
+    "car": "아반떼MD",
+    "title": "아반떼MD 사이드미러 안접힘, 폴딩모터 내부 기어 파손 부분수리 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 현대 아반떼MD 입니다. 조수석 사이드미러가 정상적으로 접히고 펴지지 않는 사이드미러 폴딩불량 증상 으로 입고됐습니다. 사이드미러가 안 접히면 흔히 폴딩모터 전체를 교체하거나 사이드미러 ASSY 자체를 교환해야 한다고 생각하기 쉽습니다.",
+    "description": "오늘 작업 차량은 현대 아반떼MD 입니다. 조수석 사이드미러가 정상적으로 접히고 펴지지 않는 사이드미러 폴딩불량 증상 으로 입고됐습니다. 사이드미러가 안 접히면 흔히 폴딩모터 전체를 교체하거나 사이드미러 ASSY 자체를 교환해야 한다고 생각하기 쉽습니다. 하지만 실제로 분해해보면 모터 자체가 아니라 모터의 회전력을 전달하는 내부 기어가 파손된 경우 도 상당히 있습니다. 이번 아반떼MD 역시 정확한 원인을 확인한 뒤 사이드미러 전체를 교체하지 않고 폴딩모터 내부 기어 부분수리 로 작업을 진행했습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfODcg/MDAxNzg5NDQ2MTYwNjA0.fNhwAUW2EhkoYvSxSvC7jyr2LK4Ewx4K_UOw4SyA7bIg.l6ialAzogf2tK7JV3nnrSVps7c5YtOPuZJvepVlPUrwg.JPEG/KakaoTalk_20260915_095835179.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMjc5/MDAxNzg5NDQ2MTk1OTAz.x9ginzjF2RCAt7_93lQYJsq-qiixCX1imjbm4gb_TPog.4fn3Z51aOQ-MshdULCw7mBC6XO3WTkIx5XuQSy3dPX8g.JPEG/KakaoTalk_20260915_095835179_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMjg2/MDAxNzg5NDQ2MjE0NjMz.lpOdadSsRcQqX8-seAmgN2-SQpGJlHiN-VftkfDr8Bwg.o3Fd4jsZzp9Ajl3NvtYUMhPsXCQrI6dWiPmrHCP__RQg.JPEG/KakaoTalk_20260915_095835179_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfNjgg/MDAxNzg5NDQ2Mjg3MjIy.75RvkXy4ujJb-xbIYrN9rNh2gHJQD7UVEMDEiQKTkWog.ubualMgR-IJiZXuHPjrzTly2gBZl5iy9uY-GXeA9984g.JPEG/KakaoTalk_20260915_095835179_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMjU3/MDAxNzg5NDQ2Mjk5ODE4.GeQnJx-btmMnW0E1RkqTOumjjjxEuld_k1V2Cvn8Vhog.5BKISsA0fFD_Qp5BF_LCwK-s_GlSNWsKrNI9sTPKPW4g.JPEG/KakaoTalk_20260915_095835179_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMTQ2/MDAxNzg5NDQ2MzExMTQ2.qelSVw8eW-i-qngQeeGBVzlETRigmH0Aequjum6m08Eg.gwnzPtNarNEhYwphVp-FAdmm7qdg1qcLJx_Kf3YkmhYg.JPEG/KakaoTalk_20260915_095835179_04.jpg?type=w800"
+    ],
+    "captions": [
+      "아반떼MD · 아반떼MD 사이드미러 안접힘, 폴딩모터 내부 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "아반떼MD · 아반떼MD 사이드미러 안접힘, 폴딩모터 내부 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "아반떼MD · 아반떼MD 사이드미러 안접힘, 폴딩모터 내부 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "아반떼MD · 아반떼MD 사이드미러 안접힘, 폴딩모터 내부 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "아반떼MD · 아반떼MD 사이드미러 안접힘, 폴딩모터 내부 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "아반떼MD · 아반떼MD 사이드미러 안접힘, 폴딩모터 내부 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224412399507?fromRss=true&trackingCode=rss",
+    "tags": [
+      "아반떼MD",
+      "사이드미러",
+      "아반떼MD,아반떼MD사이드미러,아반떼사이드미러수리,아반떼MD사이드미러수리,사이드미러안접힘,사이드미러폴딩불량,사이드미러폴딩모터,폴딩모터수리,사이드미러기어,사이드미러부분수리,일산사이드미러수리,고양사이드미러수리,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224412376768",
+    "date": "2026-09-15",
+    "category": "사이드미러",
+    "car": "싼타페DM",
+    "title": "싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 [일산 파주 운정 김포 고양]",
+    "summary": "싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 안녕하세요. 일산 자동차 전장 전문 12볼트스토리 입니다. 오늘 입고된 차량은 현대 싼타페DM 입니다.",
+    "description": "싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 안녕하세요. 일산 자동차 전장 전문 12볼트스토리 입니다. 오늘 입고된 차량은 현대 싼타페DM 입니다. 운전석 사이드미러가 정상적으로 접히고 펴지지 않는 사이드미러 폴딩불량 증상 으로 방문해 주셨습니다. 사이드미러 폴딩이 고장 났다고 해서 항상 사이드미러 ASSY 전체를 교체해야 하는 것은 아닙니다. 이번 싼타페DM 역시 점검 결과 사이드미러 내부의 폴딩 구동부 기어가 파손된 상태 였고, 고장 난 부분만 수리하는 폴딩기어 부분수리 로 작업을 진행했습니다. 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMzYg/MDAxNzg5NDQ1MDU2NDI0.Sy9L6Yh2GLlI3RJu512LenC46oBNE14PueLWlOdYO_8g.mZ35s_ppvR0hmF8fJtX3X85Z81ik4SNTj5LFyeGtT3Eg.JPEG/KakaoTalk_20260915_095907965_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMjM4/MDAxNzg5NDQ1MDcxODI1.pofsklIVlAcC3i67Qpa5dM4xWZJFpuJHkq36AFUwkJ0g.RRCQCjTgN4B1Gfbk-rp8NPox1SG_WJlEcF5H6d1bFRIg.JPEG/KakaoTalk_20260915_095907965.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMTgw/MDAxNzg5NDQ1MTYzMzAz.thGM1a8rKta1ZTVuXgbPT7NJO9kvNnTbxPhAkh9ViQog._yHv0OwBtxid_w1gRvs4ZZOJfRWrsxGxFWi3Gb0e0AAg.JPEG/KakaoTalk_20260915_095907965_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfNjkg/MDAxNzg5NDQ1MTk3ODE1.FpTEqKo7mPFLc40FUZOvDH6ebxasxDkubNykHn4q1nYg.a__0QhTS4ANAxlfY59ekcHtb69hDYONGGHbGjxTvCC8g.JPEG/KakaoTalk_20260915_095907965_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMTAw/MDAxNzg5NDQ1MTcxOTAz.ODKbVXeaHE301qmGsUfIC3uaHDWKXMj8mZiMDPeFXCIg.UCV3C6yDiJ4kASrKQRMcrlkB8PQTQlews3dfQrBVbqog.JPEG/KakaoTalk_20260915_095907965_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTVfMjg4/MDAxNzg5NDQ1MjEyNzY1.p3wBxonbdbPt_soK4q-AGHsApQVwCZjwu-ws844acmEg.tdPOrD511r5VZA7GXjI5dc-HygKm9hxjMqpAWkBzILEg.JPEG/KakaoTalk_20260915_095907965_05.jpg?type=w800"
+    ],
+    "captions": [
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "싼타페DM · 싼타페DM 사이드미러 폴딩불량, 통째 교체 없이 폴딩기어 부분수리 | 일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224412376768?fromRss=true&trackingCode=rss",
+    "tags": [
+      "싼타페DM",
+      "사이드미러",
+      "싼타페DM,싼타페DM사이드미러,싼타페사이드미러수리,사이드미러폴딩불량,사이드미러수리,폴딩기어,폴딩기어수리,사이드미러부분수리,사이드미러접힘불량,사이드미러안접힘,일산사이드미러수리,고양사이드미러수리,일산자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224412123907",
     "date": "2026-09-15",
@@ -8154,58 +8228,6 @@ window.WORKS_DATA = [
     "tags": [
       "로체",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224368543152",
-    "date": "2026-08-05",
-    "category": "후방카메라",
-    "car": "그랜저HG",
-    "title": "그랜저HG / 순정후방카메라 고장 / 블루스크린 / 화질좋고 화각좋은 사제 CCD 후방카메라 장착으로 저렴하게 수리 완료 !! [일산 파주 운정 김포 고양]",
-    "summary": "2021.8.5. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 순정후방카메라 교체 작업시간 : 40분 ~ 1시간 후방카메라 고장으로 인해 입고된 그랜저HG 차량입니다 ~ 오늘 입고된 차량에는 순정네비게이션이 장착되어 있구요…",
-    "description": "2021.8.5. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 순정후방카메라 교체 작업시간 : 40분 ~ 1시간 후방카메라 고장으로 인해 입고된 그랜저HG 차량입니다 ~ 오늘 입고된 차량에는 순정네비게이션이 장착되어 있구요 후방카메라 역시 순정 후방카메라가 장착되어 있습니다 이제 차량의 상태가 어떤지 확인... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MDVfMTQg/MDAxNjI4MTQwMzY3NjI1.Vcp8C2T2tpnRayKe64AUgp0lBWvsKK87uPP63hIS7fYg.8rteH3jpOaIuuVD5zehxfmRguRT6n2PftiRzu-EkTc8g.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저HG · 그랜저HG / 순정후방카메라 고장 / 블루스크린 / 화질좋고 화각좋은 사제 CCD 후방카메라 장착으로 저렴하게 수리 완료 !! [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224368543152?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저HG",
-      "후방카메라"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224368543049",
-    "date": "2026-08-05",
-    "category": "블랙박스",
-    "car": "BMW520D 해외직구로 구매하신",
-    "title": "BMW520D 해외직구로 구매하신 안드로이드 올인원 장착만 해드렸구요 / 순정블랙박스 제거후 아이나비QXD1 고화질 블랙박스 교체 완벽장착 [일산 파주 운정 김포",
-    "summary": "2024.8.5. 2년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : BMW520D 작업내용 : 안드로이드올인원 설치 / 블랙박스교체 작업시간 : 2시간 30분 해외직구 구매하신 안드로이드 올인원 장착과 순정 블랙박스 제거후 아이나비QXD1 고화…",
-    "description": "2024.8.5. 2년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : BMW520D 작업내용 : 안드로이드올인원 설치 / 블랙박스교체 작업시간 : 2시간 30분 해외직구 구매하신 안드로이드 올인원 장착과 순정 블랙박스 제거후 아이나비QXD1 고화질 블랙박스 장착을 위해 예약해주시고 방문해 주신 520d 차량입니다 입고시 차량에는 순정네비와 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDVfMjE4/MDAxNzIyODIwMzk2NTIx.YJyJBv8dhz0vZcMVpye9AanEjoO-sVPoUGCI2AQx8wIg.xnZz-ijfg6Fq2qP0NfSKAwWRYW3HAREw2eZceyviUZYg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "BMW520D 해외직구로 구매하신 · BMW520D 해외직구로 구매하신 안드로이드 올인원 장착만 해드렸구요 / 순정블랙박스 제거후 아이나비QXD1 고화질 블랙박스 교체 완벽장착 [일산 파주 운정 김포 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224368543049?fromRss=true&trackingCode=rss",
-    "tags": [
-      "BMW520D 해외직구로 구매하신",
-      "블랙박스"
     ],
     "source": "naver"
   }
