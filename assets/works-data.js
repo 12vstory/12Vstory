@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-17 07:11", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-17 09:34", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224414555058",
+    "date": "2026-09-17",
+    "category": "블랙박스",
+    "car": "폴스타 4",
+    "title": "폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개할 차량은 폴스타4 입니다. 이번 작업은 폴스타4에 파인뷰 LXQ EX 블랙박스 와 셀스타 ES90 블랙박스 보조배터리 를 함께 장착했습니다.",
+    "description": "오늘 소개할 차량은 폴스타4 입니다. 이번 작업은 폴스타4에 파인뷰 LXQ EX 블랙박스 와 셀스타 ES90 블랙박스 보조배터리 를 함께 장착했습니다. 폴스타4는 일반 차량과 달리 후면 유리가 없는 독특한 구조를 가지고 있기 때문에 블랙박스 후방카메라 역시 일반적인 실내 장착 방식이 아닌 차량 외부 장착 방식으로 작업 해야 합니다. 블랙박스 본체 장착부터 외부 후방카메라, 보조배터리까지 차량 구조에 맞춰 깔끔하게 시공했습니다. 🚗 작업차량 폴스타4 Polestar 4 🔧 작업내용 파인뷰 LXQ EX 블랙박스 외부형 후방카메라 장착 셀스타 ES90 블랙박스 보조배터리 전·후방 영상 및 주차녹화 작동 점검 12볼트스토리 채널홈을 폰으로 접속해보세요. 폴스타4 블랙박스 장착 오늘 작업할 폴스타4입니다.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMTAx/MDAxNzg5NjA0MzkxNDM5.C24fINQUcD5MuW7LSl_eu4RsuG5GkCOmtiNDZQzQ2Nwg.QUOO6Eu81YHRLEkwsqhviGuEaCaZu1qDJ4dJvLtAbScg.JPEG/KakaoTalk_20260916_100841101_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMjUy/MDAxNzg5NjA0NDAxMTYw.8I4N9FzkmFXg3HRFYl_vKDhV0KTabbN8hbcTG2G-sP8g.ihLlMGZCHF2vFllojUMMyq8bm-QjfsdOyXmOqcIyXtsg.JPEG/KakaoTalk_20260916_100841101_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfNjQg/MDAxNzg5NjA0NDEzOTM4.k41KrTemZFoLw8-qRBDHPGtxAoQb6njZuf10dfT_BqMg.BOSBlEfhF5mIszj_4D8OSeWPyaFeQMVfVB6fnrC-xPQg.JPEG/KakaoTalk_20260916_100841101.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMjY1/MDAxNzg5NjA0NDI5NzU1.e4SnCwufqE2dKRhBb3pvGcGCPsGQuloH6ESeM7T8mREg.v054y2SE4EGXG1exS_vZezKtGxtsccXwPzO2p0bDWuIg.JPEG/KakaoTalk_20260916_100841101_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMTAz/MDAxNzg5NjA0NDQyMTI1.LDdHQyshQJqoNBbTAydJ56FnMD27U2X2NXvTwTfYUhEg.BydsYF3Syat-QgQxXdsaB72mTJmmZ0Lio9dlN5-hu-wg.JPEG/KakaoTalk_20260916_100841101_08.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMjMy/MDAxNzg5NjA0NDYwOTg4.ckVPAUsYuh_CduuSPQ6NWV2zCKNDSuPrKAysNP4scwsg.3gUZlta4epaDDOcUyQ_Sl8gJ18whpEPH42pNBtvtKr4g.JPEG/KakaoTalk_20260916_100841101_04.jpg?type=w800"
+    ],
+    "captions": [
+      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 1",
+      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 2",
+      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 3",
+      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 4",
+      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 5",
+      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224414555058?fromRss=true&trackingCode=rss",
+    "tags": [
+      "폴스타 4",
+      "블랙박스",
+      "폴스타4,폴스타4블랙박스,폴스타블랙박스,폴스타4후방카메라,폴스타4외부후방카메라,폴스타4보조배터리,파인뷰LXQEX,LXQEX,파인뷰블랙박스,셀스타ES90,셀스타보조배터리,블랙박스보조배터리,전기차블랙박스,전기차보조배터리,일산블랙박스,일산전기차블랙박스,고양시블랙박스,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224413513615",
     "date": "2026-09-16",
@@ -8180,32 +8217,6 @@ window.WORKS_DATA = [
     "tags": [
       "포르쉐 카이엔",
       "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224370174124",
-    "date": "2026-08-06",
-    "category": "사이드미러",
-    "car": "쉐보레 올란도",
-    "title": "쉐보레 올란도 사이드미러 폴딩불량으로 폴딩모터 부분수리 해드렸어요. 앗세이 교체 보다 몇배 저렴하게 수리가능합니다. [일산 파주 운정 김포 고양]",
-    "summary": "2025.8.6. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쉐보레 올란도 작업내용 : 사이드미러 폴딩모터 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.8.6. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쉐보레 올란도 작업내용 : 사이드미러 폴딩모터 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 쉐보레 올란도 차량이 사이드미러 폴딩이 되지 않아 12볼트스토리를 찾아주셨습니다 ^^ 12볼트스토리는 사이드미러 전문 수리점으로 앗세이 교체를 하지 않아도... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MDZfMTA4/MDAxNzU0NDQ3OTk2NjE1.W57eIL5ElEAF7Mmy7Y7rWb9hd7ixqPC8Qy5fmUHeLFkg.007BBSdGARzFn_Ugt7cDw5sw25uWI98QwArIhcyYnc4g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "쉐보레 올란도 · 쉐보레 올란도 사이드미러 폴딩불량으로 폴딩모터 부분수리 해드렸어요. 앗세이 교체 보다 몇배 저렴하게 수리가능합니다. [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224370174124?fromRss=true&trackingCode=rss",
-    "tags": [
-      "쉐보레 올란도",
-      "사이드미러"
     ],
     "source": "naver"
   }
