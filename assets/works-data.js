@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-18 09:48", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-18 14:57", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224415972670",
+    "date": "2026-09-18",
+    "category": "전장수리",
+    "car": "스팅어",
+    "title": "일산 스팅어 비상등 버튼 불량 부분수리｜스위치 모듈 교체 없이 수리 / 필요한 부분만 수리하면 됩니다 ! [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해드릴 차량은 기아 스팅어 입니다. 이번 차량은 비상등 버튼 작동 불량 으로 입고되었습니다. 비상등은 평소 자주 사용하는 기능 중 하나인데, 버튼 내부 스위치나 접점에 문제가 생기면 눌러도 정상적으로 작동하지 않거나 작동감이 이상해질 수 있습니다.",
+    "description": "오늘 소개해드릴 차량은 기아 스팅어 입니다. 이번 차량은 비상등 버튼 작동 불량 으로 입고되었습니다. 비상등은 평소 자주 사용하는 기능 중 하나인데, 버튼 내부 스위치나 접점에 문제가 생기면 눌러도 정상적으로 작동하지 않거나 작동감이 이상해질 수 있습니다. 이번 스팅어는 관련 부품 전체를 교체하는 방식이 아니라 불량 부위를 확인한 뒤 필요한 부분만 수리하는 부분수리 방식 으로 작업을 진행했습니다. 작업 차량 / 작업 내용 작업차량 : 기아 스팅어 작업내용 : 비상등 버튼 불량 부분수리 작업방식 : 비상등 스위치 모듈 탈거 후 내부 점검 및 수리 작업점 : 일산 12볼트스토리 12볼트스토리 채널홈을 폰으로 접속해보세요. 스팅어 차량 입고 비상등 버튼 불량 증상으로 스팅어 차량이 입고되었습니다.",
+    "points": [
+      "불량 증상 재현 후 원인 구간 확인",
+      "필요 부품 또는 회로를 부분수리",
+      "조립 후 기능을 반복 테스트해 마무리"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfODgg/MDAxNzg5NzA1MDY0NjQy.KJPSE_p60C33Rw55i6zAalLnTVwtvE2pCSD7spYD3SEg.tT3GpkTqTryWKrDwfa8oGYTGd_rqiAew00BdDR959-cg.JPEG/KakaoTalk_20260918_123013811_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfNzUg/MDAxNzg5NzA1MDczOTYx.MNSg9xBvcxnUB-DiP1LxyY0lY6Nq-gsG5u98lfyUjXMg.sRXHE4eCBLGwJ2sBJPEviqzMDFB5eOO4D7lGjZCiWW8g.JPEG/KakaoTalk_20260918_123013811.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfNyAg/MDAxNzg5NzA1MDgxMjI5.aIspKfLZBXlIL-js2wU6-HxnnWStcRLgPcQ8lbHn4RQg.jYJoMFN2qmBGQF7wzZL36RCTH5mo5_pjoUdtBJhU6JUg.JPEG/KakaoTalk_20260918_123013811_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfMjE2/MDAxNzg5NzA1MDk3NTA2.0w-ZpmZOrmLmGGDSTgT_4-jbtlt9sVbas2tXxoVEdfUg.v2rJmoEBROGnLzoZDN-nr1JQsegwsKZEV0TRtysnzlUg.JPEG/KakaoTalk_20260918_123013811_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfMTM0/MDAxNzg5NzA1MTA0NjI5.3_nLWeiKoVUpSvNT_ew25oydboIXJjj3ARqByVtFrrEg.SUl3o_Fuz9kFrZP2cvrSkRP15NF7MxIv9JWJ4TwVtGQg.JPEG/KakaoTalk_20260918_123013811_06.jpg?type=w800",
+      "https://storep-phinf.pstatic.net/choypoi_07/original_22.png?type=p100_100"
+    ],
+    "captions": [
+      "스팅어 · 일산 스팅어 비상등 버튼 불량 부분수리｜스위치 모듈 교체 없이 수리 / 필요한 부분만 수리하면 됩니다 ! [일산 파주 운정 김포 고양] 작업사진 1",
+      "스팅어 · 일산 스팅어 비상등 버튼 불량 부분수리｜스위치 모듈 교체 없이 수리 / 필요한 부분만 수리하면 됩니다 ! [일산 파주 운정 김포 고양] 작업사진 2",
+      "스팅어 · 일산 스팅어 비상등 버튼 불량 부분수리｜스위치 모듈 교체 없이 수리 / 필요한 부분만 수리하면 됩니다 ! [일산 파주 운정 김포 고양] 작업사진 3",
+      "스팅어 · 일산 스팅어 비상등 버튼 불량 부분수리｜스위치 모듈 교체 없이 수리 / 필요한 부분만 수리하면 됩니다 ! [일산 파주 운정 김포 고양] 작업사진 4",
+      "스팅어 · 일산 스팅어 비상등 버튼 불량 부분수리｜스위치 모듈 교체 없이 수리 / 필요한 부분만 수리하면 됩니다 ! [일산 파주 운정 김포 고양] 작업사진 5",
+      "스팅어 · 일산 스팅어 비상등 버튼 불량 부분수리｜스위치 모듈 교체 없이 수리 / 필요한 부분만 수리하면 됩니다 ! [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224415972670?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스팅어",
+      "전장수리",
+      "스팅어,스팅어비상등,스팅어비상등버튼,비상등버튼불량,비상등버튼수리,스팅어버튼수리,자동차버튼수리,비상등스위치수리,스위치부분수리,순정스위치수리,일산비상등수리,일산자동차전장,고양시자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224415938102",
+    "date": "2026-09-18",
+    "category": "옵틱글래스",
+    "car": "폴스타 4",
+    "title": "일산 폴스타4 옵틱글래스 광각미러 장착, 순정 디밍미러 제거 작업 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해드릴 작업 차량은 폴스타4 입니다. 폴스타4에 적용된 순정 사이드미러를 탈거한 뒤 옵틱글래스 광각미러로 교체 하는 작업을 진행했습니다.",
+    "description": "오늘 소개해드릴 작업 차량은 폴스타4 입니다. 폴스타4에 적용된 순정 사이드미러를 탈거한 뒤 옵틱글래스 광각미러로 교체 하는 작업을 진행했습니다. 이번 작업은 단순히 미러만 교체하는 것이 아니라 기존 순정 디밍미러를 제거하고 보다 넓은 시야를 확보할 수 있는 광각미러로 변경 하는 작업입니다. 작업 차량 / 작업 내용 작업차량 : 폴스타4 작업내용 : 옵틱글래스 광각미러 장착 추가내용 : 순정 디밍미러 제거 작업부위 : 운전석 / 조수석 사이드미러 작업점 : 일산 12볼트스토리 12볼트스토리 채널홈을 폰으로 접속해보세요. 폴스타4 입고 폴스타4가 작업을 위해 입고되었습니다.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfNiAg/MDAxNzg5NzAzMTAxMDUy.bWwiv64-3TRUHU-HMwclab7PCyO5Jo27CJGBXExgLVgg.nctHsMXBv1Z8gMbD2dBcCVkw812MQYK0O8J0CFrUfZMg.JPEG/KakaoTalk_20260918_123039367.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfMjA4/MDAxNzg5NzAzMTEzODY2.jE5tFOTJj3y1CUKFaepyhZf78pexPubmR3KPNr9cDO8g.Iuiz7bJ2gFbULvsivWGgZdlhOlkNAGsONuSGJswR1dAg.JPEG/KakaoTalk_20260918_123039367_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfNzcg/MDAxNzg5NzAzMTIwODI4.3QJP1ppZaHPb0lIwaAFeADrwOTKl5FSXnhAd4r7vSoMg.FvAcNewpU2Peaq1v5EvH8BtXVdD5oXk_jiwZgOWanB8g.JPEG/KakaoTalk_20260918_123039367_03.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfMjY4/MDAxNzg5NzAzMTIwODIx.S7tiQwfZL3g5HtET7sncQn5BDQr7dR4cro3glqmB4J4g.YDciLrNTe7gsBumWVJ_5danMFBDrqbW5oHf_hNHebPMg.JPEG/KakaoTalk_20260918_123039367_04.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfNzcg/MDAxNzg5NzAzMTI3OTEx.-ZNSkNWq7gKMnlBes9WKYfEK-E_55810Z_tKlI2S7w4g.uZdBlVRCKZNn8ZvHf2hOw5rVG3qJuPNtRXu_7v_Xzn0g.JPEG/KakaoTalk_20260918_123039367_09.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MThfNjAg/MDAxNzg5NzAzMTQzODY3.7mVY-0aFzPvin3d5XuotdwTtpHqe8rR5KmWL0Yixufcg.h0cWGLJBERTsIO756mFXlbIbMUSpVjdDsyTxntP2pjcg.JPEG/KakaoTalk_20260918_123039367_08.jpg?type=w400"
+    ],
+    "captions": [
+      "폴스타 4 · 일산 폴스타4 옵틱글래스 광각미러 장착, 순정 디밍미러 제거 작업 [일산 파주 운정 김포 고양] 작업사진 1",
+      "폴스타 4 · 일산 폴스타4 옵틱글래스 광각미러 장착, 순정 디밍미러 제거 작업 [일산 파주 운정 김포 고양] 작업사진 2",
+      "폴스타 4 · 일산 폴스타4 옵틱글래스 광각미러 장착, 순정 디밍미러 제거 작업 [일산 파주 운정 김포 고양] 작업사진 3",
+      "폴스타 4 · 일산 폴스타4 옵틱글래스 광각미러 장착, 순정 디밍미러 제거 작업 [일산 파주 운정 김포 고양] 작업사진 4",
+      "폴스타 4 · 일산 폴스타4 옵틱글래스 광각미러 장착, 순정 디밍미러 제거 작업 [일산 파주 운정 김포 고양] 작업사진 5",
+      "폴스타 4 · 일산 폴스타4 옵틱글래스 광각미러 장착, 순정 디밍미러 제거 작업 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224415938102?fromRss=true&trackingCode=rss",
+    "tags": [
+      "폴스타 4",
+      "옵틱글래스",
+      "폴스타4,폴스타4광각미러,폴스타4옵틱글래스,옵틱글래스,광각미러,사이드미러,폴스타4사이드미러,폴스타4디밍미러,디밍미러제거,일산옵틱글래스,일산광각미러,일산자동차튜닝,고양시광각미러,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224414781607",
     "date": "2026-09-17",
@@ -8153,58 +8227,6 @@ window.WORKS_DATA = [
     "tags": [
       "[일산 파주 운정 김포 고양]뉴쏘렌토",
       "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224371006431",
-    "date": "2026-08-07",
-    "category": "후방카메라",
-    "car": "그랜저HG",
-    "title": "그랜저HG / 순정후방카메라 고장으로 인한 CCD후방카메라 교체 작업 / 순정을 구할수가 없네요 ㅠ [일산 파주 운정 김포 고양]",
-    "summary": "2023.8.7. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 순정 후방카메라 교체 작업시간 : 1시간 이내 후방카메라 고장으로 교체를 위해 방문해주신 그랜저 차량입니다 차량에는 순정네비게이션과 순정후방카메라가 장착되어 있…",
-    "description": "2023.8.7. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 순정 후방카메라 교체 작업시간 : 1시간 이내 후방카메라 고장으로 교체를 위해 방문해주신 그랜저 차량입니다 차량에는 순정네비게이션과 순정후방카메라가 장착되어 있구요 증상확인을 해볼까요 ? 후진기어를 넣은 상태인데.,.. 화면은 검은색만 보입니... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MDdfNyAg/MDAxNjkxMzczMTk5MTE3.lhrv_twyguQozKknJCyUFo8NIdMum2WASQmAfttS0fsg.rclnSFsHwEbCuw3_7K-cqmk3VXwwxEa_pez2E1sTW0og.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저HG · 그랜저HG / 순정후방카메라 고장으로 인한 CCD후방카메라 교체 작업 / 순정을 구할수가 없네요 ㅠ [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224371006431?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저HG",
-      "후방카메라"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224371006231",
-    "date": "2026-08-07",
-    "category": "블랙박스",
-    "car": "캐딜락 에스컬레이드 / 구매해오신",
-    "title": "캐딜락 에스컬레이드 / 구매해오신 안드로이드 올인원 / 장착만 해드렸어요 ~ / 2채널 블랙박스 파인뷰LXQ500 저렴하게 장착해드렸구요 ! [일산 파주 운정 김",
-    "summary": "2023.8.7. 3년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 에스컬레이드 작업내용 : 안드로이드 올인원 / 블랙박스 작업시간 : 3시간 해외 직구로 구매하신 안드로이드 올인원 장착을 위해 예약해주시고 방문해 주신 캐딜락 에스컬레이드…",
-    "description": "2023.8.7. 3년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 에스컬레이드 작업내용 : 안드로이드 올인원 / 블랙박스 작업시간 : 3시간 해외 직구로 구매하신 안드로이드 올인원 장착을 위해 예약해주시고 방문해 주신 캐딜락 에스컬레이드 차량입니다 이미 12볼트스토리에서 다른 차량에 안드로이드 올인원을 장착하고 가셨던 고객님이세... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MDdfMTM3/MDAxNjkxMzc0MDQ4MTAw.8dFLdxBDwTwZa0LGIHfkD42Mp-e5PP3eOPO_RcdCFMwg.Jbz4nudtpu0-gjbjvuNupV42G_rc2_skh8SEZYwqojYg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "캐딜락 에스컬레이드 / 구매해오신 · 캐딜락 에스컬레이드 / 구매해오신 안드로이드 올인원 / 장착만 해드렸어요 ~ / 2채널 블랙박스 파인뷰LXQ500 저렴하게 장착해드렸구요 ! [일산 파주 운정 김 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224371006231?fromRss=true&trackingCode=rss",
-    "tags": [
-      "캐딜락 에스컬레이드 / 구매해오신",
-      "블랙박스"
     ],
     "source": "naver"
   }
