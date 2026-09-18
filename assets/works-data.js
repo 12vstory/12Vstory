@@ -1,6 +1,136 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-18 20:18", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-19 00:11", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224416390009",
+    "date": "2026-09-18",
+    "category": "후방카메라",
+    "car": "[일산 파주 운정 김포 고양] 뉴카렌",
+    "title": "[일산 파주 운정 김포 고양] 뉴카렌스 / 네비게이션 상단매립 / JY T-3000 / 티맵기반 네비게이션 / CCD 후방카메라",
+    "summary": "2018.9.18. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 뉴카렌스 작업내용 : 네비게이션 상단매립 + CCD후방카메라 작업시간 : 1시간 30분 네비게이션 매립을 위해 뉴카렌스 차량이 입고되었습니다 그리고 입고사진도 찍었는데 ...",
+    "description": "2018.9.18. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 뉴카렌스 작업내용 : 네비게이션 상단매립 + CCD후방카메라 작업시간 : 1시간 30분 네비게이션 매립을 위해 뉴카렌스 차량이 입고되었습니다 그리고 입고사진도 찍었는데 ... 차량 앞 모습과 뒷모습만 파일에 문제가 있다고 삭제되었네요 ㅎㅎ 우선 차량의 실내모습이구요... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MThfMjM0/MDAxNTM3MjQ0NDI3NTMx.GM_eNvVdkGLTW3ArbL-zAQKZhXeDOxzEFFJ3Kvkzwngg._0gg7qkOwV4uffS8yNOCeGfmE0BEcbtaB0ZOv7zQzq4g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 뉴카렌 · [일산 파주 운정 김포 고양] 뉴카렌스 / 네비게이션 상단매립 / JY T-3000 / 티맵기반 네비게이션 / CCD 후방카메라 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224416390009?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 뉴카렌",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224416389916",
+    "date": "2026-09-18",
+    "category": "기타작업",
+    "car": "그랜저TG / 키방식 차량 / 이지카",
+    "title": "그랜저TG / 키방식 차량 / 이지카 S1 / 스타트버튼 장착으로 키없이 간편하게 버튼한번 누르면 시동이 걸려요 ~[일산 파주 운정 김포 고양]",
+    "summary": "2020.9.18. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 이지카 버튼시동 S1 장착 작업시간 : 1시간 키를 돌려 시동거는 그랜저 TG 차량이 키박스 상태가 좋지않아 겸사겸사 스타트 버튼 시공을 위해 입고되었습니다…",
+    "description": "2020.9.18. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 이지카 버튼시동 S1 장착 작업시간 : 1시간 키를 돌려 시동거는 그랜저 TG 차량이 키박스 상태가 좋지않아 겸사겸사 스타트 버튼 시공을 위해 입고되었습니다 정석은 키박스를 수리하시는게 맞기는 한데 키박스 속에 접접이 좋지 않아 키가 헛도는 느... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MThfNTcg/MDAxNjAwNDIxOTYzNzc0.VpFYiX8bKgATVW-OxGYdn5G0m35SvWZ5sddvlI6oEp4g.UGKvl8NW5SPNzMcvtMRm0Kx67IGTG6eeIh2Z6tY9Mtcg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "그랜저TG / 키방식 차량 / 이지카 · 그랜저TG / 키방식 차량 / 이지카 S1 / 스타트버튼 장착으로 키없이 간편하게 버튼한번 누르면 시동이 걸려요 ~[일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224416389916?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜저TG / 키방식 차량 / 이지카",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224416389818",
+    "date": "2026-09-18",
+    "category": "사이드미러",
+    "car": "싼타페TM",
+    "title": "싼타페TM 사이드미러 폴딩불량 / 전체교체가 아닌 부분수리로 저렴하게 원상복구 가능합니다 / 사이드미러 수리 전문 12볼트스토리 [일산 파주 운정 김포 고양]",
+    "summary": "2023.9.18. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 사이드미러 부분수리 작업시간 : 1시간 이내 사이드미러 폴딩불량으로 입고된 싼타페TM 차량입니다 우선 입고시 문제부터 확인하고 갈게요 ~ 운전석 사이드미러는…",
+    "description": "2023.9.18. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 사이드미러 부분수리 작업시간 : 1시간 이내 사이드미러 폴딩불량으로 입고된 싼타페TM 차량입니다 우선 입고시 문제부터 확인하고 갈게요 ~ 운전석 사이드미러는 접혀있는데 보조석 사이드미러는 이렇게 움직이지 않는 상태입니다 .. 동작음은 들리는... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MThfNCAg/MDAxNjk0OTk5MzA5OTU3.qSOWwUNXH2R1z0KUSVkzPE-o1R5jsfpdb4d-mGPXClIg.-JsiGXMshpUL7BEx038MP3zxyyrhLjjhvGPDR4vpUVUg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "싼타페TM · 싼타페TM 사이드미러 폴딩불량 / 전체교체가 아닌 부분수리로 저렴하게 원상복구 가능합니다 / 사이드미러 수리 전문 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224416389818?fromRss=true&trackingCode=rss",
+    "tags": [
+      "싼타페TM",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224416389696",
+    "date": "2026-09-18",
+    "category": "기타작업",
+    "car": "맥스크루즈 / 순정형 원격시동경보기",
+    "title": "맥스크루즈 / 순정형 원격시동경보기 / 매직카M8 / 저전압 시동 / 원격시동 [일산 파주 운정 김포 고양]",
+    "summary": "2023.9.18. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 맥스크루즈 작업내용 : 매직카M8 원격시동기 작업시간 : 1시간 30분 이내 다가오는 겨울을 위해 조금일찍 원격시동 경보기 장착을 요청해주신 맥스크루즈 차량입니다 오늘 차량에 장착될…",
+    "description": "2023.9.18. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 맥스크루즈 작업내용 : 매직카M8 원격시동기 작업시간 : 1시간 30분 이내 다가오는 겨울을 위해 조금일찍 원격시동 경보기 장착을 요청해주신 맥스크루즈 차량입니다 오늘 차량에 장착될 제품은 오랜만에 보여드리는 제품입니다 ㅎㅎ 매직카경보기 M8 제품이구요 순정리모콘으... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MThfNTMg/MDAxNjk1MDAwMjMzMzc1.xm1wozdcJTuV2z29r73oR64IzuA4cWMBKTX314MFf-Yg.dMjuRL3yIAlcxSllGEWg8jYYnFvjvAsSaj54sEG1qgUg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "맥스크루즈 / 순정형 원격시동경보기 · 맥스크루즈 / 순정형 원격시동경보기 / 매직카M8 / 저전압 시동 / 원격시동 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224416389696?fromRss=true&trackingCode=rss",
+    "tags": [
+      "맥스크루즈 / 순정형 원격시동경보기",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224416389551",
+    "date": "2026-09-18",
+    "category": "사이드미러",
+    "car": "그랜저HG",
+    "title": "그랜저HG 모터소리만 나고 접히고 펴지지 않는 백밀러 부분수리 / 사이드미러 폴딩모터 부분수리 / 사이드미러수리 [일산 파주 운정 김포 고양]",
+    "summary": "2025.9.18. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저 HG 작업내용 : 사이드미러 폴딩모터 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.9.18. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저 HG 작업내용 : 사이드미러 폴딩모터 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러가 접히고 펴지는 동작은 되지 않고 모터 돌아가는 소리만 나는 상태로 입고된 차량입니다 입고시의 모습을 영상으로 먼저 보실까요 ? 이러합니다 한쪽... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MThfMzUg/MDAxNzU4MTc0OTMyODQ2.XnAKSkL6q9DKyuUJEL5sHAYOtiWHs6e2bSclHePn0zUg.iSXcg8wu_Qz3qkoJ-hGPRhMfVM3mqy1TmvuhJbllX9Ig.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "그랜저HG · 그랜저HG 모터소리만 나고 접히고 펴지지 않는 백밀러 부분수리 / 사이드미러 폴딩모터 부분수리 / 사이드미러수리 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224416389551?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜저HG",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224415972670",
     "date": "2026-09-18",
@@ -8097,136 +8227,6 @@ window.WORKS_DATA = [
     "tags": [
       "싼타페 DM",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224371902106",
-    "date": "2026-08-08",
-    "category": "사이드미러",
-    "car": "그랜저HG",
-    "title": "그랜저HG 사이드미러 폴딩불량 / 전혀 반응이 없는 사이드미러 / 전체교체 말고 부분수리 하시면 저렴하게 원상복구 가능합니다 ! [일산 파주 운정 김포 고양]",
-    "summary": "2025.8.8. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 사이드미러 폴딩모터 수리 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.8.8. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 사이드미러 폴딩모터 수리 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러 접힘 펴짐 동작이 되지 않아 폴딩모터 부분수리를 위해 방문해 주신 그랜저HG 차량입니다 어떤 문제가 있는지 먼저 확인하고 수리를 시작해 볼게... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MDhfMTM2/MDAxNzU0NjE4NzA5MDMx.UnZ13ep1EXiKidjXcDCx17SQwy30-O_5lfQp6t0LECQg.BDP9M1PGWRyTKNOOs-3EaIQppM52YOlHdvK0Vh7gRYgg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저HG · 그랜저HG 사이드미러 폴딩불량 / 전혀 반응이 없는 사이드미러 / 전체교체 말고 부분수리 하시면 저렴하게 원상복구 가능합니다 ! [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224371902106?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저HG",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224371901994",
-    "date": "2026-08-08",
-    "category": "순정옵션",
-    "car": "스타리아",
-    "title": "스타리아 시트탈거후 SBR경고등 및 경고음 다른곳에서 작업하시고 완벽하게 되지 않아 찾아주셨습니다 ! 한번에 완벽 제거 가능합니다 . [일산 파주 운정 김포 고양",
-    "summary": "2025.8.8. 1년 전 오늘 ] 안녕하세요 12볼트스토리 입니다 작업차량 : 스타리아 작업내용 : SBR경고등 및 경고음 삭제 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.8.8. 1년 전 오늘 ] 안녕하세요 12볼트스토리 입니다 작업차량 : 스타리아 작업내용 : SBR경고등 및 경고음 삭제 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요. 스타리아 차량이 입고되었습니다 입고된 이유는 시트탈거후 시트벨트리마인더 (SBR) 경고등과 경고음 소거 때문인데요 이미 다른곳에서 작업을 받으셨으... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 연식과 옵션 사양 확인",
-      "순정 방식에 맞춰 부품·배선 작업",
-      "시공 후 기능 작동과 오류 여부 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MDhfMTQg/MDAxNzU0NjE5NjI4Njg1.YGhKa8nFrS4XfdgsLksHE43CJSzF7tf7eH5QyCiBdhIg.YCsXa6dtms-dTftzVWtyRPQHqRDTMxkTodHzZG5S7w8g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "스타리아 · 스타리아 시트탈거후 SBR경고등 및 경고음 다른곳에서 작업하시고 완벽하게 되지 않아 찾아주셨습니다 ! 한번에 완벽 제거 가능합니다 . [일산 파주 운정 김포 고양 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224371901994?fromRss=true&trackingCode=rss",
-    "tags": [
-      "스타리아",
-      "순정옵션"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224371006871",
-    "date": "2026-08-07",
-    "category": "기타작업",
-    "car": "일산 파주 고양 운정 삼송 / 네비게",
-    "title": "일산 파주 고양 운정 삼송 / 네비게이션 매립 잘하는곳 / 네비게이션 출장매립 / K3 JY-N3000 / 아틀란3D 맵 8인치",
-    "summary": "2017.8.7. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #K3 차량 #8인치 #네비게이션 #아틀란지도 #JY-N3000 출장매립시공 포스팅 입니다 출장장착을 종종 하는데 항상 나가기 전에 무언가 빠진듯한 느낌을 감출수가 없습니다 ㅠㅠ 공…",
-    "description": "2017.8.7. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #K3 차량 #8인치 #네비게이션 #아틀란지도 #JY-N3000 출장매립시공 포스팅 입니다 출장장착을 종종 하는데 항상 나가기 전에 무언가 빠진듯한 느낌을 감출수가 없습니다 ㅠㅠ 공구 및 자재는 항상 넉넉히 챙겨야 한다는 .... 네비게이션 매립 시공을 위해 저를 기다리고 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MDdfMjg4/MDAxNTAyMDk4ODg3OTUw.XHrDtRITCTBIqVE77p7HkqtJLVQ65vP-xJLJX2ooadAg.J-RehtBXwPB6Up-2SXSPNiV9RdwyugF3yjEV4Zz6c90g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "일산 파주 고양 운정 삼송 / 네비게 · 일산 파주 고양 운정 삼송 / 네비게이션 매립 잘하는곳 / 네비게이션 출장매립 / K3 JY-N3000 / 아틀란3D 맵 8인치 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224371006871?fromRss=true&trackingCode=rss",
-    "tags": [
-      "일산 파주 고양 운정 삼송 / 네비게",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224371006718",
-    "date": "2026-08-07",
-    "category": "순정옵션",
-    "car": "아반떼 AD 벨류플러스",
-    "title": "[일산 파주 운정 김포 고양] 아반떼 AD 벨류플러스 / 순정옵션 누락 / 크루즈컨트롤 / 계기판 연동",
-    "summary": "2018.8.7. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테AD 벨류플러스 작업내용 : 순정 크루즈컨트롤 / 계기판연동 작업시간 : 30분 작업을 위해 입고된 아반테 차량입니다 차량 등급이 낮은 관계로 크루즈 컨트롤 기능이 빠진 모…",
-    "description": "2018.8.7. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테AD 벨류플러스 작업내용 : 순정 크루즈컨트롤 / 계기판연동 작업시간 : 30분 작업을 위해 입고된 아반테 차량입니다 차량 등급이 낮은 관계로 크루즈 컨트롤 기능이 빠진 모델입니다 ㅜㅜ 너무 편한 기능 인데 ... 그걸 빼다니 교체전 차량의 핸들 리모콘 입니다 어... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 연식과 옵션 사양 확인",
-      "순정 방식에 맞춰 부품·배선 작업",
-      "시공 후 기능 작동과 오류 여부 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MDdfMjAg/MDAxNTMzNjM2MzM0MTg5.vZQ0qqqFKH7NJ7Cr9Ex6fa3gVZDVM8vGB3nW9UeqUsog.q6J1xnb3fxKQKXSihYQBMeAodk6pA1R-jl8pryaYiFMg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "아반떼 AD 벨류플러스 · [일산 파주 운정 김포 고양] 아반떼 AD 벨류플러스 / 순정옵션 누락 / 크루즈컨트롤 / 계기판 연동 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224371006718?fromRss=true&trackingCode=rss",
-    "tags": [
-      "아반떼 AD 벨류플러스",
-      "순정옵션"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224371006583",
-    "date": "2026-08-07",
-    "category": "기타작업",
-    "car": "[일산 파주 운정 김포 고양]뉴쏘렌토",
-    "title": "[일산 파주 운정 김포 고양]뉴쏘렌토R 네비게이션 고장으로 인해 / 파인드라이브 몬스터8 / 교체작업",
-    "summary": "2019.8.7. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴쏘렌토R 작업내용 : 네비게이션 교체 작업시간 : 1시간 30분 기존 상단 매립 되어 있는 네비게이션이 켜지지 않아 교체 작업을 위해 방문해주신 차량입니다 기존 네비게이션이 장착은…",
-    "description": "2019.8.7. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴쏘렌토R 작업내용 : 네비게이션 교체 작업시간 : 1시간 30분 기존 상단 매립 되어 있는 네비게이션이 켜지지 않아 교체 작업을 위해 방문해주신 차량입니다 기존 네비게이션이 장착은 되어 있으나 어느 순간부터 전원이 들어오지 않으신다고 합니다 워낙에 기기가 오래되다 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxOTA4MDdfNDYg/MDAxNTY1MTQyMTIzMzg0.w9Q3SeTJKv7os-gZe4l_fzfs2w141NjnX0gg1_J8EbMg.TIuKql-j8-fwUZc5Cp8TDyK02c-oSaPR7sdDQ3L4NUcg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "[일산 파주 운정 김포 고양]뉴쏘렌토 · [일산 파주 운정 김포 고양]뉴쏘렌토R 네비게이션 고장으로 인해 / 파인드라이브 몬스터8 / 교체작업 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224371006583?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 운정 김포 고양]뉴쏘렌토",
-      "기타작업"
     ],
     "source": "naver"
   }
