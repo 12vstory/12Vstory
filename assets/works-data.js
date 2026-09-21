@@ -1,6 +1,84 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-21 06:55", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-21 09:18", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224418346681",
+    "date": "2026-09-21",
+    "category": "사이드미러",
+    "car": "제네시스 BH",
+    "title": "일산 고양 파주 운정 김포 / 측후방감지기 잘하는곳 / 제네시스 BH / BSD /BSW /BSA 시공",
+    "summary": "2017.9.21. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #카비스측후방 감지기 시공 포스팅입니다 작업을 위해 입고된 제네시스 차량입니다 저는 개인적으로 이디자인이 가장 마음에 듭니다 ^^ 날렵하고도 부드러운??ㅎㅎ 작업전 차량의 범퍼 모…",
+    "description": "2017.9.21. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #카비스측후방 감지기 시공 포스팅입니다 작업을 위해 입고된 제네시스 차량입니다 저는 개인적으로 이디자인이 가장 마음에 듭니다 ^^ 날렵하고도 부드러운??ㅎㅎ 작업전 차량의 범퍼 모습과 사이드미러의 모습입니다 ^^ 여기에 변화가 생길거니 잘봐주세요 ^^ 범퍼에 센서 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzA5MjFfMTQy/MDAxNTA1OTg3ODEzNDI5.BhRz4tYEVfO7B0mpzxC3eXxwxaEo5yo9VVXPQivh8cAg.Oso9jka96Y-i-Fm3uVo8yDNg8QeEaqe3VkX5BcwaXaMg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "제네시스 BH · 일산 고양 파주 운정 김포 / 측후방감지기 잘하는곳 / 제네시스 BH / BSD /BSW /BSA 시공 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224418346681?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 BH",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224418346535",
+    "date": "2026-09-21",
+    "category": "기타작업",
+    "car": "모하비",
+    "title": "모하비 / 사각지대 감지기 / 카비스 측후방감지기 BSA ver.2 / 완벽시공 [일산 파주 운정 김포 고양]",
+    "summary": "2020.9.21. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 카비스 후측방감지기 작업시간 : 3시간 카비스 측후방감지기 (사각지대 감지기) 장착을 위해 입고된 모하비 차량 입니다 !",
+    "description": "2020.9.21. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 카비스 후측방감지기 작업시간 : 3시간 카비스 측후방감지기 (사각지대 감지기) 장착을 위해 입고된 모하비 차량 입니다 ! 작업전 매장에 방문하셔서 상담을 진행하고 가셨는데 바로 전화주셔서 예약을 잡아주시고 작업을 진행했습니다 ^^ 오늘 작업될 제품은... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MjFfMTY1/MDAxNjAwNjU1MjE0ODYy.P_xhJ__V9Z6ZTca3fb_e7ew_UYoewTeONbFFBz5Li3Mg.5xhOq-JRNTEjRrYu7VzfnMrDEbGsGvNgmWibhJU9-2og.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "모하비 · 모하비 / 사각지대 감지기 / 카비스 측후방감지기 BSA ver.2 / 완벽시공 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224418346535?fromRss=true&trackingCode=rss",
+    "tags": [
+      "모하비",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224418346402",
+    "date": "2026-09-21",
+    "category": "기타작업",
+    "car": "그랜저IG / 할로겐",
+    "title": "그랜저IG / 할로겐 전조등 / 합법인증LED 전조등으로교체 / 브라비오 인증LED전조등 / 단속이나 검사 문제없어요 [일산 파주 운정 김포 고양]",
+    "summary": "2023.9.21. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저IG 작업내용 : LED전조등 작업시간 : 30~40분 LED전조등 장착을 위해 방문해주신 그랜저IG 차량입니다 그래도 그랜저에 할로겐은 좀 그렇죠 ??ㅜㅜ 오늘 차량에 장착할…",
+    "description": "2023.9.21. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저IG 작업내용 : LED전조등 작업시간 : 30~40분 LED전조등 장착을 위해 방문해주신 그랜저IG 차량입니다 그래도 그랜저에 할로겐은 좀 그렇죠 ??ㅜㅜ 오늘 차량에 장착할 제품은 브라비오 제품으로 합법인증제품입니다 그래서 검사나 단속 문제될것 없으니 아무걱... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzA5MjFfMTg4/MDAxNjk1MjkxMTY2ODAw.Qd58721na52fj-GLTZIropVChEMYoZCBCJufqTVm2-4g.DVRDMahnCTR26ZH-obmt2RP6kq2zdc_UOFlYpkqLuogg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "그랜저IG / 할로겐 · 그랜저IG / 할로겐 전조등 / 합법인증LED 전조등으로교체 / 브라비오 인증LED전조등 / 단속이나 검사 문제없어요 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224418346402?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜저IG / 할로겐",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224416906959",
     "date": "2026-09-20",
@@ -8171,84 +8249,6 @@ window.WORKS_DATA = [
     "tags": [
       "K5",
       "후방카메라"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224372828284",
-    "date": "2026-08-09",
-    "category": "블랙박스",
-    "car": "쏘렌토MQ4 / 아이나비 Z9500 4채널",
-    "title": "쏘렌토MQ4 / 아이나비 Z9500 4채널 블랙박스 + 에코파워팩 S12 라이트슬림 액정타입 / 고객님이 원하시는 자리에 완벽하게 설치해드렸어요 [일산 파주 운",
-    "summary": "2024.8.9. 2년 전 오늘 정 김포 고양] Z안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토MQ4 작업내용 : 4채널 블랙박스 + 보조배터리 작업시간 : 1시간 30분 블랙박스와 보조배터리 장착을 위해 입고된 쏘렌토 MQ4 하이브리드 차량이 입고되었습…",
-    "description": "2024.8.9. 2년 전 오늘 정 김포 고양] Z안녕하세요 12볼트스토리 입니다 작업차량 : 쏘렌토MQ4 작업내용 : 4채널 블랙박스 + 보조배터리 작업시간 : 1시간 30분 블랙박스와 보조배터리 장착을 위해 입고된 쏘렌토 MQ4 하이브리드 차량이 입고되었습니다 오늘 차량에 장착될 제품은 아이나비 Z9500 4채널 블랙박스와 아이나비 커넥티드 프리미엄 그리고 에... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDlfMTY1/MDAxNzIzMTc2NDk1Nzg1.J2tjXLlm9jH9u1oXEwqpSOWvlRvwZ_T9Inr2FRmSL-8g.q09QyE8Hlv43XkrRwYjcxF2yH12W-EYAskVvokxB5-Ug.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "쏘렌토MQ4 / 아이나비 Z9500 4채널 · 쏘렌토MQ4 / 아이나비 Z9500 4채널 블랙박스 + 에코파워팩 S12 라이트슬림 액정타입 / 고객님이 원하시는 자리에 완벽하게 설치해드렸어요 [일산 파주 운 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224372828284?fromRss=true&trackingCode=rss",
-    "tags": [
-      "쏘렌토MQ4 / 아이나비 Z9500 4채널",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224372828167",
-    "date": "2026-08-09",
-    "category": "순정옵션",
-    "car": "LF쏘나타 / 낮은 옵션으로 인해 빠",
-    "title": "LF쏘나타 / 낮은 옵션으로 인해 빠진 순정오토라이트 활성화 / 합법인증 LED전조등 / 브라비오 터미네이터 / 야간운전도 밝게 안전하게 하세요 ![일산 파주",
-    "summary": "2024.8.9. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 작업내용 : 순정 오토라이트 / 인증LED 전조등 작업시간 : 1시간 LF쏘나타 차량이 순정 오토라이트 작업과 합법인증LED 전조등 장착을 위해 예약해주시…",
-    "description": "2024.8.9. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 작업내용 : 순정 오토라이트 / 인증LED 전조등 작업시간 : 1시간 LF쏘나타 차량이 순정 오토라이트 작업과 합법인증LED 전조등 장착을 위해 예약해주시고 방문해 주셨습니다 우선 합법인증LED 전조등 브라비오 터미네이터 SP 제품 장착부터 진행할게요 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 연식과 옵션 사양 확인",
-      "순정 방식에 맞춰 부품·배선 작업",
-      "시공 후 기능 작동과 오류 여부 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDlfMjgg/MDAxNzIzMTc3NzQxMTg1.DXSfZj4hjQtEs8GjgevexoIvQ5_JUfADDUCLWKbxmvog.9W6JGjKjIuDO0p0YSASYNAsoScz7c483osUX0tUldXAg.JPEG/%C5%B8%C0%CC%C6%B2.jpg?type=ffn480_320"
-    ],
-    "captions": [
-      "LF쏘나타 / 낮은 옵션으로 인해 빠 · LF쏘나타 / 낮은 옵션으로 인해 빠진 순정오토라이트 활성화 / 합법인증 LED전조등 / 브라비오 터미네이터 / 야간운전도 밝게 안전하게 하세요 ![일산 파주 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224372828167?fromRss=true&trackingCode=rss",
-    "tags": [
-      "LF쏘나타 / 낮은 옵션으로 인해 빠",
-      "순정옵션"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224372828079",
-    "date": "2026-08-09",
-    "category": "기타작업",
-    "car": "LF쏘나타 / 차량 편의를 위해 키돌",
-    "title": "LF쏘나타 / 차량 편의를 위해 키돌려 시동거는 차량에 스타트 버튼 장착 / 깔끔하게 배선정리 해서 장착했습니다 ! 피닉스 B-ONE2 [일산 파주 운정 김포 고",
-    "summary": "2025.8.9. 1년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나 작업내용 : 스타트버튼 시공 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.8.9. 1년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나 작업내용 : 스타트버튼 시공 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. LF쏘나타 차량이 스타트버튼 장착을 위해 입고되었습니다 물론 예약해 주시고 방문해 주셨구요 옵션이 낮다 보니 요즘 흔한 버튼시동 방식이 아닌 이렇게 키를 꼽고 돌려서... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MDlfMTEw/MDAxNzU0NzE0MjA0NTgz.ZfN8wqWJz4pp_9mgxvPZw6j-6Hckb-8IgrTOqvt0VQ0g.3x26w8UWnwZhpAH9yCM0l2OH-UjjORLV8RMdjDR7XG8g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "LF쏘나타 / 차량 편의를 위해 키돌 · LF쏘나타 / 차량 편의를 위해 키돌려 시동거는 차량에 스타트 버튼 장착 / 깔끔하게 배선정리 해서 장착했습니다 ! 피닉스 B-ONE2 [일산 파주 운정 김포 고 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224372828079?fromRss=true&trackingCode=rss",
-    "tags": [
-      "LF쏘나타 / 차량 편의를 위해 키돌",
-      "기타작업"
     ],
     "source": "naver"
   }
