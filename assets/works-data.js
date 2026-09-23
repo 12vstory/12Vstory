@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-23 09:36", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-23 14:14", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224420659752",
+    "date": "2026-09-23",
+    "category": "사이드미러",
+    "car": "YF쏘나타",
+    "title": "일산 YF쏘나타 사이드미러 폴딩불량 수리｜사이드미러 통교체 없이 폴딩모터 교체 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해드릴 작업은 현대 YF쏘나타 사이드미러 폴딩불량 수리입니다. 차량을 사용하다 보면 사이드미러가 정상적으로 접히거나 펼쳐지지 않거나, 한쪽만 움직이지 않는 증상이 발생하는 경우가 있습니다.",
+    "description": "오늘 소개해드릴 작업은 현대 YF쏘나타 사이드미러 폴딩불량 수리입니다. 차량을 사용하다 보면 사이드미러가 정상적으로 접히거나 펼쳐지지 않거나, 한쪽만 움직이지 않는 증상이 발생하는 경우가 있습니다. 이번 YF쏘나타 역시 사이드미러 폴딩 기능에 문제가 발생해 점검 및 수리를 위해 12볼트스토리를 찾아주셨습니다. ──────────────────── 🚘 작업차량 : 현대 YF쏘나타 🔧 작업내용 : 사이드미러 폴딩불량 수리 / 폴딩모터 교체 📍 작업점 : 일산 12볼트스토리 ──────────────────── 12볼트스토리 채널홈을 폰으로 접속해보세요. ■ YF쏘나타 사이드미러 폴딩불량 전동접이식 사이드미러는 차량을 주차하거나 도어를 잠글 때 자주 사용하는 기능이다 보니 오랜 기간 반복적으로 작동하면서 내부 구동부에 문제가 생길 수 있습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjNfMjY1/MDAxNzkwMTI1ODI4MzA1.BI8pRDrlqv0vckIu_2QwCgTsJ_G5AFgpNdDbsr5awBkg.MQygeGQ2qT-3BbUSz2-x-HE5k7wvcSk26XJjzl0K9MQg.JPEG/KakaoTalk_20260922_094807747_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjNfNDgg/MDAxNzkwMTI1ODQ5MDIy.Ek5e7BSAj5Ogn6fS-ky3mswq0Pl9jbvIdaMyOqMpR3Ag.6X69jkwDtKcrqYsnqY6jO4zCYEhPCiZC9Qt1dJ7QAn4g.JPEG/KakaoTalk_20260922_094807747_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjNfMjEy/MDAxNzkwMTI1ODc5NTcz.t2X4D0w9kj996q48pCxvvkEXCQ5sIa3oTwUWweBNlasg.IfbhwqZbgC8ueqOBD19yJ17eAqN8V9oshBwAxeff2YEg.JPEG/KakaoTalk_20260922_094807747_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjNfMzEg/MDAxNzkwMTI1ODk2MTM4.-Vw1AvpGRByGiQUeea9vKLQ9i3RucwAGW_ZMhzHqkwkg.tEwevKLFp4qNrIFo2Im90y5f5nAccCbc1dWs6gmH1W4g.JPEG/KakaoTalk_20260922_094807747_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjNfOSAg/MDAxNzkwMTI1OTA4Njcz.5Eb4JIW7a4HfiV5XEQX0rvCkwrf70jmQyjcLu20gfNUg.sxnvfiSbbs7ahZ1PSoU6a2p4uLO4_-9MWfSDF6rV_vYg.JPEG/KakaoTalk_20260922_094807747_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjNfMTEw/MDAxNzkwMTI1OTQxNDY4.4MB4g7SiRKawEcmnrl3xeOA5d46C41BD7DhrpzTydYkg.MWQLDjtGjKMZuhwD4wbkOG4Ah-hD2ymkwCYiZRpbLNwg.JPEG/KakaoTalk_20260922_094807747_06.jpg?type=w800"
+    ],
+    "captions": [
+      "YF쏘나타 · 일산 YF쏘나타 사이드미러 폴딩불량 수리｜사이드미러 통교체 없이 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "YF쏘나타 · 일산 YF쏘나타 사이드미러 폴딩불량 수리｜사이드미러 통교체 없이 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "YF쏘나타 · 일산 YF쏘나타 사이드미러 폴딩불량 수리｜사이드미러 통교체 없이 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "YF쏘나타 · 일산 YF쏘나타 사이드미러 폴딩불량 수리｜사이드미러 통교체 없이 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "YF쏘나타 · 일산 YF쏘나타 사이드미러 폴딩불량 수리｜사이드미러 통교체 없이 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "YF쏘나타 · 일산 YF쏘나타 사이드미러 폴딩불량 수리｜사이드미러 통교체 없이 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224420659752?fromRss=true&trackingCode=rss",
+    "tags": [
+      "YF쏘나타",
+      "사이드미러",
+      "YF쏘나타,YF쏘나타사이드미러,YF쏘나타사이드미러수리,YF쏘나타폴딩불량,YF쏘나타폴딩모터,사이드미러수리,사이드미러폴딩불량,사이드미러폴딩모터,사이드미러모터교체,전동사이드미러수리,사이드미러안접힘,일산사이드미러수리,고양사이드미러수리,일산자동차수리,일산12볼트스토리,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224420375626",
     "date": "2026-09-23",
@@ -8234,32 +8271,6 @@ window.WORKS_DATA = [
     "tags": [
       "쏘나타 뉴라이즈",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224375399697",
-    "date": "2026-08-11",
-    "category": "후방카메라",
-    "car": "YF쏘나타",
-    "title": "YF쏘나타 순정후방카메라 화면은 안나오고 블루스크린만 보이는 상태로 후방카메라 교체 / 사제 고화질 후방카메라로 순정자리에 완벽하게 장착 [일산 파주 운정 김포",
-    "summary": "2025.8.11. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : YF쏘나타 작업내용 : 순정 후방카메라 수리 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.8.11. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : YF쏘나타 작업내용 : 순정 후방카메라 수리 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. YF쏘나타 차량이 순정 후방카메라 블루스크린 증상으로 수리를 위해 입고되었습니다. 차량 증상부터 확인해 봐야겠죠 ? 우선 순정AVN 이 장착되어 있구요 후방카... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MTFfMjc4/MDAxNzU0ODc0MDk1MTE4.iV2Qkgd-Kjk9BvYMlOVSjCLEiJs1zwkJ4Kb-GHp-otog.tS6hJGWp-H3qCJRLtTcJo9DGUueqLydmfeuUyjpMnz0g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "YF쏘나타 · YF쏘나타 순정후방카메라 화면은 안나오고 블루스크린만 보이는 상태로 후방카메라 교체 / 사제 고화질 후방카메라로 순정자리에 완벽하게 장착 [일산 파주 운정 김포 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224375399697?fromRss=true&trackingCode=rss",
-    "tags": [
-      "YF쏘나타",
-      "후방카메라"
     ],
     "source": "naver"
   }
