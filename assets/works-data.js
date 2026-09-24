@@ -1,5 +1,5 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-09-24 09:54", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-09-24 15:12", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
   {
     "id": "naver-224421612477",
@@ -206,6 +206,43 @@ window.WORKS_DATA = [
     "tags": [
       "그랜저TG",
       "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224419604026",
+    "date": "2026-09-24",
+    "category": "사이드미러",
+    "car": "[일산 파주 운정 김포 고양]",
+    "title": "[일산 파주 운정 김포 고양]",
+    "summary": "안녕하세요. 고양시 일산서구에 위치한 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해드릴 작업은 쉐보레 캡티바 사이드미러 폴딩불량 수리입니다.",
+    "description": "안녕하세요. 고양시 일산서구에 위치한 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해드릴 작업은 쉐보레 캡티바 사이드미러 폴딩불량 수리입니다. 차량을 오래 사용하다 보면 사이드미러가 예전처럼 한 번에 접히지 않거나, 모터 돌아가는 소리는 들리는데 사이드미러가 움직이지 않는 증상, 접히다가 중간에서 멈추는 증상, 한쪽 사이드미러만 정상적으로 작동하지 않는 증상 등이 발생하는 경우가 있습니다. 이럴 때 사이드미러 전체를 교체해야 하는 것으로 생각하시는 분들도 많은데요. 실제 고장 원인이 사이드미러 내부 폴딩모터나 기어에 있는 경우에는 상태에 따라 고장 부위만 수리하는 것도 가능합니다. 이번 캡티바 역시 사이드미러 전체 교체가 아닌 폴딩모터 내부를 분해해 원인을 확인하고 문제가 발생한 부분을 수리하는 방식으로 진행했습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTgz/MDAxNzkwMDQyMzUzODI5.aTGqi7aizA8KqaGhKQFTZhFA_Irg0ndd0Qf9j-4eiyMg.6jpdqh64g81ycERYsGNX9JIrV-xlSXs8zNR96Hb8QWAg.JPEG/KakaoTalk_20260916_100822404.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTQz/MDAxNzkwMDQyMzY4ODUz.kxJtO3yeacxhPR1L_3CLX11IV7HDwi0NI-QasrwvsRsg.w2Gf7GsAxtnOAWrwDnC8jxBuCpqJP3Xn4Hb_oCTYkvog.JPEG/KakaoTalk_20260916_100822404_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTIy/MDAxNzkwMDQyNDU0Mjc5.FxvmU2pI5eWowsgUIEidpc_kAd-v4IySjmfzGC-ByZog.o0LBqk56QFio9Egk8IIo_QXQOlJD1PYoWP-FwGw3z3Ig.JPEG/KakaoTalk_20260916_100822404_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTIw/MDAxNzkwMDQyNDc1NjU3.joIdIWfqR8x9uiVXYq9eEtaWfFUXsSuRoLo_EKp9Eegg.qE6UnR_Af0BhqyA4N7RPMFLnhbVtbNsK2ePkMd8o7qwg.JPEG/KakaoTalk_20260916_100822404_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTc3/MDAxNzkwMDQyNTA0Mzgy.NZY5PZoK1UCUYSoOAJWEDCDTsdDbK-_87RqITMck6hwg.okSdIs0wi04rOXTQfmUrfvip2VrXJwYtxNwqWgbuv9gg.JPEG/KakaoTalk_20260916_100822404_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMjMg/MDAxNzkwMDQyNTIxOTc1.W5RUPZkDjqmyVD-KdMCC6UZqKxIuHt9rHAVZCfTG-ZEg.YMubtSgf7rgPLGFwbWc8VFeyJG5WkABhtvoYCG-7-tcg.JPEG/KakaoTalk_20260916_100822404_06.jpg?type=w800"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 1",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 2",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 3",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 4",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 5",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224419604026?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양]",
+      "사이드미러",
+      "캡티바사이드미러,캡티바사이드미러수리,캡티바폴딩불량,사이드미러수리,사이드미러폴딩불량,사이드미러폴딩모터,사이드미러모터수리,사이드미러기어수리,사이드미러부분수리,사이드미러접힘불량,일산사이드미러수리,고양사이드미러수리,일산자동차전장,고양자동차전장,12볼트스토리"
     ],
     "source": "naver"
   },
@@ -8234,32 +8271,6 @@ window.WORKS_DATA = [
     "tags": [
       "엑센트 위트 / 직접 구매해 오신",
       "올인원·카플레이"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224376246916",
-    "date": "2026-08-12",
-    "category": "사이드미러",
-    "car": "아반떼HD",
-    "title": "아반떼HD 사이드미러 폴딩불량 / 폴딩기어 파손으로 부분교체 / 전체교체 하시면 많이 비싸요 !! 부분수리해서 사용하세요 ! [일산 파주 운정 김포 고양]",
-    "summary": "2025.8.12. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아반떼 HD 작업내용 : 사이드미러 폴딩기어수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 고객님께서 사이드미러가 펴지지 않아서 블루핸즈를 방문하셨는데...",
-    "description": "2025.8.12. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아반떼 HD 작업내용 : 사이드미러 폴딩기어수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 고객님께서 사이드미러가 펴지지 않아서 블루핸즈를 방문하셨는데... 해당차종은 도색이 되어 나오지 않아 교체와 도색 거기에 공임까지 25만원 견적을 받으셨다고... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA4MTJfMTEg/MDAxNzU0OTU5MTc4NTI3.h7KtKDWs9pcxhSxng3UB5cqT7tsO1Py2aFFjORCgDAYg.fcFTmHcWFxpuEhvoiRfXwuNNUiixenZ7-fUpA81SFb4g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "아반떼HD · 아반떼HD 사이드미러 폴딩불량 / 폴딩기어 파손으로 부분교체 / 전체교체 하시면 많이 비싸요 !! 부분수리해서 사용하세요 ! [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224376246916?fromRss=true&trackingCode=rss",
-    "tags": [
-      "아반떼HD",
-      "사이드미러"
     ],
     "source": "naver"
   }
