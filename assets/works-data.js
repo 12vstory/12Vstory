@@ -1,6 +1,110 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-01 07:18", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-01 10:36", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224427922988",
+    "date": "2026-10-01",
+    "category": "블랙박스",
+    "car": "BMW 328i 하드탑 컨버터블 / 2채널",
+    "title": "[일산 파주 운정 김포 고양] BMW 328i 하드탑 컨버터블 / 2채널 블랙박스 장착",
+    "summary": "2018.10.1. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : BMW 328i 작업내용 : 2채널 블랙박스 장착 작업시간 : 1시간블랙박스 장착을 위해 입고된 328i 차량입니다 하드탑 컨버터블인데요 ..",
+    "description": "2018.10.1. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : BMW 328i 작업내용 : 2채널 블랙박스 장착 작업시간 : 1시간블랙박스 장착을 위해 입고된 328i 차량입니다 하드탑 컨버터블인데요 .. 개인적으로 소프트 탑은 좀 불안해서 .. 하드탑을 좋아라 합니다 ㅎㅎ 오늘 장착될 제품은 기존 다른 차량에 장착하셨다가 탈거한 루카... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODEwMDFfMjcw/MDAxNTM4MzU1Mjg5ODc5.9i6IbUGJNUOzGtJI_kF6T5Qru1ij9pzhnmN_0I_xTAMg.C6siGag6Jfz-pSPaVy16GieqNMmvRLdG6WnFAAHKYY4g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "BMW 328i 하드탑 컨버터블 / 2채널 · [일산 파주 운정 김포 고양] BMW 328i 하드탑 컨버터블 / 2채널 블랙박스 장착 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224427922988?fromRss=true&trackingCode=rss",
+    "tags": [
+      "BMW 328i 하드탑 컨버터블 / 2채널",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224427922863",
+    "date": "2026-10-01",
+    "category": "사이드미러",
+    "car": "전동접이식",
+    "title": "전동접이식 사이드미러 수리 /그랜저TG 사이드미러 접힘고장수리 / 사이드미러 폴딩모터 및 기어 수리 / 사이드미러 교체말고 수리하세요 !! [일산 파주[일산 파주",
+    "summary": "2021.10.1. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 폴딩불량 수리 작업시간 : 30분 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 그랜저TG 차량입니다 요즘 사이드미…",
+    "description": "2021.10.1. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 폴딩불량 수리 작업시간 : 30분 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 그랜저TG 차량입니다 요즘 사이드미러 고장 증상으로 입고되는 차량이 정말 많은데요 .. 아무래도 비싼비용을 들여 교체하시는것보다는 원래 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTEwMDFfMjU0/MDAxNjMzMDQ4OTUxNjM3.QOpoFrSh2NP4DOVW-it0jQi2bHGY3Vpcj_I9pe1No8sg.lwgdtqUmcJAKEkzqgl5zn3WvtkXm3n8JlcQ6F24hy9Ug.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "전동접이식 · 전동접이식 사이드미러 수리 /그랜저TG 사이드미러 접힘고장수리 / 사이드미러 폴딩모터 및 기어 수리 / 사이드미러 교체말고 수리하세요 !! [일산 파주[일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224427922863?fromRss=true&trackingCode=rss",
+    "tags": [
+      "전동접이식",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224427922748",
+    "date": "2026-10-01",
+    "category": "기타작업",
+    "car": "스포티지NQ / 신차풀패키지 / 블락",
+    "title": "스포티지NQ / 신차풀패키지 / 블락포디 빙고 열차단 프리미엄썬팅 / 유리막코팅 / 꼼꼼한 신차검수 패키지 / 12볼트스토리 믿고 맞겨주세요 [일산 파주 운정",
+    "summary": "2021.10.1. 5년 전 오늘 김포 고양] 1안녕하세요 12볼트스토리 입니다 작업차량 : 스포티지NQ5 작업내용 : 신차검수 패키지 작업시간 : 하루 신차패키지를 진행을 위해 입고된 스포티지 차량입니다 차량인수전 신차검수를 꼼꼼하게 진행하고 있는 모습이구요…",
+    "description": "2021.10.1. 5년 전 오늘 김포 고양] 1안녕하세요 12볼트스토리 입니다 작업차량 : 스포티지NQ5 작업내용 : 신차검수 패키지 작업시간 : 하루 신차패키지를 진행을 위해 입고된 스포티지 차량입니다 차량인수전 신차검수를 꼼꼼하게 진행하고 있는 모습이구요 다행히도 차량에 약간의 조립단차와 검정차량이다보니 2군데 미세하게 스월마크 있는 정도 입니다 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTEwMDFfMzcg/MDAxNjMzMDQ5NDYyNzY1.1WS-TeKXzRgwx7ep25Torj3zKrXXv_LY3PDuUvkISWAg.ByptK7box1Q1LOh1ocwrf-Nq4JY-KOPgXDcXhPL6Pb0g.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "스포티지NQ / 신차풀패키지 / 블락 · 스포티지NQ / 신차풀패키지 / 블락포디 빙고 열차단 프리미엄썬팅 / 유리막코팅 / 꼼꼼한 신차검수 패키지 / 12볼트스토리 믿고 맞겨주세요 [일산 파주 운정 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224427922748?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스포티지NQ / 신차풀패키지 / 블락",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224427922641",
+    "date": "2026-10-01",
+    "category": "사이드미러",
+    "car": "G70",
+    "title": "제네시스G70 양쪽 사이드리피터 파손으로 사이드리피터 부분교체 / 비싼 사이드미러 앗세이로 교체하지 마세요 [일산 파주 운정 김포 고양]",
+    "summary": "2025.10.1. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스G70 작업내용 : 사이드미러 부분수리 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.10.1. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스G70 작업내용 : 사이드미러 부분수리 작업시간 : 30~40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 제네시스G70 차량이 양쪽 사이드 리피터 파손으로 부분수리를 위해 찾아주셨습니다 입고시 상태부터 확인해 볼게요 ! 운전석 부분입니다 .. 고객님께서 직접해보... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTEwMDFfMjUz/MDAxNzU5MjkxNDAxNzM3.RGkY-308J5H--yGmgO_mEFVann2IJOMR1xvBWE3iguQg.aspaUzfktqeY3tMwvt2H68D3HzFWOUP97SE48b3d9zgg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "G70 · 제네시스G70 양쪽 사이드리피터 파손으로 사이드리피터 부분교체 / 비싼 사이드미러 앗세이로 교체하지 마세요 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224427922641?fromRss=true&trackingCode=rss",
+    "tags": [
+      "G70",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224427009826",
     "date": "2026-09-30",
@@ -8177,110 +8281,6 @@ window.WORKS_DATA = [
     "blog": "https://blog.naver.com/uh2816/224380720690?fromRss=true&trackingCode=rss",
     "tags": [
       "[일산 파주 운정 김포 고양] 에쿠스",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224380720604",
-    "date": "2026-08-17",
-    "category": "기타작업",
-    "car": "벤츠 E300 HUD / 헤드업 디스",
-    "title": "벤츠 E300 HUD / 헤드업 디스플레이 / 폰터스 H1000 / 전동 틸트 / 휴대폰 T맵 연동 [일산 파주 운정 김포 고양]",
-    "summary": "2020.8.17. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 E300 작업내용 : 폰터스 HUD H1000 작업시간 : 40분~1시간 헤드업디스플레이 장착을 위해 입고된 벤츠 E300 차량입니다 고급차량에 고급 HUD 폰터스 H1000…",
-    "description": "2020.8.17. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 E300 작업내용 : 폰터스 HUD H1000 작업시간 : 40분~1시간 헤드업디스플레이 장착을 위해 입고된 벤츠 E300 차량입니다 고급차량에 고급 HUD 폰터스 H1000 제품선택은 개인적으로 정말 잘하신것 같습니다 차량 외관도 정말 깨끗하게 관리가 잘되어 있네요 ~~ 심... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDA4MTdfMjY4/MDAxNTk3NjMyNjM5NDU5.siwzM9kR2-WDF5p6idRKjp0U_j-uJLkmpxv2-vLKG_og.PdqVr3A9dLdTw-eG-0ksdk7zaNJ7HS83iu1MDG0Kohog.PNG.uh2816/1.png?type=ffn480_320"
-    ],
-    "captions": [
-      "벤츠 E300 HUD / 헤드업 디스 · 벤츠 E300 HUD / 헤드업 디스플레이 / 폰터스 H1000 / 전동 틸트 / 휴대폰 T맵 연동 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224380720604?fromRss=true&trackingCode=rss",
-    "tags": [
-      "벤츠 E300 HUD / 헤드업 디스",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224380720530",
-    "date": "2026-08-17",
-    "category": "블랙박스",
-    "car": "벤츠 E250 / 2채널",
-    "title": "벤츠 E250 / 2채널 블랙박스 / 파인뷰LX5000 Power / 순정블랙박스 유지하고 상시녹화 가능하도록 추가장착 [일산 파주 운정 김포 고양]",
-    "summary": "2021.8.17. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 E250 작업내용 : 블랙박스 추가장착 작업시간 : 1시간 주행녹화만 되는 기본으로 장착된 정품 블랙박스는 기존 상태로 유지하고 새롭게 하나를 추가로 장착하기 위해 입고된 E2…",
-    "description": "2021.8.17. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 벤츠 E250 작업내용 : 블랙박스 추가장착 작업시간 : 1시간 주행녹화만 되는 기본으로 장착된 정품 블랙박스는 기존 상태로 유지하고 새롭게 하나를 추가로 장착하기 위해 입고된 E250 차량입니다 오늘 차량에 장착될 제품은 파인뷰LX5000 파워 제품이구요 가성비 너무 좋은... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MTdfMTEw/MDAxNjI5MTYzMTU3MDQ1.ZajZN6KuW1r9sgvwWd7E3KgQpPN_G7AJaoFQ4EYAPNsg.5wclxnueyLgZpm-cuVSaraZo6aRh0ACc0kIRc49lSU0g.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "벤츠 E250 / 2채널 · 벤츠 E250 / 2채널 블랙박스 / 파인뷰LX5000 Power / 순정블랙박스 유지하고 상시녹화 가능하도록 추가장착 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224380720530?fromRss=true&trackingCode=rss",
-    "tags": [
-      "벤츠 E250 / 2채널",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224380720456",
-    "date": "2026-08-17",
-    "category": "사이드미러",
-    "car": "사이드미러 접힘불량",
-    "title": "사이드미러 접힘불량 수리 / 그랜저tg 미러 수리 / 사이드미러폴딩 모터 및 기어수리 / 교체보다 저렴하게 수리받으세요 !![일산 파주 운정 김포 고양[일산 파주",
-    "summary": "2021.8.17. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 수리 작업시간 : 40분 사이드 미러 고장으로 인해 입고된 그랜저TG 차량입니다 이번 차량은 어느부분이 문제인지 확인해 볼까요 ?…",
-    "description": "2021.8.17. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 수리 작업시간 : 40분 사이드 미러 고장으로 인해 입고된 그랜저TG 차량입니다 이번 차량은 어느부분이 문제인지 확인해 볼까요 ?? 보조석은 사이드미러가 접혀있는데 운전석은 펴져있네요 ?? 그럼 문제는 ? 맞습니다 !! 운전석이 문제에요 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MTdfMjYx/MDAxNjI5MTYzODk3MzMw.OtQ2kJK5gBJGKsOyOuZ1sLq4uYZUAZVrA2Ixnf_xxDsg.xtsuMz7uvde_E4HZ_xQhzNdOD03EzFdsUD9WPTFo8jQg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "사이드미러 접힘불량 · 사이드미러 접힘불량 수리 / 그랜저tg 미러 수리 / 사이드미러폴딩 모터 및 기어수리 / 교체보다 저렴하게 수리받으세요 !![일산 파주 운정 김포 고양[일산 파주 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224380720456?fromRss=true&trackingCode=rss",
-    "tags": [
-      "사이드미러 접힘불량",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224380720360",
-    "date": "2026-08-17",
-    "category": "기타작업",
-    "car": "그랜저TG / 키방식 차량 / 이지카",
-    "title": "그랜저TG / 키방식 차량 / 이지카 S1 / 스타트버튼 장착으로 키없이 간편하게 버튼한번 누르면 시동이 걸려요 ~[일산 파주 운정 김포 고양]",
-    "summary": "2021.8.17. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 이지카 버튼시동 S1 장착 작업시간 : 1시간 키를 돌려 시동거는 그랜저 TG 차량이 키박스 상태가 좋지않아 겸사겸사 스타트 버튼 시공을 위해 입고되었습니다…",
-    "description": "2021.8.17. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 이지카 버튼시동 S1 장착 작업시간 : 1시간 키를 돌려 시동거는 그랜저 TG 차량이 키박스 상태가 좋지않아 겸사겸사 스타트 버튼 시공을 위해 입고되었습니다 정석은 키박스를 수리하시는게 맞기는 한데 키박스 속에 접접이 좋지 않아 키가 헛도는 느... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA4MTdfNDcg/MDAxNjI5MTY0NTMyNzY4.SlIUER3qR_JENZubOUXMjUvKymn1CQ1nf2nrmXv5mBYg.8J-wucDVwu104mAFsHBWMLTU2dANuc-Xh79eXRWFBt4g.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저TG / 키방식 차량 / 이지카 · 그랜저TG / 키방식 차량 / 이지카 S1 / 스타트버튼 장착으로 키없이 간편하게 버튼한번 누르면 시동이 걸려요 ~[일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224380720360?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저TG / 키방식 차량 / 이지카",
       "기타작업"
     ],
     "source": "naver"
