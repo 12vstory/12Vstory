@@ -1,6 +1,110 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-04 01:19", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-04 04:29", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224430778994",
+    "date": "2026-10-04",
+    "category": "기타작업",
+    "car": "[일산 파주 운정 김포 고양] 201",
+    "title": "[일산 파주 운정 김포 고양] 2018 싼타페TM -가솔린 / 순정네비게이션 / 주행중 미디어 / DMB락프리 / 락해제",
+    "summary": "2018.10.4. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 싼타페TM 작업내용 : 순정네비게이션 주행중DMB 락프리 작업시간 40분 작업을 위해 입고된 신형 싼타페 차량입니다 입고시 차가 너무 조용해서 이상하다 했는데 ...",
+    "description": "2018.10.4. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 싼타페TM 작업내용 : 순정네비게이션 주행중DMB 락프리 작업시간 40분 작업을 위해 입고된 신형 싼타페 차량입니다 입고시 차가 너무 조용해서 이상하다 했는데 ... 가솔린 차량이었습니다 ㅎㅎ 그것도 최상위 옵션이구요 오늘 작업할 DMB락해제 작업전 순정 상태입... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODEwMDRfMTY1/MDAxNTM4NjU3OTMwMzgx.YE_4seRUipK3jAIWwE3SXZr0eVb2xV76rz_Z305HK3cg.FN4-3Lf0tjdhITdETczDfmQwaNS_FQhn9KUl8gmYdq0g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 201 · [일산 파주 운정 김포 고양] 2018 싼타페TM -가솔린 / 순정네비게이션 / 주행중 미디어 / DMB락프리 / 락해제 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224430778994?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 201",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224430778962",
+    "date": "2026-10-04",
+    "category": "기타작업",
+    "car": "제네시스 BH",
+    "title": "[일산 파주 운정 김포 고양] 제네시스 BH 330 / 헤드업디스플레이 / 폰터스 H1000 HUD / 휴대폰연동",
+    "summary": "2019.10.4. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스BH 작업내용 : 폰터스 헤드업디스플레이 작업시간 : 30분 지인분의 소개를 받고 폰터스 H1000 헤드업디스플레이 장착을 위해 12볼트스토리로 방문해 주셨습니다 오늘 장착될…",
+    "description": "2019.10.4. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스BH 작업내용 : 폰터스 헤드업디스플레이 작업시간 : 30분 지인분의 소개를 받고 폰터스 H1000 헤드업디스플레이 장착을 위해 12볼트스토리로 방문해 주셨습니다 오늘 장착될 제품은 기존 제품들의 부족한 부분을 채워서 나온 폰터스 H1000 제품이구요 특장점은 순정... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMDRfMjA1/MDAxNTcwMTUxOTY5MTQ2.Tf8gOyUqnRzH6EJL82R6hxX2kCmSHf31i2Qk0jeSXU0g.psKR4GjJqMtzNjSY1SVxP5X260_c94rx2NRgkTIOdiAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "제네시스 BH · [일산 파주 운정 김포 고양] 제네시스 BH 330 / 헤드업디스플레이 / 폰터스 H1000 HUD / 휴대폰연동 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224430778962?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 BH",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224430778931",
+    "date": "2026-10-04",
+    "category": "사이드미러",
+    "car": "뉴쏘렌토R / 이지카 E300 순정형",
+    "title": "뉴쏘렌토R / 이지카 E300 순정형 원격시동경보기 / 도원텍 사이드미러 락폴딩 릴레이 / 배선정리 완벽하게 시공 [일산 파주 운정 김포 고양] 재난지원금 사용가",
+    "summary": "2021.10.4. 5년 전 오늘 능 매장! 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴쏘렌토R 작업내용 : 원격시동 경보기 / 락폴딩 릴레이 작업시간 : 2시간 순정형 원격시동경보기 이지카 E300 제품과 도원텍 락폴딩 릴레이 장착을 위해 뉴쏘렌토R 차량…",
+    "description": "2021.10.4. 5년 전 오늘 능 매장! 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴쏘렌토R 작업내용 : 원격시동 경보기 / 락폴딩 릴레이 작업시간 : 2시간 순정형 원격시동경보기 이지카 E300 제품과 도원텍 락폴딩 릴레이 장착을 위해 뉴쏘렌토R 차량이 입고되었습니다 오늘 차량에 장착될 제품들 입니다 너무나 익숙한 2가지 제품이죠 ?? 우선 작업에 필... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTEwMDRfNzMg/MDAxNjMzMzA4ODUwNTkx.B8WFcPrNobsQ4L1LurHptAC18YzFtSuENSxvoAr0cBAg.mOFUlBnz5ZcidV1I3LwGcqVIiQkmcWTR_uPdR2JDY-Eg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "뉴쏘렌토R / 이지카 E300 순정형 · 뉴쏘렌토R / 이지카 E300 순정형 원격시동경보기 / 도원텍 사이드미러 락폴딩 릴레이 / 배선정리 완벽하게 시공 [일산 파주 운정 김포 고양] 재난지원금 사용가 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224430778931?fromRss=true&trackingCode=rss",
+    "tags": [
+      "뉴쏘렌토R / 이지카 E300 순정형",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224430778901",
+    "date": "2026-10-04",
+    "category": "기타작업",
+    "car": "넥스트 스파크",
+    "title": "더 넥스트 스파크 / 엠비언트 무드등 / 휴대폰연동 / 풋등 연동 / 원하는 색상 다양하게 선택가능합니다 ! [일산 파주 운정 김포 고양]",
+    "summary": "2022.10.4. 4년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 더 넥스트 스파크 작업내용 : 엠비언트 무드등 작업시간 : 4~5시간 엠비언트 무드등 작업을 위해 입고된 더 넥스트 스파크 차량이 입고되었습니다 차량에 시공될 제품은 카존 엠비언트…",
+    "description": "2022.10.4. 4년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 더 넥스트 스파크 작업내용 : 엠비언트 무드등 작업시간 : 4~5시간 엠비언트 무드등 작업을 위해 입고된 더 넥스트 스파크 차량이 입고되었습니다 차량에 시공될 제품은 카존 엠비언트 무드등 입니다 제품 퀄리티 말해뭐해 ㅎㅎ 너무 좋아요 ! 작업정 차량의 모습입니다 1열 2열... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMjEwMDRfMjk5/MDAxNjY0ODQ1ODc2Mzk2.RG4IvrNwFfC7n_L7rPBBFDxH9GC20FesRN293zPKn10g.Ir44hQ2sxR8qU10c2avQACq26si9XUVp5uE7Wa3AtSkg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "넥스트 스파크 · 더 넥스트 스파크 / 엠비언트 무드등 / 휴대폰연동 / 풋등 연동 / 원하는 색상 다양하게 선택가능합니다 ! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224430778901?fromRss=true&trackingCode=rss",
+    "tags": [
+      "넥스트 스파크",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224430146346",
     "date": "2026-10-03",
@@ -8221,110 +8325,6 @@ window.WORKS_DATA = [
     "blog": "https://blog.naver.com/uh2816/224382043205?fromRss=true&trackingCode=rss",
     "tags": [
       "일산 파주 운정 김포 / 순정형 경보",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224382043047",
-    "date": "2026-08-18",
-    "category": "블랙박스",
-    "car": "일산 파주 고양 삼송 운정 / 꼼꼼한",
-    "title": "일산 파주 고양 삼송 운정 / 꼼꼼한 신차검수 잘하는곳 / 아반떼AD 벨류플러스 - 신차패키지 썬팅 / 블랙박스 / 브레이크등 활성화 / 크루즈컨트롤 시공",
-    "summary": "2017.8.18. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 현대자동차 #아반떼AD #벨류플러스 차량 #신차검수 및 #썬팅 #블랙박스 #브레이크등활성화 #크루즈컨트롤 시공입니다 우선 차량을 꼼꼼하게 구석구석 신차검수를 진행합니다 아무이상없는…",
-    "description": "2017.8.18. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 현대자동차 #아반떼AD #벨류플러스 차량 #신차검수 및 #썬팅 #블랙박스 #브레이크등활성화 #크루즈컨트롤 시공입니다 우선 차량을 꼼꼼하게 구석구석 신차검수를 진행합니다 아무이상없는 깨끗한 차량이 도착했어요 ~~~~ 이제 첫작업으로 썬팅을 진행합니다 사용된 필름은 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MThfNjQg/MDAxNTAzMDIxODU3ODQx.Tu_eD12q27rZ6EqzrReFTn9bgiWgy-zQ4_cQfgArDTAg.sO-_aRnuqWChxp3dAdzxMMH15Brkv55hPuwQbsm6_OMg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "일산 파주 고양 삼송 운정 / 꼼꼼한 · 일산 파주 고양 삼송 운정 / 꼼꼼한 신차검수 잘하는곳 / 아반떼AD 벨류플러스 - 신차패키지 썬팅 / 블랙박스 / 브레이크등 활성화 / 크루즈컨트롤 시공 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224382043047?fromRss=true&trackingCode=rss",
-    "tags": [
-      "일산 파주 고양 삼송 운정 / 꼼꼼한",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224382042875",
-    "date": "2026-08-18",
-    "category": "기타작업",
-    "car": "파주 일산 운정 김포 / 4채널 후방센서",
-    "title": "고양 파주 일산 운정 김포 / 4채널 후방센서 장착전문점 / NF쏘나타 뒷범퍼 교체후 후방센서 장착 시공",
-    "summary": "2017.8.18. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 후방센서 장착 포스팅입니다 대상차종은 NF소나타 이구요 사고로 뒷범퍼를 교체하셨다네요 ^^ 차량이 번쩍번쩍하네요 ㅎㅎ 후방센서 작업이다보니 신중하게 타공할 위치를 잡아볼게요 !!",
-    "description": "2017.8.18. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 후방센서 장착 포스팅입니다 대상차종은 NF소나타 이구요 사고로 뒷범퍼를 교체하셨다네요 ^^ 차량이 번쩍번쩍하네요 ㅎㅎ 후방센서 작업이다보니 신중하게 타공할 위치를 잡아볼게요 !! 쨘~~ 센서 매립을 위해 타공을 진행하였습니다 자리를 순정과 비슷하게 잡아드렸어요 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MThfMTQy/MDAxNTAzMDUzODAzMjQy.eRmWH2YPd8-LDbwciDLQO-Vq8qoCgfuPZr78ppSkVsUg.SJO74P0RCo3o-XliuxjboCAAaEq31B-XWDIASMsZ-PAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "파주 일산 운정 김포 / 4채널 후방센서 · 고양 파주 일산 운정 김포 / 4채널 후방센서 장착전문점 / NF쏘나타 뒷범퍼 교체후 후방센서 장착 시공 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224382042875?fromRss=true&trackingCode=rss",
-    "tags": [
-      "파주 일산 운정 김포 / 4채널 후방센서",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224382042771",
-    "date": "2026-08-18",
-    "category": "기타작업",
-    "car": "더뉴쏘렌토",
-    "title": "[일산 파주 운정 김포 고양] 2018더뉴쏘렌토 - 8인치 티맵네비게이션 / JY T-3000 네비게이션 일체형 매립",
-    "summary": "2018.8.18. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 더뉴쏘렌토 2018년식 작업내용 : 8인치 네비게이션 하단매립 작업시간 : 2시간작업을 위해 입고된 따끈한 신차입니다 차량이 썬팅은 되어 있는 상태이구요 다른건 몰라도 네비게이…",
-    "description": "2018.8.18. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 더뉴쏘렌토 2018년식 작업내용 : 8인치 네비게이션 하단매립 작업시간 : 2시간작업을 위해 입고된 따끈한 신차입니다 차량이 썬팅은 되어 있는 상태이구요 다른건 몰라도 네비게이션 매립은 12볼트스토리 에서 하셔야 겠다고 하시네요 ^^ 감사합니다 우선 작업전 순정 오디오... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MThfMTA3/MDAxNTM0NTk0NjQ3NzM2.I9rOuLuPVlIT5CSwFM2pTE1LG_22RwG31eyLoBfC-RIg.whSKfvDDrj3gSaoQwI9-960MWsDdrvKCSCCjSrsif74g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "더뉴쏘렌토 · [일산 파주 운정 김포 고양] 2018더뉴쏘렌토 - 8인치 티맵네비게이션 / JY T-3000 네비게이션 일체형 매립 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224382042771?fromRss=true&trackingCode=rss",
-    "tags": [
-      "더뉴쏘렌토",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224382042632",
-    "date": "2026-08-18",
-    "category": "기타작업",
-    "car": "말리부 / 1열 도어 / 쉐보레 로고",
-    "title": "말리부 / 1열 도어 / 쉐보레 로고 도어스팟램프 / 깔끔한 배선처리 / 완벽한 위치 장착 [일산 파주 운정 김포 고양]",
-    "summary": "2020.8.18. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쉐보레 말리부 작업내용 : 도어스팟램프 작업시간 : 1시간 이내 12볼트스토리에 자주 오지 않는 말리부 차량이 입고되었습니다 작업할 내용은 도어스팟램프 입니다 도어스팟램프는 차량 도…",
-    "description": "2020.8.18. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쉐보레 말리부 작업내용 : 도어스팟램프 작업시간 : 1시간 이내 12볼트스토리에 자주 오지 않는 말리부 차량이 입고되었습니다 작업할 내용은 도어스팟램프 입니다 도어스팟램프는 차량 도어를 열면 도어 하단 바닥부분에 차량 로고가 표시되는 아이템입니다 ! 우선 입고 된 차... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDA4MThfMjI3/MDAxNTk3NzIzNjQzMTk0.MfnMvskXwT5S883mXX9MZkjA66JXKVfYSMS0xVwUAycg.vSUQ1kgL-mnRRF98DEQ94oBfW2G5ZJi481jmPPklobAg.PNG.uh2816/1.png?type=ffn480_320"
-    ],
-    "captions": [
-      "말리부 / 1열 도어 / 쉐보레 로고 · 말리부 / 1열 도어 / 쉐보레 로고 도어스팟램프 / 깔끔한 배선처리 / 완벽한 위치 장착 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224382042632?fromRss=true&trackingCode=rss",
-    "tags": [
-      "말리부 / 1열 도어 / 쉐보레 로고",
       "기타작업"
     ],
     "source": "naver"
