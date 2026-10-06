@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-06 11:31", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-06 18:26", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224433037553",
+    "date": "2026-10-06",
+    "category": "옵틱글래스",
+    "car": "폴스타 4",
+    "title": "폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리",
+    "summary": "안녕하세요! 경기도 고양시 일산서구에 위치한 자동차 전장 전문점 **12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 차량은 독특한 디자인과 첨단 기술이 돋보이는 전기차, **폴스타4(Polestar 4)**입니다.",
+    "description": "안녕하세요! 경기도 고양시 일산서구에 위치한 자동차 전장 전문점 **12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 차량은 독특한 디자인과 첨단 기술이 돋보이는 전기차, **폴스타4(Polestar 4)**입니다. 이번 작업은 폴스타4에 파인뷰 LXQ EX 2채널 블랙박스와 셀스타 ES90 블랙박스 보조배터리 를 함께 설치한 사례입니다. 전기차에 블랙박스를 장착할 때는 제품의 녹화 성능도 중요하지만, 차량 전원과 주차 중 전력 사용, 배선 처리 방법까지 함께 고려해야 합니다. 특히 폴스타4는 일반적인 차량과 후방 구조가 다르기 때문에 후방카메라의 설치 위치도 꼼꼼하게 살펴봐야 합니다. 이번 포스팅에서는 실제 장착 사진을 통해 설치 과정과 주요 확인 사항을 자세히 소개해 드리겠습니다. 1.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMTQ3/MDAxNzkxMjY3NDA5ODY4.3Pqsqk9cQQbib4DSqTr6A15Bxzl7ocui_emzluVsQkcg.CJzJUSdVkK4DKrmFCf8u-eS7wkQV9wCgSRISS6KZHRgg.JPEG/KakaoTalk_20261006_144508417.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMTU4/MDAxNzkxMjY3NDQwOTM1.ESMp2I5P41ykd7XWRiYHSlQ_A5AQl1yW0p1CuM7R5-4g.G1AqB_orlVWRSrw_zxY6J1fFsxVbW_3feF3MC6SwzLsg.JPEG/KakaoTalk_20261006_144508417_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMiAg/MDAxNzkxMjY3NDg3ODky.OVHRbGhqp0fu1UEQAszQdtbMzlFTRLe71m1smdEPGCkg.Iqa_dq7fSyHTycqjt9O4x_JcvAghuYllBMm5XY3j_-wg.JPEG/KakaoTalk_20261006_144508417_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfNzAg/MDAxNzkxMjY3NTE1ODk5.I3jHNefeaVXjUvK6T8p0fvHZyR2Z22g6DOvAPPVGRxcg.LckywDKsojFL4x0eX7wKi2mW27YNrV0FEBv7r6XvADcg.JPEG/KakaoTalk_20261006_144508417_09.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMTIx/MDAxNzkxMjY3NTcxMzY1.Zz6SSx7AK5Mn_0aykLi8QkcVMXEzAWKi-CRhQ_n5X1gg.I4kGSheQsgOhK6LapJoRFU1msB8z7sxKzzxFQVh7ZSIg.JPEG/KakaoTalk_20261006_144508417_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfNDIg/MDAxNzkxMjY3ODk4NDQ2.KczCiyQImremw12ezo21DZo01ZnThaEomZNR2blSfIMg.z9YaTYO-PvtOxXR1gnjDctWwsy0SH9oVL7Aiija0EHUg.JPEG/KakaoTalk_20261006_144508417_08.jpg?type=w800"
+    ],
+    "captions": [
+      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 1",
+      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 2",
+      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 3",
+      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 4",
+      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 5",
+      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224433037553?fromRss=true&trackingCode=rss",
+    "tags": [
+      "폴스타 4",
+      "옵틱글래스",
+      "폴스타4,폴스타4블랙박스,폴스타4블랙박스설치,폴스타4보조배터리,폴스타4블랙박스장착,파인뷰LXQEX,LXQEX,셀스타ES90,블랙박스보조배터리,폴스타4후방카메라,폴스타4시거잭,전기차블랙박스,전기차보조배터리,일산블랙박스,일산보조배터리,고양시블랙박스,파주블랙박스,김포블랙박스,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224432421548",
     "date": "2026-10-06",
@@ -8278,43 +8315,6 @@ window.WORKS_DATA = [
       "스타리아",
       "순정옵션",
       "스타리아SBR,스타리아SBR경고음,스타리아SBR경고등,스타리아안전벨트경고음,스타리아안전벨트경고등,스타리아시트탈거,스타리아뒷좌석탈거,시트벨트시스템점검,SBR경고음제거,SBR경고등제거,스타리아차박,스타리아캠핑카,일산스타리아,일산자동차전장,고양자동차전장,일산자동차튜닝,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224383350048",
-    "date": "2026-08-19",
-    "category": "후방카메라",
-    "car": "올뉴쏘렌토",
-    "title": "일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양]",
-    "summary": "오늘 소개해 드릴 작업은 올뉴쏘렌토 차량의 순정 네비게이션을 제거하고, 모터스밸류 MV7870 안드로이드 올인원으로 교체한 작업입니다. 연식이 있는 순정 네비게이션은 지도 업데이트나 앱 사용에 제한이 있고 화면 크기와 반응속도에서도 아쉬움이 생길 수 있습니다.",
-    "description": "오늘 소개해 드릴 작업은 올뉴쏘렌토 차량의 순정 네비게이션을 제거하고, 모터스밸류 MV7870 안드로이드 올인원으로 교체한 작업입니다. 연식이 있는 순정 네비게이션은 지도 업데이트나 앱 사용에 제한이 있고 화면 크기와 반응속도에서도 아쉬움이 생길 수 있습니다. 안드로이드 올인원으로 교체하면 스마트폰처럼 다양한 내비게이션과 음악·동영상 앱을 사용할 수 있어 차량의 멀티미디어 환경이 완전히 달라집니다. 작업차량 : 올뉴쏘렌토 작업내용 : 안드로이드 올인원 작업시간 : 1시간30분 12볼트스토리 채널홈을 폰으로 접속해보세요. ━━━━━━━━━━━━━━━━━━ 🟦 차량 입고 ━━━━━━━━━━━━━━━━━━ 올뉴쏘렌토 전면 입고 사진 이번 작업을 위해 입고된 올뉴쏘렌토입니다.",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMTMg/MDAxNzg3MTE4OTQ3Mjg3.cpQniV_Olxh1f7yvZz0hljySRqvwvRcNUbWfinW-4Uwg.LA-2J8cUI-RBmYgBToTQyZavI2qH7sA2C_P4E6RhPxwg.JPEG/KakaoTalk_20260819_140000326.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfNDQg/MDAxNzg3MTE4OTYyMjk5.8NMxjYSZVnPNkJm5CeQA5Rs4eiKd-9bYOJeoKJi_yrMg.zIwIV19wqn1fH78M0i_UjAat4uFec2MNsOVvZiZ0Scog.JPEG/KakaoTalk_20260819_140000326_01.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMjEz/MDAxNzg3MTE4OTc4NDY0.cCF_xHIaM5yy1qQB3c0lxJKpQuWqtrvZekEDu9j11qMg.UmbyKR9Umwb_Cmva3G4GZ564oleuQhowE8D1refCEOYg.JPEG/KakaoTalk_20260819_140000326_03.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMjcw/MDAxNzg3MTE4OTk4NDQ4.zDymST5PwqYd7NvemKDrL23Yobw2r29Zg5-3ghL7LLgg.Rjpg9BCUU_5Xiz4R__TkxTmkfbCtNusjCFfpXczFTGUg.JPEG/KakaoTalk_20260819_140000326_04.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfNiAg/MDAxNzg3MTE5MDEyMzA3.6KWocMDmTrJ-eB2IYgHkBp4pXPNciFfT5MLr9zkw5mAg.0IuzHRca3BJwvDQg-JGoLqFRh65hq3AgfERRNebo5lYg.JPEG/KakaoTalk_20260819_140000326_05.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTlfMTI2/MDAxNzg3MTE5MDI1MDI5.cCvsv8Rl7vMWKDboLeBumTtEod_YWr454WbVZRZBhY8g.hf2K_TbCN4k-fPFZx9JjxI1CkEcbg0wnk0QNvi9nr-kg.JPEG/KakaoTalk_20260819_140000326_06.jpg?type=w800"
-    ],
-    "captions": [
-      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 1",
-      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 2",
-      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 3",
-      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 4",
-      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 5",
-      "올뉴쏘렌토 · 일산 올뉴쏘렌토 안드로이드 올인원 장착｜순정 네비 제거 후 모터스밸류 MV7870 교체 [일산 파주 운정 김포 고양] 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224383350048?fromRss=true&trackingCode=rss",
-    "tags": [
-      "올뉴쏘렌토",
-      "후방카메라",
-      "올뉴쏘렌토안드로이드올인원,올뉴쏘렌토올인원,쏘렌토안드로이드올인원,쏘렌토네비게이션교체,순정네비게이션교체,모터스밸류MV7870,MV7870,안드로이드올인원장착,순정후방카메라연동,올뉴쏘렌토후방카메라,티맵올인원,카카오내비올인원,일산안드로이드올인원,고양안드로이드올인원,일산네비게이션,일산자동차튜닝,일산자동차전장,12볼트스토리"
     ],
     "source": "naver"
   }
