@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-09 08:58", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-09 15:12", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224436113184",
+    "date": "2026-10-09",
+    "category": "블랙박스",
+    "car": "기아 PV5 룸미러",
+    "title": "기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리",
+    "summary": "오늘 소개해드릴 작업은 기아 PV5 차량의 파인뷰 LX9 POWER 룸미러 블랙박스 장착 작업 입니다. 기존 일반 블랙박스와는 다른 방식으로, 순정 룸미러 위치를 활용해 넓은 화면으로 전방/후방 영상을 확인할 수 있는 룸미러형 블랙박스 라서 최근 문의가 많은…",
+    "description": "오늘 소개해드릴 작업은 기아 PV5 차량의 파인뷰 LX9 POWER 룸미러 블랙박스 장착 작업 입니다. 기존 일반 블랙박스와는 다른 방식으로, 순정 룸미러 위치를 활용해 넓은 화면으로 전방/후방 영상을 확인할 수 있는 룸미러형 블랙박스 라서 최근 문의가 많은 제품입니다. 특히 이번 차량은 후방 시야 확보와 주행 중 영상 확인 편의성 을 높이기 위해 파인뷰 LX9 POWER 본체와 전용 후방카메라 까지 함께 작업해드렸습니다. 작업차량 / 작업내용 / 작업시간 작업차량 : 기아 PV5 작업내용 : 파인뷰 LX9 POWER 룸미러 블랙박스 + 후방카메라 장착 작업시간 : 약 3~4시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMTQx/MDAxNzkxNTEzNjYyMTU3.RXVmYT4SVORngwTHVrxGrSYTYMujtXo0Dudm-1D-ynEg.rAFNWt0j9jil5MeiB0X1GIWQIMhIvR5BowHK9nxid-4g.JPEG/KakaoTalk_20261009_102318945_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMTM4/MDAxNzkxNTEzNjgzNzM1.Gfqc2RA0QID8M3rvsQcidASG7-Zsa_ZtZRPpp4Ikpgcg.YHv9uI5yShGu4JBEiOdk1uUE73p2LWzKa7wIR_GNS8Ug.JPEG/KakaoTalk_20261009_102318945_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMTA5/MDAxNzkxNTEzNjk5NzUx.UUA0Ec7NUASKYWqwk4-zoe2StJwnQ-GWkMJmJsjbhUgg.IpYGUHgYyzyAxoVg0zB1OK7Qqoi29YLuZ9CMDpMtQ8Ag.JPEG/KakaoTalk_20261009_102318945_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMzUg/MDAxNzkxNTEzNzUwNDc2.zQgSWR7-lF1qIEcWZrH9r_V0_tEgARm5o1Tp3rb0nCUg.IQ7oxhtqbAnk2LK-49tvdedbDFzMK6FHY7x-DJEQ--wg.JPEG/KakaoTalk_20261009_102318945_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMzIg/MDAxNzkxNTEzNzI2NTI5.tQQMMdhyIk-PvDkzOyzdkGTY0rC3Txrm3Ys05L6Jraog.4J0chRlPZW_mVXmhHxsdMpjxTQAYscoaSqBYKfE_LScg.JPEG/KakaoTalk_20261009_102318945_10.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfNTUg/MDAxNzkxNTEzNzY1Nzg3.QYD2xuQDSrk8TVWfc0eyPQITHoYeBo8nk7Ee-4XKoi8g.XpofvoovxWT1fJ5fzaEWfcLsqaKVEUlG1CqlQv5qbncg.JPEG/KakaoTalk_20261009_102318945_06.jpg?type=w800"
+    ],
+    "captions": [
+      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 1",
+      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 2",
+      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 3",
+      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 4",
+      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 5",
+      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224436113184?fromRss=true&trackingCode=rss",
+    "tags": [
+      "기아 PV5 룸미러",
+      "블랙박스",
+      "기아PV5,PV5블랙박스,PV5룸미러블랙박스,파인뷰LX9POWER,파인뷰룸미러블랙박스,룸미러블랙박스장착,후방카메라장착,일산블랙박스,고양시블랙박스,12볼트스토리,PV5후방카메라,파인뷰블랙박스,일산자동차전장"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224434929574",
     "date": "2026-10-08",
@@ -8256,32 +8293,6 @@ window.WORKS_DATA = [
     "tags": [
       "일산 파주 운정 김포 / 신차검수 잘",
       "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224386346044",
-    "date": "2026-08-22",
-    "category": "기타작업",
-    "car": "싼타페 더프라임 / 순정 AVN(네비게이션)",
-    "title": "[일산 파주 운정 김포 고양] 싼타페 더프라임 / 순정 AVN(네비게이션) 장착차량 / 전방카메라 시공",
-    "summary": "2018.8.22. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 싼타페 더프라임 작업내용 : 순정네비게이션 전방카메라 연동 작업시간 : 1시간 이번차량은 순정 네비게이션 장착된 차량에 전방카메라 장착을 문의주시고 방문해 주셨습니다 전방카메라…",
-    "description": "2018.8.22. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 싼타페 더프라임 작업내용 : 순정네비게이션 전방카메라 연동 작업시간 : 1시간 이번차량은 순정 네비게이션 장착된 차량에 전방카메라 장착을 문의주시고 방문해 주셨습니다 전방카메라의 경우 2가지 방법이 있는데요 한가지는 순정네비게이션 전용으로 고가의 모듈을 사용... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA4MjJfODkg/MDAxNTM0ODk5Nzk3MDQ4.ENvdiIrWFSV4mAaYsoU806n0Qz8g-5ILgvE06TdkBKQg.6blBCDcIDlcb03g5W42IYivxXAYJa3Q0mtxIO2oyOZAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "싼타페 더프라임 / 순정 AVN(네비게이션) · [일산 파주 운정 김포 고양] 싼타페 더프라임 / 순정 AVN(네비게이션) 장착차량 / 전방카메라 시공 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224386346044?fromRss=true&trackingCode=rss",
-    "tags": [
-      "싼타페 더프라임 / 순정 AVN(네비게이션)",
-      "기타작업"
     ],
     "source": "naver"
   }
