@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-10 08:17", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-10 11:26", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224436908764",
+    "date": "2026-10-10",
+    "category": "사이드미러",
+    "car": "제네시스 DH",
+    "title": "제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리",
+    "summary": "안녕하세요. **일산 자동차 전장 전문점 12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 작업은 제네시스 DH(G80) 조수석 사이드미러 폴딩불량 수리 입니다.",
+    "description": "안녕하세요. **일산 자동차 전장 전문점 12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 작업은 제네시스 DH(G80) 조수석 사이드미러 폴딩불량 수리 입니다. 사이드미러가 갑자기 접히지 않거나, 접히는 과정에서 모터 소리만 나고 정상적으로 움직이지 않는 경우가 있습니다. 이런 증상이 발생하면 사이드미러 전체를 교체해야 한다고 생각하기 쉽지만, 실제로는 내부 폴딩기어가 손상되어 발생하는 경우도 있습니다. 이번 제네시스 DH 차량 역시 사이드미러를 분해한 결과 내부 기어가 파손된 상태였으며, 사이드미러 전체 교체 없이 손상된 폴딩기어를 교체하는 부분수리 를 진행했습니다. 그럼 실제 작업 사진과 함께 수리 과정을 소개해 드리겠습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTgy/MDAxNzkxNTkzMzc0MzY4.cGjPmpPlDXzsiTp7Q1TISZ9X6yAOrQqZYxza6dfYO48g.r5rivqibMp09jEdYPX0sysOko80htKyxaOwDrJ_SXbYg.JPEG/KakaoTalk_20261009_102342727_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTc5/MDAxNzkxNTkzMzgzMjEw.TlBJ5yyC_ixMS8C9sBgtbuYDyz0vUPSt6c9_dN3_cYYg.z4g8c0yjOuMpVmbLZdhyp7vAFKmWY5C4JvMBWxDg7bIg.JPEG/KakaoTalk_20261009_102342727.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTEx/MDAxNzkxNTkzMzkzNTQ4.LMHQ1QgkbMssNNqgRmW317wA_qK6Q5_MpiQ4_U-Y3p0g.qV8Fxbmp7j3gwFnD1vBUJrscp8Twq-4YimTi4x6mtGUg.JPEG/KakaoTalk_20261009_102342727_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTI4/MDAxNzkxNTkzNDAxOTY0.tqBxBg_SCEUSP5MalnAKaWmdOnfHa0584xqfz2I0sMcg.hUAaV7IodxlG96t5_VCxBsXiAh4Uln7j2QW51BJba-0g.JPEG/KakaoTalk_20261009_102342727_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMjU1/MDAxNzkxNTkzNDA4NTM3.mjAhPZhab-7dwNK6LCAYu7O9clzoNmRa2EkjGmLWBCsg.b9iYFbkMcT9x9SO1CuDTfLBvIEXYmjM0RurvY1idAfkg.JPEG/KakaoTalk_20261009_102342727_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTAg/MDAxNzkxNTkzNDIwNDg0.-I2wygYRee5iSR7rFCzoVdUjDICLXukgKNgz4t2tJZUg.USP0izoKdDbnjJehNQhQEbi-98c-AwGvmcHWfw4Gv7Ig.JPEG/KakaoTalk_20261009_102342727_06.jpg?type=w800"
+    ],
+    "captions": [
+      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 1",
+      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 2",
+      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 3",
+      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 4",
+      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 5",
+      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224436908764?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 DH",
+      "사이드미러",
+      "제네시스DH사이드미러수리,제네시스G80사이드미러수리,제네시스DH폴딩불량,G80사이드미러수리,제네시스사이드미러수리,사이드미러폴딩불량,사이드미러기어파손,사이드미러기어교체,사이드미러부분수리,일산사이드미러수리,일산사이드미러수리업체,고양사이드미러수리,파주사이드미러수리,김포사이드미러수리,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224436113184",
     "date": "2026-10-09",
@@ -8267,32 +8304,6 @@ window.WORKS_DATA = [
       "싼타페DM",
       "사이드미러",
       "싼타페DM,싼타페DM사이드미러,싼타페사이드미러수리,싼타페DM사이드미러수리,사이드미러폴딩불량,사이드미러폴딩기어,폴딩기어교체,사이드미러수리,사이드미러부분수리,사이드미러안접힘,일산사이드미러수리,고양사이드미러수리,일산자동차전장,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224386346160",
-    "date": "2026-08-22",
-    "category": "블랙박스",
-    "car": "일산 파주 운정 김포 / 신차검수 잘",
-    "title": "일산 파주 운정 김포 / 신차검수 잘하는곳 / 안전한 경차 쉐보레 스파크 신차패키지 썬팅 블랙박스 장착",
-    "summary": "2017.8.22. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 #안전한경차 #쉐보레 #스파크 신차검수 및 신차패키지 작업 포스팅 입니다^^ 작업을 위해 믿고 맏겨주신 소중한 고객님의 신차가 도착했습니다 ^^ 매장 내부에 차량이 가득차서 ㅜㅜ 외부에서 인수전…",
-    "description": "2017.8.22. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 #안전한경차 #쉐보레 #스파크 신차검수 및 신차패키지 작업 포스팅 입니다^^ 작업을 위해 믿고 맏겨주신 소중한 고객님의 신차가 도착했습니다 ^^ 매장 내부에 차량이 가득차서 ㅜㅜ 외부에서 인수전 #꼼꼼한신차검수 진행을 합니다 다행히도 차량에 이상이 없네요^^ 기분 좋습니다 ㅋㅋ 검... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MjJfNDcg/MDAxNTAzNDEyNDAyMDkz.W-aSqJTwBA5DKe-02KUzajTHicywjClD8hcCXgXaHOQg.l-M2J3qQ_k07WfOjSsAXX34i3CyCBf0TXDINUUQA9b8g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "일산 파주 운정 김포 / 신차검수 잘 · 일산 파주 운정 김포 / 신차검수 잘하는곳 / 안전한 경차 쉐보레 스파크 신차패키지 썬팅 블랙박스 장착 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224386346160?fromRss=true&trackingCode=rss",
-    "tags": [
-      "일산 파주 운정 김포 / 신차검수 잘",
-      "블랙박스"
     ],
     "source": "naver"
   }
