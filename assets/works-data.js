@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-12 11:26", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-12 18:47", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224439016938",
+    "date": "2026-10-12",
+    "category": "사이드미러",
+    "car": "쌍용 카이런",
+    "title": "쌍용 카이런 사이드미러 폴딩불량 수리 | 접히지 않는 백미러, 기어 파손 부분수리 [일산 파주 운정 김포 고양]",
+    "summary": "자동차 사이드미러는 주차하거나 차량 문을 잠글 때 자동으로 접히고 펼쳐지는 편의장치입니다. 그런데 어느 날 갑자기 사이드미러가 접히지 않거나, 모터가 작동하는 소리만 들리고 거울이 움직이지 않는다면 어떻게 해야 할까요?",
+    "description": "자동차 사이드미러는 주차하거나 차량 문을 잠글 때 자동으로 접히고 펼쳐지는 편의장치입니다. 그런데 어느 날 갑자기 사이드미러가 접히지 않거나, 모터가 작동하는 소리만 들리고 거울이 움직이지 않는다면 어떻게 해야 할까요? 이런 증상은 사이드미러 내부 폴딩 모터 또는 기어 장치에 문제가 생겼을 때 발생할 수 있습니다. 오늘 소개해 드릴 차량은 **쌍용 카이런(Kyron)**입니다. 사이드미러 폴딩 기능에 문제가 발생하여 내부를 점검한 결과, 폴딩기어 파손이 확인된 수리 사례 입니다. 사이드미러 전체를 교체하는 대신 문제가 발생한 내부 부품을 수리하는 방식으로 작업을 진행했습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMTE4/MDAxNzkxNzgyNDM1NDY0.VNuz4oyFKbqrigA2Wsl0pbkDmuTKPWqCnEmkhC0krBMg.gkYt45wjo37Pruc-lcOcGwMb-FwrDD1xyO3FYfAEPScg.JPEG/KakaoTalk_20261012_095023238_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfOTAg/MDAxNzkxNzgyNDY5OTk3.eKScFoc30EQM4nSTZC-CUF8apH06xXrSmpD3ASnXi-Ag.lrhn56ToFwytqzuhs51Y1lEfsL7dMZZ3NvBJ5OYlflAg.JPEG/KakaoTalk_20261012_095023238_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMTU4/MDAxNzkxNzgyNDc2ODUz.3a_uO4eKd9e2mnyaTvddzINN3UG1QQTlX8LkQdJ85Iog.7j8gu4zUQEAF0rDw9SpOdNrWLT1gn52LXF2hC1d1XhAg.JPEG/KakaoTalk_20261012_095023238_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMjE5/MDAxNzkxNzgyNDg5MzA5.N3Lltj3ye-SqelZZQ59eg8HYAJGzoNnGcJWadexvctsg.Ce7Bq63aKd9Ckc9wyvCwfoTx3B_agFG8Pd9vuP4qFAAg.JPEG/KakaoTalk_20261012_095023238_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMjU0/MDAxNzkxNzgyNDk0NTMx.EmxRuf7VQj0X7dJ6hHbpobyIvQJe_ZMgouUPtWexYxUg.K5ylc7iqvxInI3uHYGx6Ic2fYmjpX_5X_LwcBrWjHfQg.JPEG/KakaoTalk_20261012_095023238_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMjI5/MDAxNzkxNzgyNTIwNjk5.rrR0oGMZux2T8l5MHaGDAGCEnWf_7XKfJlbCq4QqE-Qg.lrHI8llnypUZrYvG1L5YywFXMB_F_gwzr5TYF6Ja03cg.JPEG/KakaoTalk_20261012_095023238_06.jpg?type=w800"
+    ],
+    "captions": [
+      "쌍용 카이런 · 쌍용 카이런 사이드미러 폴딩불량 수리 | 접히지 않는 백미러, 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "쌍용 카이런 · 쌍용 카이런 사이드미러 폴딩불량 수리 | 접히지 않는 백미러, 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "쌍용 카이런 · 쌍용 카이런 사이드미러 폴딩불량 수리 | 접히지 않는 백미러, 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "쌍용 카이런 · 쌍용 카이런 사이드미러 폴딩불량 수리 | 접히지 않는 백미러, 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "쌍용 카이런 · 쌍용 카이런 사이드미러 폴딩불량 수리 | 접히지 않는 백미러, 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "쌍용 카이런 · 쌍용 카이런 사이드미러 폴딩불량 수리 | 접히지 않는 백미러, 기어 파손 부분수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224439016938?fromRss=true&trackingCode=rss",
+    "tags": [
+      "쌍용 카이런",
+      "사이드미러",
+      "카이런사이드미러수리,카이런사이드미러,카이런폴딩불량,쌍용카이런,사이드미러폴딩불량,사이드미러기어파손,사이드미러부분수리,사이드미러접힘불량,백미러수리,일산사이드미러수리,고양시사이드미러수리,파주사이드미러수리,김포사이드미러수리,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224438856259",
+    "date": "2026-10-12",
+    "category": "블랙박스",
+    "car": "벤츠 S560 순정",
+    "title": "벤츠 S560 순정 블랙박스 교체 | 수입차 블랙박스 교체, 아이나비 Z1 장착 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 작업은 벤츠 S560 4MATIC 순정 블랙박스 교체 작업 입니다. 벤츠를 비롯한 수입차에는 출고 당시부터 순정 블랙박스가 장착되어 있는 경우가 많습니다.",
+    "description": "오늘 소개해 드릴 작업은 벤츠 S560 4MATIC 순정 블랙박스 교체 작업 입니다. 벤츠를 비롯한 수입차에는 출고 당시부터 순정 블랙박스가 장착되어 있는 경우가 많습니다. 하지만 차량을 오랫동안 운행하다 보면 기존 블랙박스의 노후화나 녹화 오류, 저장장치 문제 등으로 교체를 고민하게 됩니다. 이때 많은 분들이 궁금해하시는 부분이 있습니다. \"벤츠 순정 블랙박스를 제거하고 일반 사제 블랙박스로 교체할 수 있을까요?\" 네, 가능합니다. 다만 수입차는 차종마다 순정 블랙박스의 설치 구조와 전원 연결 방식이 다를 수 있기 때문에 기존 장치의 구성과 배선 상태를 먼저 확인하는 것이 중요합니다. 오늘은 벤츠 S560 차량에 아이나비 Z1 블랙박스를 장착한 작업 과정을 소개해 드리겠습니다.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMzUg/MDAxNzkxNzczNDQ0MDg0.vIPkAUdPPzDsZz2REVGc_hjoJRSZ3wiUMFx3JY2Cimwg.BVyRBWRsC48MHlEikv1a-_73AHzvaW4w8WqnATsRPIUg.JPEG/KakaoTalk_20261012_095047631_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMTk5/MDAxNzkxNzczNDYwNTc3.U6fy9Dg5SK7Va-LKe4-lAlh17XyOyr6_yPAqn4JU8uog.g50xFj7jg2u9f5CGaNLQFeX0grUZrqWq0QTOSgypxxUg.JPEG/KakaoTalk_20261012_095047631.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMjE1/MDAxNzkxNzczNDcyMjQ0.vjJCjAGtljJb_jDz-4zwq9-hSy72MF58n2kb5se6El8g.3juI8Duzcu1wQ_pDwwkxJLe_HGGwTxUzwO56lAbo1SYg.JPEG/KakaoTalk_20261012_095047631_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMTYy/MDAxNzkxNzczNjA0NzE2.c3ba8yJFZLhCqani3hrGLi6qOKdujwPY7cQvY2rsZDsg.UABj590NTJfAxXlpR5dQdxPMn3rRJwfJCEOu6TiTSRQg.JPEG/KakaoTalk_20261012_095047631_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfNTMg/MDAxNzkxNzczNTA2NDcy.0BjLVHtY_OVfccX1aLDJK-b1ZeBJ1u_1vx0yF19hJ-Ug.CbSX1821J_VFo_9b4CgMYX19d4xjhijAY6EeCDjGom4g.JPEG/KakaoTalk_20261012_095047631_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTJfMjg2/MDAxNzkxNzczNjE2NTQ3.Ab5SHeWb9f7Wa4eMUHSax-ipzd6k-MQw5zsiqkhrrvwg.Jw8u2beHOLVjw1Rqn5O-G_UXKv00D5qu5hstBi-9TkUg.JPEG/KakaoTalk_20261012_095047631_05.jpg?type=w800"
+    ],
+    "captions": [
+      "벤츠 S560 순정 · 벤츠 S560 순정 블랙박스 교체 | 수입차 블랙박스 교체, 아이나비 Z1 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "벤츠 S560 순정 · 벤츠 S560 순정 블랙박스 교체 | 수입차 블랙박스 교체, 아이나비 Z1 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "벤츠 S560 순정 · 벤츠 S560 순정 블랙박스 교체 | 수입차 블랙박스 교체, 아이나비 Z1 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "벤츠 S560 순정 · 벤츠 S560 순정 블랙박스 교체 | 수입차 블랙박스 교체, 아이나비 Z1 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "벤츠 S560 순정 · 벤츠 S560 순정 블랙박스 교체 | 수입차 블랙박스 교체, 아이나비 Z1 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "벤츠 S560 순정 · 벤츠 S560 순정 블랙박스 교체 | 수입차 블랙박스 교체, 아이나비 Z1 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224438856259?fromRss=true&trackingCode=rss",
+    "tags": [
+      "벤츠 S560 순정",
+      "블랙박스",
+      "벤츠S560,벤츠S560블랙박스,벤츠순정블랙박스교체,벤츠블랙박스교체,S클래스블랙박스,수입차순정블랙박스교체,수입차블랙박스교체,아이나비Z1,아이나비블랙박스,일산블랙박스,일산수입차블랙박스,고양시블랙박스,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224438705160",
     "date": "2026-10-12",
@@ -8208,58 +8282,6 @@ window.WORKS_DATA = [
     "tags": [
       "[일산 파주 운정 김포 고양] 아반테",
       "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224388373631",
-    "date": "2026-08-24",
-    "category": "기타작업",
-    "car": "k7프리미어",
-    "title": "k7프리미어 / LED 도어캐치 / LED 컵홀더 플레이트 / 미등연동 점등[일산 파주 운정 김포 고양]",
-    "summary": "2020.8.24. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : K7 프리미어 작업내용 : LED 컵홀더 / LED도어캐치 작업시간 : 1시간 30분 고객님께서 직접 구매 해 두신 LED 제품 장착을 위해 입고 해 주신 k7프리미어 차량입니다 작…",
-    "description": "2020.8.24. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : K7 프리미어 작업내용 : LED 컵홀더 / LED도어캐치 작업시간 : 1시간 30분 고객님께서 직접 구매 해 두신 LED 제품 장착을 위해 입고 해 주신 k7프리미어 차량입니다 작업 전 차량의 순정 상태입니다 아무것도 없는 순정 모습 그대로죠?? 고객님께서 구매 오신 제품을... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDA4MjRfNjkg/MDAxNTk4MjM5NjIwNTQ2.N9lbP7KBiUqUdCWn2iiw0HOdDnNKn7nT-LAwxewgQfMg.HIi7ir1p2Zu0tG2vSxj43DVDQ7dRJEBIchwOIJl2CtYg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "k7프리미어 · k7프리미어 / LED 도어캐치 / LED 컵홀더 플레이트 / 미등연동 점등[일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224388373631?fromRss=true&trackingCode=rss",
-    "tags": [
-      "k7프리미어",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224388373494",
-    "date": "2026-08-24",
-    "category": "블랙박스",
-    "car": "랭글러JL / 카존 3D 어라운드뷰",
-    "title": "랭글러JL / 카존 3D 어라운드뷰 시즌5 / 현존하는 최고의 어라운드뷰 / 3D 4채널 블랙박스 기본저장공간 256G / 화질이 끝내줘요 [일산 파주 운정 김",
-    "summary": "2023.8.24. 3년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 랭글러JL 작업내용 : 카존어라운드뷰 시즌5 작업시간 : 1박2일 카존3D 어라운드뷰 시즌5 제품을 보시고 오셨네요 차가 너무 큰데 .. 거기에 오버휀더 까지 ..",
-    "description": "2023.8.24. 3년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 랭글러JL 작업내용 : 카존어라운드뷰 시즌5 작업시간 : 1박2일 카존3D 어라운드뷰 시즌5 제품을 보시고 오셨네요 차가 너무 큰데 .. 거기에 오버휀더 까지 .. 심각하네요... 좁을길 주행하기 쉽지 않으셨겠어요 오늘 차량에 장착될 제품입니다 개인적으로 아니 ... 객관적으... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMzA4MjRfMjgz/MDAxNjkyODU2MDYxNzE2.ZRufJ-lWFoHp6lJ4WDilfn9sUrYEoXC779OqpSGkkEwg.Jn-jdLuUDRD1jyeHsd0_nj6fI9IU2MNfifDjxWTT3p4g.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "랭글러JL / 카존 3D 어라운드뷰 · 랭글러JL / 카존 3D 어라운드뷰 시즌5 / 현존하는 최고의 어라운드뷰 / 3D 4채널 블랙박스 기본저장공간 256G / 화질이 끝내줘요 [일산 파주 운정 김 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224388373494?fromRss=true&trackingCode=rss",
-    "tags": [
-      "랭글러JL / 카존 3D 어라운드뷰",
-      "블랙박스"
     ],
     "source": "naver"
   }
