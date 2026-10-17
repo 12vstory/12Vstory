@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-17 09:31", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-17 14:02", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224444505933",
+    "date": "2026-10-17",
+    "category": "옵틱글래스",
+    "car": "제네시스 DH",
+    "title": "제네시스 DH 사이드미러 안 접힘, 폴딩 불량 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양]",
+    "summary": "사이드미러가 제대로 접히지 않아 불편하신가요? 주차 후 사이드미러를 접으려는데 움직이지 않거나, 펼침 동작이 원활하지 않으면 매번 신경이 쓰이게 됩니다. 이럴 때 궁금한 부분은 바로 이것입니다.",
+    "description": "사이드미러가 제대로 접히지 않아 불편하신가요? 주차 후 사이드미러를 접으려는데 움직이지 않거나, 펼침 동작이 원활하지 않으면 매번 신경이 쓰이게 됩니다. 이럴 때 궁금한 부분은 바로 이것입니다. “사이드미러 전체를 교체해야 할까요?” 수리 방법은 고장 부위와 손상 상태에 따라 달라집니다. 내부 상태를 확인한 뒤 부분수리 가능 여부를 살펴보는 것이 좋습니다. 안녕하세요! 경기도 고양시 일산서구에 위치한 사이드미러 수리 전문점 12볼트스토리 입니다. 오늘은 제네시스 DH 사이드미러 폴딩 불량 부분수리 작업을 소개해 드리겠습니다.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTdfMTY3/MDAxNzkyMjAwMzY4NDA1.IJaxeybtbz0m_nhoQ4PbOEO-bVsZ4TqSHzh7lUk18Pgg.Ge7R9FoFDggLrseKMSznsIFmoseVkUcDyUqRYEgibkwg.JPEG/KakaoTalk_20261016_093430120_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTdfODgg/MDAxNzkyMjAwMzc3OTE1._I8dg7Zksp4hMpoaGAttfJlafngIZvalEUmME6mJ5Rwg.aWvK1gCrEX0eA9T_nobB-TP_qdo2FdkJT2kjE1Ten1Qg.JPEG/KakaoTalk_20261016_093430120.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTdfMTUw/MDAxNzkyMjAwMzg1MTAw.VmAn78EJ5rkOqvXVrYPRIbjjjwgNtaPtfsbSqiqA5_0g.3RIsK6ttwWFTY-Ux1jAtlNFE_ZomCEC-mGUj6ZguD5cg.JPEG/KakaoTalk_20261016_093430120_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTdfOTcg/MDAxNzkyMjAwNDAyNjMw.ylScTxhxFCqdTaShTW6T3jR5nII4SNDRY-TggOkHhxcg.AL4xHfY7INIXINyyrBWmBGY0V2hwHj_hMj4Gr7Aati8g.JPEG/KakaoTalk_20261016_093430120_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTdfMTI2/MDAxNzkyMjAwNDA4NTE5.kN36qhyKVt2RlyEkjPwhdKEWuRyef9lWtSavMee5-3Eg.8BODPv9DlJs0mBr3vHbQCIGxFyhbe6phNM30RXlDF-4g.JPEG/KakaoTalk_20261016_093430120_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTdfMjIg/MDAxNzkyMjAwNDEzNzAy.fEt2uy441AwZqFEhRrzEgC0BQwi9cSlZqFXC2oD_wEUg.ndtqqnmgre5dzwtl4EwtwSCmyZ-A5ioT-D042D7WhY8g.JPEG/KakaoTalk_20261016_093430120_06.jpg?type=w800"
+    ],
+    "captions": [
+      "제네시스 DH · 제네시스 DH 사이드미러 안 접힘, 폴딩 불량 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "제네시스 DH · 제네시스 DH 사이드미러 안 접힘, 폴딩 불량 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "제네시스 DH · 제네시스 DH 사이드미러 안 접힘, 폴딩 불량 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "제네시스 DH · 제네시스 DH 사이드미러 안 접힘, 폴딩 불량 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "제네시스 DH · 제네시스 DH 사이드미러 안 접힘, 폴딩 불량 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "제네시스 DH · 제네시스 DH 사이드미러 안 접힘, 폴딩 불량 부분수리｜일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224444505933?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 DH",
+      "옵틱글래스",
+      "제네시스DH,제네시스사이드미러수리,G80사이드미러수리,제네시스사이드미러안접힘,사이드미러폴딩불량,사이드미러접힘불량,사이드미러부분수리,조수석사이드미러수리,일산사이드미러수리,고양시사이드미러수리,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224444460003",
     "date": "2026-10-17",
@@ -8244,32 +8281,6 @@ window.WORKS_DATA = [
       "스타리아",
       "순정옵션",
       "스타리아,스타리아SBR,스타리아경고등,스타리아경고음,스타리아안전벨트,SBR경고등,SBR경고음,안전벨트경고음,후석안전벨트,REAR경고등,스타리아튜닝,스타리아전장,일산자동차전장,일산스타리아,고양자동차전장,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224395938678",
-    "date": "2026-08-31",
-    "category": "전장수리",
-    "car": "고양 파주 일산 운정 / [DMB락프",
-    "title": "고양 파주 일산 운정 / [DMB락프리] 올뉴쏘렌토 순정네비게이션 DMB 동영상 락해제",
-    "summary": "2017.8.31. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 올뉴쏘렌토 차량의 순정네비게이션 DMB 및 동영상 락해제 작업입니다 작업을 위해 입고된 올뉴쏘렌토 차량입니다 검정색 차량인데 관리가 엄청 잘되었네요 ^^ 우선 작업을 위해 #순정네…",
-    "description": "2017.8.31. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 올뉴쏘렌토 차량의 순정네비게이션 DMB 및 동영상 락해제 작업입니다 작업을 위해 입고된 올뉴쏘렌토 차량입니다 검정색 차량인데 관리가 엄청 잘되었네요 ^^ 우선 작업을 위해 #순정네비게이션 탈거중입니다 이렇게 스위치를 장착해드리구요 사용시 온 / 오프 가능하십니... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "불량 증상 재현 후 원인 구간 확인",
-      "필요 부품 또는 회로를 부분수리",
-      "조립 후 기능을 반복 테스트해 마무리"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzA4MzFfMjA1/MDAxNTA0MTc3MDA2Mzgy.CIRjPILFMcMN69l-Gj2tomDc1y5dBBhsRPnDfSOAiqUg.1tkhn0Os_dB_j_sc8cP0C6PY70YLqI_QTxfv1uaFtswg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "고양 파주 일산 운정 / [DMB락프 · 고양 파주 일산 운정 / [DMB락프리] 올뉴쏘렌토 순정네비게이션 DMB 동영상 락해제 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224395938678?fromRss=true&trackingCode=rss",
-    "tags": [
-      "고양 파주 일산 운정 / [DMB락프",
-      "전장수리"
     ],
     "source": "naver"
   }
