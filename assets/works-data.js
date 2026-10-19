@@ -1,6 +1,184 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-19 09:32", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-19 14:22", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224446533851",
+    "date": "2026-10-19",
+    "category": "사이드미러",
+    "car": "팰리세이드",
+    "title": "팰리세이드 사이드미러 리피터 파손 수리｜방향지시등 전체 교체 없이 부분교체 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 작업은 현대 팰리세이드 차량의 사이드미러 방향지시등(사이드리피터) 파손 부분교체 입니다. 사이드미러는 운전 중 후방을 확인하는 중요한 부품이지만, 차량 외부로 돌출되어 있어 좁은 주차장이나 골목길에서 손상되는 경우가 있습니다.",
+    "description": "오늘 소개해 드릴 작업은 현대 팰리세이드 차량의 사이드미러 방향지시등(사이드리피터) 파손 부분교체 입니다. 사이드미러는 운전 중 후방을 확인하는 중요한 부품이지만, 차량 외부로 돌출되어 있어 좁은 주차장이나 골목길에서 손상되는 경우가 있습니다. 특히 사이드미러 방향지시등 커버가 깨지거나 내부 LED 리피터가 손상되면 어디까지 교체해야 할지 고민하게 됩니다. 사이드미러 전체를 교체해야 할까요? 아니면 파손된 부분만 교체할 수 있을까요? 이번 팰리세이드 차량은 사이드미러 전체를 교환하지 않고, 손상된 사이드리피터 부위를 중심으로 부분교체 작업 을 진행했습니다. 실제 작업 사진을 통해 자세히 살펴보겠습니다. 12볼트스토리 채널홈을 폰으로 접속해보세요. 1. 팰리세이드 사이드미러 방향지시등 파손 자동차 사이드미러에는 여러 기능이 함께 들어 있습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfODcg/MDAxNzkyMzg2Nzg0MDE5.-D5RorjzG9Pt9-amHp7NvG4dew30brVHTTSTcwZcNVEg.GsjpQDdRuSBi6GEGTJaq03Rjb-nO-2gkIurr010Mhcsg.JPEG/KakaoTalk_20261019_092422588_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMjUw/MDAxNzkyMzg2Nzk0NTcz.U5RQWjIIWDnKwBsVKz8wJy5zl3zLpsp1SrSYWzrjkpsg.rhUyYWEW_VVcZ3Us_sTLaaOqGCNlZsvkY61S-tW2QDUg.JPEG/KakaoTalk_20261019_092422588_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMTc5/MDAxNzkyMzg2ODA3Nzk2.qYak0YHk0BzmfbZFxxqMEhQJOMHoXkD2hBN_ST6Hl0wg.3vQ_slPqnrkZ7DBU8mMuoGxE4LD8IbwBA103yJv-_k4g.JPEG/KakaoTalk_20261019_092422588_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfNjUg/MDAxNzkyMzg2ODI2MDQy.ogPXcPT_f-0kLPcMrjvwWuLMDon4QmDYKY4EgG6sj60g.uhK8uy34CIR2Qz6zEtm22vLRwZzp3l_i8x9Y-wFrrvgg.JPEG/KakaoTalk_20261019_092422588_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMTgw/MDAxNzkyMzg2ODMyMTgz.MV9tQSX6vB2rue3HNX2B3sLK-wryrlLVUuh4IX41LQUg.fGjZ_xEW2X3H_jGK9A5DQZwi-_xq65w5ZVyQDU1Wwd0g.JPEG/KakaoTalk_20261019_092422588_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMTc3/MDAxNzkyMzg2ODQ0NDgz.BbOezk31tuko9F4_a-TWnmGVX3nh3YbcdA8e4ipWtnwg.6qm2CPe_0ChM3Sh2GsJmsT7M58mu2kbYjQVW-LsdbqYg.JPEG/KakaoTalk_20261019_092422588_06.jpg?type=w800"
+    ],
+    "captions": [
+      "팰리세이드 · 팰리세이드 사이드미러 리피터 파손 수리｜방향지시등 전체 교체 없이 부분교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "팰리세이드 · 팰리세이드 사이드미러 리피터 파손 수리｜방향지시등 전체 교체 없이 부분교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "팰리세이드 · 팰리세이드 사이드미러 리피터 파손 수리｜방향지시등 전체 교체 없이 부분교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "팰리세이드 · 팰리세이드 사이드미러 리피터 파손 수리｜방향지시등 전체 교체 없이 부분교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "팰리세이드 · 팰리세이드 사이드미러 리피터 파손 수리｜방향지시등 전체 교체 없이 부분교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "팰리세이드 · 팰리세이드 사이드미러 리피터 파손 수리｜방향지시등 전체 교체 없이 부분교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224446533851?fromRss=true&trackingCode=rss",
+    "tags": [
+      "팰리세이드",
+      "사이드미러",
+      "팰리세이드,팰리세이드사이드미러,팰리세이드사이드미러수리,팰리세이드사이드미러교체,팰리세이드사이드리피터,팰리세이드리피터,팰리세이드방향지시등,팰리세이드사이드미러파손,팰리세이드부분수리,팰리세이드사이드미러부분교체,팰리세이드깜빡이,팰리세이드미러수리,현대팰리세이드,사이드미러수리,사이드미러부분수리,사이드미러부분교체,사이드미러파손,사이드미러교체,사이드미러깜빡이,사이드미러방향지시등,사이드리피터,사이드리피터수리,사이드리피터교체,사이드리피터파손,리피터렌즈파손,자동차사이드미러,자동차사이드미러수리,일산사이드미러수리,일산사이드미러교체,일산사이드미러부분수리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224446454059",
+    "date": "2026-10-19",
+    "category": "블랙박스",
+    "car": "K5",
+    "title": "K5 전조등이 어둡다면? 할로겐에서 브라비오 LED H7 교체일산 K5 LED 전조등 교체｜노란 할로겐에서 화이트 LED로 [일산 파주 운정 김포 고양]",
+    "summary": "K5 할로겐 전조등 LED 교체｜브라비오 H7 인증 LED 장착 안녕하세요. 일산 자동차 전장 전문점 **12볼트스토리(12V Story)**입니다. 오늘 소개해 드릴 작업은 기아 K5 차량의 할로겐 전조등을 LED 전조등으로 교체한 작업 입니다.",
+    "description": "K5 할로겐 전조등 LED 교체｜브라비오 H7 인증 LED 장착 안녕하세요. 일산 자동차 전장 전문점 **12볼트스토리(12V Story)**입니다. 오늘 소개해 드릴 작업은 기아 K5 차량의 할로겐 전조등을 LED 전조등으로 교체한 작업 입니다. 기존 할로겐 전조등은 특유의 노란빛이 특징이지만, 사용 기간이 길어지면서 밝기가 부족하다고 느끼는 운전자분들도 계십니다. 특히 야간 운전이나 가로등이 적은 도로에서는 전조등의 밝기와 빛의 분포가 더욱 중요해집니다. 이번 K5 차량에는 브라비오 올 뉴 클래식 H7 LED 전조등을 장착했습니다. 기존 할로겐과 LED의 차이가 어떻게 나타나는지 실제 작업 사진으로 살펴보겠습니다. 12볼트스토리 채널홈을 폰으로 접속해보세요. 1.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMjcy/MDAxNzkyMzgyNDIwOTQ1.8H-VLmvW7pc-ho2NXaB4xYlpnEOyrwxn87-uKm2HL3sg.VEp2cS1EaiOSvQFWdDIbYNpjbhWkIyff1ngRwsuS2x0g.JPEG/KakaoTalk_20261019_092414148_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMTg4/MDAxNzkyMzgyNDMzNzc0.BgGw0oIslzkLluZMcSzmiiERmlEBZDwGTSpPyhLbs2gg.2oK87nzi9exQheGRDjbQawnqxqaFIAeDbybCjAFPt4kg.JPEG/KakaoTalk_20261019_092414148_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMTMg/MDAxNzkyMzgyNDQ3NDQ0.f80F52IbI3ZRTxjg67LSx2fhAd4RZgZMtsvQyxby070g.-62aSBYQqClZ3vKsZQJICPMwc4tMErP9FecqPEFwC24g.JPEG/KakaoTalk_20261019_092414148_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMTIx/MDAxNzkyMzgyNjAzNjcz._wjV77KgbL8UIEldm7lXLfIEFHuEAlgvH503hEZbNRsg.eHDRFV7AYP3svt8fzSQzmboMMdJgl-BelqwakpUG564g.JPEG/KakaoTalk_20261019_092414148_10.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMSAg/MDAxNzkyMzgyNjE5Mzk4.aTY6fJaSeiEa5n9TJrGUEOSHNJtFUznr1UigqI-beiUg.PSLaIV2ATRjlq-9x989YasUy3yviBKRt7TUKIivV0FAg.JPEG/KakaoTalk_20261019_092414148_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTlfMTk3/MDAxNzkyMzgyNjU1OTU3.oasnQBg7pOH6ev8hLwH-mAh6do-MTOh91Oj3hYSutlgg.AP6Bzq1w0rTojaPOxsJJrEoLxwlRJiQgzrIfFntPh4Ig.JPEG/KakaoTalk_20261019_092414148_07.jpg?type=w400"
+    ],
+    "captions": [
+      "K5 · K5 전조등이 어둡다면? 할로겐에서 브라비오 LED H7 교체일산 K5 LED 전조등 교체｜노란 할로겐에서 화이트 LED로 [일산 파주 운정 김포 고양] 작업사진 1",
+      "K5 · K5 전조등이 어둡다면? 할로겐에서 브라비오 LED H7 교체일산 K5 LED 전조등 교체｜노란 할로겐에서 화이트 LED로 [일산 파주 운정 김포 고양] 작업사진 2",
+      "K5 · K5 전조등이 어둡다면? 할로겐에서 브라비오 LED H7 교체일산 K5 LED 전조등 교체｜노란 할로겐에서 화이트 LED로 [일산 파주 운정 김포 고양] 작업사진 3",
+      "K5 · K5 전조등이 어둡다면? 할로겐에서 브라비오 LED H7 교체일산 K5 LED 전조등 교체｜노란 할로겐에서 화이트 LED로 [일산 파주 운정 김포 고양] 작업사진 4",
+      "K5 · K5 전조등이 어둡다면? 할로겐에서 브라비오 LED H7 교체일산 K5 LED 전조등 교체｜노란 할로겐에서 화이트 LED로 [일산 파주 운정 김포 고양] 작업사진 5",
+      "K5 · K5 전조등이 어둡다면? 할로겐에서 브라비오 LED H7 교체일산 K5 LED 전조등 교체｜노란 할로겐에서 화이트 LED로 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224446454059?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "블랙박스",
+      "K5전조등,K5LED전조등,K5전조등교체,K5LED교체,K5할로겐,K5할로겐LED,K5헤드라이트,K5헤드램프,K5전조등튜닝,K5라이트교체,K5H7,H7LED,H7LED전조등,H7전조등교체,브라비오,브라비오LED,브라비오올뉴클래식,브라비오H7,브라비오LED전조등,자동차LED전조등,LED전조등교체,할로겐LED교체,할로겐전조등,자동차전조등,자동차헤드라이트,인증LED전조등,자동차튜닝부품인증,LED헤드라이트,일산LED전조등,일산전조등교체"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224446451470",
+    "date": "2026-10-19",
+    "category": "기타작업",
+    "car": "일산 파주 운정 김포 고양 / 순정형",
+    "title": "일산 파주 운정 김포 고양 / 순정형 원격시동 경보기 / 충격감지 / 매직카 m8 - 올뉴카니발 18my (18년형)",
+    "summary": "2017.10.19. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #올뉴카니발 #매직카 #m8 #경보기 작업입니다 이제 찬바람이 불기시작하니 경보기 문의가 점점 늘어납니다 순정형 경보기는 #이지카 #e300 #마이키 #프리미엄 매직카m8 등이…",
+    "description": "2017.10.19. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #올뉴카니발 #매직카 #m8 #경보기 작업입니다 이제 찬바람이 불기시작하니 경보기 문의가 점점 늘어납니다 순정형 경보기는 #이지카 #e300 #마이키 #프리미엄 매직카m8 등이 있습니다 어랏 ... 차량사진이 어디갔지?? ㅜㅜ 사실... 이번작업은 친분이 있는 튜닝샵에 경보기 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzEwMjBfNjkg/MDAxNTA4NDY5Mzk2NDQx.lKx6N6nFAe5Tt6vtx_iZyGHYuzEtA5IJgahp9AvsloYg.i4fJfEHGMYKZzw_allREbfJnBiERmv6Fc-ky2B4BCPIg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "일산 파주 운정 김포 고양 / 순정형 · 일산 파주 운정 김포 고양 / 순정형 원격시동 경보기 / 충격감지 / 매직카 m8 - 올뉴카니발 18my (18년형) 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224446451470?fromRss=true&trackingCode=rss",
+    "tags": [
+      "일산 파주 운정 김포 고양 / 순정형",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224446451351",
+    "date": "2026-10-19",
+    "category": "사이드미러",
+    "car": "[일산 파주 운정 김포 고양] QM3",
+    "title": "[일산 파주 운정 김포 고양] QM3 카비스 측후방 감지기 VER 2.0 /BSA /BSD /BSW",
+    "summary": "2018.10.19. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 삼성 QM3 작업내용 : 카비스 측후방감지기 BSA 작업시간 : 2시간 사각지대 경보기 장착을 위해 입고된 Qm3 차량입니다 대부분 삼성차량이 작업이 쉽지 않죠 ㅠㅜㅠ 이번작…",
+    "description": "2018.10.19. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 삼성 QM3 작업내용 : 카비스 측후방감지기 BSA 작업시간 : 2시간 사각지대 경보기 장착을 위해 입고된 Qm3 차량입니다 대부분 삼성차량이 작업이 쉽지 않죠 ㅠㅜㅠ 이번작업 역시 동일합니다 우선 작업전 차량의 순정 사이드 미러 모습입니다 이렇게 교체가 되었구요 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODEwMTlfODQg/MDAxNTM5OTQyODYxMjYy.1Do8gINHOzUcB1sO9T5ZfBYchOo2auTK6QawfYMXREkg.Pm1zAA1u1AJ0IwL2UaWYxT7UmwMwYfpJClavz1ZJKVcg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2_-_%BA%B9%BB%E7%BA%BB.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] QM3 · [일산 파주 운정 김포 고양] QM3 카비스 측후방 감지기 VER 2.0 /BSA /BSD /BSW 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224446451351?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] QM3",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224446451214",
+    "date": "2026-10-19",
+    "category": "기타작업",
+    "car": "제네시스 BH",
+    "title": "[일산 파주 운정 김포 고양] 제네시스 BH / 누런 할로겐 전조등 / 안개등 / 화이트 LED 전조등 / 안개등 교체 / 1년 A/s 보장",
+    "summary": "2019.10.19. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스 BH 작업내용 : LED 안개등 / 전조등 교체 작업시간 : 1시간 기존 누런색 할로겐 안개등고 전조등이 장착된 차량으로 너무 어두워서 알아보시던중 하이스타일 LED안개등…",
+    "description": "2019.10.19. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스 BH 작업내용 : LED 안개등 / 전조등 교체 작업시간 : 1시간 기존 누런색 할로겐 안개등고 전조등이 장착된 차량으로 너무 어두워서 알아보시던중 하이스타일 LED안개등과 전조등을 보시고 교체를 위해 예약 후 방문해주셨습니다 작업전 차량의 순정 전조등 입... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTlfMjY4/MDAxNTcxNDU1ODE3NjU4.8Ka0EtVYn_ZTWmnkVDB4rJPF6tOdj5CMPVou2u3b4TQg.PynDLOlpFviyT--Q0GENy7R9p17ODRA0ZAh1nlrPRXgg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "제네시스 BH · [일산 파주 운정 김포 고양] 제네시스 BH / 누런 할로겐 전조등 / 안개등 / 화이트 LED 전조등 / 안개등 교체 / 1년 A/s 보장 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224446451214?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 BH",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224446451089",
+    "date": "2026-10-19",
+    "category": "기타작업",
+    "car": "올뉴K3 / 원격시동경보기 / 이지카",
+    "title": "올뉴K3 / 원격시동경보기 / 이지카 E2-Ⅱ / 단순도어 + 원격시동 / 저렴한 경보기 / 필요한 기능만 딱있는 !![일산 파주 운정 김포 고양]",
+    "summary": "2020.10.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K3 작업내용 : 이지카 원격시동 경보기 / E2-2 작업시간 : 1시간 30분 날씨가 쌀쌀해 지면서 원격시동경보기 작업이 늘어나고 있습니다 오늘 입고된 K3 차량도 시동경보기…",
+    "description": "2020.10.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K3 작업내용 : 이지카 원격시동 경보기 / E2-2 작업시간 : 1시간 30분 날씨가 쌀쌀해 지면서 원격시동경보기 작업이 늘어나고 있습니다 오늘 입고된 K3 차량도 시동경보기 장착을 위해 입고해주셨구요 선택하신 제품은 이지카 E2-2 입니다 단순도어 경보기 기능에 원격... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDEwMTlfMjc4/MDAxNjAzMDcyODYyNzc4.BP0a0mJ3IWCVF_-EuvNMdnnQ0kvRPmHbUxnW4l-ZhJAg.iWLFWHn0UJSLnP4fkH0ZPoyiXqGgFMbrOLOiKyDYSpkg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "올뉴K3 / 원격시동경보기 / 이지카 · 올뉴K3 / 원격시동경보기 / 이지카 E2-Ⅱ / 단순도어 + 원격시동 / 저렴한 경보기 / 필요한 기능만 딱있는 !![일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224446451089?fromRss=true&trackingCode=rss",
+    "tags": [
+      "올뉴K3 / 원격시동경보기 / 이지카",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224445267339",
     "date": "2026-10-18",
@@ -8092,173 +8270,6 @@ window.WORKS_DATA = [
       "벤츠 C220d C클래스 순정",
       "블랙박스",
       "벤츠C220d,벤츠C클래스,벤츠블랙박스,벤츠순정블랙박스,벤츠순정블랙박스교체,순정블랙박스제거,파인뷰SF500,SF500,파인뷰블랙박스,벤츠블랙박스교체,일산블랙박스,일산수입차블랙박스,일산벤츠블랙박스,고양시블랙박스,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224396982857",
-    "date": "2026-09-01",
-    "category": "블랙박스",
-    "car": "BMW 520i G30 순정",
-    "title": "일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양]",
-    "summary": "BMW 520i G30 아이나비 QXD2 + 셀스타 보조배터리 장착 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 소개해드릴 차량은 BMW 520i G30 차량입니다.",
-    "description": "BMW 520i G30 아이나비 QXD2 + 셀스타 보조배터리 장착 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리 입니다. 오늘 소개해드릴 차량은 BMW 520i G30 차량입니다. 이번 작업은 블랙박스 교체 및 장착 작업으로 아이나비의 고급형 블랙박스인 QXD2 와 함께 주차 녹화 시 차량 배터리 부담을 줄여줄 수 있도록 셀스타 블랙박스 보조배터리 까지 함께 장착했습니다. BMW 5시리즈처럼 차량 전원 관리가 민감한 차량은 블랙박스를 단순히 장착하는 것보다 전원 연결과 배선 정리를 어떻게 하느냐가 상당히 중요합니다. 차량에는 순정 블랙박스가 장착이 되어있었습니다. 작업차량 : BMW 520i (G30) 작업내용 : 블랙박스 교체 / 보조배터리 장착 작업시간 : 1시간 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTIy/MDAxNzg4MjI0MjU5OTY3.t4lsLfrYVhbe0Pt66xHzs2UwW55alsp0CDmcD7Yo1Ugg.6x3FCBLFyH_MiwHa5j9wtWpAssVqb4RbHm6X1k-80okg.JPEG/KakaoTalk_20260901_092350294_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTI0/MDAxNzg4MjIzNjQ4Nzc2.-w8Q9FRU6xiOhmwNJe6vp7cnZvdP5lFB6PTxNl-t3MMg.4VTVKXphNdScdErIaP6mab8AcwIxbNHWsKj3PByTu_sg.JPEG/KakaoTalk_20260901_092350294_01.jpg?type=w400",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfNCAg/MDAxNzg4MjIzNjQ4Nzc2.I2nuSZyGwofdQEWDh_5VYoP-a4rnDh8ozYUNVqXbWPsg.9OGy5JJmFDI9vgpXIK9LmINNiD7P74aZBORnNmaEw-8g.JPEG/KakaoTalk_20260901_092350294.jpg?type=w400",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjI4/MDAxNzg4MjIzNjYxMDUw.LI7aVBBsUZLATtldRnkoyW1X1d7N9Vstsus4uofyoCsg.o0zKO1TKffyMqfc7s-D2GmK4Nk953WWrb93S7h4BHcIg.JPEG/KakaoTalk_20260901_092350294_04.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMTc5/MDAxNzg4MjIzNjc4MTA0.ihoOaauqwaq8WxE3R9HtAljfmpbOQL7Ojc5DegxGsZUg.T-SD6HEFjmPKRp_1LzKYxbC7SYX1XoqalT_d5HZhGMQg.JPEG/KakaoTalk_20260901_092350294_06.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MDFfMjU2/MDAxNzg4MjIzNjk0OTI0.YcfZwhiIDVgntTijejo6vmrWvnKO05YapeQlYYiW-NUg.AhDf4DegJtcZpXxFa_gun5RN-G7qtcInv_o5iMaHT_wg.JPEG/KakaoTalk_20260901_092350294_05.jpg?type=w800"
-    ],
-    "captions": [
-      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 1",
-      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 2",
-      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 3",
-      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 4",
-      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 5",
-      "BMW 520i G30 순정 · 일산 BMW 520i G30 순정 블랙박스 제거｜아이나비 QXD2 + 셀스타 보조배터리 장착 [일산 파주 운정 김포 고양] 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224396982857?fromRss=true&trackingCode=rss",
-    "tags": [
-      "BMW 520i G30 순정",
-      "블랙박스",
-      "BMW520i,BMWG30,BMW블랙박스,BMW520i블랙박스,G30블랙박스,아이나비QXD2,QXD2,셀스타보조배터리,블랙박스보조배터리,BMW보조배터리,일산블랙박스,일산BMW블랙박스,고양시블랙박스,일산블랙박스장착,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224396882828",
-    "date": "2026-09-01",
-    "category": "기타작업",
-    "car": "고양 파주 운정 일산 / 순정네비게이",
-    "title": "고양 파주 운정 일산 / 순정네비게이션 DMB락프리 주행중동영상 / 싼타페 더프라임 신차검수 및 락프리작업",
-    "summary": "2017.9.1. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 #순정네비게이션 #주행중DMB 동영상 락해제 작업입니다 특이하게 #신차검수와 #DMB락해제 작업만 진행되었습니다 ㅎㅎ 이런경우가 거의 없는데 말이죠 !!",
-    "description": "2017.9.1. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 #순정네비게이션 #주행중DMB 동영상 락해제 작업입니다 특이하게 #신차검수와 #DMB락해제 작업만 진행되었습니다 ㅎㅎ 이런경우가 거의 없는데 말이죠 !! 일단 차량은 이상없는 이쁜차량이 도착했습니다 그럼이제 요청해주신 작업인 #락프리 작업을 진행해보겠습니다 우... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzA5MDFfMTA0/MDAxNTA0MjMzMzQxNDA4.kauY5TtfU78e8jd-uPMRxy9zbJgjCrDDAjhmX06ONcYg.qaCAX6OqV0nnudLNXfHCENE9uTw85P_aVR5luvwjKs8g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "고양 파주 운정 일산 / 순정네비게이 · 고양 파주 운정 일산 / 순정네비게이션 DMB락프리 주행중동영상 / 싼타페 더프라임 신차검수 및 락프리작업 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224396882828?fromRss=true&trackingCode=rss",
-    "tags": [
-      "고양 파주 운정 일산 / 순정네비게이",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224396882757",
-    "date": "2026-09-01",
-    "category": "블랙박스",
-    "car": "로체 이노베이션",
-    "title": "로체 이노베이션 / 가성비좋은 / 2채널 블랙박스 / 지넷 H2 [일산 파주 운정 김포 고양]",
-    "summary": "2020.9.1. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 로체이노베이션 작업내용 : 블랙박스 장착 작업시간 : 30분 블랙박스가 장착되지 않은 로체 이노베이션 차량이 지인분의 소개로 12볼트스토리에 블랙박스 장착을 위해 입고되었습니다 ~ 오…",
-    "description": "2020.9.1. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 로체이노베이션 작업내용 : 블랙박스 장착 작업시간 : 30분 블랙박스가 장착되지 않은 로체 이노베이션 차량이 지인분의 소개로 12볼트스토리에 블랙박스 장착을 위해 입고되었습니다 ~ 오늘 사용될 제품은 지넷 H2 제품이구요 많은 판매를 하였으나 문제가 없는 제품으로 가성... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MDFfMTkg/MDAxNTk4OTIzODgxNjQ0.OgKNSzRUaWPYVHPaEoEJq7LxAxYb7Q3Xlm2UBr1rcF0g.YKUrV7ZxH36zELbjMigKl-JRlm4viXHz5HGh1rZv1SUg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "로체 이노베이션 · 로체 이노베이션 / 가성비좋은 / 2채널 블랙박스 / 지넷 H2 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224396882757?fromRss=true&trackingCode=rss",
-    "tags": [
-      "로체 이노베이션",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224396882681",
-    "date": "2026-09-01",
-    "category": "사이드미러",
-    "car": "포드 피에스타",
-    "title": "포드 피에스타 / 사이드미러 폴딩불량 수리 / 사이드미러 폴딩모터 수리 / 교체가 아닌 수리 작업 / 희귀차량 수리했어요 ㅎㅎ[일산 파주 운정 김포 고양]",
-    "summary": "2021.9.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포드 피에스타 작업내용 : 사이드미러 수리 작업시간 : 1시간 오늘도 사이드미러 폴딩이 되지 않는 차량이 입고되었는데요 .. 차량이 좀 보기 많이 힘든 차량입니다 ...",
-    "description": "2021.9.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포드 피에스타 작업내용 : 사이드미러 수리 작업시간 : 1시간 오늘도 사이드미러 폴딩이 되지 않는 차량이 입고되었는데요 .. 차량이 좀 보기 많이 힘든 차량입니다 ... 고객님 말씀으로는 국내에 등록된 차량 1대뿐이라고 ㅎㅎ 차량 이름은 피에스타 이구요 포드에서 나온 차량... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MDFfMjkx/MDAxNjMwNDU5OTczMTEx.4mLYnzlT9eEIFJk6aC0nutPWgtBZPTbkCYK7GseF3bcg.Qwz5VqBPutaeHFdZxB-QPgfaPV2YB_yx4KEZfp0gbLMg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "포드 피에스타 · 포드 피에스타 / 사이드미러 폴딩불량 수리 / 사이드미러 폴딩모터 수리 / 교체가 아닌 수리 작업 / 희귀차량 수리했어요 ㅎㅎ[일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224396882681?fromRss=true&trackingCode=rss",
-    "tags": [
-      "포드 피에스타",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224396882606",
-    "date": "2026-09-01",
-    "category": "후방카메라",
-    "car": "모하비",
-    "title": "모하비 순정 후방카메라 고장으로 인해 사제CCD 고화질 후방카메라로 교체 / 순정 자리에 완벽하게 시공했어요 [일산 파주 운정 김포 고양]",
-    "summary": "2021.9.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 후방카메라 교체 작업시간 : 40분 ~ 1시간 순정 후방카메라 고장으로 입고된 모하비 차량입니다 고장난 후방카메라는 고민하지 마시고 12볼트스토리로 문의주시면 되는…",
-    "description": "2021.9.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 후방카메라 교체 작업시간 : 40분 ~ 1시간 순정 후방카메라 고장으로 입고된 모하비 차량입니다 고장난 후방카메라는 고민하지 마시고 12볼트스토리로 문의주시면 되는거 아시죠 ?? 입고된 차량의 후방캄메라 입니다 .. 물론 순정 후방카메라 이구요 통합룸미... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MDFfMTA5/MDAxNjMwNDYwNDMxMTYy.TvamrA0hC_jJ8zeyW5WGtTc4ELOvRp0IbRgwIlc7i6Ug.dvUkLv6oYILd06v7kOlMPYkhn8LOYQppJ20Q0PUudOcg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "모하비 · 모하비 순정 후방카메라 고장으로 인해 사제CCD 고화질 후방카메라로 교체 / 순정 자리에 완벽하게 시공했어요 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224396882606?fromRss=true&trackingCode=rss",
-    "tags": [
-      "모하비",
-      "후방카메라"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224396882533",
-    "date": "2026-09-01",
-    "category": "사이드미러",
-    "car": "토스카",
-    "title": "토스카 사이드미러 접힘불량 수리 / 전동접이 백밀러 폴딩모터 및 기어 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 ~[일산 파주 운정 김포 고양]",
-    "summary": "2021.9.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 토스카 작업내용 : 사이드미러 접힘 펴짐 수리 작업시간 : 30분~40분 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 토스카차량입니다 요즘 사이드미러 고장 증상으로 입…",
-    "description": "2021.9.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 토스카 작업내용 : 사이드미러 접힘 펴짐 수리 작업시간 : 30분~40분 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 토스카차량입니다 요즘 사이드미러 고장 증상으로 입고되는 차량이 정말 많은데요 .. 아무래도 비싼비용을 들여 교체하시는것보다는 원래 내 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MDFfMTc0/MDAxNjMwNDYwNzkwNTQ5.d5uVqQawwoI8WjZ72XIjQPtvbZWjSKp-ATQDNVxvXX4g.0CaMaelF8dGWS0I1RnwK6ivpGUNhKGhKtJfU2aa49vkg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "토스카 · 토스카 사이드미러 접힘불량 수리 / 전동접이 백밀러 폴딩모터 및 기어 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 ~[일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224396882533?fromRss=true&trackingCode=rss",
-    "tags": [
-      "토스카",
-      "사이드미러"
     ],
     "source": "naver"
   }
