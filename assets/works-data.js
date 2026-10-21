@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-21 10:00", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-21 15:03", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224448796532",
+    "date": "2026-10-21",
+    "category": "옵틱글래스",
+    "car": "[일산 파주 운정 김포 고양]",
+    "title": "[일산 파주 운정 김포 고양]",
+    "summary": "폴스타4 사이드미러 너무 어둡다면? 옵틱글래스 교체로 디밍 제거 및 시야 개선 안녕하세요. 일산 자동차 전장 전문점 **12볼트스토리(12V Story)**입니다.",
+    "description": "폴스타4 사이드미러 너무 어둡다면? 옵틱글래스 교체로 디밍 제거 및 시야 개선 안녕하세요. 일산 자동차 전장 전문점 **12볼트스토리(12V Story)**입니다. 🙂 오늘 소개해 드릴 차량은 전기차 특유의 세련된 디자인과 미래지향적인 실내 구성이 돋보이는 **폴스타 4(Polestar 4)**입니다. 이번 작업은 순정 사이드미러의 어두운 시야 때문에 불편함을 느끼는 운전자를 위한 옵틱글래스(Optic-Glass) 사이드미러 교체 및 디밍 제거 작업 입니다. 사이드미러는 차선 변경이나 주차 시 차량 주변 상황을 확인하는 중요한 장치입니다. 그런데 거울이 지나치게 어둡게 느껴진다면 어떨까요? 특히 야간이나 지하주차장처럼 주변 조도가 낮은 환경에서는 후방 차량이나 장애물을 확인하기가 더욱 불편할 수 있습니다.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMTY3/MDAxNzkyNTQ5NDE5OTg1.5Sz3y4H0cWjicTIiv33Q3LY4pc2DD9xV6M25Z5Rz-Hgg.F8Nu00z2c4dQxFz7FZ35fZRaZUM3F9QVMUZri0ipG0kg.JPEG/KakaoTalk_20260727_124822150_04.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfODAg/MDAxNzkyNTQ5NDI0NTYy.NdoAujqafcGd3uYH4Txs33vcZhK0piOlJbd-RJe2mecg.M06KqNYv5sDB7-XC6YlJGmope_KV35bBR8nm9L8BhBQg.JPEG/KakaoTalk_20260727_124822150_02.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMzAg/MDAxNzkyNTUxMDQ0NjQy.nFpKY__ZqTzaItuKb5evEbAxDAAz8YJ5fl8wtygf6RAg.5Petf89rfvPzc5yE17YplyB9AK4PulfnQpKtDSSNMYYg.JPEG/KakaoTalk_20260727_124822150_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMTgg/MDAxNzkyNTUxMDkxNzIz.rRMuRsUeIXNQ7bk3CIdF4bJNGiLQJojsUjHc3PtUwsog.IAiRkVzrZzw0b-pw0-BeZMcq0quKo3T92N_YKLsrZTwg.JPEG/KakaoTalk_20260727_124822150_08.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfNTAg/MDAxNzkyNTUxMDkxNzIz.ftRgE3ZRZl8DOKa0rVm6n4IUNqlQw71nxXhaJg_DR8gg.m4JUpvGDDJVGHYMUkfY1MS7lgPA1gJSb_dzGt7uJNkgg.JPEG/KakaoTalk_20260727_124822150_07.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMjY5/MDAxNzkyNTUxMDk3NDk1.zhU8Ra_s4nMKG0BKmkI1VD-e9OAwnvif933XsQ__ee8g.2W3lGLiY1P1FpfTMbGidjMKAG9kW8BRcZDh2Onp7R8og.JPEG/KakaoTalk_20260727_124822150_09.jpg?type=w400"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 1",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 2",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 3",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 4",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 5",
+      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224448796532?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양]",
+      "옵틱글래스",
+      "폴스타4,폴스타4옵틱글래스,폴스타4사이드미러,폴스타4디밍제거,폴스타4미러교체,폴스타사이드미러,폴스타4튜닝,폴스타4광각미러,폴스타4사이드미러교체,옵틱글래스,옵틱글래스교체,옵틱글래스장착,디밍제거,사이드미러디밍,사이드미러디밍제거,사이드미러교체,사이드미러광각미러,자동차광각미러,전기차사이드미러,수입차사이드미러,일산옵틱글래스,일산사이드미러,파주옵틱글래스,김포옵틱글래스,운정자동차튜닝,고양자동차전장,일산자동차전장,12볼트스토리,12VStory"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224448664891",
+    "date": "2026-10-21",
+    "category": "옵틱글래스",
+    "car": "에쿠스 VS380",
+    "title": "에쿠스 VS380 사이드미러 폴딩불량｜안 접히는 원인, 파손기어 부분수리 [일산 파주 운정 김포 고양]",
+    "summary": "에쿠스 사이드미러가 접히지 않거나 모터 소리만 나면서 움직이지 않는다면, 사이드미러 전체를 교체해야 할까요? 꼭 그렇지는 않습니다. 전동접이식 사이드미러 내부에는 모터의 회전력을 전달하는 여러 기어가 들어 있습니다.",
+    "description": "에쿠스 사이드미러가 접히지 않거나 모터 소리만 나면서 움직이지 않는다면, 사이드미러 전체를 교체해야 할까요? 꼭 그렇지는 않습니다. 전동접이식 사이드미러 내부에는 모터의 회전력을 전달하는 여러 기어가 들어 있습니다. 이 가운데 기어가 파손되면 모터가 정상적으로 회전하더라도 사이드미러가 접히거나 펼쳐지지 않을 수 있습니다. 오늘 소개할 에쿠스 VS380 사이드미러 폴딩불량 수리 역시 내부 기어 파손이 확인된 사례입니다. 실제 분해 사진을 통해 어떤 부품이 손상되었는지, 전체 교체 대신 부분수리가 어떻게 가능한지 살펴보겠습니다. 위 사진에서 가운데 있는 노란색 부품이 기존 사이드미러에서 분리한 플라스틱 기어입니다. 일부 기어 톱니가 손상된 모습을 확인할 수 있습니다. 작은 부품이지만 사이드미러의 전동 폴딩 기능에 중요한 역할을 합니다.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMjE0/MDAxNzkyNTQ0MDQ3MzMy.N3_OnAJiwNzkL04C8uCX9m8pg9QNRuwAewEzMAsb_08g.h6YQxHpeSxZ_ieZ8OnaZkM14V8Je-1W1OJoneH74va0g.JPEG/KakaoTalk_20261021_093252405_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfNDMg/MDAxNzkyNTQ0MDY5NjEw.snN_C_zFVytLpW-Ae4SrE23gukYWyloZbgELRV4uEssg.0ak8TCzmKuXdR0JtJ2rtp21yFYIQT0SvK_mlEDoqBu8g.JPEG/KakaoTalk_20261021_093252405.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfNTYg/MDAxNzkyNTQ0MTA4MTM2.KVTMc15OrBnMh-meG3tJMEWhyMf3uXVyDdqmXJ1LFz4g.ifDCAKyZ5xabzzBUx4rbjeHH7gMXXqcssIgKrRY8Mm8g.JPEG/KakaoTalk_20261021_093252405_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMjIw/MDAxNzkyNTQ0MTE2MDc5.tBZItbLiiC5RaVdDPRbzdovioCmDUAzOp_Z4dyaiVkog.gP-Xucvn-k2YPJKRAEbs5gZH94vBJC2A8dW2Bq5e_p8g.JPEG/KakaoTalk_20261021_093252405_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfNjIg/MDAxNzkyNTQ0MTI0NjAw.M4SkgDVKyX-TqtUbitE732hvxn7ytYZa8Kz37ZuZDkwg.ZX65eeIQaE6DOKIKtcz-qfB5RudvLOhL2ntrnOGW8SQg.JPEG/KakaoTalk_20261021_093252405_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMjEg/MDAxNzkyNTQ0MTMzODk5.giksm30Tp-InlLNs_M2srh8xRgFFjPVpfexcDxH8RWUg.mFOyZ7GhsmvB-Guv54OjUHf4FhaggtTsuIIevmcoug4g.JPEG/KakaoTalk_20261021_093252405_06.jpg?type=w800"
+    ],
+    "captions": [
+      "에쿠스 VS380 · 에쿠스 VS380 사이드미러 폴딩불량｜안 접히는 원인, 파손기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "에쿠스 VS380 · 에쿠스 VS380 사이드미러 폴딩불량｜안 접히는 원인, 파손기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "에쿠스 VS380 · 에쿠스 VS380 사이드미러 폴딩불량｜안 접히는 원인, 파손기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "에쿠스 VS380 · 에쿠스 VS380 사이드미러 폴딩불량｜안 접히는 원인, 파손기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "에쿠스 VS380 · 에쿠스 VS380 사이드미러 폴딩불량｜안 접히는 원인, 파손기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "에쿠스 VS380 · 에쿠스 VS380 사이드미러 폴딩불량｜안 접히는 원인, 파손기어 부분수리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224448664891?fromRss=true&trackingCode=rss",
+    "tags": [
+      "에쿠스 VS380",
+      "옵틱글래스",
+      "에쿠스사이드미러,에쿠스사이드미러수리,에쿠스VS380,에쿠스폴딩불량,에쿠스사이드미러폴딩불량,에쿠스사이드미러안접힘,에쿠스폴딩기어,사이드미러폴딩불량,사이드미러안접힘,사이드미러기어파손,사이드미러모터고장,사이드미러수리,사이드미러부분수리,전동접이사이드미러,폴딩기어교체,일산사이드미러수리,고양시사이드미러수리,파주사이드미러수리,운정사이드미러수리,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224448371811",
     "date": "2026-10-21",
@@ -8181,58 +8255,6 @@ window.WORKS_DATA = [
     "tags": [
       "스타리아",
       "순정옵션"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224400027546",
-    "date": "2026-09-03",
-    "category": "사이드미러",
-    "car": "2017 올뉴모닝",
-    "title": "[일산 파주 운정 김포 고양] 2017 올뉴모닝 - 사이드미러 자동접이 / 도원텍락폴딩 릴레이 시공",
-    "summary": "2018.9.3. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 2017 올뉴모닝 작업내용 : 사이드미러 락폴딩릴레이 작업시간 : 30분 사이드미러 락폴딩릴레이 시공을 위해 방문해주신 올뉴모닝 차량입니다 ^^ 검정에 레드포인트 너무 이쁘죠??",
-    "description": "2018.9.3. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 2017 올뉴모닝 작업내용 : 사이드미러 락폴딩릴레이 작업시간 : 30분 사이드미러 락폴딩릴레이 시공을 위해 방문해주신 올뉴모닝 차량입니다 ^^ 검정에 레드포인트 너무 이쁘죠?? 본론으로 돌아가서 오늘 작업될 제품입니다 릴레이 종류의 절대강자죠 ? 도원텍 제품이구요 사... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MDNfMjk4/MDAxNTM1OTg1ODc3NTQ4.oxH7NmOe9P1vyjjgf6SNoj3Derogk0qGihbxIGmbiKcg.BrOcPb5gdO4ECf1MwOHU7XfJ-TgEN-8SslKKeR_li4Yg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "2017 올뉴모닝 · [일산 파주 운정 김포 고양] 2017 올뉴모닝 - 사이드미러 자동접이 / 도원텍락폴딩 릴레이 시공 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224400027546?fromRss=true&trackingCode=rss",
-    "tags": [
-      "2017 올뉴모닝",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224400027429",
-    "date": "2026-09-03",
-    "category": "기타작업",
-    "car": "[일산 파주 운정 김포 고양]그랜드카",
-    "title": "[일산 파주 운정 김포 고양]그랜드카니발 / 매직카경보기 / 다이아몬드 스포츠 / 중고제품 장착",
-    "summary": "2019.9.3. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜드카니발 작업내용 : 중고 원격시동경보기 장착 작업시간 : 1시간30분 중고 원격시동경보기 장착을 위해 제품을 구매해서 방문해주신 고객님 입니다 오늘 장착될 제품은 매직카 양방향…",
-    "description": "2019.9.3. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜드카니발 작업내용 : 중고 원격시동경보기 장착 작업시간 : 1시간30분 중고 원격시동경보기 장착을 위해 제품을 구매해서 방문해주신 고객님 입니다 오늘 장착될 제품은 매직카 양방향 원격시동 경보기 이구요 제품명은 다이아몬드 스포츠 스페셜 제품입니다 중고 치고 상태... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MDNfMjkg/MDAxNTY3NDg1NDc2Mzk1.7LSrEE3YjfH-31lwvHpx9e64jbkPwvHNmZrDRaUuFQEg.qfoN58VbZG9Qh8Emo9KEPhF4tw5Ko-ADM4M-G2D9-Nsg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "[일산 파주 운정 김포 고양]그랜드카 · [일산 파주 운정 김포 고양]그랜드카니발 / 매직카경보기 / 다이아몬드 스포츠 / 중고제품 장착 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224400027429?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 운정 김포 고양]그랜드카",
-      "기타작업"
     ],
     "source": "naver"
   }
