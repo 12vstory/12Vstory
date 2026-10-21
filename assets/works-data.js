@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-21 15:03", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-21 20:52", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224449060762",
+    "date": "2026-10-21",
+    "category": "사이드미러",
+    "car": "니로 하이브리드",
+    "title": "니로 하이브리드 비상등 스위치 고장 수리｜비상등 버튼 작동불량 부분수리 일산 12볼트스토리 [일산 파주 운정 김포 고양]",
+    "summary": "😊 자동차를 운행하다 보면 평소에는 잘 사용하지 않던 버튼에서 갑자기 문제가 발생하는 경우가 있습니다. 그중에서도 비상등 스위치는 안전과 직접적으로 연결되는 중요한 부품 인데요.",
+    "description": "😊 자동차를 운행하다 보면 평소에는 잘 사용하지 않던 버튼에서 갑자기 문제가 발생하는 경우가 있습니다. 그중에서도 비상등 스위치는 안전과 직접적으로 연결되는 중요한 부품 인데요. 비상등 버튼을 눌렀는데 반응이 없거나, 간헐적으로 작동한다면 스위치 및 관련 회로의 점검이 필요합니다. 오늘 소개해 드릴 작업은 기아 니로 하이브리드 비상등 스위치 부분수리 입니다. 작업차량 및 작업내용 작업차량: 기아 니로 하이브리드 작업내용: 비상등 스위치 작동불량 부분수리 점검부위: 센터페시아 비상등 스위치 및 전면 버튼 기판 작업방식: 관련 모듈 탈거 후 내부 점검 및 부분수리 작업시간: 차량 상태와 고장 부위에 따라 상이 1.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMjE1/MDAxNzkyNTY0Nzg4OTQ3.OnDry9bITjkYnsB1COUJOi441LtY8IF11gYoNfPdTIsg.TxF2PhZGTKQjxyX-j7-72dDRBiK9uRehmu-yt3aMwMEg.JPEG/KakaoTalk_20260724_134612302.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfODcg/MDAxNzkyNTY0OTg1MDg4.tcoazcNK_tfdodHeZ58hVJ3oV4p3zbiLe5EHfuOAkBgg.etsqG3s0-SXYJfv70XoHooTgkQLoGvUJXpOXXpAK-c8g.JPEG/KakaoTalk_20260724_134612302_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfOTMg/MDAxNzkyNTY1MDAxMzA0.HuvBEnjPs3UgcQSwS_ZSlMNIiUzEqQDJiLlihhHyUngg.zcklnIBkUpwDS2Y9MSRd1vUo0fhMxCXaQfHWHbSfcg0g.JPEG/KakaoTalk_20260724_134612302_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMjgx/MDAxNzkyNTY1MDEyNjEx.0-QILXN1XUrM0TigdCHbk7Ft0iuFv_xTQM6xabyjQcUg.kkQ-kCGmGph4Lfyd5PVXhSiSbu4-YZCbkXB_5pGZhBwg.JPEG/KakaoTalk_20260724_134612302_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjFfMTE4/MDAxNzkyNTY1MDU4OTQ3.5eERNbmNRqbSTGc0EMiegpbyqzvQ_jKyjA6HlKkczwcg.XJIwumxdWi_y2hGtWPH0FWFBwQjglDH7r4ZxOtw9zs8g.JPEG/KakaoTalk_20260724_134612302.jpg?type=w800",
+      "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fblogthumb.pstatic.net%2FMjAyNjA3MDhfODUg%2FMDAxNzgzNDgzNzc1NTQ2.Y6fkrWPqt4buQzhEUn7FrFijKHs9vB2egkMKyfrxN6Ig.ffGKMJJHCEctbABfMUKMGKevx7VrZ2lm-MrysIaZ8nAg.JPEG%2FKakaoTalk_20260708_111541029_02.jpg%3Ftype%3Dw2%22&type=ff500_300"
+    ],
+    "captions": [
+      "니로 하이브리드 · 니로 하이브리드 비상등 스위치 고장 수리｜비상등 버튼 작동불량 부분수리 일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "니로 하이브리드 · 니로 하이브리드 비상등 스위치 고장 수리｜비상등 버튼 작동불량 부분수리 일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "니로 하이브리드 · 니로 하이브리드 비상등 스위치 고장 수리｜비상등 버튼 작동불량 부분수리 일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "니로 하이브리드 · 니로 하이브리드 비상등 스위치 고장 수리｜비상등 버튼 작동불량 부분수리 일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "니로 하이브리드 · 니로 하이브리드 비상등 스위치 고장 수리｜비상등 버튼 작동불량 부분수리 일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "니로 하이브리드 · 니로 하이브리드 비상등 스위치 고장 수리｜비상등 버튼 작동불량 부분수리 일산 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224449060762?fromRss=true&trackingCode=rss",
+    "tags": [
+      "니로 하이브리드",
+      "사이드미러",
+      "니로비상등수리,니로비상등고장,니로비상등스위치,니로비상등작동안됨,니로하이브리드,니로하이브리드수리,니로스위치수리,니로비상등버튼,비상등스위치수리,비상등버튼고장,비상등작동불량,자동차비상등고장,자동차스위치수리,자동차버튼수리,자동차전장수리,자동차부분수리,센터페시아수리,기아니로수리,일산비상등수리,일산자동차수리,일산자동차전장,파주자동차전장,운정자동차수리,김포자동차전장,고양자동차수리,12볼트스토리,12VSTORY"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224448796532",
     "date": "2026-10-21",
@@ -8229,32 +8266,6 @@ window.WORKS_DATA = [
     "tags": [
       "코란도C 일산",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224400740100",
-    "date": "2026-09-04",
-    "category": "순정옵션",
-    "car": "스타리아",
-    "title": "스타리아 라운지 / 시트탈거후 경고등과 경고음으로 스트레스 받으시다 소거작업 하러 찾아주셨습니다 / 작업하는김에 사이드 스텝까지 한번에 장착하셨어요 ![일산 파주",
-    "summary": "2025.9.4. 1년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 스타리아 작업내용 : SBR경고음 소거 / 사이드스텝 작업시간 : 1시간 ~ 1시간30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.4. 1년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 스타리아 작업내용 : SBR경고음 소거 / 사이드스텝 작업시간 : 1시간 ~ 1시간30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 스타리아 차량의 흔한 경우죠 .. 3열 또는 4열 시트탈거를 하셨는데 경고등과 경고음에서 부터 자유로울수 없는 상황 ... 정말 운행하기 힘들정... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 연식과 옵션 사양 확인",
-      "순정 방식에 맞춰 부품·배선 작업",
-      "시공 후 기능 작동과 오류 여부 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MDRfMTc2/MDAxNzU2OTUwNzgxNTAx.kplbuJbDqmvrFYde2GeztXxqxazOQOv1sQ0ftUuWKkwg.BwMBGRxzGZpMHDeoCa6ZhZNpYsEyONb67jxRyEepjUUg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "스타리아 · 스타리아 라운지 / 시트탈거후 경고등과 경고음으로 스트레스 받으시다 소거작업 하러 찾아주셨습니다 / 작업하는김에 사이드 스텝까지 한번에 장착하셨어요 ![일산 파주 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224400740100?fromRss=true&trackingCode=rss",
-    "tags": [
-      "스타리아",
-      "순정옵션"
     ],
     "source": "naver"
   }
