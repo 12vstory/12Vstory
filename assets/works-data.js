@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-22 08:40", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-22 10:54", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224449895579",
+    "date": "2026-10-22",
+    "category": "사이드미러",
+    "car": "그랜저HG",
+    "title": "그랜저HG 후방카메라 교체｜후진할 때 꼭 필요한 후방 시야 복원! 일산 12V스토리 [일산 파주 운정 김포 고양]",
+    "summary": "안녕하세요! 일산 자동차 전장 전문 시공점 12V스토리 입니다. 오늘 소개해 드릴 차량은 꾸준히 사랑받고 있는 현대자동차의 준대형 세단, 그랜저 HG 입니다. 이번 작업은 운전 중 특히 주차할 때 자주 사용하게 되는 후방카메라 교체 시공 인데요.",
+    "description": "안녕하세요! 일산 자동차 전장 전문 시공점 12V스토리 입니다. 오늘 소개해 드릴 차량은 꾸준히 사랑받고 있는 현대자동차의 준대형 세단, 그랜저 HG 입니다. 이번 작업은 운전 중 특히 주차할 때 자주 사용하게 되는 후방카메라 교체 시공 인데요. 후방카메라는 평소에는 크게 신경 쓰지 않다가도 화면이 제대로 나오지 않거나 화질이 나빠지면 불편함을 느끼기 쉬운 장치입니다. 후진할 때 차량 뒤쪽 상황을 확인하는 중요한 기능인 만큼 카메라 상태를 확인하고 필요한 경우 교체하는 것이 좋습니다. 그럼 그랜저HG 후방카메라 교체 과정을 살펴보겠습니다! 그랜저HG 후방카메라, 왜 교체가 필요할까요? 후방카메라는 시간이 지나면서 여러 가지 문제가 발생할 수 있습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMTc0/MDAxNzkyNjMzNzA5MTk3.sZhbDB7pRNb21-awnPxqjs6gknmcd9xU9HU_YwPU8cUg.3u09S8k0qHX4BLgDDX1YsuU2ltZ1riB_Xbo1t9gr324g.JPEG/KakaoTalk_20260710_102647504_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfODcg/MDAxNzkyNjMzNzI5ODc0.vhzEyize02yc2F3ycb1Z0YR-AlWeqWizRNmBTPDGQVQg.1iaDpC9YAxnbVZOYE0Tc8AdfgVnkFjYMrZ_jl95VyPUg.JPEG/KakaoTalk_20260710_102647504_08.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMTQy/MDAxNzkyNjMzODMzNTUx.Xn8cUYQJxRID4DTVTUvlBNeGYoePiNy0zDwzrxRmIJog.avDowfssraG351agHhcnXGKkW8wPBewxUm8CiOgW8ykg.JPEG/KakaoTalk_20260710_102647504_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMjk3/MDAxNzkyNjMzNzM3NjU5.4uVS59hdVPrAcQ36oGRFjrMD8-5TBYPXDqjy4RizMbkg.-5GVtEqfaSOpX49c_4OlSIILZiYcnbOR74xWeq13Q9sg.JPEG/KakaoTalk_20260710_102647504_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMTI5/MDAxNzkyNjMzODUyNzAw.W6j7QX1su9AvwEctpJeVZTooc_ujGEMXDEqdPbCwxv4g.0NmCq2FSOBmMPAYJ-T48orjX5esdmL3pkv35cORaBEog.JPEG/KakaoTalk_20260710_102647504_09.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMTIz/MDAxNzkyNjMzODY2NDEw.SifB1QSz9Gr0i4R0DcocaxtXCHg47ixCjMNysOje2jIg.tmv9CSTeLIANDnw6RVjwXna-kG7_-LtdJOUM6oC_t6sg.JPEG/KakaoTalk_20260710_102647504_04.jpg?type=w800"
+    ],
+    "captions": [
+      "그랜저HG · 그랜저HG 후방카메라 교체｜후진할 때 꼭 필요한 후방 시야 복원! 일산 12V스토리 [일산 파주 운정 김포 고양] 작업사진 1",
+      "그랜저HG · 그랜저HG 후방카메라 교체｜후진할 때 꼭 필요한 후방 시야 복원! 일산 12V스토리 [일산 파주 운정 김포 고양] 작업사진 2",
+      "그랜저HG · 그랜저HG 후방카메라 교체｜후진할 때 꼭 필요한 후방 시야 복원! 일산 12V스토리 [일산 파주 운정 김포 고양] 작업사진 3",
+      "그랜저HG · 그랜저HG 후방카메라 교체｜후진할 때 꼭 필요한 후방 시야 복원! 일산 12V스토리 [일산 파주 운정 김포 고양] 작업사진 4",
+      "그랜저HG · 그랜저HG 후방카메라 교체｜후진할 때 꼭 필요한 후방 시야 복원! 일산 12V스토리 [일산 파주 운정 김포 고양] 작업사진 5",
+      "그랜저HG · 그랜저HG 후방카메라 교체｜후진할 때 꼭 필요한 후방 시야 복원! 일산 12V스토리 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224449895579?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜저HG",
+      "사이드미러",
+      "그랜저HG,그랜저HG후방카메라,그랜저후방카메라교체,후방카메라교체,후방카메라고장,후방카메라수리,아이나비RSMACH,일산후방카메라,일산자동차전장,일산자동차튜닝,12V스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224449880637",
+    "date": "2026-10-22",
+    "category": "옵틱글래스",
+    "car": "쉐보레 트래버스",
+    "title": "쉐보레 트래버스 광각미러 교체｜옵틱글래스로 넓어진 사이드미러 시야! [일산 파주 운정 김포 고양]",
+    "summary": "안녕하세요! 일산 자동차 전장 전문 시공점 12V스토리 입니다. 오늘 소개해 드릴 차량은 넉넉한 실내 공간과 듬직한 차체가 매력적인 쉐보레 트래버스 입니다. 트래버스처럼 차체가 큰 SUV는 운전할 때 사이드미러를 통한 주변 시야 확보가 상당히 중요한데요.",
+    "description": "안녕하세요! 일산 자동차 전장 전문 시공점 12V스토리 입니다. 오늘 소개해 드릴 차량은 넉넉한 실내 공간과 듬직한 차체가 매력적인 쉐보레 트래버스 입니다. 트래버스처럼 차체가 큰 SUV는 운전할 때 사이드미러를 통한 주변 시야 확보가 상당히 중요한데요. 특히 차선 변경이나 좁은 도로 주행, 주차할 때 측후방 상황을 조금 더 넓게 확인하고 싶어 하시는 분들이 많습니다. 이번 작업은 이러한 불편함을 개선하기 위한 옵틱글래스 광각 사이드미러 교체 시공 입니다. 쉐보레 트래버스 옵틱글래스 광각미러 이번에 장착할 제품은 옵틱글래스(Optic-Glass) 광각미러 입니다. 순정 사이드미러를 광각 타입으로 교체하여 기존보다 넓은 범위를 확인할 수 있도록 도와주는 제품인데요.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMjM3/MDAxNzkyNjMyOTIzNTc2.6lxlYINW0vYzxeThzY7gvh4AaMiec6L8xFYyzTRuZrcg.0iKF2EBbR5uZgg9ydQrYTlb7-JDntiLcKh1hULnpJwcg.JPEG/KakaoTalk_20261022_102448923_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfOTEg/MDAxNzkyNjMyOTM2MDMw.ke-qfTodO-MiamP_0t7OH1wiqmDir-EOPDj98jaI7LMg.vhkP3-aXqOoiFgn26GoyPaSWOP09szd7CMRgDDWNdg8g.JPEG/KakaoTalk_20261022_102448923.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMjQ1/MDAxNzkyNjMyOTU5MzIw.WYhxANG3V9ovEHmgc3WgsyQFVJduaOx_v9Xnw8OSKeIg.4PWdBFm4uDK85RxcH8XlHCnnuFeo6pJD75dN07rjR-kg.JPEG/KakaoTalk_20261022_102448923_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMTgw/MDAxNzkyNjMyOTk0NzIy.LB9JCCfhmvs8Hcf4-mWUNpbhrATbJpuOC80OQrwboKIg.RHc6iIUjxoXbiC0Tu6WXeBruMgIGqBaGVxYRPu-0Gbkg.JPEG/KakaoTalk_20261022_102448923_05.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfMjEy/MDAxNzkyNjMyOTk0Nzc2.7bGNfTzteUmSZBjx_NZPLTzrUYy2_x-5MzVUBB0wN0kg.Yt_5_wsshUDGmhFV-xQprmHLlI6J_TcZVIY9rZZgGmcg.JPEG/KakaoTalk_20261022_102448923_06.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjJfNTUg/MDAxNzkyNjMzMDI5NjA3.y0POdM1K3rwmtz-jphWuOE8uJAvTTOVxLIa50lT-9E4g.ER89O2bUR-2tGXrJUxMa1hYoiKnellw3hc5TvcVBr9Ag.JPEG/KakaoTalk_20261022_102448923_02.jpg?type=w400"
+    ],
+    "captions": [
+      "쉐보레 트래버스 · 쉐보레 트래버스 광각미러 교체｜옵틱글래스로 넓어진 사이드미러 시야! [일산 파주 운정 김포 고양] 작업사진 1",
+      "쉐보레 트래버스 · 쉐보레 트래버스 광각미러 교체｜옵틱글래스로 넓어진 사이드미러 시야! [일산 파주 운정 김포 고양] 작업사진 2",
+      "쉐보레 트래버스 · 쉐보레 트래버스 광각미러 교체｜옵틱글래스로 넓어진 사이드미러 시야! [일산 파주 운정 김포 고양] 작업사진 3",
+      "쉐보레 트래버스 · 쉐보레 트래버스 광각미러 교체｜옵틱글래스로 넓어진 사이드미러 시야! [일산 파주 운정 김포 고양] 작업사진 4",
+      "쉐보레 트래버스 · 쉐보레 트래버스 광각미러 교체｜옵틱글래스로 넓어진 사이드미러 시야! [일산 파주 운정 김포 고양] 작업사진 5",
+      "쉐보레 트래버스 · 쉐보레 트래버스 광각미러 교체｜옵틱글래스로 넓어진 사이드미러 시야! [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224449880637?fromRss=true&trackingCode=rss",
+    "tags": [
+      "쉐보레 트래버스",
+      "옵틱글래스",
+      "쉐보레트래버스,트래버스광각미러,트래버스사이드미러,옵틱글래스,옵틱글래스광각미러,쉐보레광각미러,사이드미러교체,광각미러교체,트래버스튜닝,후측방경고등,일산광각미러,일산자동차튜닝,일산12V스토리,12V스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224449592236",
     "date": "2026-10-22",
@@ -8214,58 +8288,6 @@ window.WORKS_DATA = [
     "tags": [
       "[일산 파주 운정 김포 고양] 201",
       "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224400740978",
-    "date": "2026-09-04",
-    "category": "후방카메라",
-    "car": "스포티지R",
-    "title": "[일산 파주 운정 김포 고양]스포티지R / 후방카메라 고장으로 인해 화각넓고 화질 좋은 CCD 후방카메라로 교체",
-    "summary": "2019.9.4. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 스포티지R 작업내용 : 후방카메라 고장수리 / 교체 작업시간 : 40분 후방카메라 고장으로 인해 수리작업을 하시기 위해 입고된 스포티지 R 차량입니다 우선 차량에 장착된 네비게이션은…",
-    "description": "2019.9.4. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 스포티지R 작업내용 : 후방카메라 고장수리 / 교체 작업시간 : 40분 후방카메라 고장으로 인해 수리작업을 하시기 위해 입고된 스포티지 R 차량입니다 우선 차량에 장착된 네비게이션은 사제품 이구요 후방카메라 역시 사제 입니다 네비게이션 모습이구요 X8000 제품을 사용... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MDRfMjI5/MDAxNTY3NTYzNTI0NDA1.B3K3mECVN8gVLNxzLmch3NSoPpvwKGBPVIb0OArylN8g.iLHqZnbeEh3Ossu9iM-bIBZrnhXVKEy-MwYFPkTkcUAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "스포티지R · [일산 파주 운정 김포 고양]스포티지R / 후방카메라 고장으로 인해 화각넓고 화질 좋은 CCD 후방카메라로 교체 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224400740978?fromRss=true&trackingCode=rss",
-    "tags": [
-      "스포티지R",
-      "후방카메라"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224400740873",
-    "date": "2026-09-04",
-    "category": "후방카메라",
-    "car": "뉴쏘렌토R / 순정",
-    "title": "뉴쏘렌토R / 순정후방카메라 장착된 차량 / 후방카메라 고장으로 인해 / 화질좋고 화각넓은 / 사제 CCD 후방카메라 교체 장착 [일산 파주 운정 김포 고양]",
-    "summary": "2020.9.4. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴쏘렌토R 작업내용 : 순정후방카메라교체 작업시간 : 1시간 순정 네비게이션과 순정 후방카메라가 장착된 뉴쏘렌토 R 차량이 입고되었습니다 입고시 증상은 순정 후방카메라가 뿌옇게 보여서…",
-    "description": "2020.9.4. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴쏘렌토R 작업내용 : 순정후방카메라교체 작업시간 : 1시간 순정 네비게이션과 순정 후방카메라가 장착된 뉴쏘렌토 R 차량이 입고되었습니다 입고시 증상은 순정 후방카메라가 뿌옇게 보여서 답답하셨다고 하시네요 !! 우선 상태부터 확인해봐야겠죠 ?? 차량에 장착되어 있던... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MDRfMTMz/MDAxNTk5MTk2NzY1MzEw.u1Kfw4RNccRqO31dJFyDnhgLOqSmeIeCMlUXyaMw6Tgg.Y2Zxe7l7PGYWteLrDT7FCBaCv6SOjecpiDez5-RdVkQg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "뉴쏘렌토R / 순정 · 뉴쏘렌토R / 순정후방카메라 장착된 차량 / 후방카메라 고장으로 인해 / 화질좋고 화각넓은 / 사제 CCD 후방카메라 교체 장착 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224400740873?fromRss=true&trackingCode=rss",
-    "tags": [
-      "뉴쏘렌토R / 순정",
-      "후방카메라"
     ],
     "source": "naver"
   }
