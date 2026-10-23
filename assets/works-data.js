@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-23 13:54", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-23 19:06", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224451107076",
+    "date": "2026-10-23",
+    "category": "블랙박스",
+    "car": "미니쿠퍼 R50 룸미러",
+    "title": "미니쿠퍼 R50 룸미러 블랙박스 장착｜파인뷰 LX9 POWER 전후방 화면과 후방카메라 [일산 파주 운정 김포 고양]",
+    "summary": "안녕하세요! 고양시 일산 자동차 전장 전문점 12V스토리입니다. 오늘은 귀여운 디자인으로 오랫동안 사랑받고 있는 미니쿠퍼 R50 차량의 블랙박스 장착 이야기를 소개해 드리겠습니다.",
+    "description": "안녕하세요! 고양시 일산 자동차 전장 전문점 12V스토리입니다. 오늘은 귀여운 디자인으로 오랫동안 사랑받고 있는 미니쿠퍼 R50 차량의 블랙박스 장착 이야기를 소개해 드리겠습니다. 운전하면서 꼭 필요한 블랙박스! 요즘은 단순히 주행 영상을 기록하는 기능을 넘어, 넓은 화면으로 전방과 후방 영상을 확인할 수 있는 룸미러형 블랙박스를 찾으시는 분들도 계십니다. 이번 미니쿠퍼 R50에는 파인뷰 LX9 POWER 룸미러형 블랙박스를 장착했습니다. 작은 차체의 미니쿠퍼에 와이드한 디스플레이가 더해지니 실내에서도 색다른 느낌을 주는데요. 어떤 모습으로 장착되었는지 함께 살펴보겠습니다. 미니쿠퍼 R50 룸미러형 블랙박스, 왜 선택할까요? 일반 블랙박스는 주행 영상을 기록하고 필요할 때 영상을 확인하는 방식으로 사용합니다.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjNfMTYx/MDAxNzkyNzIzMzA5OTM4.oZPTyhEhkYpIY77M2kqwQua_5wjQbax9HVt4qLWnuAcg.RAWwUHtRl9EMJ6BGV1Dd215aOx2UbGeqyXdoySay2X0g.JPEG/KakaoTalk_20261023_093505468_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjNfNjgg/MDAxNzkyNzIzMzE4NDUx.wKD1meU1Xu81-D32MY_OX96uLavZMHmWQrBPok3yQnog.QRt-SPs_qqQoaAyQYyS5d-SX6WxQKou-SssLPnJBiPIg.JPEG/KakaoTalk_20261023_093505468_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjNfMjc0/MDAxNzkyNzIzMzMwNDE0.9EFIV52MMTB6lIsbCEkLgG6zpeaSP_SKzTd5WmcMF9Ag.MEgCsqfW4KgQz18SW4IMKwSVAruiLATp7jN5kj8hjXMg.JPEG/KakaoTalk_20261023_093505468.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjNfMTE4/MDAxNzkyNzIzMzUzMTcx.N9tMmdj8bNUMXl7d3pxE8XNS9o_2bd4-qrc9kR8MupQg.214I8xL4UzcuSabn00-7c1puPrS6cig2iBdq-WnZgdog.JPEG/KakaoTalk_20261023_093505468_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjNfMjc2/MDAxNzkyNzIzMzc3NjY4.DRZiOMArKmi5sTaCHLA7j9SMmrYbPsiY4E2PfGze7xcg.Tww4utjfyLwAHCSUO5L7RUAwlVezXJiS6oR8MKgZT3Ig.JPEG/KakaoTalk_20261023_093505468_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjNfMjY1/MDAxNzkyNzIzMzkwOTMx.qgGDrP6RE8IIXYt_UtnRBUCcGJ7F9JkRKbIhWoBIfvAg.rzd3XTewKN2A5u68Xe-GaS7CRfGCPEdJJ_lqFV40890g.JPEG/KakaoTalk_20261023_093505468_05.jpg?type=w800"
+    ],
+    "captions": [
+      "미니쿠퍼 R50 룸미러 · 미니쿠퍼 R50 룸미러 블랙박스 장착｜파인뷰 LX9 POWER 전후방 화면과 후방카메라 [일산 파주 운정 김포 고양] 작업사진 1",
+      "미니쿠퍼 R50 룸미러 · 미니쿠퍼 R50 룸미러 블랙박스 장착｜파인뷰 LX9 POWER 전후방 화면과 후방카메라 [일산 파주 운정 김포 고양] 작업사진 2",
+      "미니쿠퍼 R50 룸미러 · 미니쿠퍼 R50 룸미러 블랙박스 장착｜파인뷰 LX9 POWER 전후방 화면과 후방카메라 [일산 파주 운정 김포 고양] 작업사진 3",
+      "미니쿠퍼 R50 룸미러 · 미니쿠퍼 R50 룸미러 블랙박스 장착｜파인뷰 LX9 POWER 전후방 화면과 후방카메라 [일산 파주 운정 김포 고양] 작업사진 4",
+      "미니쿠퍼 R50 룸미러 · 미니쿠퍼 R50 룸미러 블랙박스 장착｜파인뷰 LX9 POWER 전후방 화면과 후방카메라 [일산 파주 운정 김포 고양] 작업사진 5",
+      "미니쿠퍼 R50 룸미러 · 미니쿠퍼 R50 룸미러 블랙박스 장착｜파인뷰 LX9 POWER 전후방 화면과 후방카메라 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224451107076?fromRss=true&trackingCode=rss",
+    "tags": [
+      "미니쿠퍼 R50 룸미러",
+      "블랙박스",
+      "미니쿠퍼R50,미니쿠퍼블랙박스,미니쿠퍼룸미러블랙박스,미니쿠퍼후방카메라,파인뷰LX9POWER,파인뷰룸미러블랙박스,룸미러형블랙박스,일산블랙박스,일산블랙박스장착,고양시블랙박스,12V스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224451075264",
     "date": "2026-10-23",
@@ -8284,32 +8321,6 @@ window.WORKS_DATA = [
     "tags": [
       "올뉴모닝 / 네비게이션 매립 / 전방카메라",
       "후방카메라"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224401816124",
-    "date": "2026-09-05",
-    "category": "블랙박스",
-    "car": "[일산 파주 고양 운정]신차검수 잘하",
-    "title": "[일산 파주 고양 운정]신차검수 잘하는곳 / 신차패키지 작업 / 썬팅 블랙박스",
-    "summary": "2017.9.5. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #넥스트스파크 신차검수 및 #신차패키지 작업입니다차량을 인수하기전 꼼꼼하게 신차검수를 진행합니다 이번에도 역시 깨끗한 차량이 입고되었습니다 !!",
-    "description": "2017.9.5. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 #넥스트스파크 신차검수 및 #신차패키지 작업입니다차량을 인수하기전 꼼꼼하게 신차검수를 진행합니다 이번에도 역시 깨끗한 차량이 입고되었습니다 !! #전면썬팅 및 측후면 썬팅이 완료되었습니다 !! 썬팅을 마쳐야 차의 이미지가 살아나네요 ㅎㅎ 마지막으로 블랙박스 장... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzA5MDVfNjAg/MDAxNTA0NjA3NTc1MDcy.UEWzJLcRkS8Q54-IVaXt3-v0a-ktrEgGC1hUAg3itswg.iMMUSqaM6EKr6wao3g3YzoK7jN4Y9bhDS2CT9gF-19Ug.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "[일산 파주 고양 운정]신차검수 잘하 · [일산 파주 고양 운정]신차검수 잘하는곳 / 신차패키지 작업 / 썬팅 블랙박스 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224401816124?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 고양 운정]신차검수 잘하",
-      "블랙박스"
     ],
     "source": "naver"
   }
