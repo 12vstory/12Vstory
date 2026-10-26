@@ -1,6 +1,132 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-26 10:46", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-26 16:04", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224454259502",
+    "date": "2026-10-26",
+    "category": "후방카메라",
+    "car": "뉴쏘렌토R 순정",
+    "title": "뉴쏘렌토R 순정 후방카메라 교체, 화면 불량으로 사제 후방카메라 순정자리 장착 [일산 파주 운정 김포 고양]",
+    "summary": "이번 작업 차량은 기아 뉴쏘렌토R입니다. 기존 순정 후방카메라의 영상 출력에 문제가 있어 후방카메라 교체 작업을 진행했습니다. 순정 모니터는 그대로 유지하고 기존 후방카메라가 장착되어 있던 순정 위치에 사제 후방카메라를 교체 장착한 사례입니다.",
+    "description": "이번 작업 차량은 기아 뉴쏘렌토R입니다. 기존 순정 후방카메라의 영상 출력에 문제가 있어 후방카메라 교체 작업을 진행했습니다. 순정 모니터는 그대로 유지하고 기존 후방카메라가 장착되어 있던 순정 위치에 사제 후방카메라를 교체 장착한 사례입니다. 12볼트스토리 채널홈을 폰으로 접속해보세요. ■ 뉴쏘렌토R 순정 후방카메라 교체 후방카메라는 후진하거나 주차할 때 차량 뒤쪽 상황을 확인할 수 있도록 도와주는 장치입니다. 하지만 오래 사용하다 보면 후방카메라 영상이 나오지 않거나 화면이 검게 나타나는 등의 불량 증상이 발생할 수 있습니다. 특히 순정 모니터는 정상적으로 작동하는데 후방 영상만 나오지 않는다면 카메라와 관련 배선을 점검할 필요가 있습니다. 이번 뉴쏘렌토R 차량에는 기존 순정 모니터가 장착되어 있습니다.",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMjA5/MDAxNzkyOTk3NDc0MjEz.rn7XQTRAe6b6SVEGErJikP99icjRDVcGfm-wCXUpF5og.agTZVUvTXuCTqKPCUKa3tXhnNf5EG2Bpbz13c77GxPUg.JPEG/KakaoTalk_20261026_094359612.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMTgy/MDAxNzkyOTk3NDg2MDAx.9JdVFIOs0N6ABrAMbDLbN6TULDPzLp_PtRLX_IFWr3Ug.w7HzDKrCzpKnF3DrVJ0YFUv0CctOc6dHwgI0WEpFp9Qg.JPEG/KakaoTalk_20261026_094359612_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMjE1/MDAxNzkyOTk3NDkxOTcy.vcy7bU1vwuu26ZE_W8aVxcbc34cxxKl0j_NtkzBmKQkg.lgF0uwTjHxZCdaBOhUuwBXgO0uRNXGBJH9oxrAkWls4g.JPEG/KakaoTalk_20261026_094359612_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMTY3/MDAxNzkyOTk3NTA0MDY3.GKKjj0-ozSYPnO5ICU7pZyQ7n0Yme42PhsN7ULAu6kUg.Y4gAakkGAYtx4XeTmm7ac_pyyz6MH9QesHX2qROVLAsg.JPEG/KakaoTalk_20261026_094359612_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfNzgg/MDAxNzkyOTk3NTE0NDgz.OE9rd_i3qkHFtnr63IFBXrzKyRXJamoYNM4KS59w6vgg.9zbEPBSFDYhfgV5c7rOzw_2ZNuUvG-DQ-l7esvl46S0g.JPEG/KakaoTalk_20261026_094359612_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMjU4/MDAxNzkyOTk3NTMzODgw.j9mI76I5uEe-B17_wu-tV8BpT1mNVPPrhf100kCRIkEg.mIjD9iAnznmx-5YD3_8abyu2IetxOfLx1qsxMa49DyIg.JPEG/KakaoTalk_20261026_094359612_04.jpg?type=w800"
+    ],
+    "captions": [
+      "뉴쏘렌토R 순정 · 뉴쏘렌토R 순정 후방카메라 교체, 화면 불량으로 사제 후방카메라 순정자리 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "뉴쏘렌토R 순정 · 뉴쏘렌토R 순정 후방카메라 교체, 화면 불량으로 사제 후방카메라 순정자리 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "뉴쏘렌토R 순정 · 뉴쏘렌토R 순정 후방카메라 교체, 화면 불량으로 사제 후방카메라 순정자리 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "뉴쏘렌토R 순정 · 뉴쏘렌토R 순정 후방카메라 교체, 화면 불량으로 사제 후방카메라 순정자리 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "뉴쏘렌토R 순정 · 뉴쏘렌토R 순정 후방카메라 교체, 화면 불량으로 사제 후방카메라 순정자리 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "뉴쏘렌토R 순정 · 뉴쏘렌토R 순정 후방카메라 교체, 화면 불량으로 사제 후방카메라 순정자리 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224454259502?fromRss=true&trackingCode=rss",
+    "tags": [
+      "뉴쏘렌토R 순정",
+      "후방카메라",
+      "뉴쏘렌토R,쏘렌토R후방카메라,뉴쏘렌토R후방카메라,순정후방카메라교체,후방카메라화면불량,후방카메라교체,일산후방카메라,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224454080902",
+    "date": "2026-10-26",
+    "category": "후방카메라",
+    "car": "BMW X3",
+    "title": "BMW X3 / 후방카메라 고장으로 인한 교체 / 국산 일체형 CCD카메라 + 인터페이스 작업 / 수입차 후방카메라 수리[일산 파주 운정 김포 고양]",
+    "summary": "2022.10.26. 4년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : BMW X3 작업내용 : 후방카메라 교체 작업시간 : 1시간 ~ 1시간 30분 후방카메라 고장으로 답답한 시간을 보내시다 수리를 위해 12볼트스토리로 입고된 BMW X3 차량입니다…",
+    "description": "2022.10.26. 4년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : BMW X3 작업내용 : 후방카메라 교체 작업시간 : 1시간 ~ 1시간 30분 후방카메라 고장으로 답답한 시간을 보내시다 수리를 위해 12볼트스토리로 입고된 BMW X3 차량입니다 기존에 차량에 장착된 후방카메라 입니다 .. 눈으로 보기에도 상태가 좋아보이지는 않네요 차량에... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMjEwMjZfMjE0/MDAxNjY2NzUxMTAxMjcx.pnpdhbMhBBe-RM4FHWlubpp3YBqpprwuCSpW1IX3t3og.pc7zUPGn735K-ZdBIpju1sEpx2a022tpnNnQKeu5ZLIg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "BMW X3 · BMW X3 / 후방카메라 고장으로 인한 교체 / 국산 일체형 CCD카메라 + 인터페이스 작업 / 수입차 후방카메라 수리[일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224454080902?fromRss=true&trackingCode=rss",
+    "tags": [
+      "BMW X3",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224454080707",
+    "date": "2026-10-26",
+    "category": "후방카메라",
+    "car": "포드 F150 / 덩치큰 차량에 고장",
+    "title": "포드 F150 / 덩치큰 차량에 고장난 전방카메라와 후방카메라 교체 작업 / 안전한 주차를 위해 전후방카메라 필수인 차량이죠 ?[일산 파주 운정 김포 고양]",
+    "summary": "2025.10.26. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포드F150 작업내용 : 전방 + 후방 카메라교체 작업시간 : 1시간 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.10.26. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포드F150 작업내용 : 전방 + 후방 카메라교체 작업시간 : 1시간 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 덩치가 엄청난 포드 F150 차량이 전방카메라와 후방카메라 교체를 위해 방문해 주셨습니다 ! 입고된 차량에는 이렇게 전방카메라와 후방카메라가 장착되어 있... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTEwMjVfMjQ1/MDAxNzYxMzU4NDk0OTEw.m8SiZG5xPhUFmuW7VRHGtg0_X_6L4MAEC-262tComoog.Ln6Hq2Ck9qlS5wOA4v2-i_cctX9jxdpAcgA8Vx3fWeEg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "포드 F150 / 덩치큰 차량에 고장 · 포드 F150 / 덩치큰 차량에 고장난 전방카메라와 후방카메라 교체 작업 / 안전한 주차를 위해 전후방카메라 필수인 차량이죠 ?[일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224454080707?fromRss=true&trackingCode=rss",
+    "tags": [
+      "포드 F150 / 덩치큰 차량에 고장",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224453970980",
+    "date": "2026-10-26",
+    "category": "후방카메라",
+    "car": "볼보 S80",
+    "title": "볼보 S80 후방카메라 블루스크린 증상 해결｜순정자리 고화질 후방카메라 교체 [일산 파주 운정 김포 고양]",
+    "summary": "이번 작업 차량은 볼보 S80입니다. 기존 출고 후방카메라에서 블루스크린 증상이 발생해 후방카메라 교체 작업을 진행했습니다. 후진 기어를 넣으면 정상적인 후방 영상 대신 파란색 화면만 나타나는 증상이었는데요.",
+    "description": "이번 작업 차량은 볼보 S80입니다. 기존 출고 후방카메라에서 블루스크린 증상이 발생해 후방카메라 교체 작업을 진행했습니다. 후진 기어를 넣으면 정상적인 후방 영상 대신 파란색 화면만 나타나는 증상이었는데요. 순정 모니터는 그대로 유지하고 사제 고화질 후방카메라를 기존 순정 위치에 교체 장착한 작업을 소개해 드리겠습니다. 12볼트스토리 채널홈을 폰으로 접속해보세요. ■ 볼보 S80 후방카메라 블루스크린 증상 후방카메라는 후진하거나 주차할 때 차량 뒤쪽 상황을 확인하는 데 도움을 주는 장치입니다. 평소에는 당연하게 사용하지만 갑자기 화면이 나오지 않으면 주차할 때 상당히 불편할 수 있습니다. 이번 볼보 S80 차량은 후진 기어를 넣었을 때 정상적인 후방 화면이 출력되지 않는 증상으로 입고되었습니다.",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMjEy/MDAxNzkyOTgyNDY4MDU0.fKW7EAKL2nEiiJdxK3g5EnfQl-dvTnxTTXa5hdUlaUAg.SEC85d4zYCviomJWSR9iD_kCeNfFBHaNUWiwh8D6nNIg.JPEG/KakaoTalk_20261026_094215093_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMjY1/MDAxNzkyOTgyNDc4NzIx.MpBVf_CIhk1bT07RPlAfo9O8WVvfSIjlx0hutpXzNMcg.MAFlPlGOBbeeshGeWUlL-8otZYzbA7JZ2auQeyQMvsUg.JPEG/KakaoTalk_20261026_094215093.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMTM2/MDAxNzkyOTgyNDg4ODY5.eiomMt_2hm4LPw0hYZ7apwRXpK68D9lhnq2TqpqT1Uwg.THjA_CXfws2cR_6uVmbyI12rLLNmWxat9TtloNLxgaUg.JPEG/KakaoTalk_20261026_094215093_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfNjIg/MDAxNzkyOTgyNDk5NDIw.tlNpOkzL5ccLDIKhn8S9VEX-87bnal_A82S7eglnpSEg.SUfp6mF2HL0hwLbeQIVtK5h2uiG_3uhIMepaWEr-tA0g.JPEG/KakaoTalk_20261026_094215093_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMjcg/MDAxNzkyOTgyNTIyODE3.8Z4ySixVrcUd1IUzUBfXjdlPMcNynJv8NldngOTxomIg.xFHNnvVyQBqj5cQf9M6YhUNGVV07t5iRiZuS4NCcKxog.JPEG/KakaoTalk_20261026_094215093_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjZfMTIy/MDAxNzkyOTgyNTQzMjk2.Bz4uAIOLFggktZ3p626qbFoM---s3Pg_HjmXnVqHlAUg.Ns8AQSgO7k4Xu_4BoX3x08u1da0p3WvHsfDdHCQtR-4g.JPEG/KakaoTalk_20261026_094215093_06.jpg?type=w800"
+    ],
+    "captions": [
+      "볼보 S80 · 볼보 S80 후방카메라 블루스크린 증상 해결｜순정자리 고화질 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 1",
+      "볼보 S80 · 볼보 S80 후방카메라 블루스크린 증상 해결｜순정자리 고화질 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 2",
+      "볼보 S80 · 볼보 S80 후방카메라 블루스크린 증상 해결｜순정자리 고화질 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 3",
+      "볼보 S80 · 볼보 S80 후방카메라 블루스크린 증상 해결｜순정자리 고화질 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 4",
+      "볼보 S80 · 볼보 S80 후방카메라 블루스크린 증상 해결｜순정자리 고화질 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 5",
+      "볼보 S80 · 볼보 S80 후방카메라 블루스크린 증상 해결｜순정자리 고화질 후방카메라 교체 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224453970980?fromRss=true&trackingCode=rss",
+    "tags": [
+      "볼보 S80",
+      "후방카메라",
+      "볼보S80,볼보후방카메라,볼보S80후방카메라,후방카메라블루스크린,후방카메라교체,일산후방카메라,고양시후방카메라,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224452954435",
     "date": "2026-10-25",
@@ -8206,110 +8332,6 @@ window.WORKS_DATA = [
     "tags": [
       "[일산 파주 운정 김포 고양]더뉴카니",
       "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224407730259",
-    "date": "2026-09-11",
-    "category": "후방카메라",
-    "car": "2020년 포터2 / 기존 사용하시던",
-    "title": "2020년 포터2 / 기존 사용하시던 네비게이션 매립 + CCD 후방카메라 / 순정 크루즈 컨트롤 / 계기판 연동 [일산 파주 운정 김포 고양]",
-    "summary": "2020.9.11. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 작업내용 : 네비게이션 매립 / 후방카메라 크루즈컨트롤 작업시간 : 2시간 30분 12볼트스토리 단골고객님께서 오랜만에 차량을 변경하시고 방문해 주셨습니다 사실 고객님과의 첫…",
-    "description": "2020.9.11. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 작업내용 : 네비게이션 매립 / 후방카메라 크루즈컨트롤 작업시간 : 2시간 30분 12볼트스토리 단골고객님께서 오랜만에 차량을 변경하시고 방문해 주셨습니다 사실 고객님과의 첫만남은 2~3년 정도 전쯤에 K7 하이브리드 차량에 네비게이션 매립부터 시작이었답니다 ㅎㅎ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "기존 영상불량 원인과 모니터 입력 확인",
-      "순정 위치를 활용해 카메라 교체 및 배선 정리",
-      "후진 연동과 실제 화면 화질 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MTFfODIg/MDAxNTk5ODE5NTMyODQ0.iVrI8tsurNxKICG-CZ6RK0E4kpsSOzcZd-mHRqN2Z0og.dAuvjbU7kPh0Kqm92pYYuaU8bO1Y1lkisL112U5yYDMg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "2020년 포터2 / 기존 사용하시던 · 2020년 포터2 / 기존 사용하시던 네비게이션 매립 + CCD 후방카메라 / 순정 크루즈 컨트롤 / 계기판 연동 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224407730259?fromRss=true&trackingCode=rss",
-    "tags": [
-      "2020년 포터2 / 기존 사용하시던",
-      "후방카메라"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224407730028",
-    "date": "2026-09-11",
-    "category": "사이드미러",
-    "car": "그랜저 TG",
-    "title": "그랜저 TG / 사이드미러 접힘불량 / 교체보다 저렴하게 모터 및 기어 수리 / 사이드미러수리 [일산 파주 운정 김포 고양]",
-    "summary": "2021.9.11. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 폴딩모터수리 작업시간 : 1시간 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 그랜저TG 차량입니다 요즘 사이드미러 고장 증상으로 입…",
-    "description": "2021.9.11. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 폴딩모터수리 작업시간 : 1시간 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 그랜저TG 차량입니다 요즘 사이드미러 고장 증상으로 입고되는 차량이 정말 많은데요 .. 아무래도 비싼비용을 들여 교체하시는것보다는 원래 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MTFfMjM2/MDAxNjMxMzI5OTEwOTkx.vYIg57L7KRWbgrQue_8I9vp_BhnvGXaPjS9oGAhZ47Yg.UF8OUdeCAP8qJkDJg_fE33yJI59-3JzI0N2TliowsVYg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저 TG · 그랜저 TG / 사이드미러 접힘불량 / 교체보다 저렴하게 모터 및 기어 수리 / 사이드미러수리 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224407730028?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저 TG",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224407729960",
-    "date": "2026-09-11",
-    "category": "사이드미러",
-    "car": "아반떼MD",
-    "title": "아반떼MD 사이드미러 모터 돌아가는 소리만 나고 접힘 펴짐 동작안됨 / 일산 사이드미러 폴딩모터 부분수리로 저렴하게 복구 가능합니다 ! [일산 파주 운정 김포 고",
-    "summary": "2025.9.11. 1년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : 작업내용 : 작업시간 : 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.11. 1년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : 작업내용 : 작업시간 : 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러가 펴지지 않고 동작되는 소리만 나서 방문해 주신 아반떼MD 차량입니다 입고시 차량의 증상은 이러합니다 펴져있는 운전석 사이드미러가 꼼짝하지 않고 소리만 나는 상태입니다 아주 흔~~ 한 증... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MTFfMTA4/MDAxNzU3NTUxNTgwMDY4.psWQlSpc9W6FDlM1CF_g4CI_7dWn8rfEodoUkEHg_lYg.BodBXECA8-c8HlyIPzJPMzf5c8FAtlVc2ZCro4ca8LYg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "아반떼MD · 아반떼MD 사이드미러 모터 돌아가는 소리만 나고 접힘 펴짐 동작안됨 / 일산 사이드미러 폴딩모터 부분수리로 저렴하게 복구 가능합니다 ! [일산 파주 운정 김포 고 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224407729960?fromRss=true&trackingCode=rss",
-    "tags": [
-      "아반떼MD",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224407729854",
-    "date": "2026-09-11",
-    "category": "사이드미러",
-    "car": "NF쏘나타 / 전동접이",
-    "title": "NF쏘나타 / 전동접이사이드미러수리 / 폴딩기어 파손으로 인한 / 접힘불량 / 사이드미러 폴딩 모터 및 기어 교체 / 저렴하게 수리해서 사용하세요 ~[일산 파주",
-    "summary": "2025.9.11. 1년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : NF쏘나타 작업내용 : 사이드미러 폴딩모터 및 기어 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.11. 1년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : NF쏘나타 작업내용 : 사이드미러 폴딩모터 및 기어 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러 고장으로 인해 입고된 NF 쏘나타 차량입니다 오늘차량은 운전석 사이드미러가 문제가 있어 입고되었습니다 이러한 소리가 들린다면.... 고장났다... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MTFfMTY0/MDAxNzU3NTUzOTQ5Mjg4.eLSyDqB61oiXcY1MkwszZXKFajfUIKenEPRIYfcsCRgg.P7nVNoj_60Yv-GipTH-0koo-wNO31g_ycflpvUEXR_Ig.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "NF쏘나타 / 전동접이 · NF쏘나타 / 전동접이사이드미러수리 / 폴딩기어 파손으로 인한 / 접힘불량 / 사이드미러 폴딩 모터 및 기어 교체 / 저렴하게 수리해서 사용하세요 ~[일산 파주 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224407729854?fromRss=true&trackingCode=rss",
-    "tags": [
-      "NF쏘나타 / 전동접이",
-      "사이드미러"
     ],
     "source": "naver"
   }
