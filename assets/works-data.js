@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-28 09:03", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-28 14:45", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224456498707",
+    "date": "2026-10-28",
+    "category": "블랙박스",
+    "car": "G70",
+    "title": "제네시스 G70 블랙박스 터치불량 교체, 기존 배선 철거 후 파인뷰 SF500 장착 [일산 파주 운정 김포 고양]",
+    "summary": "제네시스 G70 블랙박스 터치불량 교체 기존 배선까지 완전히 철거하고 파인뷰 SF500 신규 장착 안녕하세요. 경기도 고양시 일산서구에 위치한 자동차 전장 전문점 12V Story입니다. 오늘 소개할 차량은 제네시스 G70 2.0T입니다.",
+    "description": "제네시스 G70 블랙박스 터치불량 교체 기존 배선까지 완전히 철거하고 파인뷰 SF500 신규 장착 안녕하세요. 경기도 고양시 일산서구에 위치한 자동차 전장 전문점 12V Story입니다. 오늘 소개할 차량은 제네시스 G70 2.0T입니다. 오랫동안 사용하던 블랙박스의 화면 터치가 정상적으로 작동하지 않아 새로운 제품으로 교체하기 위해 방문해 주셨습니다. 이번 작업은 단순히 블랙박스 본체만 바꾸는 방식이 아닙니다. 기존 블랙박스와 연결된 배선을 모두 철거하고, 파인뷰 SF500 전용 신규 배선으로 다시 설치한 작업입니다. 블랙박스 교체를 고민하고 계신 분들이라면 이번 작업 과정을 참고해 보세요. ■ 제네시스 G70 블랙박스 터치가 안 되는 증상 블랙박스는 차량 운행과 주차 중 발생하는 상황을 기록하는 중요한 장치입니다.",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMjI1/MDAxNzkzMTU3MzM2Njc1.a3vDmV1pKwy6m8km1cJrtpyGW5q8jFYz4j3MvIgCfb0g.KzdW2kMwX47k_UrX-xGzP18oKSjeNHGK-0VXbyxoK0og.JPEG/%EC%9E%85%EA%B3%A0_(1).jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMTAy/MDAxNzkzMTU3MzQ5NDc2._xTJlDXOVkIeM2n0iR3gXeCgWfB7kdyZn9Z_bvMznN8g.yjb1ezBryES_Ck2bB594aSdu4u4Fsj3CPh3Kw-a3AFIg.JPEG/%EA%B8%B0%EC%A1%B4.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMTIx/MDAxNzkzMTU3MzY2MjU0.fjDESlClaJzXbTy1_C48lZsVf8I0GD9n3lTJ1EgUEMsg.jzm5Q0OscMCuAVKH1O0rq-gKOFu4kX3sW_SwQ-3TI9Yg.JPEG/%EA%B8%B0%EC%A1%B4%EB%B0%B0%EC%84%A0.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMjg1/MDAxNzkzMTU3Mzg2NTE0.4yixwX7BLfPV6UKe0xYgVHiwAIOS7XSj2vf8mgoOqfcg.PF_vDINIAj2SNLOpx1aR06V84ZMqtu6EkxPfqbVCRicg.JPEG/%EA%B8%B0%EC%A1%B4%ED%9C%B4%EC%A6%88%EB%B0%95%EC%8A%A4.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMTQ5/MDAxNzkzMTU3NDA0Njk0.7CpHrfzgY4Y9tiin0dn0hDOL00qu2v73ooKkeB0ZSxkg.3_FI6NNP8vJ2doc_vZnkwD7YuimttC6rP98-gIBVDhQg.JPEG/%EC%A0%9C%ED%92%88.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjhfMjMw/MDAxNzkzMTU3NDE2MjM2.ijgwf-_C8FpxcZ1DJUtbUGPuJuWavayIBJfTiWa8VZUg.vFkzHV9sa5sOWUwhTX2XWs5LzU2vwsAE1eYGDybpQsAg.JPEG/%EB%B0%B0%EC%84%A0%EC%A0%95%EB%A6%AC.jpg?type=w800"
+    ],
+    "captions": [
+      "G70 · 제네시스 G70 블랙박스 터치불량 교체, 기존 배선 철거 후 파인뷰 SF500 장착 [일산 파주 운정 김포 고양] 작업사진 1",
+      "G70 · 제네시스 G70 블랙박스 터치불량 교체, 기존 배선 철거 후 파인뷰 SF500 장착 [일산 파주 운정 김포 고양] 작업사진 2",
+      "G70 · 제네시스 G70 블랙박스 터치불량 교체, 기존 배선 철거 후 파인뷰 SF500 장착 [일산 파주 운정 김포 고양] 작업사진 3",
+      "G70 · 제네시스 G70 블랙박스 터치불량 교체, 기존 배선 철거 후 파인뷰 SF500 장착 [일산 파주 운정 김포 고양] 작업사진 4",
+      "G70 · 제네시스 G70 블랙박스 터치불량 교체, 기존 배선 철거 후 파인뷰 SF500 장착 [일산 파주 운정 김포 고양] 작업사진 5",
+      "G70 · 제네시스 G70 블랙박스 터치불량 교체, 기존 배선 철거 후 파인뷰 SF500 장착 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224456498707?fromRss=true&trackingCode=rss",
+    "tags": [
+      "G70",
+      "블랙박스",
+      "제네시스G70,G70블랙박스,제네시스블랙박스,블랙박스터치불량,블랙박스터치먹통,블랙박스교체,파인뷰SF500,파인뷰블랙박스,블랙박스배선철거,블랙박스신규장착,일산블랙박스,일산블랙박스교체,고양시블랙박스,12VStory"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224456044437",
     "date": "2026-10-28",
@@ -8305,32 +8342,6 @@ window.WORKS_DATA = [
     "blog": "https://blog.naver.com/uh2816/224410796603?fromRss=true&trackingCode=rss",
     "tags": [
       "고양 일산 파주 운정 / 카비스BSA",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224410796510",
-    "date": "2026-09-14",
-    "category": "기타작업",
-    "car": "G70",
-    "title": "[일산 파주 운정 김포 고양] 제네시스 G70 / 꼼꼼한 신차검수 / 전체썬팅 /",
-    "summary": "2018.9.14. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ ☆ 무료 신차검수 요청방법 ☆ 차량 출고전 전화 또는 카카오톡플러스친구 / 네이버 톡톡 을 통하여 예약해주시고 차량탁송지를 12볼트스토리 : 경기도 고양시 일산서구 송산로 499-8 번지로…",
-    "description": "2018.9.14. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ ☆ 무료 신차검수 요청방법 ☆ 차량 출고전 전화 또는 카카오톡플러스친구 / 네이버 톡톡 을 통하여 예약해주시고 차량탁송지를 12볼트스토리 : 경기도 고양시 일산서구 송산로 499-8 번지로 지정해주시면 됩니다 ^^ 또한 추가적인 신차패키지 작업이 필요하시면 원하시는 작업 문의 해... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MTRfMjg1/MDAxNTM2ODkxNDUyMDA3.wwnihcSlp5SspBUWi8T_47oy3HLD-VuR76tFPyue-ykg.sGPWofuQVP_wKKPNwAXWpnux3a1JOJ2199OAeYgq7e4g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "G70 · [일산 파주 운정 김포 고양] 제네시스 G70 / 꼼꼼한 신차검수 / 전체썬팅 / 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224410796510?fromRss=true&trackingCode=rss",
-    "tags": [
-      "G70",
       "기타작업"
     ],
     "source": "naver"
