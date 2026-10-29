@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-10-29 10:48", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-10-29 17:31", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224457946454",
+    "date": "2026-10-29",
+    "category": "사이드미러",
+    "car": "XM3",
+    "title": "일산 XM3 안드로이드 올인원 카나로 알파 프로 장착 | 360도 어라운드뷰 시공 후기 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 소개해 드릴 차량은 르노삼성 XM3 GTe입니다. 기존 순정 오디오를 카나로 안드로이드 올인원으로 교체하고, 차량 주변을 다양한 각도에서 확인할 수 있는 360도 어라운드뷰 시스템까지 함께 장착한 작업입니다.",
+    "description": "오늘 소개해 드릴 차량은 르노삼성 XM3 GTe입니다. 기존 순정 오디오를 카나로 안드로이드 올인원으로 교체하고, 차량 주변을 다양한 각도에서 확인할 수 있는 360도 어라운드뷰 시스템까지 함께 장착한 작업입니다. 단순히 모니터만 커지는 시공이 아니라, 내비게이션과 다양한 안드로이드 앱 활용은 물론 주차 시 주변 확인까지 한 번에 개선할 수 있는 구성입니다. ■ XM3 순정 오디오, 어떤 점이 달라질까요? 시공 전 XM3에는 작은 디스플레이가 적용된 순정 오디오가 장착되어 있었습니다. 기본적인 오디오 기능은 사용할 수 있지만, 스마트폰처럼 다양한 앱을 직접 실행하거나 넓은 화면으로 지도를 확인하기에는 아쉬움이 있는 구성입니다. 이번 작업에서는 기존 오디오를 탈거하고 대화면 카나로 안드로이드 올인원을 장착했습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjlfMjIx/MDAxNzkzMjU4MDQ4ODYw.Rq7HiOJrspc_lcZG8xlK2_yk_or7KZz9VqU0QdxN_-0g.i2-8r9M1VWHvZJM3twFcdnbNQvAR3xHEmU5KWS4TzmYg.JPEG/KakaoTalk_20261029_093104128_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjlfMjQw/MDAxNzkzMjU4MDc0MTA0.7xcBU0b0cQijOuNpTJq8nN73xGfHvBBq67qPaOzyjOEg.y3s3LbW11Ub7vx6K81igNuZPLDI-0kLOQ-r7CdvTv78g.JPEG/KakaoTalk_20261029_093104128_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjlfMTIw/MDAxNzkzMjU4MDg1NTU0.Ymt8jeDZWaepavge7AMkcTBA1tRv7oCNE-Z-SteT_zwg.vUDsGWvdAbItnM3iITZjHndm7PsZ5Pjvefvy0rARm34g.JPEG/KakaoTalk_20261029_093104128_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjlfMTUx/MDAxNzkzMjU4MDk0MTI4.aLAZ2aE-5zVjOFkw-4AlTeJdTmqGyWBmT6MPflrfyQkg.cjDAmCk9dJkIltEfB99Wif6fHg5oZTfqUEshGXGspUMg.JPEG/KakaoTalk_20261029_093104128_07.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjlfNjMg/MDAxNzkzMjU4MTEwMjcx.HvzuAggsKf-r5hhdjUpFY0VIxJb4WyXfidfgzKV5srkg.duR4QNY8P9MlvYDegKv4v2j0tONfHSNmkPd1faEcVP4g.JPEG/KakaoTalk_20261029_093104128_14.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMjlfNjAg/MDAxNzkzMjU4MTI2MjE4.C1-ODtSG2lV0ojrsfS9dWl-49IHB2avBjIXgEMX2KTEg.PKsGDBpFBStWVCP1xI5Phxt0ZN4HmTvPhVrvRos2rRIg.JPEG/KakaoTalk_20261029_093104128_18.jpg?type=w800"
+    ],
+    "captions": [
+      "XM3 · 일산 XM3 안드로이드 올인원 카나로 알파 프로 장착 | 360도 어라운드뷰 시공 후기 [일산 파주 운정 김포 고양] 작업사진 1",
+      "XM3 · 일산 XM3 안드로이드 올인원 카나로 알파 프로 장착 | 360도 어라운드뷰 시공 후기 [일산 파주 운정 김포 고양] 작업사진 2",
+      "XM3 · 일산 XM3 안드로이드 올인원 카나로 알파 프로 장착 | 360도 어라운드뷰 시공 후기 [일산 파주 운정 김포 고양] 작업사진 3",
+      "XM3 · 일산 XM3 안드로이드 올인원 카나로 알파 프로 장착 | 360도 어라운드뷰 시공 후기 [일산 파주 운정 김포 고양] 작업사진 4",
+      "XM3 · 일산 XM3 안드로이드 올인원 카나로 알파 프로 장착 | 360도 어라운드뷰 시공 후기 [일산 파주 운정 김포 고양] 작업사진 5",
+      "XM3 · 일산 XM3 안드로이드 올인원 카나로 알파 프로 장착 | 360도 어라운드뷰 시공 후기 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224457946454?fromRss=true&trackingCode=rss",
+    "tags": [
+      "XM3",
+      "사이드미러",
+      "XM3,XM3안드로이드올인원,XM3어라운드뷰,카나로올인원,360도어라운드뷰,XM3튜닝,일산안드로이드올인원,일산어라운드뷰,일산자동차튜닝,12VStory,카나로안드로이드올인원,카나로알파프로,모터스밸류,MV7870"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224457523742",
     "date": "2026-10-29",
@@ -8306,32 +8343,6 @@ window.WORKS_DATA = [
     "tags": [
       "일산 파주 운정 김포 / 아반테 AD",
       "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224412123785",
-    "date": "2026-09-15",
-    "category": "기타작업",
-    "car": "[일산 파주 운정 김포 고양] 코란도",
-    "title": "[일산 파주 운정 김포 고양] 코란도C / 매직카 원격시동경보기 / M7 중고제품 장착",
-    "summary": "2018.9.15. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 코란도C 작업내용 : 매직카 M7 경보기 중고제품장착 작업시간 : 1시간 중고구매하신 경보기 장착을 위해 연락주시고 방문해주셨습니다 동호회 활동을 하시는 차량답게 깔끔하고 이쁘…",
-    "description": "2018.9.15. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 코란도C 작업내용 : 매직카 M7 경보기 중고제품장착 작업시간 : 1시간 중고구매하신 경보기 장착을 위해 연락주시고 방문해주셨습니다 동호회 활동을 하시는 차량답게 깔끔하고 이쁘게 작업이 되어잇네요 고객님께서 가지고 오신 중고 경보기 입니다 장착했던 제품을 탈거... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MTVfNzAg/MDAxNTM2OTc5NDQ3NTMw.BbrdXF-zdEzdTbozZxNk6mWsBdivmfOptYYbehVE1mcg.tQ4eGMXwVDao71bwRu2XXpU4_y__dTbc0nySuLGKzw0g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "[일산 파주 운정 김포 고양] 코란도 · [일산 파주 운정 김포 고양] 코란도C / 매직카 원격시동경보기 / M7 중고제품 장착 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224412123785?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 운정 김포 고양] 코란도",
-      "기타작업"
     ],
     "source": "naver"
   }
