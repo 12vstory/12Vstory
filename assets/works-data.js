@@ -1,6 +1,110 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-01 11:15", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-01 18:21", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224461002632",
+    "date": "2026-11-01",
+    "category": "블랙박스",
+    "car": "K7하이브리드 / 유라이브",
+    "title": "[일산 파주 운정 김포 고양] K7하이브리드 / 유라이브 블랙박스 / 보조배터리 / 아톰볼트 AI-660",
+    "summary": "2018.11.1. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : K7 하이브리드 작업내용 : 블랙박스 보조배터리 / 아톰볼트 작업시간 : 30분 겨울철이 다가오고 블랙박스 녹화시간이 부족하다 느끼셔서 보조배터리 장착을 위해 방문해주셨습니다…",
+    "description": "2018.11.1. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : K7 하이브리드 작업내용 : 블랙박스 보조배터리 / 아톰볼트 작업시간 : 30분 겨울철이 다가오고 블랙박스 녹화시간이 부족하다 느끼셔서 보조배터리 장착을 위해 방문해주셨습니다 하이브리드 차량이다 보니 일반 차량보다 더욱 불안한 상황이죠 .. 방전되면 배터리 가격이 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMjkz/MDAxNTQxMDc1MDAyNjQw.D3OTHyCyiQyjFJXT6U-5ClQ_brO6pyuwssvNfcI6ZdIg.MCgFmTAcsPy2Rih6NdXKH14iY3Yz_qPkE_uY8S0WABQg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K7하이브리드 / 유라이브 · [일산 파주 운정 김포 고양] K7하이브리드 / 유라이브 블랙박스 / 보조배터리 / 아톰볼트 AI-660 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224461002632?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K7하이브리드 / 유라이브",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224461002530",
+    "date": "2026-11-01",
+    "category": "블랙박스",
+    "car": "그랜드카니발 / 뉴카니발 / 2채널",
+    "title": "[일산 파주 운정 김포 고양]그랜드카니발 / 뉴카니발 / 2채널 블랙박스 교체 / 파인뷰 LX2000 / FHD+FHD 32G",
+    "summary": "2019.11.1. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴카니발 9인승 숏바디 작업내용 : 블랙박스 교체 작업시간 : 40분 기존 유라이브 알바트로스 제품이 장착된 뉴카니발 차량이 블랙박스 교체를 위해 입고되었습니다 블랙박스가 꺼졌다 켜…",
+    "description": "2019.11.1. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴카니발 9인승 숏바디 작업내용 : 블랙박스 교체 작업시간 : 40분 기존 유라이브 알바트로스 제품이 장착된 뉴카니발 차량이 블랙박스 교체를 위해 입고되었습니다 블랙박스가 꺼졌다 켜졌다를 반복해서 불안한 마음에 결정하셨다고 하십니다 오늘 장착될 제품은 파인뷰 LX20... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxOTExMDFfNTkg/MDAxNTcyNTc0MzM5MTc2._Vt-C5pykBK_x9we1EnGh_Py7g0iOkrVbzOXk_WzuFUg.bLDxjaj60fpsTeIXK6VibVJC1rDDJkNAhh3ZP1t5el8g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "그랜드카니발 / 뉴카니발 / 2채널 · [일산 파주 운정 김포 고양]그랜드카니발 / 뉴카니발 / 2채널 블랙박스 교체 / 파인뷰 LX2000 / FHD+FHD 32G 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224461002530?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜드카니발 / 뉴카니발 / 2채널",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224461002423",
+    "date": "2026-11-01",
+    "category": "후방카메라",
+    "car": "폭스바겐",
+    "title": "폭스바겐 폴로 / 룸미러 모니터 + CCD후방카메라 / 넓은 화각 / 뛰어난 야간화질 까지 / 가성비 최고 !! [일산 파주 운정 김포 고양]",
+    "summary": "2021.11.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 폭스바겐 폴로 작업내용 : 후방카메라 + 룸미러모니터 작업시간 : 1시간 30분 후방카메라 장착을 위해 입고된 폭스바겐 폴로 차량입니다 오늘 차량의 경우 별도의 모니터가 없어서 룸미…",
+    "description": "2021.11.1. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 폭스바겐 폴로 작업내용 : 후방카메라 + 룸미러모니터 작업시간 : 1시간 30분 후방카메라 장착을 위해 입고된 폭스바겐 폴로 차량입니다 오늘 차량의 경우 별도의 모니터가 없어서 룸미러타입의 5인치 모니터가 함께 시공됩니다 후방카메라 장착위치는 요기에 번호판 위쪽으로 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTExMDFfMjI4/MDAxNjM1NzM1MjA3MDIx.kYdkNsxiIJiK19ieTKxTD792dm9F04AIzyMZHpPIAyQg.KgLdJGqMTk9NimW-4mh49JB0-bTuel4CoCDqaK3GwAYg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "폭스바겐 · 폭스바겐 폴로 / 룸미러 모니터 + CCD후방카메라 / 넓은 화각 / 뛰어난 야간화질 까지 / 가성비 최고 !! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224461002423?fromRss=true&trackingCode=rss",
+    "tags": [
+      "폭스바겐",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224461002323",
+    "date": "2026-11-01",
+    "category": "후방카메라",
+    "car": "뉴 SM5 / 하제엠텍 네비게이션 고장으로",
+    "title": "뉴 SM5 / 하제엠텍 네비게이션 고장으로 교체 / 저렴한 모델로 기존후방카메라 연동 / 최저 비용으로 교체 [일산 파주 운정 김포 고양]",
+    "summary": "2023.11.1. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴SM5 작업내용 : 네비게이션 교체 작업시간 : 1시간 30분 네비게이션 고장으로 인해 교체를 하시고자 방문 해주셨습니다 우선 차량에 있는 네비게이션을 볼까요 ??",
+    "description": "2023.11.1. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 뉴SM5 작업내용 : 네비게이션 교체 작업시간 : 1시간 30분 네비게이션 고장으로 인해 교체를 하시고자 방문 해주셨습니다 우선 차량에 있는 네비게이션을 볼까요 ?? 입고시 차량에 장착된 모델입니다 하제엠텍 제품으로 전용으로 나온모델입니다 .. 여기에 네비게이션 교체는 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "기존 영상불량 원인과 모니터 입력 확인",
+      "순정 위치를 활용해 카메라 교체 및 배선 정리",
+      "후진 연동과 실제 화면 화질 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMzExMDFfMzkg/MDAxNjk4ODA5MzA0ODA2.xs194YPjqYWbmCudAiItSIr394D2XxNmKQjMJPd17uYg.KsVFweQX6n-2XIgTQHGps65uB3CIXC2Jfxj5TBY3FU8g.PNG.uh2816/%C5%B8%C0%CC%C6%B2_%BA%B9%BB%E7.png?type=ffn480_320"
+    ],
+    "captions": [
+      "뉴 SM5 / 하제엠텍 네비게이션 고장으로 · 뉴 SM5 / 하제엠텍 네비게이션 고장으로 교체 / 저렴한 모델로 기존후방카메라 연동 / 최저 비용으로 교체 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224461002323?fromRss=true&trackingCode=rss",
+    "tags": [
+      "뉴 SM5 / 하제엠텍 네비게이션 고장으로",
+      "후방카메라"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224459995825",
     "date": "2026-10-31",
@@ -8218,131 +8322,6 @@ window.WORKS_DATA = [
     "tags": [
       "팰리세이드",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224414780605",
-    "date": "2026-09-17",
-    "category": "사이드미러",
-    "car": "사이드미러",
-    "title": "사이드미러수리 / 에쿠스 VS500 / 사이드미러 접힘 펴짐 불량 수리/ 2채널 블랙박스 교체 / 파인뷰SF500 32g [일산 파주 운정 김포 고양]",
-    "summary": "2025.9.17. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 에쿠스 작업내용 : 사이드미러 수리/블랙박스 교체 작업시간 : 1시간 30 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.17. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 에쿠스 작업내용 : 사이드미러 수리/블랙박스 교체 작업시간 : 1시간 30 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러 폴딩 기능이 정상적으로 동작되지 않아 수리를 위해 입고된 에쿠스 차량입니다 카센터에 방문하셔서 물어보니 40만원이 넘는 금액이 나온다고 하... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MTdfMTYw/MDAxNzU4MDcyMzM1MjA4.fFQ_ugjc-Jc5DKCSi1bf4_2NytUHdggZQdZoqkaDFUMg.mXV6w2Ez3vB2LSXJVSqQVniY2f9H3PBrlz1zWCN2Spog.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "사이드미러 · 사이드미러수리 / 에쿠스 VS500 / 사이드미러 접힘 펴짐 불량 수리/ 2채널 블랙박스 교체 / 파인뷰SF500 32g [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224414780605?fromRss=true&trackingCode=rss",
-    "tags": [
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224414707112",
-    "date": "2026-09-17",
-    "category": "사이드미러",
-    "car": "그랜저 IG",
-    "title": "그랜저 IG 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩모터 교체 [일산 파주 운정 김포 고양]",
-    "summary": "오늘 입고된 차량은 현대 그랜저 IG 입니다. 이번 차량은 사이드미러를 접고 펼치는 전동폴딩 기능에 이상이 발생해 입고 되었습니다. 사이드미러 폴딩불량이 생겼다고 해서 사이드미러 어셈블리를 통째로 교체해야 하는 것은 아닙니다.",
-    "description": "오늘 입고된 차량은 현대 그랜저 IG 입니다. 이번 차량은 사이드미러를 접고 펼치는 전동폴딩 기능에 이상이 발생해 입고 되었습니다. 사이드미러 폴딩불량이 생겼다고 해서 사이드미러 어셈블리를 통째로 교체해야 하는 것은 아닙니다. 증상을 확인하고 내부를 점검해 폴딩모터 쪽 문제로 판단되는 경우에는 고장 난 부분만 수리하는 방식 으로 진행할 수 있습니다. 작업차량 현대 그랜저 IG 입고증상 사이드미러 전동폴딩 불량 작업내용 사이드미러 탈거 및 분해 폴딩모터 점검 불량 폴딩모터 교체 재조립 후 작동 테스트 12볼트스토리 채널홈을 폰으로 접속해보세요. 그랜저 IG 사이드미러 폴딩불량 그랜저 IG가 사이드미러 수리를 위해 입고되었습니다.",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfNTkg/MDAxNzg5NjEyMjc5ODY4.lTjbZbG1EaEQUTx7t1fYj508XX4ZHvm1gLSLAy806kUg.QY6cnuNuxYIWLww2JrxDWxA3oIkhlKhM0v8dfU952Igg.JPEG/KakaoTalk_20260916_101138887.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMTU2/MDAxNzg5NjEyMzgxMTIx.fjLSpDBUrdCuHNit4RfKBy_RwKFm4riCbRegfzBawpYg.7X-urC9N86uZrqjr_KiIb15I2tK5Z7OhB9h05exCXP4g.JPEG/KakaoTalk_20260916_101138887_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfOTgg/MDAxNzg5NjEyMzk4NzIy.8KVKmx1KE3tmXmowAkd8AtVrQ47SHTbUQB5gt-6xOq8g.iVlQdeI-5izrgL63mZttQtJeGcbFomjFLqZ7CiKeBNgg.JPEG/KakaoTalk_20260916_101138887_04.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMTcz/MDAxNzg5NjEyNDA5MTM2.LvIj6nNG9MCBr0xM8FXoN8orvRyELjiXBD55vDxhiYIg.D0iWV34fWEXdgo29c2qeErZJztqZNcg2Xg9UfLdFgCEg.JPEG/KakaoTalk_20260916_101138887_05.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMjUw/MDAxNzg5NjEyNDE4MzQz.h_U5UyJBKVUGTm2BArNS6P9R7PNL-xfJDTTuessEqtIg.pZ2amleJVmVvp27WSUtCha5oXM2mkmrk6b7SuZEmoKkg.JPEG/KakaoTalk_20260916_101138887_06.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMTk4/MDAxNzg5NjEyNDI3MjE1.Nqe2QbblMKWbHjKwNVrktXB1jdQOfyYBcNZOXnkmKoog.YyfKgzh8RQG6Nm1BxGHbBBCHxSuaw36FJIvVlBBR1IYg.JPEG/KakaoTalk_20260916_101138887_07.jpg?type=w800"
-    ],
-    "captions": [
-      "그랜저 IG · 그랜저 IG 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 1",
-      "그랜저 IG · 그랜저 IG 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 2",
-      "그랜저 IG · 그랜저 IG 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 3",
-      "그랜저 IG · 그랜저 IG 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 4",
-      "그랜저 IG · 그랜저 IG 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 5",
-      "그랜저 IG · 그랜저 IG 사이드미러 폴딩불량 수리｜접히지 않는 사이드미러 폴딩모터 교체 [일산 파주 운정 김포 고양] 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224414707112?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저 IG",
-      "사이드미러",
-      "그랜저IG,그랜저IG사이드미러,그랜저IG사이드미러수리,그랜저IG폴딩불량,그랜저IG폴딩모터,사이드미러폴딩불량,사이드미러폴딩모터,사이드미러수리,사이드미러부분수리,폴딩모터교체,일산사이드미러수리,일산사이드미러수리업체,고양시사이드미러수리,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224414555058",
-    "date": "2026-09-17",
-    "category": "블랙박스",
-    "car": "폴스타 4",
-    "title": "폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양]",
-    "summary": "오늘 소개할 차량은 폴스타4 입니다. 이번 작업은 폴스타4에 파인뷰 LXQ EX 블랙박스 와 셀스타 ES90 블랙박스 보조배터리 를 함께 장착했습니다.",
-    "description": "오늘 소개할 차량은 폴스타4 입니다. 이번 작업은 폴스타4에 파인뷰 LXQ EX 블랙박스 와 셀스타 ES90 블랙박스 보조배터리 를 함께 장착했습니다. 폴스타4는 일반 차량과 달리 후면 유리가 없는 독특한 구조를 가지고 있기 때문에 블랙박스 후방카메라 역시 일반적인 실내 장착 방식이 아닌 차량 외부 장착 방식으로 작업 해야 합니다. 블랙박스 본체 장착부터 외부 후방카메라, 보조배터리까지 차량 구조에 맞춰 깔끔하게 시공했습니다. 🚗 작업차량 폴스타4 Polestar 4 🔧 작업내용 파인뷰 LXQ EX 블랙박스 외부형 후방카메라 장착 셀스타 ES90 블랙박스 보조배터리 전·후방 영상 및 주차녹화 작동 점검 12볼트스토리 채널홈을 폰으로 접속해보세요. 폴스타4 블랙박스 장착 오늘 작업할 폴스타4입니다.",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMTAx/MDAxNzg5NjA0MzkxNDM5.C24fINQUcD5MuW7LSl_eu4RsuG5GkCOmtiNDZQzQ2Nwg.QUOO6Eu81YHRLEkwsqhviGuEaCaZu1qDJ4dJvLtAbScg.JPEG/KakaoTalk_20260916_100841101_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMjUy/MDAxNzg5NjA0NDAxMTYw.8I4N9FzkmFXg3HRFYl_vKDhV0KTabbN8hbcTG2G-sP8g.ihLlMGZCHF2vFllojUMMyq8bm-QjfsdOyXmOqcIyXtsg.JPEG/KakaoTalk_20260916_100841101_01.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfNjQg/MDAxNzg5NjA0NDEzOTM4.k41KrTemZFoLw8-qRBDHPGtxAoQb6njZuf10dfT_BqMg.BOSBlEfhF5mIszj_4D8OSeWPyaFeQMVfVB6fnrC-xPQg.JPEG/KakaoTalk_20260916_100841101.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMjY1/MDAxNzg5NjA0NDI5NzU1.e4SnCwufqE2dKRhBb3pvGcGCPsGQuloH6ESeM7T8mREg.v054y2SE4EGXG1exS_vZezKtGxtsccXwPzO2p0bDWuIg.JPEG/KakaoTalk_20260916_100841101_03.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMTAz/MDAxNzg5NjA0NDQyMTI1.LDdHQyshQJqoNBbTAydJ56FnMD27U2X2NXvTwTfYUhEg.BydsYF3Syat-QgQxXdsaB72mTJmmZ0Lio9dlN5-hu-wg.JPEG/KakaoTalk_20260916_100841101_08.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MTdfMjMy/MDAxNzg5NjA0NDYwOTg4.ckVPAUsYuh_CduuSPQ6NWV2zCKNDSuPrKAysNP4scwsg.3gUZlta4epaDDOcUyQ_Sl8gJ18whpEPH42pNBtvtKr4g.JPEG/KakaoTalk_20260916_100841101_04.jpg?type=w800"
-    ],
-    "captions": [
-      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 1",
-      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 2",
-      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 3",
-      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 4",
-      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 5",
-      "폴스타 4 · 폴스타4 블랙박스 장착｜파인뷰 LXQ EX + 셀스타 ES90 보조배터리 외부 후방카메라 시공 [일산 파주 운정 김포 고양] 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224414555058?fromRss=true&trackingCode=rss",
-    "tags": [
-      "폴스타 4",
-      "블랙박스",
-      "폴스타4,폴스타4블랙박스,폴스타블랙박스,폴스타4후방카메라,폴스타4외부후방카메라,폴스타4보조배터리,파인뷰LXQEX,LXQEX,파인뷰블랙박스,셀스타ES90,셀스타보조배터리,블랙박스보조배터리,전기차블랙박스,전기차보조배터리,일산블랙박스,일산전기차블랙박스,고양시블랙박스,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224413513615",
-    "date": "2026-09-16",
-    "category": "블랙박스",
-    "car": "[일산 파주 운정 김포 고양] BMW",
-    "title": "[일산 파주 운정 김포 고양] BMW 미니쿠퍼s / 5인치 룸미러모니터 + CCD후방카메라 / 2채널블랙박스 RG7 / 후방센서 장착",
-    "summary": "2018.9.16. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 미니쿠퍼s 작업내용 : 후방카메라 / 룸미러모니터 / 후방센서 / 블랙박스 작업시간 : 5시간 여러가지 주차보조 제품을 장착하시기 위해 입고해주신 미니쿠퍼S 차량입니다 파랑색…",
-    "description": "2018.9.16. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 미니쿠퍼s 작업내용 : 후방카메라 / 룸미러모니터 / 후방센서 / 블랙박스 작업시간 : 5시간 여러가지 주차보조 제품을 장착하시기 위해 입고해주신 미니쿠퍼S 차량입니다 파랑색 펄 .. 반짝반짝 너무 이쁩니다 ^^ 우선 후방 카메라 장착전 차량의 모습입니다 이번에는 CC... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODA5MTVfMTcx/MDAxNTM2OTg2ODYwMTQ5.iGEDPVIGUS8Y73HEtUQ7Sfeuu2NIfMH0R3IhqoPWuhMg.f2j2XAKsDCxCQkrsx60SRFja7PfHQXW2UDwBMu1PTjwg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "[일산 파주 운정 김포 고양] BMW · [일산 파주 운정 김포 고양] BMW 미니쿠퍼s / 5인치 룸미러모니터 + CCD후방카메라 / 2채널블랙박스 RG7 / 후방센서 장착 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224413513615?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 운정 김포 고양] BMW",
-      "블랙박스"
     ],
     "source": "naver"
   }
