@@ -1,6 +1,80 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-06 08:39", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-06 12:41", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224466945350",
+    "date": "2026-11-06",
+    "category": "사이드미러",
+    "car": "팰리세이드",
+    "title": "일산 파주 김포 팰리세이드 사이드리피터 파손 수리, 사이드미러 부분교체",
+    "summary": "🔧 작업 내용 ✔ 차량 : 현대 팰리세이드 ✔ 제품 : 사이드미러 사이드리피터 ✔ 작업 : 파손된 사이드리피터 부분교체 ✔ 작업시간 : 30분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
+    "description": "🔧 작업 내용 ✔ 차량 : 현대 팰리세이드 ✔ 제품 : 사이드미러 사이드리피터 ✔ 작업 : 파손된 사이드리피터 부분교체 ✔ 작업시간 : 30분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해 드릴 작업은 현대 팰리세이드 사이드리피터 파손으로 진행한 사이드미러 부분수리입니다. 사이드미러에 장착된 방향지시등이 깨지거나 파손되면 사이드미러 전체를 교체해야 하는 것으로 생각하시는 분들이 많습니다. 하지만 사이드미러 본체와 다른 기능이 정상이라면 파손된 사이드리피터 부품만 교체하는 방법으로 수리가 가능한 경우도 있습니다. 이번 팰리세이드 역시 사이드미러 전체를 교환하지 않고 파손된 사이드리피터만 교체하는 작업을 진행했습니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfMzQg/MDAxNzkzOTMwMzA5NzU0.LcnouwtcpsaByUCzVdvB2fTLeO1wRj7BJntLueOsUvQg.tcS77ZwqQXUSQJrEHs3hf3HhMgAu7OhXYzUHy84imSIg.JPEG/KakaoTalk_20261105_103703608_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfMTYy/MDAxNzkzOTMwMzE4ODY0.E209b9WCORFQI3tdGYepMZ8m0dHUudndPw8JJ6aNWqwg.MI5eF0DukfAf9gcrreQfs1SPdbgfBt_buX7blYju1PIg.JPEG/KakaoTalk_20261105_103703608.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfOTYg/MDAxNzkzOTMwMzIzNDIx.HMYq0f6VIWnWzcyXbFtjhNN5-eWoDeJAkjkbw5KeU4kg.7D_sRZs6lbnu2CLQV1Dh4rz6VMg9Oo4okE8PLAU9QJog.JPEG/KakaoTalk_20261105_103703608_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfNDAg/MDAxNzkzOTMwMzQ3Nzc3.SA6ozjZgUmzL4KbX1Bkrzc5uE6h3nFHggR9zOoN7Sv8g.qjPDXMXSc0J9fNTCnnaiELiF7BfNsypHtN15UkqPd_cg.JPEG/KakaoTalk_20261105_103703608_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfNDEg/MDAxNzkzOTMwMzU3MTk0.h_yS2_6qyruoMUvrycbwoLgZBiZ2jj8Wvlqi9soxSusg.JHSu34VL_Lvob7IWdJl6acixbjSseokb3bZ2O2EdgGcg.JPEG/KakaoTalk_20261105_103703608_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfNzcg/MDAxNzkzOTMwMzY4MjAw.t3rfrlYpMfAZ-1TTyn5Tv51a8AX7kSRjI47OxIlddkQg.IyRDbSPATLLwvuI3TdOVmo2-PiTp-lNzGkYDJBEofkEg.JPEG/KakaoTalk_20261105_103703608_05.jpg?type=w800"
+    ],
+    "captions": [
+      "팰리세이드 · 일산 파주 김포 팰리세이드 사이드리피터 파손 수리, 사이드미러 부분교체 작업사진 1",
+      "팰리세이드 · 일산 파주 김포 팰리세이드 사이드리피터 파손 수리, 사이드미러 부분교체 작업사진 2",
+      "팰리세이드 · 일산 파주 김포 팰리세이드 사이드리피터 파손 수리, 사이드미러 부분교체 작업사진 3",
+      "팰리세이드 · 일산 파주 김포 팰리세이드 사이드리피터 파손 수리, 사이드미러 부분교체 작업사진 4",
+      "팰리세이드 · 일산 파주 김포 팰리세이드 사이드리피터 파손 수리, 사이드미러 부분교체 작업사진 5",
+      "팰리세이드 · 일산 파주 김포 팰리세이드 사이드리피터 파손 수리, 사이드미러 부분교체 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224466945350?fromRss=true&trackingCode=rss",
+    "tags": [
+      "팰리세이드",
+      "사이드미러",
+      "팰리세이드,팰리세이드사이드미러,팰리세이드사이드리피터,팰리세이드사이드미러수리,팰리세이드사이드리피터수리,사이드리피터파손,사이드리피터교체,사이드리피터수리,사이드미러방향지시등,사이드미러파손,사이드미러부분수리,일산사이드미러수리,파주사이드미러수리,운정사이드미러수리,야당사이드미러수리,김포사이드미러수리,검단사이드미러수리,고양시사이드미러수리,일산자동차용품,12볼트스토리"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224466917289",
+    "date": "2026-11-06",
+    "category": "사이드미러",
+    "car": ", 파주 그랜저IG",
+    "title": "일산 , 파주 그랜저IG 사이드미러 폴딩불량 수리, 통교환 대신 폴딩기어 교체 / 저렴하게 원상복구 가능합니다 !",
+    "summary": "🔧 작업 내용 ✔ 차량 : 현대 그랜저 IG ✔ 제품 : 사이드미러 폴딩기어 ✔ 작업 : 조수석 사이드미러 폴딩기어 교체 및 부분수리 ✔ 작업시간 : 30~40분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
+    "description": "🔧 작업 내용 ✔ 차량 : 현대 그랜저 IG ✔ 제품 : 사이드미러 폴딩기어 ✔ 작업 : 조수석 사이드미러 폴딩기어 교체 및 부분수리 ✔ 작업시간 : 30~40분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해 드릴 작업은 현대 그랜저 IG 사이드미러 폴딩불량 수리입니다. 사이드미러가 정상적으로 접히거나 펼쳐지지 않는 경우 사이드미러 전체를 교환해야 한다고 생각하기 쉽습니다. 하지만 고장 부위에 따라 폴딩기어만 교체하는 부분수리도 가능합니다. 이번 그랜저 IG 역시 사이드미러를 탈거하고 내부 폴딩 구동부를 분해해 폴딩기어 교체 작업을 진행했습니다. ■ 그랜저 IG 사이드미러 폴딩불량 사이드미러 폴딩 기능은 차량을 주차하거나 좁은 공간을 통과할 때 자주 사용하는 기능입니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfOTMg/MDAxNzkzOTI4OTE1MTU4.idIjzSK8LXdf7kmrP3ume0um_qgV_PydI4NWmCzE670g.8MHM4M3rOGHyfETIxssVo_b4Xfks5zFmVSN9gnWzrqAg.JPEG/KakaoTalk_20261104_091951138_01.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfMjcx/MDAxNzkzOTI4OTE4Mzk3.HgYrwVs-bDWSB_D8mG6obICyt1ploBPjIyA8ltTml3og.8ls2N0orV8rJtuEtt8uqyPreOIeQH1fAEQx9wrg7Dncg.JPEG/KakaoTalk_20261104_091951138.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfMTAg/MDAxNzkzOTI4OTc2NjIw._H4xX-jDCLfPNCqpGBPm6q5oTdjwadAVVq88PgaVhWUg.qHPsgSskR-utn75-6wzWWV9vbuQ_-spAcn5QScjB_vIg.JPEG/KakaoTalk_20261104_091951138_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfMjE2/MDAxNzkzOTI4OTg2NDc0.6V3r3EUbFBk9x1NCC8mGf7JcyFVmzzdKXQtVNbaHE3cg.eleo1Wirs5ZpQ19WPn1SSWfhlnUqa9nvVL2qw5DHE0og.JPEG/KakaoTalk_20261104_091951138_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfNTUg/MDAxNzkzOTI4OTkyNjMy.o3J3gpjuaLXCgzmmAf79FtDXLMYer93FclVJvlccDGsg.bo_wak1fheyaxgg5hwZyzwBTrTzU56-QE-0DY0Sym0og.JPEG/KakaoTalk_20261104_091951138_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDZfMjY3/MDAxNzkzOTI5MDAxMjE0.ctwgt9k-SSfODwwaNm241X-SgdKJRUqIPrN97IMZXz4g.HRjt_xDCThvQ6_YG_OCDd98XlX4-InBld8rtlrJZgewg.JPEG/KakaoTalk_20261104_091951138_06.jpg?type=w800"
+    ],
+    "captions": [
+      ", 파주 그랜저IG · 일산 , 파주 그랜저IG 사이드미러 폴딩불량 수리, 통교환 대신 폴딩기어 교체 / 저렴하게 원상복구 가능합니다 ! 작업사진 1",
+      ", 파주 그랜저IG · 일산 , 파주 그랜저IG 사이드미러 폴딩불량 수리, 통교환 대신 폴딩기어 교체 / 저렴하게 원상복구 가능합니다 ! 작업사진 2",
+      ", 파주 그랜저IG · 일산 , 파주 그랜저IG 사이드미러 폴딩불량 수리, 통교환 대신 폴딩기어 교체 / 저렴하게 원상복구 가능합니다 ! 작업사진 3",
+      ", 파주 그랜저IG · 일산 , 파주 그랜저IG 사이드미러 폴딩불량 수리, 통교환 대신 폴딩기어 교체 / 저렴하게 원상복구 가능합니다 ! 작업사진 4",
+      ", 파주 그랜저IG · 일산 , 파주 그랜저IG 사이드미러 폴딩불량 수리, 통교환 대신 폴딩기어 교체 / 저렴하게 원상복구 가능합니다 ! 작업사진 5",
+      ", 파주 그랜저IG · 일산 , 파주 그랜저IG 사이드미러 폴딩불량 수리, 통교환 대신 폴딩기어 교체 / 저렴하게 원상복구 가능합니다 ! 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224466917289?fromRss=true&trackingCode=rss",
+    "tags": [
+      ", 파주 그랜저IG",
+      "사이드미러",
+      "그랜저IG,그랜저IG사이드미러,그랜저IG사이드미러수리,그랜저IG폴딩불량,사이드미러폴딩불량,사이드미러안접힘,사이드미러수리,사이드미러부분수리,폴딩기어교체,사이드미러기어교체,일산사이드미러수리,파주사이드미러수리,고양시사이드미러수리,덕이동자동차수리,일산자동차용품,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224466755299",
     "date": "2026-11-06",
@@ -137,8 +211,8 @@ window.WORKS_DATA = [
     "category": "사이드미러",
     "car": "파주 LF쏘나타 뉴라이즈",
     "title": "일산 파주 LF쏘나타 뉴라이즈 사이드미러 파손, 깨진 거울과 커버 부분수리",
-    "summary": "🔧 작업 내용 ✔ 차량 : 현대 LF쏘나타 뉴라이즈 ✔ 제품 : 사이드미러 파손 부품 ✔ 작업 : 사이드미러 유리 및 외부 커버 파손 부분수리 ✔ 작업시간 : 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
-    "description": "🔧 작업 내용 ✔ 차량 : 현대 LF쏘나타 뉴라이즈 ✔ 제품 : 사이드미러 파손 부품 ✔ 작업 : 사이드미러 유리 및 외부 커버 파손 부분수리 ✔ 작업시간 : 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 이번에 입고된 차량은 현대 LF쏘나타 뉴라이즈입니다. 사이드미러가 파손되어 수리를 위해 방문해 주셨습니다. 사이드미러는 주행 중 후방과 측면을 확인하는 중요한 부품입니다. 특히 거울이 깨지거나 외부 커버가 파손된 경우에는 시야 확보가 어려워지고 내부 부품까지 노출될 수 있어 빠른 점검이 필요합니다. 이번 차량은 사이드미러 전체 교체 대신 파손 부위를 중심으로 부분수리를 진행했습니다. ■ 쏘나타 뉴라이즈 사이드미러 파손 상태 입고 당시 사이드미러 상태부터 확인했습니다.",
+    "summary": "🔧 작업 내용 ✔ 차량 : 현대 LF쏘나타 뉴라이즈 ✔ 제품 : 사이드미러 파손 부품 ✔ 작업 : 사이드미러 유리 및 외부 커버 파손 부분수리 ✔ 작업시간 : 30분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
+    "description": "🔧 작업 내용 ✔ 차량 : 현대 LF쏘나타 뉴라이즈 ✔ 제품 : 사이드미러 파손 부품 ✔ 작업 : 사이드미러 유리 및 외부 커버 파손 부분수리 ✔ 작업시간 : 30분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 이번에 입고된 차량은 현대 LF쏘나타 뉴라이즈입니다. 사이드미러가 파손되어 수리를 위해 방문해 주셨습니다. 사이드미러는 주행 중 후방과 측면을 확인하는 중요한 부품입니다. 특히 거울이 깨지거나 외부 커버가 파손된 경우에는 시야 확보가 어려워지고 내부 부품까지 노출될 수 있어 빠른 점검이 필요합니다. 이번 차량은 사이드미러 전체 교체 대신 파손 부위를 중심으로 부분수리를 진행했습니다. ■ 쏘나타 뉴라이즈 사이드미러 파손 상태 입고 당시 사이드미러 상태부터 확인했습니다.",
     "points": [
       "폴딩 불량 증상과 작동 상태 확인",
       "내부 모터·기어 등 원인 부품 점검 및 부분수리",
@@ -174,8 +248,8 @@ window.WORKS_DATA = [
     "category": "옵틱글래스",
     "car": "파주 BMW X6",
     "title": "일산 파주 BMW X6 옵틱글래스 광각미러 장착, 사이드미러 사각지대 시야 개선 ㅣ 보이는 만큼 안전합니다 .",
-    "summary": "🔧 작업 내용 ✔ 차량 : BMW X6 xDrive40i ✔ 제품 : 옵틱글래스(Optic-Glass) 광각미러 ✔ 작업 : 순정 사이드미러 유리 탈거 및 광각미러 장착 ✔ 작업시간 : 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
-    "description": "🔧 작업 내용 ✔ 차량 : BMW X6 xDrive40i ✔ 제품 : 옵틱글래스(Optic-Glass) 광각미러 ✔ 작업 : 순정 사이드미러 유리 탈거 및 광각미러 장착 ✔ 작업시간 : 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 이번 작업 차량은 BMW X6입니다. 차체가 크고 높은 SUV는 운전석에서 확인할 수 있는 주변 시야가 중요한데요. 특히 차선 변경이나 좁은 도로에서의 주행, 주차 과정에서는 사이드미러를 통해 주변 차량과 장애물을 정확하게 확인하는 것이 중요합니다. 이번 BMW X6에는 기존 사이드미러보다 넓은 범위의 후측방을 확인할 수 있도록 옵틱글래스 광각미러를 장착했습니다. ■ BMW X6 사이드미러 광각미러 교체 BMW X6는 차체 크기가 상당한 SUV로, 운전 중 측면과 후측방의 시야 확보가 중요합니다.",
+    "summary": "🔧 작업 내용 ✔ 차량 : BMW X6 xDrive40i ✔ 제품 : 옵틱글래스(Optic-Glass) 광각미러 ✔ 작업 : 순정 사이드미러 유리 탈거 및 광각미러 장착 ✔ 작업시간 : 30분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
+    "description": "🔧 작업 내용 ✔ 차량 : BMW X6 xDrive40i ✔ 제품 : 옵틱글래스(Optic-Glass) 광각미러 ✔ 작업 : 순정 사이드미러 유리 탈거 및 광각미러 장착 ✔ 작업시간 : 30분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 이번 작업 차량은 BMW X6입니다. 차체가 크고 높은 SUV는 운전석에서 확인할 수 있는 주변 시야가 중요한데요. 특히 차선 변경이나 좁은 도로에서의 주행, 주차 과정에서는 사이드미러를 통해 주변 차량과 장애물을 정확하게 확인하는 것이 중요합니다. 이번 BMW X6에는 기존 사이드미러보다 넓은 범위의 후측방을 확인할 수 있도록 옵틱글래스 광각미러를 장착했습니다.",
     "points": [
       "차종과 순정 미러 사양 확인",
       "기존 미러 탈거 후 차종 전용 제품 장착",
@@ -8281,69 +8355,6 @@ window.WORKS_DATA = [
     "tags": [
       "싼타페DM 주차중 사이드리피터 파손 / 전체",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224421611974",
-    "date": "2026-09-24",
-    "category": "사이드미러",
-    "car": "그랜저TG",
-    "title": "그랜저TG / 사이드미러 소리만 나고 안접히는 증상 수리 했습니다 / 일산 사이드미러 폴딩모터 부분수리 ! [일산 파주 운정 김포 고양]",
-    "summary": "2025.9.24. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.24. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저TG 작업내용 : 사이드미러 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러가 소리만 나고 접히지 않아 수리를 위해 방문해 주신 그랜저TG 차량입니다 ! 우선 입고시 차량의 상태부터 확인해 볼게요 이러합니다 .. 소리만 윙윙 나고 동... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MjRfMTU5/MDAxNzU4Njk0NjQ4MTQ3.yexyzcTCSqwz1X_hAI_WujSdbqqQ3s_QWgxxFgkGVh0g.MoM3OGSpZdXt1eQVFjaqSEotjAeILqIPIjvesh8N8aUg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저TG · 그랜저TG / 사이드미러 소리만 나고 안접히는 증상 수리 했습니다 / 일산 사이드미러 폴딩모터 부분수리 ! [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224421611974?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저TG",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224419604026",
-    "date": "2026-09-24",
-    "category": "사이드미러",
-    "car": "[일산 파주 운정 김포 고양]",
-    "title": "[일산 파주 운정 김포 고양]",
-    "summary": "안녕하세요. 고양시 일산서구에 위치한 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해드릴 작업은 쉐보레 캡티바 사이드미러 폴딩불량 수리입니다.",
-    "description": "안녕하세요. 고양시 일산서구에 위치한 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해드릴 작업은 쉐보레 캡티바 사이드미러 폴딩불량 수리입니다. 차량을 오래 사용하다 보면 사이드미러가 예전처럼 한 번에 접히지 않거나, 모터 돌아가는 소리는 들리는데 사이드미러가 움직이지 않는 증상, 접히다가 중간에서 멈추는 증상, 한쪽 사이드미러만 정상적으로 작동하지 않는 증상 등이 발생하는 경우가 있습니다. 이럴 때 사이드미러 전체를 교체해야 하는 것으로 생각하시는 분들도 많은데요. 실제 고장 원인이 사이드미러 내부 폴딩모터나 기어에 있는 경우에는 상태에 따라 고장 부위만 수리하는 것도 가능합니다. 이번 캡티바 역시 사이드미러 전체 교체가 아닌 폴딩모터 내부를 분해해 원인을 확인하고 문제가 발생한 부분을 수리하는 방식으로 진행했습니다.",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTgz/MDAxNzkwMDQyMzUzODI5.aTGqi7aizA8KqaGhKQFTZhFA_Irg0ndd0Qf9j-4eiyMg.6jpdqh64g81ycERYsGNX9JIrV-xlSXs8zNR96Hb8QWAg.JPEG/KakaoTalk_20260916_100822404.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTQz/MDAxNzkwMDQyMzY4ODUz.kxJtO3yeacxhPR1L_3CLX11IV7HDwi0NI-QasrwvsRsg.w2Gf7GsAxtnOAWrwDnC8jxBuCpqJP3Xn4Hb_oCTYkvog.JPEG/KakaoTalk_20260916_100822404_01.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTIy/MDAxNzkwMDQyNDU0Mjc5.FxvmU2pI5eWowsgUIEidpc_kAd-v4IySjmfzGC-ByZog.o0LBqk56QFio9Egk8IIo_QXQOlJD1PYoWP-FwGw3z3Ig.JPEG/KakaoTalk_20260916_100822404_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTIw/MDAxNzkwMDQyNDc1NjU3.joIdIWfqR8x9uiVXYq9eEtaWfFUXsSuRoLo_EKp9Eegg.qE6UnR_Af0BhqyA4N7RPMFLnhbVtbNsK2ePkMd8o7qwg.JPEG/KakaoTalk_20260916_100822404_04.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMTc3/MDAxNzkwMDQyNTA0Mzgy.NZY5PZoK1UCUYSoOAJWEDCDTsdDbK-_87RqITMck6hwg.okSdIs0wi04rOXTQfmUrfvip2VrXJwYtxNwqWgbuv9gg.JPEG/KakaoTalk_20260916_100822404_05.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjA5MjJfMjMg/MDAxNzkwMDQyNTIxOTc1.W5RUPZkDjqmyVD-KdMCC6UZqKxIuHt9rHAVZCfTG-ZEg.YMubtSgf7rgPLGFwbWc8VFeyJG5WkABhtvoYCG-7-tcg.JPEG/KakaoTalk_20260916_100822404_06.jpg?type=w800"
-    ],
-    "captions": [
-      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 1",
-      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 2",
-      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 3",
-      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 4",
-      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 5",
-      "[일산 파주 운정 김포 고양] · [일산 파주 운정 김포 고양] 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224419604026?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 운정 김포 고양]",
-      "사이드미러",
-      "캡티바사이드미러,캡티바사이드미러수리,캡티바폴딩불량,사이드미러수리,사이드미러폴딩불량,사이드미러폴딩모터,사이드미러모터수리,사이드미러기어수리,사이드미러부분수리,사이드미러접힘불량,일산사이드미러수리,고양사이드미러수리,일산자동차전장,고양자동차전장,12볼트스토리"
     ],
     "source": "naver"
   }
