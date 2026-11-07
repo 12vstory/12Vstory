@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-07 08:32", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-07 12:14", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224468068221",
+    "date": "2026-11-07",
+    "category": "사이드미러",
+    "car": "스타리아",
+    "title": "일산 파주 김포 ㅣ 스타리아 SBR 작업 / 안전벨트 경고등 경고음 제거 [일산 파주 운정 김포 고양]",
+    "summary": "오늘 작업 차량은 현대 스타리아 입니다. 작업 내용은 SBR 안전벨트 경고등 및 경고음 제거 작업입니다. SBR은 쉽게 말해 Seat Belt Reminder , 즉 안전벨트 착용 알림 기능입니다.",
+    "description": "오늘 작업 차량은 현대 스타리아 입니다. 작업 내용은 SBR 안전벨트 경고등 및 경고음 제거 작업입니다. SBR은 쉽게 말해 Seat Belt Reminder , 즉 안전벨트 착용 알림 기능입니다. 스타리아 차량은 후석 탑승 감지나 안전벨트 상태에 따라 계기판, 인포테인먼트 화면, 실내 표시등 쪽으로 안전벨트 경고등과 경고음이 작동할 수 있습니다. 차량 용도나 운행 환경에 따라 후석 안전벨트 알림이 계속 표시되거나, 경고음이 반복적으로 발생해 불편함을 느끼는 경우가 있습니다. 이번 차량도 해당 증상으로 입고되어 스타리아 SBR 경고등 & 경고음 제거 작업 을 진행했습니다 작업차량 : 스타리아 작업내용 : 안전벨트 경고음 및 경고등 제거 작업시간 : 40분~1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMDdfMjU5/MDAxNzk0MDEyNDg0ODc4.8sVfTtxKqKXFhzR76DRdGeWKuL5gCmAZ1gC9DkE6K_Ig.BQHOQLT9uMeNead7gflMaFov4qn8jPJ8mjPm4Bfqmn8g.JPEG/KakaoTalk_20260706_131401817_02.jpg?type=w800",
+      "https://postfiles.pstatic.net/MjAyNjA3MDZfMTg4/MDAxNzgzMzE1MDc0OTA2.GcY-CG35E2yDnEQXQDFIi5seuWllZ7mfO2p_JFdZmUcg.h8ruQLOo6iKZyQ3jieXITKnE36CJZaoRC2trMZS6B-Ig.JPEG/KakaoTalk_20260706_131401817_01.jpg?type=w966",
+      "https://postfiles.pstatic.net/MjAyNjA3MDZfMTA1/MDAxNzgzMzE1MDc3OTQ4.8_nLkMYkpgOYGxeCpb73cdxpdWeCE8dgVJwhTTt-lvMg.Hhmyf2UnZiVpTyV5q_vb-diEzYZFjvovzx_FYkkth_kg.JPEG/KakaoTalk_20260706_131401817.jpg?type=w966",
+      "https://postfiles.pstatic.net/MjAyNjA3MDZfMjA4/MDAxNzgzMzE1MjI0OTU4.pUDND32Oexn1UAYOHwdbWF_3RfmMbgvRNNAzEGGP8Uog.1tXgpxy4ZaSiYtQbBZzg-MFHS-o2vOgxqJSvdtByscAg.JPEG/KakaoTalk_20260706_131401817_10.jpg?type=w966",
+      "https://postfiles.pstatic.net/MjAyNjA3MDZfMjk5/MDAxNzgzMzE1MjM0OTA0.dyh-X9p0KSuSzeTt7HpWyqJkvXz66TCtAezMmQ6R9sEg.P8r10M1ywW_X1mbCkWDuwHSpTQUUErMALoJRRp4A_7og.JPEG/KakaoTalk_20260706_131401817_05.jpg?type=w966",
+      "https://postfiles.pstatic.net/MjAyNjA3MDZfMjcx/MDAxNzgzMzE1MjY2NTQw._pthTdWvIw_E59TBSgUQwqVRug50OZ5gVS8kPQ-cHTMg.ljofre8gYB-1535kHcNzLjTCXpuRgBy71gNV-jBgodUg.JPEG/KakaoTalk_20260706_131401817_08.jpg?type=w966"
+    ],
+    "captions": [
+      "스타리아 · 일산 파주 김포 ㅣ 스타리아 SBR 작업 / 안전벨트 경고등 경고음 제거 [일산 파주 운정 김포 고양] 작업사진 1",
+      "스타리아 · 일산 파주 김포 ㅣ 스타리아 SBR 작업 / 안전벨트 경고등 경고음 제거 [일산 파주 운정 김포 고양] 작업사진 2",
+      "스타리아 · 일산 파주 김포 ㅣ 스타리아 SBR 작업 / 안전벨트 경고등 경고음 제거 [일산 파주 운정 김포 고양] 작업사진 3",
+      "스타리아 · 일산 파주 김포 ㅣ 스타리아 SBR 작업 / 안전벨트 경고등 경고음 제거 [일산 파주 운정 김포 고양] 작업사진 4",
+      "스타리아 · 일산 파주 김포 ㅣ 스타리아 SBR 작업 / 안전벨트 경고등 경고음 제거 [일산 파주 운정 김포 고양] 작업사진 5",
+      "스타리아 · 일산 파주 김포 ㅣ 스타리아 SBR 작업 / 안전벨트 경고등 경고음 제거 [일산 파주 운정 김포 고양] 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224468068221?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스타리아",
+      "사이드미러",
+      "스타리아SBR,스타리아안전벨트경고음,스타리아안전벨트경고등,스타리아경고음제거,스타리아시트벨트경고음,스타리아후석안전벨트,스타리아뒷좌석안전벨트,스타리아안전벨트알림,SBR경고음제거,SBR경고등제거,안전벨트경고음제거,안전벨트경고등제거,후석안전벨트경고음,뒷좌석안전벨트경고등,현대스타리아,스타리아코딩,스타리아전장작업,일산스타리아,일산전장샵,일산자동차전장,고양시전장샵,파주전장샵,김포전장샵,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224467986558",
     "date": "2026-11-07",
@@ -8329,32 +8366,6 @@ window.WORKS_DATA = [
     "tags": [
       "렉스턴 쿨맨 / 카존 3D 어라운드뷰",
       "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224422290896",
-    "date": "2026-09-25",
-    "category": "사이드미러",
-    "car": "올뉴쏘렌토UM",
-    "title": "올뉴쏘렌토UM / 사이드미러 폴딩불량 / 전체교체가 아닌 부분수리로 저렴하게 복구 가능합니다 ! / 일산 사이드미러 수리 [일산 파주 운정 김포 고양]",
-    "summary": "2025.9.25. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴쏘렌토UM 작업내용 : 사이드미러 수리 작업시간 : 40분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.25. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴쏘렌토UM 작업내용 : 사이드미러 수리 작업시간 : 40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 보조석 사이드미러가 정상적으로 동작되지 않아 수리를 위해 입고된 올뉴쏘렌토 차량입니다 우선 입고시 차량의 증상을 먼저 보여드릴게요 ! 입고시 증상은 이러합니다 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MjVfMTMx/MDAxNzU4Nzk0MjMwNjY1.natlmrP_vUeCk-mQnK7xKD0DHv5lHEVGc7s4s4Mf0_4g.AQt5r1VHO73Qjj2qKzNHXXd39Fsbq7ycvi_nFRkKpV4g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "올뉴쏘렌토UM · 올뉴쏘렌토UM / 사이드미러 폴딩불량 / 전체교체가 아닌 부분수리로 저렴하게 복구 가능합니다 ! / 일산 사이드미러 수리 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224422290896?fromRss=true&trackingCode=rss",
-    "tags": [
-      "올뉴쏘렌토UM",
-      "사이드미러"
     ],
     "source": "naver"
   }
