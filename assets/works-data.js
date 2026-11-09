@@ -1,6 +1,110 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-09 07:30", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-09 11:00", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224470006598",
+    "date": "2026-11-09",
+    "category": "블랙박스",
+    "car": "그랜드 스타렉스",
+    "title": "그랜드 스타렉스 신차패키지 / 저렴하게 꼭필요한 작업만 / 3M 썬팅 / 쿠폰썬팅 / 가성비 좋은 2채널 블랙박스 [일산 파주 운정 김포 고양]",
+    "summary": "2020.11.9. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜드스타렉스 작업내용 : 신차썬팅 / 블랙박스 작업시간 : 3시간 신차 패키지 작업을 위해 문의주시고 예약해주시고 방문해주셨습니다 ^^ 오늘 작업은 업무용 차량이다 보니 실속있게…",
+    "description": "2020.11.9. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜드스타렉스 작업내용 : 신차썬팅 / 블랙박스 작업시간 : 3시간 신차 패키지 작업을 위해 문의주시고 예약해주시고 방문해주셨습니다 ^^ 오늘 작업은 업무용 차량이다 보니 실속있게 썬팅 + 블랙박스 장착만 진행합니다 작업시 신차검수는 기본 서비스 이구요 꼼꼼하게 검수... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDExMDlfMjEy/MDAxNjA0ODg0NjI5MDQ1.qH7t1CQ0_GrCb-kyfeVUTbWh4r_LnLurfPKq4xNOQl8g.tvfBx0CmEQ-49ewYVJsrYafmu9jScgW4QuMLJLYxOFYg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "그랜드 스타렉스 · 그랜드 스타렉스 신차패키지 / 저렴하게 꼭필요한 작업만 / 3M 썬팅 / 쿠폰썬팅 / 가성비 좋은 2채널 블랙박스 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224470006598?fromRss=true&trackingCode=rss",
+    "tags": [
+      "그랜드 스타렉스",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224470006447",
+    "date": "2026-11-09",
+    "category": "블랙박스",
+    "car": "스파크 / 카존3D 어라운드뷰 / 신",
+    "title": "스파크 / 카존3D 어라운드뷰 / 신모델 H2 / 외부모니터 연동 장착 / 좁은길 주행도 좁은공간 주차도 걱정없는 /4채널 블랙박스 기능 [일산 파주 [일산 파주",
+    "summary": "2021.11.9. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 넥스트스파크 작업내용 : 카존3D어라운드뷰 H2 작업시간 : 5시간 좀더 안전하고 편하게 운행하실수 있도록 어라운드뷰 장착을 위해 예약해주시고 입고된 넥스트 스파크…",
+    "description": "2021.11.9. 5년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 넥스트스파크 작업내용 : 카존3D어라운드뷰 H2 작업시간 : 5시간 좀더 안전하고 편하게 운행하실수 있도록 어라운드뷰 장착을 위해 예약해주시고 입고된 넥스트 스파크 차량입니다 사실 이번 차량은 기존에 타사 제품이 장착되어 있었으나 A/s 관련 문제가 있어 카존 3D 어... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMTExMDlfMTIx/MDAxNjM2NDIxMDE1MzMz.IOmfDOvgR3x8ea9_GgGguqns9KpGymdF2Yfk9kLZJqMg.0zf6BVCt_mW8gb71-wKJLyrFCwJr9Bg_N1aAPNC2r7wg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "스파크 / 카존3D 어라운드뷰 / 신 · 스파크 / 카존3D 어라운드뷰 / 신모델 H2 / 외부모니터 연동 장착 / 좁은길 주행도 좁은공간 주차도 걱정없는 /4채널 블랙박스 기능 [일산 파주 [일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224470006447?fromRss=true&trackingCode=rss",
+    "tags": [
+      "스파크 / 카존3D 어라운드뷰 / 신",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224470006239",
+    "date": "2026-11-09",
+    "category": "블랙박스",
+    "car": "디스커버리5 / 아이나비 Z9500 4채널",
+    "title": "디스커버리5 / 아이나비 Z9500 4채널 블랙박스 + 주차녹화를 위한 보조배터리 / 셀스타ES90 / 배터리 방전걱정 하지 않으셔도 됩니다 [일산 파주 운정 김",
+    "summary": "2024.11.9. 2년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 디스커버리5 작업내용 : 4채널 블랙박스 + 보조배터리 작업시간 : 2시간 최근 주차중 테러를 당하셨으나 잡지 못하셨다며 4채널 블랙박스 장착을 요청해주신 디스커버리5 차…",
+    "description": "2024.11.9. 2년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 디스커버리5 작업내용 : 4채널 블랙박스 + 보조배터리 작업시간 : 2시간 최근 주차중 테러를 당하셨으나 잡지 못하셨다며 4채널 블랙박스 장착을 요청해주신 디스커버리5 차량이 입고되었습니다 기존 장착된 알수없는 2채널 블랙박스 이구요 모조리 탈거할거에요 ㅎㅎ 오늘 차량... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDExMDhfMjQ2/MDAxNzMxMDM5NDkxOTM3.IjuhXCfKcKDVi6YmDyqUGK9r7oHv0_1PzAYTEqraNFog.naTwhrDAl1udGsMp92LADvdOxr5v3MpaitCx6kUy-jAg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "디스커버리5 / 아이나비 Z9500 4채널 · 디스커버리5 / 아이나비 Z9500 4채널 블랙박스 + 주차녹화를 위한 보조배터리 / 셀스타ES90 / 배터리 방전걱정 하지 않으셔도 됩니다 [일산 파주 운정 김 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224470006239?fromRss=true&trackingCode=rss",
+    "tags": [
+      "디스커버리5 / 아이나비 Z9500 4채널",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224470005898",
+    "date": "2026-11-09",
+    "category": "블랙박스",
+    "car": "랜드로버 디팬더90 / 순정",
+    "title": "랜드로버 디팬더90 / 순정블랙박스 탈거후 / 파인뷰 LX7 Power / 룸미러형 2채널 블랙박스 / 간편한 조작 시원한 화면으로 업그레이드 하세요 [일산 파주",
+    "summary": "2024.11.9. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 디팬더90 작업내용 : 블랙박스 교체 작업시간 : 1시간30분 순정블랙박스가 장착된 디팬더 차량이 블랙박스 교체를 위해 입고되었습니다 물론 순정이 장착되어 있기는…",
+    "description": "2024.11.9. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 디팬더90 작업내용 : 블랙박스 교체 작업시간 : 1시간30분 순정블랙박스가 장착된 디팬더 차량이 블랙박스 교체를 위해 입고되었습니다 물론 순정이 장착되어 있기는 하나 .. 기능적인 부분이나 디자인적인 부분이 만족스럽지 못해 많은 분들이 교체를 진행하십니다 ! 차량에 장... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDExMDlfNTMg/MDAxNzMxMTE0OTI2MjIy.sA4NNXyZQkl8aAR3Iu33JMkOVqZwL41JCHVcZIjAJwEg.MDnYcznsydnoK7a5HYeUWSTJsr7g_4gNogQTllrC_b4g.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "랜드로버 디팬더90 / 순정 · 랜드로버 디팬더90 / 순정블랙박스 탈거후 / 파인뷰 LX7 Power / 룸미러형 2채널 블랙박스 / 간편한 조작 시원한 화면으로 업그레이드 하세요 [일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224470005898?fromRss=true&trackingCode=rss",
+    "tags": [
+      "랜드로버 디팬더90 / 순정",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224468717509",
     "date": "2026-11-08",
@@ -8262,110 +8366,6 @@ window.WORKS_DATA = [
     "tags": [
       "BMW 530i",
       "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224423013593",
-    "date": "2026-09-26",
-    "category": "올인원·카플레이",
-    "car": "벤츠 GLE350D / 직접 구매해 오신",
-    "title": "벤츠 GLE350D / 직접 구매해 오신 안드로이드 올인원 장착만 해드렸어요 ^^ / 안드로이드 올인원 설치 전문점 12볼트스토리 [일산 파주 운정 김포 고양]",
-    "summary": "2024.9.26. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : GLE350D 작업내용 : 안드로이드 올인원 작업시간 : 1시간30분 직구로 구매하신 안드로이드 올인원 장착을 위해 예약해주시고 방문해 주신 벤츠GLE 차량입니다 입고시 차량에 장착…",
-    "description": "2024.9.26. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : GLE350D 작업내용 : 안드로이드 올인원 작업시간 : 1시간30분 직구로 구매하신 안드로이드 올인원 장착을 위해 예약해주시고 방문해 주신 벤츠GLE 차량입니다 입고시 차량에 장착되어 있는 순정 모니터의 모습입니다 음... 뭔가 조화롭지 못하죠 ?? 편의성까지 잡을수 있... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종별 순정 오디오·모니터 구성 확인",
-      "마감재와 인터페이스를 맞춰 기능 연동",
-      "카플레이·안드로이드오토 및 순정 기능 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjZfNTEg/MDAxNzI3MzExMTQ1Mzg4.mXj8JXLOBG4RsWdyi4E_58Zbq9fhFvRN2H1BbdNHv5gg.TSMJKp-2N7osh-RBGGC7SCIPxemVGYdR129gqfEoUIwg.PNG/%C5%B8%C0%CC%C6%B2_%282%29.png?type=ffn480_320"
-    ],
-    "captions": [
-      "벤츠 GLE350D / 직접 구매해 오신 · 벤츠 GLE350D / 직접 구매해 오신 안드로이드 올인원 장착만 해드렸어요 ^^ / 안드로이드 올인원 설치 전문점 12볼트스토리 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224423013593?fromRss=true&trackingCode=rss",
-    "tags": [
-      "벤츠 GLE350D / 직접 구매해 오신",
-      "올인원·카플레이"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224423013514",
-    "date": "2026-09-26",
-    "category": "블랙박스",
-    "car": "모하비",
-    "title": "모하비 LX7 룸미러 블랙박스 + 오래된 보조배터리 교체 / 셀스타NX50 / 보조배터리 장착으로 안정적인 주차녹화가 가능합니다 [일산 파주 운정 김포 고양]",
-    "summary": "2024.9.26. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 블랙박스 + 보조배터리 작업시간 1시간 블랙박스 장착을 위해 입고된 모하비 차량입니다 이미 기존에 12볼트스토리를 방문하신적이 있으신 고객님이세요 오늘 차량에 장…",
-    "description": "2024.9.26. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 모하비 작업내용 : 블랙박스 + 보조배터리 작업시간 1시간 블랙박스 장착을 위해 입고된 모하비 차량입니다 이미 기존에 12볼트스토리를 방문하신적이 있으신 고객님이세요 오늘 차량에 장착될 제품은 파인뷰LX7 룸미러타입 블랙박스이구요 실내형으로 장착 예정입니다 그리고... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjZfNDYg/MDAxNzI3MzExMjg5Mjc1.HC4Y-aZ4xsdzMAbtPoH1Ae6SHUlbtFpTyWS-FnWUbQMg.xS9hV7yDtnJ_jB0RrMBBmIrrtZqlqPc6WfaMgb3l2Lsg.PNG/%C5%B8%C0%CC%C6%B21.png?type=ffn480_320"
-    ],
-    "captions": [
-      "모하비 · 모하비 LX7 룸미러 블랙박스 + 오래된 보조배터리 교체 / 셀스타NX50 / 보조배터리 장착으로 안정적인 주차녹화가 가능합니다 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224423013514?fromRss=true&trackingCode=rss",
-    "tags": [
-      "모하비",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224423013396",
-    "date": "2026-09-26",
-    "category": "사이드미러",
-    "car": "그랜저 IG",
-    "title": "그랜저 IG 사이드미러 접힘 펴짐 동작불량. 폴딩모터 부분교체로 저렴하게 수리 해드린 후기 보여드릴게요! 전체교체 하시면 비싸요. [일산 파주 운정 김포 고양]",
-    "summary": "2025.9.26. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저IG 작업내용 : 사이드미러 부분수리 작업시간 : 40분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.26. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저IG 작업내용 : 사이드미러 부분수리 작업시간 : 40분 12볼트스토리 채널홈을 폰으로 접속해보세요. 그랜저IG 차량이 입고되었습니다 입고된 차량은 사이드미러가 폴딩이 되지않아서 입고되었는데요 차량이 고급차량이다보니 사이드미러 금액도 당연히 비싸겟죠 ?? 그... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MjZfMjI3/MDAxNzU4ODQ5NDU1Nzg5.7t9r9K3OhLtKVDosORBk4xZLwr64Ds2MT1TNZCBqTckg.YrT_MaHiXF7_QXH5MIo9J-Vnu6JlGcSx7KTYRqpkt_Mg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저 IG · 그랜저 IG 사이드미러 접힘 펴짐 동작불량. 폴딩모터 부분교체로 저렴하게 수리 해드린 후기 보여드릴게요! 전체교체 하시면 비싸요. [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224423013396?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저 IG",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224423013326",
-    "date": "2026-09-26",
-    "category": "사이드미러",
-    "car": "팰리세이드",
-    "title": "일산 팰리세이드 사이드미러수리 / 주차중 사이드리피터 파손과 / 도어 하단 몰딩 파손으로 부분교체 / 간편하고 저렴하게 수리 가능합니다 ! [일산 파주 운정 김포",
-    "summary": "2025.9.26. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 팰리세이드 작업내용 : 사이드미러 / 도어몰딩 부분교체 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "description": "2025.9.26. 1년 전 오늘 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 팰리세이드 작업내용 : 사이드미러 / 도어몰딩 부분교체 작업시간 : 1시간 이내 12볼트스토리 채널홈을 폰으로 접속해보세요. 팰리세이드 차량이 주차중 충격으로인해 사이드리피터 파손으로 입고되었습니다 입고된 차량의 사이드미러 모습인데요 .. . 습기가 차고 가운데 구멍... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MjZfMTQy/MDAxNzU4ODQ5OTc0NzAx.wrnVAYCD5PxTg1F4ti5EH8GRq2CvuYtMeP9ZxFSkPmcg.qi0k7GBAR48UTe01wqtFhAP1sS_U_2w48Yk_E43Z1iIg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "팰리세이드 · 일산 팰리세이드 사이드미러수리 / 주차중 사이드리피터 파손과 / 도어 하단 몰딩 파손으로 부분교체 / 간편하고 저렴하게 수리 가능합니다 ! [일산 파주 운정 김포 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224423013326?fromRss=true&trackingCode=rss",
-    "tags": [
-      "팰리세이드",
-      "사이드미러"
     ],
     "source": "naver"
   }
