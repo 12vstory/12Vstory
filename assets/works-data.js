@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-10 11:58", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-10 20:16", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224471492816",
+    "date": "2026-11-10",
+    "category": "사이드미러",
+    "car": "니로 하이브리드",
+    "title": "일산 파주 니로 하이브리드 비상등 됐다 안 됐다? 통째로 교체하지 마세요! 스위치 부분수리로 완벽하게 수리 가능합니다 !",
+    "summary": "🔧 작업 내용 ✔ 차량 : 기아 니로 하이브리드 ✔ 제품 : 순정 비상등 스위치 ✔ 작업 : 비상등 스위치 간헐적 작동불량 부분수리 ✔ 작업시간 : 약 40분~1시간 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
+    "description": "🔧 작업 내용 ✔ 차량 : 기아 니로 하이브리드 ✔ 제품 : 순정 비상등 스위치 ✔ 작업 : 비상등 스위치 간헐적 작동불량 부분수리 ✔ 작업시간 : 약 40분~1시간 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해 드릴 차량은 기아 니로 하이브리드입니다. 이번 차량은 비상등 스위치를 눌러도 작동하지 않다가, 다시 누르면 정상적으로 작동하는 간헐적인 고장 증상으로 수리를 진행했습니다. 분명 방금 전에는 작동했는데 다시 누르면 먹통! 이처럼 비상등 스위치가 됐다 안 됐다 하는 증상은 운전자 입장에서 상당히 불편하고 신경 쓰이는 문제입니다. 특히 비상등은 긴급 상황에서 사용하는 중요한 기능이기 때문에 작동이 불안정하다면 점검이 필요합니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTBfMTYy/MDAxNzk0MjgxMTU2NzU4.DXdWUKL286SsUPr_ZHT4VWTBJfzZnsa1GKO0C6UJ1PQg.nD-QLoPVG7X9UpzQPW34-mnbirvsW0ktwy20N7zysX0g.JPEG/KakaoTalk_20261110_120416186_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTBfODUg/MDAxNzk0MjgxMjIzOTQx.Lh8wB4xOeXKmeyp52E2uUS7Jo-3a7khKm15OgmMtZDIg.d94wBCbdW8gI6RJdbAGiGyWpwqtb0sg94tRaVTXAkHcg.JPEG/KakaoTalk_20261110_120416186_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTBfMTk5/MDAxNzk0MjgxMjM2NTgz.wpIvqg915Z1QHs_nS89ldJjRx2ZjkIcSssZBnhEu1mEg.RVCxPq7MYD5KtI8yWh_xwBW6j2SmaUmLFxv0VGcC4K0g.JPEG/KakaoTalk_20261110_120416186_03_(1).jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTBfMjA2/MDAxNzk0MjgxMjQ2MDM2.vniUwbAh9doLoFiTyggTqk5mruutLt_rsMqj1hHaJ3wg.n3iyl0qcg3u3S510nmzXHwso493FFUJ4fgZnMXsjq0Ug.JPEG/KakaoTalk_20261110_120416186_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTBfMjMw/MDAxNzk0MjgxMjU4MjQ0.k_Yu5uoK2Lq-ctZoihhLZ5_x1En17nb6x6xYfJUseT4g.pwhFX2VWmlwG_NHncEhLj1rxQ8cJwqDguAHUxwRP250g.JPEG/KakaoTalk_20261110_120416186_05.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTBfNDkg/MDAxNzk0MjgxMzQxNzM2.NZXjETl_rfm4P8i8rrYPqvUkFVFUtyGscQFHSqBMCyUg.KUw47zIIGrjxuxAzgvJLIxBjfxrbrRNGXQJqAh5juSMg.JPEG/KakaoTalk_20261110_120416186.jpg?type=w800"
+    ],
+    "captions": [
+      "니로 하이브리드 · 일산 파주 니로 하이브리드 비상등 됐다 안 됐다? 통째로 교체하지 마세요! 스위치 부분수리로 완벽하게 수리 가능합니다 ! 작업사진 1",
+      "니로 하이브리드 · 일산 파주 니로 하이브리드 비상등 됐다 안 됐다? 통째로 교체하지 마세요! 스위치 부분수리로 완벽하게 수리 가능합니다 ! 작업사진 2",
+      "니로 하이브리드 · 일산 파주 니로 하이브리드 비상등 됐다 안 됐다? 통째로 교체하지 마세요! 스위치 부분수리로 완벽하게 수리 가능합니다 ! 작업사진 3",
+      "니로 하이브리드 · 일산 파주 니로 하이브리드 비상등 됐다 안 됐다? 통째로 교체하지 마세요! 스위치 부분수리로 완벽하게 수리 가능합니다 ! 작업사진 4",
+      "니로 하이브리드 · 일산 파주 니로 하이브리드 비상등 됐다 안 됐다? 통째로 교체하지 마세요! 스위치 부분수리로 완벽하게 수리 가능합니다 ! 작업사진 5",
+      "니로 하이브리드 · 일산 파주 니로 하이브리드 비상등 됐다 안 됐다? 통째로 교체하지 마세요! 스위치 부분수리로 완벽하게 수리 가능합니다 ! 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224471492816?fromRss=true&trackingCode=rss",
+    "tags": [
+      "니로 하이브리드",
+      "사이드미러",
+      "니로하이브리드,니로하이브리드비상등,니로비상등수리,니로비상등고장,니로비상등스위치,비상등스위치고장,비상등스위치수리,비상등안눌림,비상등먹통,비상등접촉불량,자동차비상등수리,자동차스위치부분수리,니로오디오탈거,일산비상등수리,파주비상등수리,김포비상등수리,운정자동차수리,일산자동차용품,고양자동차전장,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224471389372",
     "date": "2026-11-10",
@@ -8340,32 +8377,6 @@ window.WORKS_DATA = [
     "tags": [
       "사이드미러 폴딩불량 / 싼타페CM더스",
       "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224424481495",
-    "date": "2026-09-28",
-    "category": "블랙박스",
-    "car": "GV80",
-    "title": "GV80 / 원테이크 DCM / 디지털 센터 미러 / 디지털룸미러 /실내형 장착 / 날씨와 상관없이 밝고 선명하게 후방을 확인하실수 있습니다 [일산 파주 운정 김",
-    "summary": "2024.9.28. 2년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : GV80 작업내용 : 원테이크 디지털센터룸미러 작업시간 : 1시간 GV80 차량이 원테이크 DCM(디지털 센터미러) 디지털 룸미러 작업을 위해 예약해 주시고 방문해주셨습니…",
-    "description": "2024.9.28. 2년 전 오늘 포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : GV80 작업내용 : 원테이크 디지털센터룸미러 작업시간 : 1시간 GV80 차량이 원테이크 DCM(디지털 센터미러) 디지털 룸미러 작업을 위해 예약해 주시고 방문해주셨습니다 원테이크에서 나오는 디지털센터미러 제품은 몇가지 타입이 있는데요 블랙박스가 되는 모델과 안되... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjhfMTAy/MDAxNzI3NDk3NDI2NzU0.1ssauoCEbMn5OQ3eHi5NsMKa0e6xvwWjWh6VsYI_Q1kg.18XxazKi6ZKjyTgaLxtpN8OPU2aWChY0Fu6ev5d7-7Eg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "GV80 · GV80 / 원테이크 DCM / 디지털 센터 미러 / 디지털룸미러 /실내형 장착 / 날씨와 상관없이 밝고 선명하게 후방을 확인하실수 있습니다 [일산 파주 운정 김 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224424481495?fromRss=true&trackingCode=rss",
-    "tags": [
-      "GV80",
-      "블랙박스"
     ],
     "source": "naver"
   }
