@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-11 08:45", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-11 12:07", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224472651935",
+    "date": "2026-11-11",
+    "category": "옵틱글래스",
+    "car": "파주 포드 익스플로러",
+    "title": "일산 파주 포드 익스플로러 사이드미러 시야가 답답하다면? 옵틱글래스 광각미러 교체 ㅣ 옵틱글래스 광각미러 지정장착점",
+    "summary": "🔧 작업 내용 ✔ 차량 : 포드 익스플로러 리미티드 4WD ✔ 제품 : 옵틱글래스(Optic-Glass) 광각미러 ✔ 작업 : 운전석·조수석 사이드미러 광각미러 교체 포드 익스플로러 사이드미러, 조금 더 넓은 시야를 확보할 수 없을까요? 안녕하세요.",
+    "description": "🔧 작업 내용 ✔ 차량 : 포드 익스플로러 리미티드 4WD ✔ 제품 : 옵틱글래스(Optic-Glass) 광각미러 ✔ 작업 : 운전석·조수석 사이드미러 광각미러 교체 포드 익스플로러 사이드미러, 조금 더 넓은 시야를 확보할 수 없을까요? 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개할 차량은 포드 익스플로러입니다. 차체가 큰 SUV는 차선 변경이나 주차할 때 사이드미러로 확인할 수 있는 범위가 중요합니다. 특히 옆 차선의 차량이나 가까운 측면 공간을 확인할 때 조금 더 넓은 시야가 필요하다고 느끼는 분들도 계실 텐데요. 이번 작업은 사이드미러 전체를 교체하는 것이 아니라 기존 미러 유리를 옵틱글래스 광각미러로 교체하는 시공입니다.",
+    "points": [
+      "차종과 순정 미러 사양 확인",
+      "기존 미러 탈거 후 차종 전용 제품 장착",
+      "장착 후 좌우 시야와 관련 기능 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTFfNjYg/MDAxNzk0MzU5MzYxNzk4.bo2NDNH6UrLuUKki8jEKgc0Vhc2NCO1CNV0m78Nps8gg.L4ROCAk10d_t929R1mWLwUdPO4m1ZA3TK7AVlrY0x2Ag.JPEG/KakaoTalk_20261111_092131142_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTFfMjA3/MDAxNzk0MzU5MzcyMzE3.9yDTR5GpQBX2ZwaLo6NZV_Q20IAzuWCLVQPLyvNaNw4g.GVj2mrjYOAge5vD2q_kNP69154LLHc6B6SGotepCkygg.JPEG/KakaoTalk_20261111_092131142_08.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTFfMjYg/MDAxNzk0MzU5MzgxMjYw.QDkqvGz0BZopqf7xWOJO6EeaVxPrVd7AaUayYkLpfdYg.DghMZHAXDfoQK0HjxqxvMxYjn26Md87zm0PnH_3CBh8g.JPEG/KakaoTalk_20261111_092131142_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTFfMjgx/MDAxNzk0MzU5Mzk0MDc2.WNSZXfDpMgDfcIw4qz4AC8irlDHa3cVKjemZSP3n-60g.H4uz1DeVuua2fvuJV6Et52Ch-3dcYksmvAgtHFm532wg.JPEG/KakaoTalk_20261111_092131142_03.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTFfMjkg/MDAxNzk0MzU5Mzk0MTAy.Duaq8M2O6KRGY4_B-6VEabX3E4QfPYwN8C9PhP6GVbkg.uG-mZyOc-jLG-yVawVAfnd5IHXy-UKwI0AxLg1ZgVZgg.JPEG/KakaoTalk_20261111_092131142_05.jpg?type=w400",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTFfMTg2/MDAxNzk0MzU5NDE0NDE5.MzsJ0Rz7wXQTEvM9T9M3Tzou-V0i5ZJnfIibw2FrWbQg.FdKtnqEYXcj_AXPtfGucP97-sDtM7ef9ukaAdfIN4WYg.JPEG/KakaoTalk_20261111_092131142_06.jpg?type=w400"
+    ],
+    "captions": [
+      "파주 포드 익스플로러 · 일산 파주 포드 익스플로러 사이드미러 시야가 답답하다면? 옵틱글래스 광각미러 교체 ㅣ 옵틱글래스 광각미러 지정장착점 작업사진 1",
+      "파주 포드 익스플로러 · 일산 파주 포드 익스플로러 사이드미러 시야가 답답하다면? 옵틱글래스 광각미러 교체 ㅣ 옵틱글래스 광각미러 지정장착점 작업사진 2",
+      "파주 포드 익스플로러 · 일산 파주 포드 익스플로러 사이드미러 시야가 답답하다면? 옵틱글래스 광각미러 교체 ㅣ 옵틱글래스 광각미러 지정장착점 작업사진 3",
+      "파주 포드 익스플로러 · 일산 파주 포드 익스플로러 사이드미러 시야가 답답하다면? 옵틱글래스 광각미러 교체 ㅣ 옵틱글래스 광각미러 지정장착점 작업사진 4",
+      "파주 포드 익스플로러 · 일산 파주 포드 익스플로러 사이드미러 시야가 답답하다면? 옵틱글래스 광각미러 교체 ㅣ 옵틱글래스 광각미러 지정장착점 작업사진 5",
+      "파주 포드 익스플로러 · 일산 파주 포드 익스플로러 사이드미러 시야가 답답하다면? 옵틱글래스 광각미러 교체 ㅣ 옵틱글래스 광각미러 지정장착점 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224472651935?fromRss=true&trackingCode=rss",
+    "tags": [
+      "파주 포드 익스플로러",
+      "옵틱글래스",
+      "일산광각미러,파주광각미러,포드익스플로러,익스플로러광각미러,익스플로러사이드미러,익스플로러옵틱글래스,옵틱글래스,옵틱글래스광각미러,사이드미러교체,수입차광각미러,수입차사이드미러,일산자동차용품,파주자동차용품,고양시자동차용품,덕이동자동차용품,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224471492816",
     "date": "2026-11-10",
@@ -8350,32 +8387,6 @@ window.WORKS_DATA = [
     "blog": "https://blog.naver.com/uh2816/224424481750?fromRss=true&trackingCode=rss",
     "tags": [
       "제네시스 BH",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224424481629",
-    "date": "2026-09-28",
-    "category": "사이드미러",
-    "car": "사이드미러 폴딩불량 / 싼타페CM더스",
-    "title": "사이드미러 폴딩불량 / 싼타페CM더스타일 / 사이드미러 안접히는증상 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 !![일산 파주 운정 김포 고양]",
-    "summary": "2021.9.28. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페 CM 더스타일 작업내용 : 사이드미러 수리 작업시간 : 30분 사이드미러 고장으로 인해 입고된 싼타페 CM 차량입니다 오늘 입고된 차량의 증상은 모터돌아가는 소리만 나고 전혀…",
-    "description": "2021.9.28. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페 CM 더스타일 작업내용 : 사이드미러 수리 작업시간 : 30분 사이드미러 고장으로 인해 입고된 싼타페 CM 차량입니다 오늘 입고된 차량의 증상은 모터돌아가는 소리만 나고 전혀 사이드미러가 움직이지 않는 상태입니다 .. 보조석이 접히지 않고 펴져 있는게 보이시죠 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTA5MjhfMjc3/MDAxNjMyODA5MTkyNDc1.Jzzqh97SSFcLeYNPxyV7Le06Gq9W1ReMkkoT5gC830wg.969qD-so-ai3wgFhzjnWipAZ02T4IZ6zoHw8QOf4-Scg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "사이드미러 폴딩불량 / 싼타페CM더스 · 사이드미러 폴딩불량 / 싼타페CM더스타일 / 사이드미러 안접히는증상 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 !![일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224424481629?fromRss=true&trackingCode=rss",
-    "tags": [
-      "사이드미러 폴딩불량 / 싼타페CM더스",
       "사이드미러"
     ],
     "source": "naver"
