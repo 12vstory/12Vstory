@@ -1,6 +1,43 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-16 06:51", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-16 11:11", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224478762765",
+    "date": "2026-11-16",
+    "category": "사이드미러",
+    "car": "파주 트레일블레이저",
+    "title": "일산 파주 트레일블레이저 사이드미러 파손! 통째 교체 대신 부분수리로 해결 / 저렴하게 원상복구 해드렸어요 !",
+    "summary": "🔧 작업 내용 ✔ 차량 : 쉐보레 트레일블레이저 RS ✔ 제품 : 사이드미러 기존 부품 활용 및 파손 부위 부분수리 ✔ 작업 : 사이드미러 파손 부위 분해 및 복원 ✔ 작업시간 : 40분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다.",
+    "description": "🔧 작업 내용 ✔ 차량 : 쉐보레 트레일블레이저 RS ✔ 제품 : 사이드미러 기존 부품 활용 및 파손 부위 부분수리 ✔ 작업 : 사이드미러 파손 부위 분해 및 복원 ✔ 작업시간 : 40분 안녕하세요. 일산 자동차 전장 전문점 12볼트스토리입니다. 오늘 소개해 드릴 차량은 선명한 블루 컬러가 인상적인 쉐보레 트레일블레이저 RS입니다. 이번 차량은 외부 충격으로 사이드미러가 파손되어 부분수리를 위해 입고되었습니다. 사이드미러가 파손되면 무조건 통째로 교체해야 한다고 생각하시는 분들이 많은데요. 파손 범위와 내부 부품 상태에 따라 필요한 부분만 수리하는 방법도 있습니다. 트레일블레이저 사이드미러 파손 상태 입고 당시 사이드미러 모습입니다.",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTZfMTcg/MDAxNzk0NzkxMzcwNjE2.4fvIOlkMEnCnJ2b6gPJ2t2LV6du2p_fuPn_YOnMuc90g.pJRUdpuR7H8kJfNLWA2oZm4UydZHqH5uhZEsEH3bvYsg.JPEG/KakaoTalk_20261116_093237339_01.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTZfNDQg/MDAxNzk0NzkxMzgwOTky.5PdcOZkoCu83eUWmADyJBkgkJHhg25izGFvygIAKThIg.D_k5LW6TqXanECD5u3rK9vPD365VChE2XEEFsQK9_UAg.JPEG/KakaoTalk_20261116_093237339_02.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTZfMjE4/MDAxNzk0NzkxMzk1Nzkz.VMDsPj3c7pf3UFPNULbsKl6FPSmIVVchD_bXwtkoJMQg.O9FJCxOQaxPi51fvrkAreHgBodjx395BRWK_DiB6-OUg.JPEG/KakaoTalk_20261116_093237339_03.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTZfMjMw/MDAxNzk0NzkxNDExNTA2.e2mg0xc0ULkiHASldDN6uyVq9cy7eLCnNA8DaUEunHog.b9ngW5InXl7HoffBt1ivMZAQB6uBKqX-E1gvS4rlJtcg.JPEG/KakaoTalk_20261116_093237339_04.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTZfMTE3/MDAxNzk0NzkxNDI4NTAy.SXAuNqVNJthm27BnhLK3RdNMFb8C2B_gxKYQnQnZxKog.U4zlM_c1EsE-hDCkEMrdT6sXZmmqSZL626yaJ--vjfkg.JPEG/KakaoTalk_20261116_093237339_06.jpg?type=w800",
+      "https://mblogthumb-phinf.pstatic.net/MjAyNjExMTZfOTQg/MDAxNzk0NzkxNDYwMzE2.7Pv2vKye2W5BzqeLzf_E8sEr1Ij8mX7Hr_gi3h0bb_wg._qNQBJg0Pj3dQUFgEofnF3sqiC6uPv9a9v91j8FUn9Yg.JPEG/KakaoTalk_20261116_093237339_07.jpg?type=w800"
+    ],
+    "captions": [
+      "파주 트레일블레이저 · 일산 파주 트레일블레이저 사이드미러 파손! 통째 교체 대신 부분수리로 해결 / 저렴하게 원상복구 해드렸어요 ! 작업사진 1",
+      "파주 트레일블레이저 · 일산 파주 트레일블레이저 사이드미러 파손! 통째 교체 대신 부분수리로 해결 / 저렴하게 원상복구 해드렸어요 ! 작업사진 2",
+      "파주 트레일블레이저 · 일산 파주 트레일블레이저 사이드미러 파손! 통째 교체 대신 부분수리로 해결 / 저렴하게 원상복구 해드렸어요 ! 작업사진 3",
+      "파주 트레일블레이저 · 일산 파주 트레일블레이저 사이드미러 파손! 통째 교체 대신 부분수리로 해결 / 저렴하게 원상복구 해드렸어요 ! 작업사진 4",
+      "파주 트레일블레이저 · 일산 파주 트레일블레이저 사이드미러 파손! 통째 교체 대신 부분수리로 해결 / 저렴하게 원상복구 해드렸어요 ! 작업사진 5",
+      "파주 트레일블레이저 · 일산 파주 트레일블레이저 사이드미러 파손! 통째 교체 대신 부분수리로 해결 / 저렴하게 원상복구 해드렸어요 ! 작업사진 6"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224478762765?fromRss=true&trackingCode=rss",
+    "tags": [
+      "파주 트레일블레이저",
+      "사이드미러",
+      "일산사이드미러수리,파주사이드미러수리,김포사이드미러수리,트레일블레이저사이드미러,트레일블레이저사이드미러수리,트레일블레이저RS,사이드미러파손,사이드미러부분수리,사이드리피터수리,일산자동차수리,일산자동차용품,12볼트스토리"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224477737775",
     "date": "2026-11-15",
@@ -8318,43 +8355,6 @@ window.WORKS_DATA = [
       "제네시스 BH",
       "옵틱글래스",
       "제네시스BH,제네시스BH330,제네시스사이드미러,제네시스BH사이드미러,제네시스사이드미러수리,BH사이드미러수리,사이드미러수리,사이드미러폴딩불량,사이드미러안접힘,사이드미러기어,사이드미러폴딩기어,사이드미러부분수리,일산사이드미러수리,고양사이드미러수리,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224433037553",
-    "date": "2026-10-06",
-    "category": "옵틱글래스",
-    "car": "폴스타 4",
-    "title": "폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리",
-    "summary": "안녕하세요! 경기도 고양시 일산서구에 위치한 자동차 전장 전문점 **12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 차량은 독특한 디자인과 첨단 기술이 돋보이는 전기차, **폴스타4(Polestar 4)**입니다.",
-    "description": "안녕하세요! 경기도 고양시 일산서구에 위치한 자동차 전장 전문점 **12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 차량은 독특한 디자인과 첨단 기술이 돋보이는 전기차, **폴스타4(Polestar 4)**입니다. 이번 작업은 폴스타4에 파인뷰 LXQ EX 2채널 블랙박스와 셀스타 ES90 블랙박스 보조배터리 를 함께 설치한 사례입니다. 전기차에 블랙박스를 장착할 때는 제품의 녹화 성능도 중요하지만, 차량 전원과 주차 중 전력 사용, 배선 처리 방법까지 함께 고려해야 합니다. 특히 폴스타4는 일반적인 차량과 후방 구조가 다르기 때문에 후방카메라의 설치 위치도 꼼꼼하게 살펴봐야 합니다. 이번 포스팅에서는 실제 장착 사진을 통해 설치 과정과 주요 확인 사항을 자세히 소개해 드리겠습니다. 1.",
-    "points": [
-      "차종과 순정 미러 사양 확인",
-      "기존 미러 탈거 후 차종 전용 제품 장착",
-      "장착 후 좌우 시야와 관련 기능 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMTQ3/MDAxNzkxMjY3NDA5ODY4.3Pqsqk9cQQbib4DSqTr6A15Bxzl7ocui_emzluVsQkcg.CJzJUSdVkK4DKrmFCf8u-eS7wkQV9wCgSRISS6KZHRgg.JPEG/KakaoTalk_20261006_144508417.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMTU4/MDAxNzkxMjY3NDQwOTM1.ESMp2I5P41ykd7XWRiYHSlQ_A5AQl1yW0p1CuM7R5-4g.G1AqB_orlVWRSrw_zxY6J1fFsxVbW_3feF3MC6SwzLsg.JPEG/KakaoTalk_20261006_144508417_01.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMiAg/MDAxNzkxMjY3NDg3ODky.OVHRbGhqp0fu1UEQAszQdtbMzlFTRLe71m1smdEPGCkg.Iqa_dq7fSyHTycqjt9O4x_JcvAghuYllBMm5XY3j_-wg.JPEG/KakaoTalk_20261006_144508417_04.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfNzAg/MDAxNzkxMjY3NTE1ODk5.I3jHNefeaVXjUvK6T8p0fvHZyR2Z22g6DOvAPPVGRxcg.LckywDKsojFL4x0eX7wKi2mW27YNrV0FEBv7r6XvADcg.JPEG/KakaoTalk_20261006_144508417_09.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfMTIx/MDAxNzkxMjY3NTcxMzY1.Zz6SSx7AK5Mn_0aykLi8QkcVMXEzAWKi-CRhQ_n5X1gg.I4kGSheQsgOhK6LapJoRFU1msB8z7sxKzzxFQVh7ZSIg.JPEG/KakaoTalk_20261006_144508417_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDZfNDIg/MDAxNzkxMjY3ODk4NDQ2.KczCiyQImremw12ezo21DZo01ZnThaEomZNR2blSfIMg.z9YaTYO-PvtOxXR1gnjDctWwsy0SH9oVL7Aiija0EHUg.JPEG/KakaoTalk_20261006_144508417_08.jpg?type=w800"
-    ],
-    "captions": [
-      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 1",
-      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 2",
-      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 3",
-      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 4",
-      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 5",
-      "폴스타 4 · 폴스타4 블랙박스 설치, 파인뷰 LXQ EX·셀스타 ES90 보조배터리 장착 | 일산 12볼트스토리 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224433037553?fromRss=true&trackingCode=rss",
-    "tags": [
-      "폴스타 4",
-      "옵틱글래스",
-      "폴스타4,폴스타4블랙박스,폴스타4블랙박스설치,폴스타4보조배터리,폴스타4블랙박스장착,파인뷰LXQEX,LXQEX,셀스타ES90,블랙박스보조배터리,폴스타4후방카메라,폴스타4시거잭,전기차블랙박스,전기차보조배터리,일산블랙박스,일산보조배터리,고양시블랙박스,파주블랙박스,김포블랙박스,12볼트스토리"
     ],
     "source": "naver"
   }
