@@ -1,6 +1,162 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-18 20:46", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-19 04:38", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224482733323",
+    "date": "2026-11-19",
+    "category": "블랙박스",
+    "car": "[일산 파주 운정 김포 고양] 올뉴스",
+    "title": "[일산 파주 운정 김포 고양] 올뉴스포티지 QL / 꼼꼼한신차검수 / 신차패키지 / 전면썬팅 + 쿠폰썬팅 + 2채널 블랙박스",
+    "summary": "2018.11.19. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴스포티지 QL 더볼드 작업내용 : 신차검수 / 썬팅 / 블랙박스 작업시간 : 2시간 캐리어를 이용해 입고된 차량을 인수전 검수를 진행하고 있습니다 인수서명을 하는 순간부터…",
+    "description": "2018.11.19. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 올뉴스포티지 QL 더볼드 작업내용 : 신차검수 / 썬팅 / 블랙박스 작업시간 : 2시간 캐리어를 이용해 입고된 차량을 인수전 검수를 진행하고 있습니다 인수서명을 하는 순간부터는 되돌릴수 없습니다 !! 그래서 사전에 꼼꼼하게 검수를 하는것이 최선의 방법입니다 여기저기... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODExMTlfMjIw/MDAxNTQyNTg5NjE1MjAw.ANIU2mqoluew-csqH8EJXiFzjW1xBG90T649DnutciMg.bNdqI0hd3wy8r6G1JcDZ_9AKs6LpV1HGANfei7fJi-cg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 올뉴스 · [일산 파주 운정 김포 고양] 올뉴스포티지 QL / 꼼꼼한신차검수 / 신차패키지 / 전면썬팅 + 쿠폰썬팅 + 2채널 블랙박스 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224482733323?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 올뉴스",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224482733202",
+    "date": "2026-11-19",
+    "category": "블랙박스",
+    "car": "기아 봉고3 / 2채널",
+    "title": "기아 봉고3 / 2채널 블랙박스 장착 / 폰터스 SB280 [일산 파주 운정 김포 고양]",
+    "summary": "2020.11.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 봉고3 작업내용 : 2채널 블랙박스 장착 작업시간 : 40분 2채널 블랙박스 장착을 위해 입고된 봉고3 차량입니다 업무용으로 사용하시는 차량이다보니 물건의 분실과 운행중 일어날지…",
+    "description": "2020.11.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 봉고3 작업내용 : 2채널 블랙박스 장착 작업시간 : 40분 2채널 블랙박스 장착을 위해 입고된 봉고3 차량입니다 업무용으로 사용하시는 차량이다보니 물건의 분실과 운행중 일어날지 모르는 사고를 대비해서 장착하신다고 합니다 오늘 차량에 장착될 제품은 폰터스 에서 나오는 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDExMTlfMjY5/MDAxNjA1NzQ5MDg3MzY4.WHBT6QoXEyWQcGNOhf4L-QCkI77-nAd1DThUc_4L4sgg.m8xiNcNt4LzLlCOUC8Uj_fxS-hnHNKy1RULWIDLPigYg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "기아 봉고3 / 2채널 · 기아 봉고3 / 2채널 블랙박스 장착 / 폰터스 SB280 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224482733202?fromRss=true&trackingCode=rss",
+    "tags": [
+      "기아 봉고3 / 2채널",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224482733120",
+    "date": "2026-11-19",
+    "category": "기타작업",
+    "car": "현대 코나 / 실내무드등 / 1열 +",
+    "title": "현대 코나 / 실내무드등 / 1열 + 2열 / RGB풋등 / 소리반응형 / 리모콘타입 [일산 파주 운정 김포 고양]",
+    "summary": "2020.11.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 코나 작업내용 : RGB무드등 / 풋등 작업시간 : 1시간 이내 출고된지 얼마 되지 않은 코나 차량이 입고되었습니다 오늘 작업은 RGB 소리반응형 풋등 시공이구요 리모콘으로 컨트롤…",
+    "description": "2020.11.19. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 코나 작업내용 : RGB무드등 / 풋등 작업시간 : 1시간 이내 출고된지 얼마 되지 않은 코나 차량이 입고되었습니다 오늘 작업은 RGB 소리반응형 풋등 시공이구요 리모콘으로 컨트롤 가능하며 색상변환 가능합니다 ~~ 우선 작업전 차량의 모습이구요 미등이 켜진 상태인데 허... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDExMTlfMjc0/MDAxNjA1NzQ5ODY5NTM5.-qhMnL8sSxTWoYd3XTQQn_vesGvRZAd1IMxeUB6U1AMg.KWDNwDOxl431WKck1pQ-qTtIEaNvG93tDiE-OGSxK_og.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "현대 코나 / 실내무드등 / 1열 + · 현대 코나 / 실내무드등 / 1열 + 2열 / RGB풋등 / 소리반응형 / 리모콘타입 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224482733120?fromRss=true&trackingCode=rss",
+    "tags": [
+      "현대 코나 / 실내무드등 / 1열 +",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224482733033",
+    "date": "2026-11-19",
+    "category": "사이드미러",
+    "car": "K9",
+    "title": "K9 사이드미러 폴딩불량 으로 폴딩모터 부분수리 해드렸어요 / 전체교체와는 비교할수 없는 금액차이가 발생합니다 ㅎㅎ [일산 파주 운정 김포 고양]",
+    "summary": "2025.11.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : K9 작업내용 : 사이드미러 부분수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.11.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : K9 작업내용 : 사이드미러 부분수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러가 정상적으로 접히고 펴지지 않아 수리를 위해 찾아주신 K9 차량입니다 우선 입고시 차량의 상태부터 확인하고 수리를 진행해 볼게요 ! 증상은 이러합니다.. 소리... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTExMTlfMTEx/MDAxNzYzNTEyMzI5MDk0.IsuufXIjMoZb4__m2ELYkDYIuVmtjgCFoNUToMIEur8g.rdiuS4lmucZ5Os1xhvMZ7tx3yF4jfl2uG2AejqSBSVEg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K9 · K9 사이드미러 폴딩불량 으로 폴딩모터 부분수리 해드렸어요 / 전체교체와는 비교할수 없는 금액차이가 발생합니다 ㅎㅎ [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224482733033?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K9",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224482732920",
+    "date": "2026-11-19",
+    "category": "순정옵션",
+    "car": "LF쏘나타 뉴라이즈 / 순정 크루즈",
+    "title": "LF쏘나타 뉴라이즈 / 순정 크루즈 컨트롤 / 정속주행장치 / 순정 오토라이트 장착 / 순정품으로 순정 퀄리티 시공해드렸어요 ! [일산 파주 운정 김포 고양]",
+    "summary": "2025.11.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 뉴라이즈 작업내용 : 크루즈컨트롤 장착 작업시간 : 30분 이내 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.11.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : LF쏘나타 뉴라이즈 작업내용 : 크루즈컨트롤 장착 작업시간 : 30분 이내 12볼트스토리 채널홈을 폰으로 접속해보세요. LF쏘나타 뉴라이즈 차량이 정속주행장치 장착을 위해 부품을 구입해서 방문해 주셨습니다 ^^ 우선 작업전 차량의 모습입니다 우측 핸들리모콘 부분이 뭔... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 연식과 옵션 사양 확인",
+      "순정 방식에 맞춰 부품·배선 작업",
+      "시공 후 기능 작동과 오류 여부 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTExMTlfODMg/MDAxNzYzNTEzNjE3NjQ3.QVE9A-IplaHeE4Cp84lzNB5rzuRWMRJuL4eJSRm0UlQg.v0IiGF-BJ3x7Ub1_zz4tNqtXQBeUOj6D-MUvpRb1BJMg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "LF쏘나타 뉴라이즈 / 순정 크루즈 · LF쏘나타 뉴라이즈 / 순정 크루즈 컨트롤 / 정속주행장치 / 순정 오토라이트 장착 / 순정품으로 순정 퀄리티 시공해드렸어요 ! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224482732920?fromRss=true&trackingCode=rss",
+    "tags": [
+      "LF쏘나타 뉴라이즈 / 순정 크루즈",
+      "순정옵션"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224482732708",
+    "date": "2026-11-19",
+    "category": "기타작업",
+    "car": "쏘나타 뉴라이즈 / 알리에서 구매하신",
+    "title": "쏘나타 뉴라이즈 / 알리에서 구매하신 원격시동 + 스마트키 기능의 경보기 장착만 해드렸어요 ! [일산 파주 운정 김포 고양]",
+    "summary": "2025.11.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘나타 뉴라이즈 작업내용 : 알리발 원격시동 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.11.19. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 쏘나타 뉴라이즈 작업내용 : 알리발 원격시동 작업시간 : 1시간 12볼트스토리 채널홈을 폰으로 접속해보세요. LF쏘나타 뉴라이즈 차량이 알리에서 구입하신 스마트키 장착할곳을 알아보시다가 12볼트스토리로 찾아주셨습니다 ! 입고된 차량은 키방식의 낮은옵션 차량이구요 작... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTExMTlfMjcg/MDAxNzYzNTE0MjM2MjYw.vWhkf1FOmfMOeHlAWxcy-p9f4XeEGfmbEvA2E9GcCUwg.kOOwp9zBVashNdvEJzSpz0WD8MUhg1t0ic88Aw0wGvgg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "쏘나타 뉴라이즈 / 알리에서 구매하신 · 쏘나타 뉴라이즈 / 알리에서 구매하신 원격시동 + 스마트키 기능의 경보기 장착만 해드렸어요 ! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224482732708?fromRss=true&trackingCode=rss",
+    "tags": [
+      "쏘나타 뉴라이즈 / 알리에서 구매하신",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224481846923",
     "date": "2026-11-18",
@@ -8188,184 +8344,6 @@ window.WORKS_DATA = [
     "tags": [
       "일산 파주 운정 김포 / 카비스 BS",
       "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437011846",
-    "date": "2026-10-10",
-    "category": "기타작업",
-    "car": "[일산 파주 운정 김포 고양]아반떼A",
-    "title": "[일산 파주 운정 김포 고양]아반떼AD / 벨류플러스 / 순정블루투스 오디오 + 크루즈컨트롤 시공",
-    "summary": "2019.10.10. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아반떼AD 벨류플러스 작업내용 : 순정블루투스 오디오 + 크루즈컨트롤 작업시간 : 1시간 블루투스 오디오 시공을 위해 방문해주신 아반떼 AD 차량이구요 요즘 블루투스 없으면 너무…",
-    "description": "2019.10.10. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아반떼AD 벨류플러스 작업내용 : 순정블루투스 오디오 + 크루즈컨트롤 작업시간 : 1시간 블루투스 오디오 시공을 위해 방문해주신 아반떼 AD 차량이구요 요즘 블루투스 없으면 너무 불편하죠 ??? 그리고 블루투스 오디오 작업하시면 크루즈컨트롤도 함께 작업되기에 1석2조 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTBfNzIg/MDAxNTcwNjcwNDM2NTIw.xeVgAY1ZI5mZVvOgHlpY1krnbQvRH9hTJPrec2AKXz8g._RY7uPK7xorzjh8Ke8eKRo4TzFbe0wtIU6dTpS87DBMg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "[일산 파주 운정 김포 고양]아반떼A · [일산 파주 운정 김포 고양]아반떼AD / 벨류플러스 / 순정블루투스 오디오 + 크루즈컨트롤 시공 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437011846?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 운정 김포 고양]아반떼A",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437011728",
-    "date": "2026-10-10",
-    "category": "사이드미러",
-    "car": "오피러스 / 전동접이",
-    "title": "오피러스 / 전동접이사이드미러수리 / 폴딩기어 파손으로 인한 / 접힘불량 / 사이드미러 폴딩 모터 및 기어 교체 / 저렴하게 수리해서 사용하세요 ~[일산 파주 운",
-    "summary": "2022.10.10. 4년 전 오늘 정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 오피러스 프리미엄 작업내용 : 사이드미러 폴딩모터 및 기어 작업시간 : 30분 사이드미러 고장으로 인해 입고된 오피러스 차량입니다 오늘차량은 보조석 사이드미러가 문…",
-    "description": "2022.10.10. 4년 전 오늘 정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 오피러스 프리미엄 작업내용 : 사이드미러 폴딩모터 및 기어 작업시간 : 30분 사이드미러 고장으로 인해 입고된 오피러스 차량입니다 오늘차량은 보조석 사이드미러가 문제가 있어 보이죠 ??? 이제 증상을 영상으로 보여드릴게요 !! 이러한 소리가 들린다면.... 고장났다고 보시... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMjEwMTBfMTM4/MDAxNjY1MzY0MzIzMjAy.hIPIWaV1LjNuV5TANIufO9h-Av7Sp7QZRpIZfKoM8Y8g.leNvg-prTCUWbKR3s63X_ycZmp3M7fgMhDEPI_j19Wsg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "오피러스 / 전동접이 · 오피러스 / 전동접이사이드미러수리 / 폴딩기어 파손으로 인한 / 접힘불량 / 사이드미러 폴딩 모터 및 기어 교체 / 저렴하게 수리해서 사용하세요 ~[일산 파주 운 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437011728?fromRss=true&trackingCode=rss",
-    "tags": [
-      "오피러스 / 전동접이",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437011641",
-    "date": "2026-10-10",
-    "category": "옵틱글래스",
-    "car": "머스탱",
-    "title": "머스탱 / 옵틱글래스 광각미러로 사각지대 없애기 / 작아도 너무 작은 사이드미러 / 와이드 미러는 옵틱글래스가 좋아요 ~!! [일산 파주 운정 김포 고양]",
-    "summary": "2023.10.10. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 머스탱 작업내용 : 옵틱글래스 광각미러 작업시간 : 30분 사이드미러가 작아도 너무 작은 머스탱 사각지대가 너무나도 많아서 와이드미러로 교체하러 방문해 주셨습니다 차종별 제품이다보…",
-    "description": "2023.10.10. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 머스탱 작업내용 : 옵틱글래스 광각미러 작업시간 : 30분 사이드미러가 작아도 너무 작은 머스탱 사각지대가 너무나도 많아서 와이드미러로 교체하러 방문해 주셨습니다 차종별 제품이다보니 예약은 필수에요 ~ 입고시 차량의 미러모습입니다 사이드미러 정말 작죠 ?? 자세히 봐... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 순정 미러 사양 확인",
-      "기존 미러 탈거 후 차종 전용 제품 장착",
-      "장착 후 좌우 시야와 관련 기능 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMzEwMTBfNTUg/MDAxNjk2OTAwNDM0OTc4.kievpC9GwoiRhE_Sgp1_7K3ewhhgatXxJguOg9Vqaesg.X7fa2Met9uv_7gbHkI3e6WI77CeFYj2TloDXP4d8bTgg.PNG.uh2816/%C5%B8%C0%CC%C6%B2_%BA%B9%BB%E7.png?type=ffn480_320"
-    ],
-    "captions": [
-      "머스탱 · 머스탱 / 옵틱글래스 광각미러로 사각지대 없애기 / 작아도 너무 작은 사이드미러 / 와이드 미러는 옵틱글래스가 좋아요 ~!! [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437011641?fromRss=true&trackingCode=rss",
-    "tags": [
-      "머스탱",
-      "옵틱글래스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437011537",
-    "date": "2026-10-10",
-    "category": "사이드미러",
-    "car": "신형카니발 KA4",
-    "title": "신형카니발 KA4 / 사이드미러 파손 목꺽임 / 덜렁거리는 사이드미러 부분수리로 원상복구 가능합니다 / 교체하시면 많이 비싸요 [일산 파주 운정 김포 고양]",
-    "summary": "2024.10.10. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 카니발 KA4 작업내용 : 사이드미러 부분수리 작업시간 : 30 ~ 40분 사이드미러 목부러짐 증상으로 차량이 입고되었습니다 차종은 신형 카니발 Ka4 차량입니다 우선 차량의 상태…",
-    "description": "2024.10.10. 2년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 카니발 KA4 작업내용 : 사이드미러 부분수리 작업시간 : 30 ~ 40분 사이드미러 목부러짐 증상으로 차량이 입고되었습니다 차종은 신형 카니발 Ka4 차량입니다 우선 차량의 상태부터 확인해볼게요 아이고 ... 덜렁덜렁한 상태로 파손되어 입고가 되었습니다 ㅠ 예쁘게 관리하... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTBfOTMg/MDAxNzI4NTI0ODY1NTY0.a2Lld196Z9DVHYF2zKhIqj30nzgR2cpptCIsfGZ5OSUg.1GNKCEUeYKpLBfSKAWIdj3_5MLKJuLMmAfWju2KuXSYg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "신형카니발 KA4 · 신형카니발 KA4 / 사이드미러 파손 목꺽임 / 덜렁거리는 사이드미러 부분수리로 원상복구 가능합니다 / 교체하시면 많이 비싸요 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437011537?fromRss=true&trackingCode=rss",
-    "tags": [
-      "신형카니발 KA4",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224436908764",
-    "date": "2026-10-10",
-    "category": "사이드미러",
-    "car": "제네시스 DH",
-    "title": "제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리",
-    "summary": "안녕하세요. **일산 자동차 전장 전문점 12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 작업은 제네시스 DH(G80) 조수석 사이드미러 폴딩불량 수리 입니다.",
-    "description": "안녕하세요. **일산 자동차 전장 전문점 12볼트스토리(12V STORY)**입니다. 오늘 소개해 드릴 작업은 제네시스 DH(G80) 조수석 사이드미러 폴딩불량 수리 입니다. 사이드미러가 갑자기 접히지 않거나, 접히는 과정에서 모터 소리만 나고 정상적으로 움직이지 않는 경우가 있습니다. 이런 증상이 발생하면 사이드미러 전체를 교체해야 한다고 생각하기 쉽지만, 실제로는 내부 폴딩기어가 손상되어 발생하는 경우도 있습니다. 이번 제네시스 DH 차량 역시 사이드미러를 분해한 결과 내부 기어가 파손된 상태였으며, 사이드미러 전체 교체 없이 손상된 폴딩기어를 교체하는 부분수리 를 진행했습니다. 그럼 실제 작업 사진과 함께 수리 과정을 소개해 드리겠습니다.",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTgy/MDAxNzkxNTkzMzc0MzY4.cGjPmpPlDXzsiTp7Q1TISZ9X6yAOrQqZYxza6dfYO48g.r5rivqibMp09jEdYPX0sysOko80htKyxaOwDrJ_SXbYg.JPEG/KakaoTalk_20261009_102342727_01.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTc5/MDAxNzkxNTkzMzgzMjEw.TlBJ5yyC_ixMS8C9sBgtbuYDyz0vUPSt6c9_dN3_cYYg.z4g8c0yjOuMpVmbLZdhyp7vAFKmWY5C4JvMBWxDg7bIg.JPEG/KakaoTalk_20261009_102342727.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTEx/MDAxNzkxNTkzMzkzNTQ4.LMHQ1QgkbMssNNqgRmW317wA_qK6Q5_MpiQ4_U-Y3p0g.qV8Fxbmp7j3gwFnD1vBUJrscp8Twq-4YimTi4x6mtGUg.JPEG/KakaoTalk_20261009_102342727_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTI4/MDAxNzkxNTkzNDAxOTY0.tqBxBg_SCEUSP5MalnAKaWmdOnfHa0584xqfz2I0sMcg.hUAaV7IodxlG96t5_VCxBsXiAh4Uln7j2QW51BJba-0g.JPEG/KakaoTalk_20261009_102342727_04.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMjU1/MDAxNzkxNTkzNDA4NTM3.mjAhPZhab-7dwNK6LCAYu7O9clzoNmRa2EkjGmLWBCsg.b9iYFbkMcT9x9SO1CuDTfLBvIEXYmjM0RurvY1idAfkg.JPEG/KakaoTalk_20261009_102342727_05.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMTBfMTAg/MDAxNzkxNTkzNDIwNDg0.-I2wygYRee5iSR7rFCzoVdUjDICLXukgKNgz4t2tJZUg.USP0izoKdDbnjJehNQhQEbi-98c-AwGvmcHWfw4Gv7Ig.JPEG/KakaoTalk_20261009_102342727_06.jpg?type=w800"
-    ],
-    "captions": [
-      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 1",
-      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 2",
-      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 3",
-      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 4",
-      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 5",
-      "제네시스 DH · 제네시스 DH G80 사이드미러 폴딩불량 수리｜내부 기어 파손으로 접히지 않는 증상, 일산 부분수리 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224436908764?fromRss=true&trackingCode=rss",
-    "tags": [
-      "제네시스 DH",
-      "사이드미러",
-      "제네시스DH사이드미러수리,제네시스G80사이드미러수리,제네시스DH폴딩불량,G80사이드미러수리,제네시스사이드미러수리,사이드미러폴딩불량,사이드미러기어파손,사이드미러기어교체,사이드미러부분수리,일산사이드미러수리,일산사이드미러수리업체,고양사이드미러수리,파주사이드미러수리,김포사이드미러수리,12볼트스토리"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224436113184",
-    "date": "2026-10-09",
-    "category": "블랙박스",
-    "car": "기아 PV5 룸미러",
-    "title": "기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리",
-    "summary": "오늘 소개해드릴 작업은 기아 PV5 차량의 파인뷰 LX9 POWER 룸미러 블랙박스 장착 작업 입니다. 기존 일반 블랙박스와는 다른 방식으로, 순정 룸미러 위치를 활용해 넓은 화면으로 전방/후방 영상을 확인할 수 있는 룸미러형 블랙박스 라서 최근 문의가 많은…",
-    "description": "오늘 소개해드릴 작업은 기아 PV5 차량의 파인뷰 LX9 POWER 룸미러 블랙박스 장착 작업 입니다. 기존 일반 블랙박스와는 다른 방식으로, 순정 룸미러 위치를 활용해 넓은 화면으로 전방/후방 영상을 확인할 수 있는 룸미러형 블랙박스 라서 최근 문의가 많은 제품입니다. 특히 이번 차량은 후방 시야 확보와 주행 중 영상 확인 편의성 을 높이기 위해 파인뷰 LX9 POWER 본체와 전용 후방카메라 까지 함께 작업해드렸습니다. 작업차량 / 작업내용 / 작업시간 작업차량 : 기아 PV5 작업내용 : 파인뷰 LX9 POWER 룸미러 블랙박스 + 후방카메라 장착 작업시간 : 약 3~4시간 12볼트스토리 채널홈을 폰으로 접속해보세요.",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMTQx/MDAxNzkxNTEzNjYyMTU3.RXVmYT4SVORngwTHVrxGrSYTYMujtXo0Dudm-1D-ynEg.rAFNWt0j9jil5MeiB0X1GIWQIMhIvR5BowHK9nxid-4g.JPEG/KakaoTalk_20261009_102318945_01.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMTM4/MDAxNzkxNTEzNjgzNzM1.Gfqc2RA0QID8M3rvsQcidASG7-Zsa_ZtZRPpp4Ikpgcg.YHv9uI5yShGu4JBEiOdk1uUE73p2LWzKa7wIR_GNS8Ug.JPEG/KakaoTalk_20261009_102318945_03.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMTA5/MDAxNzkxNTEzNjk5NzUx.UUA0Ec7NUASKYWqwk4-zoe2StJwnQ-GWkMJmJsjbhUgg.IpYGUHgYyzyAxoVg0zB1OK7Qqoi29YLuZ9CMDpMtQ8Ag.JPEG/KakaoTalk_20261009_102318945_02.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMzUg/MDAxNzkxNTEzNzUwNDc2.zQgSWR7-lF1qIEcWZrH9r_V0_tEgARm5o1Tp3rb0nCUg.IQ7oxhtqbAnk2LK-49tvdedbDFzMK6FHY7x-DJEQ--wg.JPEG/KakaoTalk_20261009_102318945_07.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfMzIg/MDAxNzkxNTEzNzI2NTI5.tQQMMdhyIk-PvDkzOyzdkGTY0rC3Txrm3Ys05L6Jraog.4J0chRlPZW_mVXmhHxsdMpjxTQAYscoaSqBYKfE_LScg.JPEG/KakaoTalk_20261009_102318945_10.jpg?type=w800",
-      "https://mblogthumb-phinf.pstatic.net/MjAyNjEwMDlfNTUg/MDAxNzkxNTEzNzY1Nzg3.QYD2xuQDSrk8TVWfc0eyPQITHoYeBo8nk7Ee-4XKoi8g.XpofvoovxWT1fJ5fzaEWfcLsqaKVEUlG1CqlQv5qbncg.JPEG/KakaoTalk_20261009_102318945_06.jpg?type=w800"
-    ],
-    "captions": [
-      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 1",
-      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 2",
-      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 3",
-      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 4",
-      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 5",
-      "기아 PV5 룸미러 · 기아 PV5 룸미러 블랙박스 장착, 파인뷰 LX9 POWER 후방카메라 설치 | 일산 12볼트스토리 작업사진 6"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224436113184?fromRss=true&trackingCode=rss",
-    "tags": [
-      "기아 PV5 룸미러",
-      "블랙박스",
-      "기아PV5,PV5블랙박스,PV5룸미러블랙박스,파인뷰LX9POWER,파인뷰룸미러블랙박스,룸미러블랙박스장착,후방카메라장착,일산블랙박스,고양시블랙박스,12볼트스토리,PV5후방카메라,파인뷰블랙박스,일산자동차전장"
     ],
     "source": "naver"
   }
