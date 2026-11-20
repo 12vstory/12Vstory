@@ -1,6 +1,240 @@
 /* 자동 생성 파일입니다. scripts/sync_naver.py가 갱신합니다. */
-window.WORKS_SYNC = {"updatedAt": "2026-11-20 09:56", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
+window.WORKS_SYNC = {"updatedAt": "2026-11-20 17:35", "count": 300, "source": "NAVER BLOG RSS", "blogId": "uh2816"};
 window.WORKS_DATA = [
+  {
+    "id": "naver-224484406864",
+    "date": "2026-11-20",
+    "category": "기타작업",
+    "car": "파주 고양 운정 김포 / 아반떼MD 순정",
+    "title": "일산 파주 고양 운정 김포 / 아반떼MD 순정 LED 테일램프 교체",
+    "summary": "2017.11.20. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 아반테 MD 차량의 순정 LED 테일램프 교체 작업입니다 저녁에 전화가 주셔서 중고 LED 테일램프를 구매하셨는데 차체쪽이 점등이 안되신다고 하셨습니다 ....",
+    "description": "2017.11.20. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번 포스팅은 아반테 MD 차량의 순정 LED 테일램프 교체 작업입니다 저녁에 전화가 주셔서 중고 LED 테일램프를 구매하셨는데 차체쪽이 점등이 안되신다고 하셨습니다 .... 차량이 메탈그레이로 랩핑이 되어있는데 너무이쁘더라구요 ㅎㅎ 그리고 문제의 #순정LED 테일램프 입니... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzExMjBfMjUy/MDAxNTExMTM5NDQ1OTUy.vSghM5iwy6xNihofS7W05GeTdzrc68_-Bso4jGEc2wQg.8SNtcaGG8MJ6w9mrtQ0ts3Xr_1JIc7HG5j16SMp1oJcg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "파주 고양 운정 김포 / 아반떼MD 순정 · 일산 파주 고양 운정 김포 / 아반떼MD 순정 LED 테일램프 교체 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484406864?fromRss=true&trackingCode=rss",
+    "tags": [
+      "파주 고양 운정 김포 / 아반떼MD 순정",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484406672",
+    "date": "2026-11-20",
+    "category": "블랙박스",
+    "car": "제네시스 G80",
+    "title": "일산 파주 운정 김포 / 신차검수 꼼꼼한곳 / 제네시스 G80 스포츠 / 전면썬팅 / 측후면 썬팅 / 아이나비 QXD1000A",
+    "summary": "2017.11.20. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 #제네시스 #G80 #스포츠 #신차검수 #신차패키지 포스팅입니다 신차검수를 진행중인 모습입니다 다행히 이상이 없는 말끔한 차량이 와서 서류에 사인하고 인수를 진행합니다 ^^ 검수가…",
+    "description": "2017.11.20. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 이번포스팅은 #제네시스 #G80 #스포츠 #신차검수 #신차패키지 포스팅입니다 신차검수를 진행중인 모습입니다 다행히 이상이 없는 말끔한 차량이 와서 서류에 사인하고 인수를 진행합니다 ^^ 검수가 완료되고 썬팅을 진행했습니다 ^ ^ 이제야 차가 좀 모양을 갖추네요 ㅎㅎ 다음은 블랙박스... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxNzExMjBfMTIy/MDAxNTExMTgxNjM3MTMz.bGa84W0j3jg820R_rJsTXjQk5cOmc3HbX8n2QZNvJvIg.BPSsTNBxI6J_QGuoShoTCh2AFSwKUIlSl3c1o62SIfsg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "제네시스 G80 · 일산 파주 운정 김포 / 신차검수 꼼꼼한곳 / 제네시스 G80 스포츠 / 전면썬팅 / 측후면 썬팅 / 아이나비 QXD1000A 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484406672?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 G80",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484406363",
+    "date": "2026-11-20",
+    "category": "블랙박스",
+    "car": "아반떼MD / 5인치 룸미러모니터 / CCD",
+    "title": "[일산 파주 운정 김포 고양] 아반떼MD / 5인치 룸미러모니터 / CCD후방카메라 / 로드게이트RG7 2채널 ADAS 블랙박스 장착",
+    "summary": "2018.11.20. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테MD 작업내용 : 룸미러모니터 / CCD후방카메라 / 2채널 블랙박스 작업시간 : 1시간 30분 휴대폰 네비게이션을 사용하시는 아반테MD차량이 입고되었습니다 입고이유는…",
+    "description": "2018.11.20. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 아반테MD 작업내용 : 룸미러모니터 / CCD후방카메라 / 2채널 블랙박스 작업시간 : 1시간 30분 휴대폰 네비게이션을 사용하시는 아반테MD차량이 입고되었습니다 입고이유는 후방카메라를 사용하시기 위해서 인데요 네비게이션을 사용하지 않으시기에 별도의 모니터가 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxODExMjBfMjkw/MDAxNTQyNjc3NzE4ODUw.bKz2cxn0rk2yWDLDyveQmbRA3-UwwuUfTH35vtg3hIUg.z53WuPVjBeZ6xKZcfvR27sreOePzgALAn6C4xANnkHUg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "아반떼MD / 5인치 룸미러모니터 / CCD · [일산 파주 운정 김포 고양] 아반떼MD / 5인치 룸미러모니터 / CCD후방카메라 / 로드게이트RG7 2채널 ADAS 블랙박스 장착 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484406363?fromRss=true&trackingCode=rss",
+    "tags": [
+      "아반떼MD / 5인치 룸미러모니터 / CCD",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484406087",
+    "date": "2026-11-20",
+    "category": "블랙박스",
+    "car": "[일산 파주 운정 김포 고양] 싼타페",
+    "title": "[일산 파주 운정 김포 고양] 싼타페TM / 꼼꼼한 신차검수 / 켈란 열차단 썬팅 MD플러스 / 파인뷰LX2000 / 순정 도어스팟 램프",
+    "summary": "2019.11.20. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 신차검수 패키지 / 열차단썬팅 / 블랙박스 / 도어스팟램프 작업시간 : 6시간 신차 패키지 작업을 위해 예약 해주시고 탁송으로 입고된 싼타페TM차량이 도찾했…",
+    "description": "2019.11.20. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페TM 작업내용 : 신차검수 패키지 / 열차단썬팅 / 블랙박스 / 도어스팟램프 작업시간 : 6시간 신차 패키지 작업을 위해 예약 해주시고 탁송으로 입고된 싼타페TM차량이 도찾했습니다 차량이 도착했다고 해서 바로 작업이 진행되는건 아니죠 ?? 우선 꼼꼼하게 차량의 상... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAxOTExMTlfMTQ1/MDAxNTc0MTU0MTc3OTcz.StQZC3G4PSJfR95t91qBL4Zj2H39vhBPzORVASVhD1sg.RHHLLghuS4zDlqFXCSAZBiG34cBTS8UEsJaSYFKDHUQg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "[일산 파주 운정 김포 고양] 싼타페 · [일산 파주 운정 김포 고양] 싼타페TM / 꼼꼼한 신차검수 / 켈란 열차단 썬팅 MD플러스 / 파인뷰LX2000 / 순정 도어스팟 램프 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484406087?fromRss=true&trackingCode=rss",
+    "tags": [
+      "[일산 파주 운정 김포 고양] 싼타페",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484405894",
+    "date": "2026-11-20",
+    "category": "기타작업",
+    "car": "제네시스 EQ900 / 순정네비게이션",
+    "title": "제네시스 EQ900 / 순정네비게이션 / 주행중DMB락프리 / 주행중 동영상 락해제 / 핸들리모콘 연동 [일산 파주 운정 김포 고양]",
+    "summary": "2020.11.20. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스 EQ900 작업내용 : 순정ANN 주행중 락프리 작업시간 : 1시간 이내 순정네비게이션 장착된 차량으로 주행중 락해제 작업을 위해 입고된 제네시스 EQ900 차량입니다 입…",
+    "description": "2020.11.20. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 제네시스 EQ900 작업내용 : 순정ANN 주행중 락프리 작업시간 : 1시간 이내 순정네비게이션 장착된 차량으로 주행중 락해제 작업을 위해 입고된 제네시스 EQ900 차량입니다 입고된 차량의 상태에서 D단에 기어를 넣으니 화면은 안나오고 문구가 보이죠 ?? 문구를 자세히 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyMDExMjBfMTcz/MDAxNjA1ODM3MDcxODE5.bmL0woo1UCTZtHbHhrn1TfRj_PWtmAo3S_KdERmfaPwg.Lx_Fk-l7c5vxnGu7rAxzKHC9f7jrRN9Q90cW0veZFsIg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "제네시스 EQ900 / 순정네비게이션 · 제네시스 EQ900 / 순정네비게이션 / 주행중DMB락프리 / 주행중 동영상 락해제 / 핸들리모콘 연동 [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484405894?fromRss=true&trackingCode=rss",
+    "tags": [
+      "제네시스 EQ900 / 순정네비게이션",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484405566",
+    "date": "2026-11-20",
+    "category": "기타작업",
+    "car": "K5",
+    "title": "K5 1세대 / 중고로 구매해오신 열선핸들 / 순정과 동일하게 장착만 해드렸어요 ! / 이런건 중고보다 신품으로 하시는게 좋은것 같아요 [일산 파주 운정 김포 고",
+    "summary": "2024.11.20. 2년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : K5 1세대 작업내용 : 순정 열선핸들 시공 작업시간 : 1시간 30분 K5 1세대 차량이 열선핸들 장착을 위해 입고되었습니다 이제 날씨가 추워지면서 정말 많이 찾으시는 작업…",
+    "description": "2024.11.20. 2년 전 오늘 양] 안녕하세요 12볼트스토리 입니다 작업차량 : K5 1세대 작업내용 : 순정 열선핸들 시공 작업시간 : 1시간 30분 K5 1세대 차량이 열선핸들 장착을 위해 입고되었습니다 이제 날씨가 추워지면서 정말 많이 찾으시는 작업이죠 ~~ 12볼트스토리에서는 순정부품으로 순정 퀄리티로 작업합니다 ㅎㅎ 작업전 차량의 해내들 모습입... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDExMjBfMjEz/MDAxNzMyMDYyMzk0NTI5.tFM8H0LvjQCc8liGZ2GWIzJFOWH6O6nlIpfO8wGfJjQg.fGAXPMGoTMYBGoS470pOiHJSqwprC3CjVZreLlZu8IYg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "K5 · K5 1세대 / 중고로 구매해오신 열선핸들 / 순정과 동일하게 장착만 해드렸어요 ! / 이런건 중고보다 신품으로 하시는게 좋은것 같아요 [일산 파주 운정 김포 고 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484405566?fromRss=true&trackingCode=rss",
+    "tags": [
+      "K5",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484405413",
+    "date": "2026-11-20",
+    "category": "블랙박스",
+    "car": "폭스바겐",
+    "title": "폭스바겐 골프 / 기존 지저분한 블랙박스와 보조배터리 탈거후 / 파인뷰LXQ600 Power 2채널 블랙박스 깔끔하게 장착 / 일산블랙박스 저렴한곳! [일산 파주",
+    "summary": "2024.11.20. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 폭스바겐 골프 작업내용 : 블랙박스 교체 작업시간 : 1시간 30분 3채널 블랙박스가 지저분하게 장착되어 있어 교체를 위해 방문해 주신 골프 차량입니다 상태를 좀…",
+    "description": "2024.11.20. 2년 전 오늘 운정 김포 고양] 안녕하세요 12볼트스토리 입니다 작업차량 : 폭스바겐 골프 작업내용 : 블랙박스 교체 작업시간 : 1시간 30분 3채널 블랙박스가 지저분하게 장착되어 있어 교체를 위해 방문해 주신 골프 차량입니다 상태를 좀 볼까요 ?? 음... 장착된 사진은 없고 탈거한 사진만 있네요 ... 우선 차량에는 본체가 두개 사이드카메라가 2개 ... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차량 전원 특성과 장착 위치 확인",
+      "배선 노출을 줄여 순정 느낌으로 정리",
+      "전·후방 영상과 주차녹화 동작 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNDExMjBfMTgg/MDAxNzMyMDYzMTczMDUx.29VzbuJPulBDdyYyy1NRJ4_t9MiDW2LJUmaVBnZc0ewg.aYf4vZh_wtQc4OtSe2sFG8Iz1xN2Q5jSEnlIsBZrl6Ug.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "폭스바겐 · 폭스바겐 골프 / 기존 지저분한 블랙박스와 보조배터리 탈거후 / 파인뷰LXQ600 Power 2채널 블랙박스 깔끔하게 장착 / 일산블랙박스 저렴한곳! [일산 파주 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484405413?fromRss=true&trackingCode=rss",
+    "tags": [
+      "폭스바겐",
+      "블랙박스"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484405207",
+    "date": "2026-11-20",
+    "category": "기타작업",
+    "car": "올뉴K3 / 낮은등급 출고로 빠진 열",
+    "title": "올뉴K3 / 낮은등급 출고로 빠진 열선핸들 / 순정부품으로 순정과 동일하게 장착했어요 ! / 따듯한 핸들 잡고 안전운전 하세요 ! [일산 파주 운정 김포 고양]",
+    "summary": "2025.11.20. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K3 작업내용 : 순정 열선핸들 작업시간 : 1시간 ~ 1시간 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.11.20. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K3 작업내용 : 순정 열선핸들 작업시간 : 1시간 ~ 1시간 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 차량출고 후 운행하시다가 날씨가 추워지면서 열선핸들의 필요성을 느끼고 작업요청해주셨습니다 이제 날씨가 추워지면서 부품준비기간이 점점 길어지니 조금이라... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "차종과 요청 작업 사전 확인",
+      "차량 상태에 맞춰 작업 진행",
+      "완료 후 관련 기능을 최종 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTExMjBfMjA2/MDAxNzYzNjE1MTI3MTI1.NFoIRmGLuambTvqlVOzhVMtG3xlMk2Y9BqQcGwUgglgg.Ve_pGGug6ZfcT0i8K4uWskHQTedGCEsv7jZhqkxHjUIg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "올뉴K3 / 낮은등급 출고로 빠진 열 · 올뉴K3 / 낮은등급 출고로 빠진 열선핸들 / 순정부품으로 순정과 동일하게 장착했어요 ! / 따듯한 핸들 잡고 안전운전 하세요 ! [일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484405207?fromRss=true&trackingCode=rss",
+    "tags": [
+      "올뉴K3 / 낮은등급 출고로 빠진 열",
+      "기타작업"
+    ],
+    "source": "naver"
+  },
+  {
+    "id": "naver-224484404945",
+    "date": "2026-11-20",
+    "category": "사이드미러",
+    "car": "사이드미러 폴딩불량 / 싼타페CM더스",
+    "title": "사이드미러 폴딩불량 / 싼타페CM더스타일 / 사이드미러 안접히는증상 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 !![일산 파주 운정 김포 고양]",
+    "summary": "2025.11.20. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페 CM 더스타일 작업내용 : 사이드미러 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요.",
+    "description": "2025.11.20. 1년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 싼타페 CM 더스타일 작업내용 : 사이드미러 수리 작업시간 : 30분 12볼트스토리 채널홈을 폰으로 접속해보세요. 사이드미러 고장으로 인해 입고된 싼타페 CM 차량입니다 오늘 입고된 차량의 증상은 모터돌아가는 소리만 나고 전혀 사이드미러가 움직이지 않는 상태입니다 ..... 12V STORY | 자동차 전장 전문",
+    "points": [
+      "폴딩 불량 증상과 작동 상태 확인",
+      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
+      "조립 후 접힘·펼침 동작 반복 확인"
+    ],
+    "images": [
+      "https://mblogthumb-phinf.pstatic.net/MjAyNTExMjBfMjg5/MDAxNzYzNjE3MTA5NDE3.OgxU1jJl_Q3JvZreEJ4o8JqRJo7LqzSy7XXwY9pNfMcg.gJTjsZv0GR3pUFecPWWvBfBY-CRUz8PNrilIARUOOqAg.PNG/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
+    ],
+    "captions": [
+      "사이드미러 폴딩불량 / 싼타페CM더스 · 사이드미러 폴딩불량 / 싼타페CM더스타일 / 사이드미러 안접히는증상 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 !![일산 파주 운정 김포 고양] 작업사진 1"
+    ],
+    "blog": "https://blog.naver.com/uh2816/224484404945?fromRss=true&trackingCode=rss",
+    "tags": [
+      "사이드미러 폴딩불량 / 싼타페CM더스",
+      "사이드미러"
+    ],
+    "source": "naver"
+  },
   {
     "id": "naver-224482733323",
     "date": "2026-11-19",
@@ -8109,240 +8343,6 @@ window.WORKS_DATA = [
     "blog": "https://blog.naver.com/uh2816/224438705160?fromRss=true&trackingCode=rss",
     "tags": [
       "일산 파주 운정 김포 / 주행중 DM",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224438705019",
-    "date": "2026-10-12",
-    "category": "기타작업",
-    "car": "올뉴K3 / 순정 열선핸들",
-    "title": "[일산 파주 운정 김포 고양]올뉴K3 / 순정 열선핸들 시공 / 다가오는 겨울 손시릴일 없답니다!!",
-    "summary": "2019.10.12. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K3 2018 작업내용 : 열선핸들 작업시간 : 2시간 열선 핸들 장착을 위해 입고된 올뉴K3 차량입니다 출고하신지는 조금 됬는데 ..",
-    "description": "2019.10.12. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 올뉴K3 2018 작업내용 : 열선핸들 작업시간 : 2시간 열선 핸들 장착을 위해 입고된 올뉴K3 차량입니다 출고하신지는 조금 됬는데 .. 운행이 적어서 완전 신차 컨티션을 유지하고 있더라구요 ^^ 오늘 작업에 사용될 순정 부품입니다 열선 핸들을 제외한 나머지 필요옵션들은 포... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTJfMTYy/MDAxNTcwODc1MDYyMDA4.k7tYZ2bt1cQjYk5PwkUigM_xJl1xvyoU8Vyb7sUPrZQg.pAhJd0bm81OwuRk-xc6gsrd2_TjhIRqBc7QQl4ExEsEg.PNG.uh2816/%BA%CE%C7%B0_%281%29.png?type=ffn480_320"
-    ],
-    "captions": [
-      "올뉴K3 / 순정 열선핸들 · [일산 파주 운정 김포 고양]올뉴K3 / 순정 열선핸들 시공 / 다가오는 겨울 손시릴일 없답니다!! 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224438705019?fromRss=true&trackingCode=rss",
-    "tags": [
-      "올뉴K3 / 순정 열선핸들",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224438704872",
-    "date": "2026-10-12",
-    "category": "블랙박스",
-    "car": "포터2 2채널 후방센서 / 2채널 화물차용",
-    "title": "포터2 2채널 후방센서 / 2채널 화물차용 후방카메라 / IQ-Z2 장착 / 지니 네비게이션 업그레이드 [일산 파주 운정 김포 고양]",
-    "summary": "2020.10.12. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 작업내용 : 후방센서 + 블랙박스 작업시간 : 1시간 30분 후방센서와 화물차용 2채널 블랙박스 장착을 위해 입고된 포터2 차량입니다 기존에 후방센서가 작업이 되어 있었으나…",
-    "description": "2020.10.12. 6년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포터2 작업내용 : 후방센서 + 블랙박스 작업시간 : 1시간 30분 후방센서와 화물차용 2채널 블랙박스 장착을 위해 입고된 포터2 차량입니다 기존에 후방센서가 작업이 되어 있었으나 동작이 되지 않으신다고 합니다 .. 그래서 매립식이 아닌 부착형으로 다시 작업을 진행해요 .. ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMDEwMTJfMjM2/MDAxNjAyNDY0MjAxNjQy.07tTt-L6sasHdSJx_wQA1CWqxwjOg_kLfZ4ms-UJnlsg.RNhRA5kAZTH_DVZAQRSK3haL5GqKkviQSM6P1qir80Mg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "포터2 2채널 후방센서 / 2채널 화물차용 · 포터2 2채널 후방센서 / 2채널 화물차용 후방카메라 / IQ-Z2 장착 / 지니 네비게이션 업그레이드 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224438704872?fromRss=true&trackingCode=rss",
-    "tags": [
-      "포터2 2채널 후방센서 / 2채널 화물차용",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437615947",
-    "date": "2026-10-11",
-    "category": "기타작업",
-    "car": "파주 운정 김포 / 카비스 BSA 전문",
-    "title": "일산 파주 운정 김포 / 카비스 BSA 전문장착점 /쉐보레 트렉스 전용 / BSD BSW 완벽장착",
-    "summary": "2017.10.11. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 요즘 ... #BSA 작업으로 정신이 쏙~~~~~빠졌네요 ㅎㅎ 소문이 무섭긴 합니다 작업을 위해 입고된 차량이구요 이번 작업은 미리 사두신 제품을 가지고 주셨습니다 ^^ 동호회 소개로 오셨다고…",
-    "description": "2017.10.11. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 요즘 ... #BSA 작업으로 정신이 쏙~~~~~빠졌네요 ㅎㅎ 소문이 무섭긴 합니다 작업을 위해 입고된 차량이구요 이번 작업은 미리 사두신 제품을 가지고 주셨습니다 ^^ 동호회 소개로 오셨다고 하셔서 약간의 부감을 안고 작업을 합니다 !!! 작업전 차량의 순정 범퍼이구요 요기에 정확한 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzEwMTFfNTcg/MDAxNTA3NzA2MzE0NzE0.OZfYbvMAfqtZ2e8FBLrHjxRHSFkoQisBFIX-3NoHXLwg._H5FoGhQ9m-1ZcCfSICY-yNQ9n3LFhFjyY1Re82PSgAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "파주 운정 김포 / 카비스 BSA 전문 · 일산 파주 운정 김포 / 카비스 BSA 전문장착점 /쉐보레 트렉스 전용 / BSD BSW 완벽장착 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437615947?fromRss=true&trackingCode=rss",
-    "tags": [
-      "파주 운정 김포 / 카비스 BSA 전문",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437615895",
-    "date": "2026-10-11",
-    "category": "기타작업",
-    "car": "[일산 파주 운정 김포 고양] 맥스크",
-    "title": "[일산 파주 운정 김포 고양] 맥스크루즈 / 순정네비게이션 주행중DMB 락해제 / 락프리",
-    "summary": "2018.10.11. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 맥스크루즈 작업내용 : 순정네비게이션 주행중DMB락프리 작업시간 : 30분DMB 락프리 작업을 위해 입고된 맥스크루즈 차량입니다 색상이 차량과 디자인과 참 잘어울리네요 ^^…",
-    "description": "2018.10.11. 8년 전 오늘 안녕하세요 12볼트스토리 입니다 ^^ 작업차량 : 맥스크루즈 작업내용 : 순정네비게이션 주행중DMB락프리 작업시간 : 30분DMB 락프리 작업을 위해 입고된 맥스크루즈 차량입니다 색상이 차량과 디자인과 참 잘어울리네요 ^^ 차량에 순정네비게이션 장착되어 있는 차량으로 운행중 DMB가 나오지 않습니다 기어가 P... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxODEwMTFfMTY3/MDAxNTM5MjE5MTM5NjI3.Q576VPNU8rFRriFELQPECf5-NK8Zq4dtVdPdGE2tENIg.E0XKd1_lyzT_Oc1npuvvAorPYbm-XKM5-X3rVeQ6RcAg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "[일산 파주 운정 김포 고양] 맥스크 · [일산 파주 운정 김포 고양] 맥스크루즈 / 순정네비게이션 주행중DMB 락해제 / 락프리 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437615895?fromRss=true&trackingCode=rss",
-    "tags": [
-      "[일산 파주 운정 김포 고양] 맥스크",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437615858",
-    "date": "2026-10-11",
-    "category": "블랙박스",
-    "car": "sm3 / 화각넓고 화질좋은 CCD",
-    "title": "[일산 파주 운정 김포 고양]sm3 / 화각넓고 화질좋은 CCD 후방카메라 / 가성비 좋은 2채널 블랙박스 지넷 H2",
-    "summary": "2019.10.11. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : SM3 작업내용 : CCD후방카메라 / 2채널 블랙박스 작업시간 : 1시간 CCD 후방카메라 장착을 위해 방문해 주신 SM3 차량입니다 네비게이션은 장착이 되어 있는 차량인데 기존…",
-    "description": "2019.10.11. 7년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : SM3 작업내용 : CCD후방카메라 / 2채널 블랙박스 작업시간 : 1시간 CCD 후방카메라 장착을 위해 방문해 주신 SM3 차량입니다 네비게이션은 장착이 되어 있는 차량인데 기존 작업시 후방카메라를 장착해주지 않았다고 하시네요 ;; 아내분이 이제 차량을 운행하시려다 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfODgg/MDAxNTcwNzkzMjgzNzc5.qSCvM4xWxPYzumZ78CKnpBEq0Gdg7Mw4qKGZEBxodhcg.T2FYS6brqtgznGgGtCxN8KS_EWqV6X4zJXBEmXfWrz4g.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "sm3 / 화각넓고 화질좋은 CCD · [일산 파주 운정 김포 고양]sm3 / 화각넓고 화질좋은 CCD 후방카메라 / 가성비 좋은 2채널 블랙박스 지넷 H2 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437615858?fromRss=true&trackingCode=rss",
-    "tags": [
-      "sm3 / 화각넓고 화질좋은 CCD",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437615808",
-    "date": "2026-10-11",
-    "category": "사이드미러",
-    "car": "포르테",
-    "title": "포르테 사이드미러 접힘불량 수리 / 전동접이 백밀러 폴딩모터 및 기어 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 ~ [일산 파주 운정 김포 고양]",
-    "summary": "2021.10.11. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포르테 작업내용 : 사이드미러 접힘 펴짐 수리 작업시간 : 30분~40분 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 포르테 쿱 차량입니다 요즘 사이드미러 고장 증…",
-    "description": "2021.10.11. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 포르테 작업내용 : 사이드미러 접힘 펴짐 수리 작업시간 : 30분~40분 사이드미러 접힘 펴짐 기능이 정상적으로 동작되지 않아 입고된 포르테 쿱 차량입니다 요즘 사이드미러 고장 증상으로 입고되는 차량이 정말 많은데요 .. 아무래도 비싼비용을 들여 교체하시는것보다는 원래 ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "폴딩 불량 증상과 작동 상태 확인",
-      "내부 모터·기어 등 원인 부품 점검 및 부분수리",
-      "조립 후 접힘·펼침 동작 반복 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTEwMTFfNzcg/MDAxNjMzOTE0OTIxNzMz.HpTkkXkVAAvfqwZK8Lk17KFsr0NZUTH4pq2VCD9iR7Yg.IviYPa0_aJ80OMYH2371gsyhVN4vV91J-gfpasJzcKQg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "포르테 · 포르테 사이드미러 접힘불량 수리 / 전동접이 백밀러 폴딩모터 및 기어 수리 / 사이드미러 교체보다 저렴하게 수리해서 사용하세요 ~ [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437615808?fromRss=true&trackingCode=rss",
-    "tags": [
-      "포르테",
-      "사이드미러"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437615761",
-    "date": "2026-10-11",
-    "category": "블랙박스",
-    "car": "아우디 A4",
-    "title": "아우디 A4 블랙박스 교체 / 파인뷰 LX5000 Power / 2채널 FHD / 가성비 좋은 블랙박스 ![일산 파주 운정 김포 고양]",
-    "summary": "2021.10.11. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아우디 A4 작업내용 : 블랙박스 교체 작업시간 : 1시간 블랙박스 교체를 위해 입고된 아우디 A4 차량입니다 기존에 출고시 장착하신 블랙박스가 너무 화질이 좋지 않아서 교체를 요…",
-    "description": "2021.10.11. 5년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 아우디 A4 작업내용 : 블랙박스 교체 작업시간 : 1시간 블랙박스 교체를 위해 입고된 아우디 A4 차량입니다 기존에 출고시 장착하신 블랙박스가 너무 화질이 좋지 않아서 교체를 요청해 주셨습니다 기존에 차량에 장착되어 있는 제품이구요 화질이 좋다기에는 좀 .. 그렇죠?? ... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차량 전원 특성과 장착 위치 확인",
-      "배선 노출을 줄여 순정 느낌으로 정리",
-      "전·후방 영상과 주차녹화 동작 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMTEwMTFfMjc1/MDAxNjMzOTE1NzUxMTUz.HA0-9h1QvbNIB6mT414-CJ1NKWjYmtjHivZ6elW5T8Qg.9ZOICSiqCpP9VHIqWMxlgJMXR7x03n_EhXD1EuvbESMg.PNG.uh2816/%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "아우디 A4 · 아우디 A4 블랙박스 교체 / 파인뷰 LX5000 Power / 2채널 FHD / 가성비 좋은 블랙박스 ![일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437615761?fromRss=true&trackingCode=rss",
-    "tags": [
-      "아우디 A4",
-      "블랙박스"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437615679",
-    "date": "2026-10-11",
-    "category": "기타작업",
-    "car": "그랜저HG",
-    "title": "그랜저HG / 파인드라이브 BF200 네비게이션 고장으로 인한 / 매립네비게이션 교체 / 가성비 좋은 RG A83 [일산 파주 운정 김포 고양]",
-    "summary": "2023.10.11. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 네비게이션 교체 작업시간 : 1시간 ~ 1시간 30분 네비게이션 고장으로 교체를 위해 입고된 그랜저HG 차량입니다 네비게이션의 경우 오전에 연락 주시면 오후…",
-    "description": "2023.10.11. 3년 전 오늘 안녕하세요 12볼트스토리 입니다 작업차량 : 그랜저HG 작업내용 : 네비게이션 교체 작업시간 : 1시간 ~ 1시간 30분 네비게이션 고장으로 교체를 위해 입고된 그랜저HG 차량입니다 네비게이션의 경우 오전에 연락 주시면 오후에도 작업가능한 품목입니다 ~~ 약간의 준비할 시간만 주시면 되요 ㅎㅎ 입고된 차량의 모습입... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAyMzEwMTFfMjc0/MDAxNjk2OTg1MTQwNDU4.nhOI4Sj927l8KugdG6EXzz18Sv6wW7aY9RvoMtB-Imog.jLJGtxu-WdrR4IYeo5mQq9XjgMUJ134xXEoAkDizqG0g.PNG.uh2816/%C5%B8%C0%CC%C6%B2_%BA%B9%BB%E7.png?type=ffn480_320"
-    ],
-    "captions": [
-      "그랜저HG · 그랜저HG / 파인드라이브 BF200 네비게이션 고장으로 인한 / 매립네비게이션 교체 / 가성비 좋은 RG A83 [일산 파주 운정 김포 고양] 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437615679?fromRss=true&trackingCode=rss",
-    "tags": [
-      "그랜저HG",
-      "기타작업"
-    ],
-    "source": "naver"
-  },
-  {
-    "id": "naver-224437011957",
-    "date": "2026-10-10",
-    "category": "기타작업",
-    "car": "일산 파주 운정 김포 / 카비스 BS",
-    "title": "일산 파주 운정 김포 / 카비스 BSA 측후방 감지기 장착 전문점 / 쏘나타 뉴라이즈 하이브리드 후측방감지기 - BSD / BSW 장착포스팅",
-    "summary": "2017.10.10. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 연휴 전부터 포스팅을 쭉~~~~~ 못했어요 ㅜㅜ 이유는 .... 해킹을 당했는데 명절이고 연휴고 해서 ... 풀수가 ... 없었습니다 ...",
-    "description": "2017.10.10. 9년 전 오늘 안녕하세요 12볼트스토리 입니다 연휴 전부터 포스팅을 쭉~~~~~ 못했어요 ㅜㅜ 이유는 .... 해킹을 당했는데 명절이고 연휴고 해서 ... 풀수가 ... 없었습니다 ... 젠장!!! 그래서 연휴가 끝나자 마자 풀고 포스팅을 합니다 이번 포스팅은 #쏘나타 #뉴라이즈 #하이브리드 차량의 #카비스 #측후방감지기 #BSA 시공 포스팅... 12V STORY | 자동차 전장 전문",
-    "points": [
-      "차종과 요청 작업 사전 확인",
-      "차량 상태에 맞춰 작업 진행",
-      "완료 후 관련 기능을 최종 확인"
-    ],
-    "images": [
-      "https://mblogthumb-phinf.pstatic.net/MjAxNzEwMTBfNDcg/MDAxNTA3NjMxNzg0NDI3.nkBpx3gUGHIPbroTNFkdtaLXkuVTiqneO3TRv8f3THUg.g83C2FukO3AB-bV_29oX6efRLpOB4VFIjPPbJscRuUMg.PNG.uh2816/%BA%ED%B7%CE%B1%D7%C5%B8%C0%CC%C6%B2.png?type=ffn480_320"
-    ],
-    "captions": [
-      "일산 파주 운정 김포 / 카비스 BS · 일산 파주 운정 김포 / 카비스 BSA 측후방 감지기 장착 전문점 / 쏘나타 뉴라이즈 하이브리드 후측방감지기 - BSD / BSW 장착포스팅 작업사진 1"
-    ],
-    "blog": "https://blog.naver.com/uh2816/224437011957?fromRss=true&trackingCode=rss",
-    "tags": [
-      "일산 파주 운정 김포 / 카비스 BS",
       "기타작업"
     ],
     "source": "naver"
